@@ -1,0 +1,3127 @@
+﻿[CustomCards]
+	[	{
+			"name": "Eager Voter",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/9_Eager Voter.png"
+			}
+		},
+		{
+			"name": "Magnetic Rhetorician",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Vedalken Advisor ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/17_Magnetic Rhetorician.png"
+			}
+		},
+		{
+			"name": "Held in Contempt",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/13_Held in Contempt.png"
+			}
+		},
+		{
+			"name": "Brazen Blackcoats",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/4_Brazen Blackcoats.png"
+			}
+		},
+		{
+			"name": "Medic's Implant",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/18_Medic's Implant.png"
+			}
+		},
+		{
+			"name": "Seasoned Spymaster",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/30_Seasoned Spymaster.png"
+			}
+		},
+		{
+			"name": "Retaliatory Outburst",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/28_Retaliatory Outburst.png"
+			}
+		},
+		{
+			"name": "Penrath Roperunner",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/22_Penrath Roperunner.png"
+			}
+		},
+		{
+			"name": "Enforcer's Baton",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/10_Enforcer's Baton.png"
+			}
+		},
+		{
+			"name": "Codename Cicada",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Insect Scout ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/7_Codename Cicada.png"
+			}
+		},
+		{
+			"name": "Rogue Justiciar",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/29_Rogue Justiciar.png"
+			}
+		},
+		{
+			"name": "Border Junction",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Wall ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/3_Border Junction.png"
+			}
+		},
+		{
+			"name": "Change Allegiances",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/5_Change Allegiances.png"
+			}
+		},
+		{
+			"name": "Replicated Regiment",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/27_Replicated Regiment.png"
+			}
+		},
+		{
+			"name": "Informed Voter",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/50_Informed Voter.png"
+			}
+		},
+		{
+			"name": "Election Fraud",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/45_Election Fraud.png"
+			}
+		},
+		{
+			"name": "Dampening Reconciliator",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/42_Dampening Reconciliator.png"
+			}
+		},
+		{
+			"name": "Political Prisoner",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/53_Political Prisoner.png"
+			}
+		},
+		{
+			"name": "Evasive Tactics",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/47_Evasive Tactics.png"
+			}
+		},
+		{
+			"name": "Civic Copterist",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/38_Civic Copterist.png"
+			}
+		},
+		{
+			"name": "Stasis Chamber",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/58_Stasis Chamber.png"
+			}
+		},
+		{
+			"name": "Abduct",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/33_Abduct.png"
+			}
+		},
+		{
+			"name": "Codename Bumblebee",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Insect Soldier ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/39_Codename Bumblebee.png"
+			}
+		},
+		{
+			"name": "Bring to the Limelight",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/35_Bring to the Limelight.png"
+			}
+		},
+		{
+			"name": "Combat Corporal",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/40_Combat Corporal.png"
+			}
+		},
+		{
+			"name": "Expendable Researcher",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Minion ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/48_Expendable Researcher.png"
+			}
+		},
+		{
+			"name": "Invader of Privacy",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/51_Invader of Privacy.png"
+			}
+		},
+		{
+			"name": "Rush for Results",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/56_Rush for Results.png"
+			}
+		},
+		{
+			"name": "Lofty Voter",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/81_Lofty Voter.png"
+			}
+		},
+		{
+			"name": "Estranged Aristocrat",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Noble ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/75_Estranged Aristocrat.png"
+			}
+		},
+		{
+			"name": "Rigged Trial",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/89_Rigged Trial.png"
+			}
+		},
+		{
+			"name": "Senators' Chauffeur",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Skeleton Pilot ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/90_Senators' Chauffeur.png"
+			}
+		},
+		{
+			"name": "Presidential Pardon",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/86_Presidential Pardon.png"
+			}
+		},
+		{
+			"name": "Night Squad",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Assassin ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/83_Night Squad.png"
+			}
+		},
+		{
+			"name": "Deadly Dispute",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/74_Deadly Dispute.png"
+			}
+		},
+		{
+			"name": "Codename Ant",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect Scout ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/69_Codename Ant.png"
+			}
+		},
+		{
+			"name": "Climactic Drop",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/68_Climactic Drop.png"
+			}
+		},
+		{
+			"name": "Covert Infiltrator",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Shapeshifter Scout ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/72_Covert Infiltrator.png"
+			}
+		},
+		{
+			"name": "Expendable Medic",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Minion ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/76_Expendable Medic.png"
+			}
+		},
+		{
+			"name": "Blue Collar Bloodsucker",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire Human ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/66_Blue Collar Bloodsucker.png"
+			}
+		},
+		{
+			"name": "Hazakh Conscriptor",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/78_Hazakh Conscriptor.png"
+			}
+		},
+		{
+			"name": "Bureau Broodmother",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Artifact Creature — Orb ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/67_Bureau Broodmother.png"
+			}
+		},
+		{
+			"name": "Ardent Voter",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/96_Ardent Voter.png"
+			}
+		},
+		{
+			"name": "Declamation Podium",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/101_Declamation Podium.png"
+			}
+		},
+		{
+			"name": "Up-and-Comer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/124_Up-and-Comer.png"
+			}
+		},
+		{
+			"name": "Inflammatory Declaimer",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/110_Inflammatory Declaimer.png"
+			}
+		},
+		{
+			"name": "Battlefield Tactician",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/97_Battlefield Tactician.png"
+			}
+		},
+		{
+			"name": "Reckless Jailbreak",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/118_Reckless Jailbreak.png"
+			}
+		},
+		{
+			"name": "Hired Shot",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/109_Hired Shot.png"
+			}
+		},
+		{
+			"name": "Splintering Blast",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/123_Splintering Blast.png"
+			}
+		},
+		{
+			"name": "Resourceful Hireling",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elf Artificer ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/119_Resourceful Hireling.png"
+			}
+		},
+		{
+			"name": "Main Street Hooligang",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Lizard Rogue ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/112_Main Street Hooligang.png"
+			}
+		},
+		{
+			"name": "Capital Maglev",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/98_Capital Maglev.png"
+			}
+		},
+		{
+			"name": "Flags on High",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/103_Flags on High.png"
+			}
+		},
+		{
+			"name": "Revolutionary Throng",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/120_Revolutionary Throng.png"
+			}
+		},
+		{
+			"name": "Hazakh Commandos",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Berserker ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/108_Hazakh Commandos.png"
+			}
+		},
+		{
+			"name": "Idealistic Voter",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Centaur Citizen ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/139_Idealistic Voter.png"
+			}
+		},
+		{
+			"name": "International Development",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/143_International Development.png"
+			}
+		},
+		{
+			"name": "Triumphant Herd",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elephant ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/155_Triumphant Herd.png"
+			}
+		},
+		{
+			"name": "Gerrymanderer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Salamander Advisor ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/136_Gerrymanderer.png"
+			}
+		},
+		{
+			"name": "Demolition Team",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/132_Demolition Team.png"
+			}
+		},
+		{
+			"name": "Anesthesiologist",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/126_Anesthesiologist.png"
+			}
+		},
+		{
+			"name": "Ram Through",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/147_Ram Through.png"
+			}
+		},
+		{
+			"name": "Ruinous Discovery",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/148_Ruinous Discovery.png"
+			}
+		},
+		{
+			"name": "Test Subject Alpha",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Rat ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/154_Test Subject Alpha.png"
+			}
+		},
+		{
+			"name": "Bouncers-for-Hire",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Orc Soldier ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/128_Bouncers-for-Hire.png"
+			}
+		},
+		{
+			"name": "Mana Harvesters",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/145_Mana Harvesters.png"
+			}
+		},
+		{
+			"name": "Inner City Scout",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/140_Inner City Scout.png"
+			}
+		},
+		{
+			"name": "Invest",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/144_Invest.png"
+			}
+		},
+		{
+			"name": "Escalated Tensions",
+			"rarity": "common",
+			"mana_cost": "{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/134_Escalated Tensions.png"
+			}
+		},
+		{
+			"name": "Senate Filibuster",
+			"rarity": "common",
+			"mana_cost": "{2}{W/U}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/245_Senate Filibuster.png"
+			}
+		},
+		{
+			"name": "Rooftop Whistlesilencer",
+			"rarity": "common",
+			"mana_cost": "{4}{U/B}",
+			"type": "Creature — Human Assassin ",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/244_Rooftop Whistlesilencer.png"
+			}
+		},
+		{
+			"name": "Ignited Soul",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/236_Ignited Soul.png"
+			}
+		},
+		{
+			"name": "Proletarian Rabble",
+			"rarity": "common",
+			"mana_cost": "{3}{R/G}",
+			"type": "Creature — Human ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/243_Proletarian Rabble.png"
+			}
+		},
+		{
+			"name": "Estrathian Philanthropist",
+			"rarity": "common",
+			"mana_cost": "{2}{G/W}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/234_Estrathian Philanthropist.png"
+			}
+		},
+		{
+			"name": "Projects Overseer",
+			"rarity": "common",
+			"mana_cost": "{1}{W/B}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/242_Projects Overseer.png"
+			}
+		},
+		{
+			"name": "Volatile Sergeant",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/247_Volatile Sergeant.png"
+			}
+		},
+		{
+			"name": "Debt Collectors",
+			"rarity": "common",
+			"mana_cost": "{2}{B/G}",
+			"type": "Creature — Azra Assassin ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/233_Debt Collectors.png"
+			}
+		},
+		{
+			"name": "Trailblazer Anarch",
+			"rarity": "common",
+			"mana_cost": "{1}{R/W}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/246_Trailblazer Anarch.png"
+			}
+		},
+		{
+			"name": "Pinnacle of Progress",
+			"rarity": "common",
+			"mana_cost": "{5}{G/U}{G/U}",
+			"type": "Creature — Eye Horror ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/240_Pinnacle of Progress.png"
+			}
+		},
+		{
+			"name": "Legislative Gridlock",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/194_Legislative Gridlock.png"
+			}
+		},
+		{
+			"name": "Traumatic Recollection",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/224_Traumatic Recollection.png"
+			}
+		},
+		{
+			"name": "Patron of Arms",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/201_Patron of Arms.png"
+			}
+		},
+		{
+			"name": "Mutinous Inciter",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/198_Mutinous Inciter.png"
+			}
+		},
+		{
+			"name": "Diplomatic Alliance",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/175_Diplomatic Alliance.png"
+			}
+		},
+		{
+			"name": "Tiril Ambassador",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/222_Tiril Ambassador.png"
+			}
+		},
+		{
+			"name": "Hazakh Ambassador",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/190_Hazakh Ambassador.png"
+			}
+		},
+		{
+			"name": "Vishanki Ambassador",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{R}{G}",
+			"type": "Creature — Orc Advisor ",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/229_Vishanki Ambassador.png"
+			}
+		},
+		{
+			"name": "Penrath Ambassador",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/203_Penrath Ambassador.png"
+			}
+		},
+		{
+			"name": "Sillaman Ambassador",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{W}{U}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/215_Sillaman Ambassador.png"
+			}
+		},
+		{
+			"name": "Congressional Hall",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/250_Congressional Hall.png"
+			}
+		},
+		{
+			"name": "Interrogation Chamber",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/256_Interrogation Chamber.png"
+			}
+		},
+		{
+			"name": "Executive Office",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/253_Executive Office.png"
+			}
+		},
+		{
+			"name": "Neglected Slums",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/258_Neglected Slums.png"
+			}
+		},
+		{
+			"name": "Open Air Boardwalk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/259_Open Air Boardwalk.png"
+			}
+		},
+		{
+			"name": "Groupthink Tank",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/254_Groupthink Tank.png"
+			}
+		},
+		{
+			"name": "Bustling Motorway",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/249_Bustling Motorway.png"
+			}
+		},
+		{
+			"name": "Looming Skyscrapers",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/257_Looming Skyscrapers.png"
+			}
+		},
+		{
+			"name": "Urban Sunscape",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/264_Urban Sunscape.png"
+			}
+		},
+		{
+			"name": "Controlled Ecosystem",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/251_Controlled Ecosystem.png"
+			}
+		},
+		{
+			"name": "Minister of Utility",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/20_Minister of Utility.png"
+			}
+		},
+		{
+			"name": "Prismatic Propagandist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Vedalken Advisor ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/25_Prismatic Propagandist.png"
+			}
+		},
+		{
+			"name": "Laboratory Mentor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Vedalken Artificer ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/16_Laboratory Mentor.png"
+			}
+		},
+		{
+			"name": "Prosperity Project",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/26_Prosperity Project.png"
+			}
+		},
+		{
+			"name": "Getaway Proxy",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/12_Getaway Proxy.png"
+			}
+		},
+		{
+			"name": "Overbearing Researcher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/21_Overbearing Researcher.png"
+			}
+		},
+		{
+			"name": "Planned Obsolescence",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/24_Planned Obsolescence.png"
+			}
+		},
+		{
+			"name": "Selective Truthseeker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/31_Selective Truthseeker.png"
+			}
+		},
+		{
+			"name": "Induced Evolution",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/15_Induced Evolution.png"
+			}
+		},
+		{
+			"name": "Ballot Registrar",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/34_Ballot Registrar.png"
+			}
+		},
+		{
+			"name": "Veto",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/63_Veto.png"
+			}
+		},
+		{
+			"name": "Bureau Mentor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/37_Bureau Mentor.png"
+			}
+		},
+		{
+			"name": "Verity Circle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/62_Verity Circle.png"
+			}
+		},
+		{
+			"name": "Enlightenment",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/46_Enlightenment.png"
+			}
+		},
+		{
+			"name": "Sleeper Strix",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Bird ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/57_Sleeper Strix.png"
+			}
+		},
+		{
+			"name": "Dormant Monstrosity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Squid Horror ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/44_Dormant Monstrosity.png"
+			}
+		},
+		{
+			"name": "Trench Commander",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/61_Trench Commander.png"
+			}
+		},
+		{
+			"name": "Bug the Line",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/36_Bug the Line.png"
+			}
+		},
+		{
+			"name": "Killing in the Name of",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/80_Killing in the Name of.png"
+			}
+		},
+		{
+			"name": "Warrant-Borne Cop",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/94_Warrant-Borne Cop.png"
+			}
+		},
+		{
+			"name": "Arsenal Mentor",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/64_Arsenal Mentor.png"
+			}
+		},
+		{
+			"name": "Corporate Espionage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/70_Corporate Espionage.png"
+			}
+		},
+		{
+			"name": "Rank and Defile",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/88_Rank and Defile.png"
+			}
+		},
+		{
+			"name": "Merciless Headsman",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Assassin ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/82_Merciless Headsman.png"
+			}
+		},
+		{
+			"name": "Noxious Conditions",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/84_Noxious Conditions.png"
+			}
+		},
+		{
+			"name": "Product of Nepotism",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/87_Product of Nepotism.png"
+			}
+		},
+		{
+			"name": "Extraction Mission",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/77_Extraction Mission.png"
+			}
+		},
+		{
+			"name": "Gubernatorial Fundraiser",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/107_Gubernatorial Fundraiser.png"
+			}
+		},
+		{
+			"name": "Flock Favorites",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/105_Flock Favorites.png"
+			}
+		},
+		{
+			"name": "Corporate Mentor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/100_Corporate Mentor.png"
+			}
+		},
+		{
+			"name": "Scathing Remarks",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/121_Scathing Remarks.png"
+			}
+		},
+		{
+			"name": "Gain Traction",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/106_Gain Traction.png"
+			}
+		},
+		{
+			"name": "Martyrize",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/113_Martyrize.png"
+			}
+		},
+		{
+			"name": "Expendable Arsonist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Minion ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/102_Expendable Arsonist.png"
+			}
+		},
+		{
+			"name": "Coercive Contractor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/99_Coercive Contractor.png"
+			}
+		},
+		{
+			"name": "Patent Pending",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/115_Patent Pending.png"
+			}
+		},
+		{
+			"name": "Grassroots Campaigners",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/138_Grassroots Campaigners.png"
+			}
+		},
+		{
+			"name": "Cabinet Recruiter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/130_Cabinet Recruiter.png"
+			}
+		},
+		{
+			"name": "Insurgency Mentor",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/142_Insurgency Mentor.png"
+			}
+		},
+		{
+			"name": "Scourge of Capitalism",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{G}",
+			"type": "Creature — Giant Insect Beast ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/149_Scourge of Capitalism.png"
+			}
+		},
+		{
+			"name": "Prismatic Confluence",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/146_Prismatic Confluence.png"
+			}
+		},
+		{
+			"name": "Sustainable Investments",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/153_Sustainable Investments.png"
+			}
+		},
+		{
+			"name": "Sleeper Insurgent",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/151_Sleeper Insurgent.png"
+			}
+		},
+		{
+			"name": "Sillaman Regrafter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/150_Sillaman Regrafter.png"
+			}
+		},
+		{
+			"name": "Instigating Directive",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/141_Instigating Directive.png"
+			}
+		},
+		{
+			"name": "Private Investigators",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W/U}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/241_Private Investigators.png"
+			}
+		},
+		{
+			"name": "Eyes in the Sky",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U/B}{U/B}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/235_Eyes in the Sky.png"
+			}
+		},
+		{
+			"name": "Loophole Exploiter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/R}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/237_Loophole Exploiter.png"
+			}
+		},
+		{
+			"name": "Metropolitan Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R/G}{R/G}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/238_Metropolitan Champion.png"
+			}
+		},
+		{
+			"name": "Nourishing Orator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G/W}{G/W}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/239_Nourishing Orator.png"
+			}
+		},
+		{
+			"name": "Genetics Prodigy",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Insect Artificer ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/187_Genetics Prodigy.png"
+			}
+		},
+		{
+			"name": "Chittering Gargantua",
+			"rarity": "uncommon",
+			"mana_cost": "{8}{U}{B}",
+			"type": "Artifact Creature — Insect ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/168_Chittering Gargantua.png"
+			}
+		},
+		{
+			"name": "Devoted Lackies",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Assassin ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/173_Devoted Lackies.png"
+			}
+		},
+		{
+			"name": "Speculative Stockbroker",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/218_Speculative Stockbroker.png"
+			}
+		},
+		{
+			"name": "Underclass Hero",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/225_Underclass Hero.png"
+			}
+		},
+		{
+			"name": "Social Engineering",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/216_Social Engineering.png"
+			}
+		},
+		{
+			"name": "Search and Seizure",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/210_Search and Seizure.png"
+			}
+		},
+		{
+			"name": "Liquidate",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/195_Liquidate.png"
+			}
+		},
+		{
+			"name": "Vertical Integration",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/227_Vertical Integration.png"
+			}
+		},
+		{
+			"name": "Charity Match",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/166_Charity Match.png"
+			}
+		},
+		{
+			"name": "Security Initiative",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment — Policy ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/211_Security Initiative_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/211_Security Initiative_back.png"
+				}
+			}
+		},
+		{
+			"name": "Silence the Opposition",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment — Policy ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/213_Silence the Opposition_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/213_Silence the Opposition_back.png"
+				}
+			}
+		},
+		{
+			"name": "Meeting of the Elites",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment — Policy ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/196_Meeting of the Elites_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/196_Meeting of the Elites_back.png"
+				}
+			}
+		},
+		{
+			"name": "Free Market",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment — Policy ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/183_Free Market_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/183_Free Market_back.png"
+				}
+			}
+		},
+		{
+			"name": "Together in Arms",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment — Policy ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/223_Together in Arms_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/223_Together in Arms_back.png"
+				}
+			}
+		},
+		{
+			"name": "Codename Spyder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Creature — Insect Scout ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/169_Codename Spyder.png"
+			}
+		},
+		{
+			"name": "The First Battalion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Soldier ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/182_The First Battalion.png"
+			}
+		},
+		{
+			"name": "Sola, Contraband Playboy",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Legendary Creature — Human Advisor ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/217_Sola, Contraband Playboy.png"
+			}
+		},
+		{
+			"name": "Mondo, Outcast Maverick",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Creature — Human Rogue ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/197_Mondo, Outcast Maverick.png"
+			}
+		},
+		{
+			"name": "Carlisle, Grid Globalizer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Creature — Human Artificer ",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/164_Carlisle, Grid Globalizer.png"
+			}
+		},
+		{
+			"name": "Central Processor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Artifact Creature — Orb ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/165_Central Processor.png"
+			}
+		},
+		{
+			"name": "Assault Engine",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/158_Assault Engine.png"
+			}
+		},
+		{
+			"name": "Black-Tie Gala",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/161_Black-Tie Gala.png"
+			}
+		},
+		{
+			"name": "Urban Twinmotors",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/226_Urban Twinmotors.png"
+			}
+		},
+		{
+			"name": "Bioengineered Opus",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Creature — Octopus Horror ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/160_Bioengineered Opus.png"
+			}
+		},
+		{
+			"name": "Reconnaissance Agent",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/207_Reconnaissance Agent.png"
+			}
+		},
+		{
+			"name": "Blackout",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/162_Blackout.png"
+			}
+		},
+		{
+			"name": "Adaptive Hydra",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}{R}{G}",
+			"type": "Artifact Creature — Hydra ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/157_Adaptive Hydra.png"
+			}
+		},
+		{
+			"name": "Storm the Senate",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/219_Storm the Senate.png"
+			}
+		},
+		{
+			"name": "Dissect",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/176_Dissect.png"
+			}
+		},
+		{
+			"name": "Tiril District",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/263_Tiril District.png"
+			}
+		},
+		{
+			"name": "Hazakh District",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/255_Hazakh District.png"
+			}
+		},
+		{
+			"name": "Vishanki District",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/265_Vishanki District.png"
+			}
+		},
+		{
+			"name": "Penrath District",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/260_Penrath District.png"
+			}
+		},
+		{
+			"name": "Sillaman District",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/262_Sillaman District.png"
+			}
+		},
+		{
+			"name": "Redeveloped Cityscape",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/261_Redeveloped Cityscape.png"
+			}
+		},
+		{
+			"name": "Distributive Justice",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Policy ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/8_Distributive Justice_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/8_Distributive Justice_back.png"
+				}
+			}
+		},
+		{
+			"name": "Chromatic Rift",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/6_Chromatic Rift.png"
+			}
+		},
+		{
+			"name": "Mellan, Defense Attorney",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Advisor ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/19_Mellan, Defense Attorney.png"
+			}
+		},
+		{
+			"name": "Genotype Splicer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Artificer Mutant ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/11_Genotype Splicer.png"
+			}
+		},
+		{
+			"name": "Severin's Masterwork",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/32_Severin's Masterwork.png"
+			}
+		},
+		{
+			"name": "Army Reserves",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/2_Army Reserves.png"
+			}
+		},
+		{
+			"name": "Research Grant",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Policy ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/55_Research Grant_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/55_Research Grant_back.png"
+				}
+			}
+		},
+		{
+			"name": "Quid Pro Quo",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/54_Quid Pro Quo.png"
+			}
+		},
+		{
+			"name": "Sterling, Federal Informant",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Rat Advisor ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/59_Sterling, Federal Informant.png"
+			}
+		},
+		{
+			"name": "Congressional Kraken",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Kraken ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/41_Congressional Kraken.png"
+			}
+		},
+		{
+			"name": "Demographer",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/43_Demographer.png"
+			}
+		},
+		{
+			"name": "Thesis on Mutation",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/60_Thesis on Mutation.png"
+			}
+		},
+		{
+			"name": "Ascend to Power",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Policy ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/65_Ascend to Power_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/65_Ascend to Power_back.png"
+				}
+			}
+		},
+		{
+			"name": "The Venerable Veteran",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Minion ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/93_The Venerable Veteran.png"
+			}
+		},
+		{
+			"name": "Serve Again",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/91_Serve Again.png"
+			}
+		},
+		{
+			"name": "Judge, Jury, and Executioner",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Advisor Citizen Assassin ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/79_Judge, Jury, and Executioner.png"
+			}
+		},
+		{
+			"name": "Corrupt Congressman",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/71_Corrupt Congressman.png"
+			}
+		},
+		{
+			"name": "Cryptology",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/73_Cryptology.png"
+			}
+		},
+		{
+			"name": "Sparks of a Revolution",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Policy ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/122_Sparks of a Revolution_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/122_Sparks of a Revolution_back.png"
+				}
+			}
+		},
+		{
+			"name": "Puppet War",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/117_Puppet War.png"
+			}
+		},
+		{
+			"name": "Alamer, Profit Rerecorder",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/95_Alamer, Profit Rerecorder.png"
+			}
+		},
+		{
+			"name": "Flaw in the System",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Human Rogue ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/104_Flaw in the System.png"
+			}
+		},
+		{
+			"name": "Lightning Warmonger",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/111_Lightning Warmonger.png"
+			}
+		},
+		{
+			"name": "Penrath Firearm",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/116_Penrath Firearm.png"
+			}
+		},
+		{
+			"name": "Golden Age",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Policy ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/137_Golden Age_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/137_Golden Age_back.png"
+				}
+			}
+		},
+		{
+			"name": "Chromagoyf",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Lhurgoyf ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/131_Chromagoyf.png"
+			}
+		},
+		{
+			"name": "Aspiring Anarchist",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Crocodile Rogue ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/127_Aspiring Anarchist.png"
+			}
+		},
+		{
+			"name": "Subsidized Market",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/152_Subsidized Market.png"
+			}
+		},
+		{
+			"name": "Zeno, Planar Engineer",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Artifact Creature — Human Artificer ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/156_Zeno, Planar Engineer.png"
+			}
+		},
+		{
+			"name": "Disestablishmentarianism",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/133_Disestablishmentarianism.png"
+			}
+		},
+		{
+			"name": "Neuralinked Hive",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Human Drone ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/199_Neuralinked Hive.png"
+			}
+		},
+		{
+			"name": "Identity Forger",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Shapeshifter Artificer ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/192_Identity Forger.png"
+			}
+		},
+		{
+			"name": "Dhante's Inferno",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Instant",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/174_Dhante's Inferno.png"
+			}
+		},
+		{
+			"name": "Campaign Rally",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/163_Campaign Rally.png"
+			}
+		},
+		{
+			"name": "Empowered Revisionary",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/177_Empowered Revisionary.png"
+			}
+		},
+		{
+			"name": "Eyes of the Bureau",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Bird Scout ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/181_Eyes of the Bureau.png"
+			}
+		},
+		{
+			"name": "Defect",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/172_Defect.png"
+			}
+		},
+		{
+			"name": "Gatherer of Grievances",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/186_Gatherer of Grievances.png"
+			}
+		},
+		{
+			"name": "Vishanki Hellkite",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Dragon ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/230_Vishanki Hellkite.png"
+			}
+		},
+		{
+			"name": "Axiomatic Shift",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/159_Axiomatic Shift.png"
+			}
+		},
+		{
+			"name": "Whirring Inspector",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Artifact Creature — Insect Eye ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/231_Whirring Inspector.png"
+			}
+		},
+		{
+			"name": "Exemplar of Grit",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Creature — Human Survivor ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/180_Exemplar of Grit.png"
+			}
+		},
+		{
+			"name": "Freightyard Scrappers",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Creature — Dwarf Goblin Human ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/184_Freightyard Scrappers.png"
+			}
+		},
+		{
+			"name": "Penrath Dispatcher",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/204_Penrath Dispatcher.png"
+			}
+		},
+		{
+			"name": "Genome Project",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/188_Genome Project.png"
+			}
+		},
+		{
+			"name": "Tiril Agenda",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Instant",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/221_Tiril Agenda.png"
+			}
+		},
+		{
+			"name": "Hazakh Agenda",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Instant",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/189_Hazakh Agenda.png"
+			}
+		},
+		{
+			"name": "Vishanki Agenda",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Instant",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/228_Vishanki Agenda.png"
+			}
+		},
+		{
+			"name": "Penrath Agenda",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Instant",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/202_Penrath Agenda.png"
+			}
+		},
+		{
+			"name": "Sillaman Agenda",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Instant",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/214_Sillaman Agenda.png"
+			}
+		},
+		{
+			"name": "Scandalous Revelation",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{U}{B}",
+			"type": "Instant",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/208_Scandalous Revelation.png"
+			}
+		},
+		{
+			"name": "Coup D'Etat",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/171_Coup D'Etat.png"
+			}
+		},
+		{
+			"name": "Work Safety Violation",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/232_Work Safety Violation.png"
+			}
+		},
+		{
+			"name": "Out With a Bang",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/200_Out With a Bang.png"
+			}
+		},
+		{
+			"name": "Prime for Innovation",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/205_Prime for Innovation.png"
+			}
+		},
+		{
+			"name": "Estrathe, Center of Civilization",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/252_Estrathe, Center of Civilization.png"
+			}
+		},
+		{
+			"name": "Incumbency",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/14_Incumbency.png"
+			}
+		},
+		{
+			"name": "Gaze Upon Civilization",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/49_Gaze Upon Civilization.png"
+			}
+		},
+		{
+			"name": "Old Times Ruminator",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Elder ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/85_Old Times Ruminator.png"
+			}
+		},
+		{
+			"name": "Venture Capitalist",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/125_Venture Capitalist.png"
+			}
+		},
+		{
+			"name": "Bulk Bioengineering",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/129_Bulk Bioengineering.png"
+			}
+		},
+		{
+			"name": "The Connaistone",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Artifact",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/170_The Connaistone.png"
+			}
+		},
+		{
+			"name": "Krint, Five Star",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}{R}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/193_Krint, Five Star.png"
+			}
+		},
+		{
+			"name": "Chief Executive Dhante",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Legendary Creature — Dragon Noble ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/167_Chief Executive Dhante.png"
+			}
+		},
+		{
+			"name": "Eo, the Great Equalizer",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Giant Avatar ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/178_Eo, the Great Equalizer.png"
+			}
+		},
+		{
+			"name": "Severin, Sparkmind",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Planeswalker — Severin ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/212_Severin, Sparkmind.png"
+			}
+		},
+		{
+			"name": "The Quindral Accords",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Enchantment — Clique ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/206_The Quindral Accords.png"
+			}
+		},
+		{
+			"name": "Garren, Returned Prophet",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Planeswalker — Garren ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/185_Garren, Returned Prophet.png"
+			}
+		},
+		{
+			"name": "High Senator Talpa",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Advisor ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/191_High Senator Talpa.png"
+			}
+		},
+		{
+			"name": "Scrapyard Mecha",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/209_Scrapyard Mecha.png"
+			}
+		},
+		{
+			"name": "Survivors of the New World",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Mutant Survivor ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/220_Survivors of the New World.png"
+			}
+		},
+		{
+			"name": "Estrathian Gentrifiers",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/179_Estrathian Gentrifiers.png"
+			}
+		},
+		{
+			"name": "Tomer, Figurehead President",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/1_Tomer, Figurehead President.png"
+			}
+		},
+		{
+			"name": "The Majority Whip",
+			"rarity": "mythic",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/248_The Majority Whip.png"
+			}
+		},
+		{
+			"name": "CNY Tiril Bureau",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Clique ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/9_CNY Tiril Bureau.png"
+			}
+		},
+		{
+			"name": "CNY Hazakh Arsenal",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Clique ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/6_CNY Hazakh Arsenal.png"
+			}
+		},
+		{
+			"name": "CNY Vishanki Inc",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Clique ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/10_CNY Vishanki Inc.png"
+			}
+		},
+		{
+			"name": "CNY Penrath Insurgency",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Clique ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/7_CNY Penrath Insurgency.png"
+			}
+		},
+		{
+			"name": "CNY Sillaman Laboratories",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Clique ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/8_CNY Sillaman Laboratories.png"
+			}
+		},
+		{
+			"name": "CNY CLIQUE TOKEN REMINDER",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/1_CNY CLIQUE TOKEN REMINDER.png"
+			}
+		},
+		{
+			"name": "CNY Minion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Minion ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/2_CNY Minion.png"
+			}
+		},
+		{
+			"name": "CNY Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/14_CNY Treasure.png"
+			}
+		},
+		{
+			"name": "CNY Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/3_CNY Soldier.png"
+			}
+		},
+		{
+			"name": "CNY Robot",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Robot ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/12_CNY Robot.png"
+			}
+		},
+		{
+			"name": "CNY Sentry of the New World",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Robot ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/13_CNY Sentry of the New World.png"
+			}
+		},
+		{
+			"name": "CNY Berserker",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Berserker ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/4_CNY Berserker.png"
+			}
+		},
+		{
+			"name": "CNY Chaneryx, Perfect Lifeform",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Leviathan ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/5_CNY Chaneryx, Perfect Lifeform.png"
+			}
+		},
+		{
+			"name": "CNY Equipment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/11_CNY Equipment.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/135_Forest.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/52_Island.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/114_Mountain.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/23_Plains.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/92_Swamp.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Distributive Justice
+		2 Chromatic Rift
+		2 Mellan, Defense Attorney
+		2 Genotype Splicer
+		2 Severin's Masterwork
+		2 Army Reserves
+		2 Research Grant
+		2 Quid Pro Quo
+		2 Sterling, Federal Informant
+		2 Congressional Kraken
+		2 Demographer
+		2 Thesis on Mutation
+		2 Ascend to Power
+		2 The Venerable Veteran
+		2 Serve Again
+		2 Judge, Jury, and Executioner
+		2 Corrupt Congressman
+		2 Cryptology
+		2 Sparks of a Revolution
+		2 Puppet War
+		2 Alamer, Profit Rerecorder
+		2 Flaw in the System
+		2 Lightning Warmonger
+		2 Penrath Firearm
+		2 Golden Age
+		2 Chromagoyf
+		2 Aspiring Anarchist
+		2 Subsidized Market
+		2 Zeno, Planar Engineer
+		2 Disestablishmentarianism
+		2 Neuralinked Hive
+		2 Identity Forger
+		2 Dhante's Inferno
+		2 Campaign Rally
+		2 Empowered Revisionary
+		2 Eyes of the Bureau
+		2 Defect
+		2 Gatherer of Grievances
+		2 Vishanki Hellkite
+		2 Axiomatic Shift
+		2 Whirring Inspector
+		2 Exemplar of Grit
+		2 Freightyard Scrappers
+		2 Penrath Dispatcher
+		2 Genome Project
+		2 Tiril Agenda
+		2 Hazakh Agenda
+		2 Vishanki Agenda
+		2 Penrath Agenda
+		2 Sillaman Agenda
+		2 Scandalous Revelation
+		2 Coup D'Etat
+		2 Work Safety Violation
+		2 Out With a Bang
+		2 Prime for Innovation
+		2 Estrathe, Center of Civilization
+		1 Incumbency
+		1 Gaze Upon Civilization
+		1 Old Times Ruminator
+		1 Venture Capitalist
+		1 Bulk Bioengineering
+		1 The Connaistone
+		1 Krint, Five Star
+		1 Chief Executive Dhante
+		1 Eo, the Great Equalizer
+		1 Severin, Sparkmind
+		1 The Quindral Accords
+		1 Garren, Returned Prophet
+		1 High Senator Talpa
+		1 Scrapyard Mecha
+		1 Survivors of the New World
+		1 Estrathian Gentrifiers
+		1 Tomer, Figurehead President
+		1 The Majority Whip
+		[UncommonSlot(3)]
+	9 Minister of Utility
+		9 Prismatic Propagandist
+		9 Laboratory Mentor
+		9 Prosperity Project
+		9 Getaway Proxy
+		9 Overbearing Researcher
+		9 Planned Obsolescence
+		9 Selective Truthseeker
+		9 Induced Evolution
+		9 Ballot Registrar
+		9 Veto
+		9 Bureau Mentor
+		9 Verity Circle
+		9 Enlightenment
+		9 Sleeper Strix
+		9 Dormant Monstrosity
+		9 Trench Commander
+		9 Bug the Line
+		9 Killing in the Name of
+		9 Warrant-Borne Cop
+		9 Arsenal Mentor
+		9 Corporate Espionage
+		9 Rank and Defile
+		9 Merciless Headsman
+		9 Noxious Conditions
+		9 Product of Nepotism
+		9 Extraction Mission
+		9 Gubernatorial Fundraiser
+		9 Flock Favorites
+		9 Corporate Mentor
+		9 Scathing Remarks
+		9 Gain Traction
+		9 Martyrize
+		9 Expendable Arsonist
+		9 Coercive Contractor
+		9 Patent Pending
+		9 Grassroots Campaigners
+		9 Cabinet Recruiter
+		9 Insurgency Mentor
+		9 Scourge of Capitalism
+		9 Prismatic Confluence
+		9 Sustainable Investments
+		9 Sleeper Insurgent
+		9 Sillaman Regrafter
+		9 Instigating Directive
+		9 Private Investigators
+		9 Eyes in the Sky
+		9 Loophole Exploiter
+		9 Metropolitan Champion
+		9 Nourishing Orator
+		9 Genetics Prodigy
+		9 Chittering Gargantua
+		9 Devoted Lackies
+		9 Speculative Stockbroker
+		9 Underclass Hero
+		9 Social Engineering
+		9 Search and Seizure
+		9 Liquidate
+		9 Vertical Integration
+		9 Charity Match
+		9 Security Initiative
+		9 Silence the Opposition
+		9 Meeting of the Elites
+		9 Free Market
+		9 Together in Arms
+		9 Codename Spyder
+		9 The First Battalion
+		9 Sola, Contraband Playboy
+		9 Mondo, Outcast Maverick
+		9 Carlisle, Grid Globalizer
+		9 Central Processor
+		9 Assault Engine
+		9 Black-Tie Gala
+		9 Urban Twinmotors
+		9 Bioengineered Opus
+		9 Reconnaissance Agent
+		9 Blackout
+		9 Adaptive Hydra
+		9 Storm the Senate
+		9 Dissect
+		9 Tiril District
+		9 Hazakh District
+		9 Vishanki District
+		9 Penrath District
+		9 Sillaman District
+		9 Redeveloped Cityscape
+		[CommonSlot(10)]
+	30 Eager Voter
+		30 Magnetic Rhetorician
+		30 Held in Contempt
+		30 Brazen Blackcoats
+		30 Medic's Implant
+		30 Seasoned Spymaster
+		30 Retaliatory Outburst
+		30 Penrath Roperunner
+		30 Enforcer's Baton
+		30 Codename Cicada
+		30 Rogue Justiciar
+		30 Border Junction
+		30 Change Allegiances
+		30 Replicated Regiment
+		30 Informed Voter
+		30 Election Fraud
+		30 Dampening Reconciliator
+		30 Political Prisoner
+		30 Evasive Tactics
+		30 Civic Copterist
+		30 Stasis Chamber
+		30 Abduct
+		30 Codename Bumblebee
+		30 Bring to the Limelight
+		30 Combat Corporal
+		30 Expendable Researcher
+		30 Invader of Privacy
+		30 Rush for Results
+		30 Lofty Voter
+		30 Estranged Aristocrat
+		30 Rigged Trial
+		30 Senators' Chauffeur
+		30 Presidential Pardon
+		30 Night Squad
+		30 Deadly Dispute
+		30 Codename Ant
+		30 Climactic Drop
+		30 Covert Infiltrator
+		30 Expendable Medic
+		30 Blue Collar Bloodsucker
+		30 Hazakh Conscriptor
+		30 Bureau Broodmother
+		30 Ardent Voter
+		30 Declamation Podium
+		30 Up-and-Comer
+		30 Inflammatory Declaimer
+		30 Battlefield Tactician
+		30 Reckless Jailbreak
+		30 Hired Shot
+		30 Splintering Blast
+		30 Resourceful Hireling
+		30 Main Street Hooligang
+		30 Capital Maglev
+		30 Flags on High
+		30 Revolutionary Throng
+		30 Hazakh Commandos
+		30 Idealistic Voter
+		30 International Development
+		30 Triumphant Herd
+		30 Gerrymanderer
+		30 Demolition Team
+		30 Anesthesiologist
+		30 Ram Through
+		30 Ruinous Discovery
+		30 Test Subject Alpha
+		30 Bouncers-for-Hire
+		30 Mana Harvesters
+		30 Inner City Scout
+		30 Invest
+		30 Escalated Tensions
+		30 Senate Filibuster
+		30 Rooftop Whistlesilencer
+		30 Ignited Soul
+		30 Proletarian Rabble
+		30 Estrathian Philanthropist
+		30 Projects Overseer
+		30 Volatile Sergeant
+		30 Debt Collectors
+		30 Trailblazer Anarch
+		30 Pinnacle of Progress
+		30 Legislative Gridlock
+		30 Traumatic Recollection
+		30 Patron of Arms
+		30 Mutinous Inciter
+		30 Diplomatic Alliance
+		30 Tiril Ambassador
+		30 Hazakh Ambassador
+		30 Vishanki Ambassador
+		30 Penrath Ambassador
+		30 Sillaman Ambassador
+		[LandSlot(1)]
+	10 Congressional Hall
+		10 Interrogation Chamber
+		10 Executive Office
+		10 Neglected Slums
+		10 Open Air Boardwalk
+		10 Groupthink Tank
+		10 Bustling Motorway
+		10 Looming Skyscrapers
+		10 Urban Sunscape
+		10 Controlled Ecosystem
+		

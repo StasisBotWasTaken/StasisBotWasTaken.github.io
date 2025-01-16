@@ -1,0 +1,1 @@
+﻿Ruinous Discovery	G	common	Sorcery	148	G	1G	Destroy target artifact or enchantment. If it was a token, you draw a card and gain 2 life.			normal	CNY		Art Validated

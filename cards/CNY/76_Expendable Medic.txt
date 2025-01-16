@@ -1,0 +1,1 @@
+﻿Expendable Medic	B	common	Creature – Minion 	76	B	B	Decayed (This can’t block. When it attacks, sacrifice it at end of combat.)NEWLINE1B, Exile Expendable Medic from your graveyard: Return target creature card from your graveyard to your hand. Activate only as a sorcery.	2/2		normal	CNY		Art Validated

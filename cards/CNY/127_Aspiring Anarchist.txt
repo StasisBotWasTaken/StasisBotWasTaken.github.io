@@ -1,0 +1,1 @@
+﻿Aspiring Anarchist	G	rare	Creature – Crocodile Rogue 	127	G	G	TrampleNEWLINEWhenever Aspiring Anarchist attacks, you may have its base power and toughness become equal to the power and toughness of another target attacking creature until end of turn.	1/1		normal	CNY		Art Validated

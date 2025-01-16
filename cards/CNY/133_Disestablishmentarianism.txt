@@ -1,0 +1,1 @@
+﻿Disestablishmentarianism	G	rare	Enchantment	133	G	1G	Activated abilities of other artifacts and enchantments with mana value 3 or less can’t be activated.NEWLINE1, Sacrifice Disestablishmentarianism: Exile target artifact or enchantment.			normal	CNY		Art Validated

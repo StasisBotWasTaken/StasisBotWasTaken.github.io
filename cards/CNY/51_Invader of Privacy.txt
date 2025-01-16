@@ -1,0 +1,1 @@
+﻿Invader of Privacy	U	common	Creature – Human Scout 	51	U	2U	When Invader of Privacy enters, surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put that card into your graveyard.)	2/1		normal	CNY		Art Validated

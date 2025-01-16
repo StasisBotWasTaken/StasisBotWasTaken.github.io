@@ -1,0 +1,1 @@
+﻿Enlightenment	U	uncommon	Enchantment	46	U	4U	When Enlightenment enters, draw a card for each color of mana spent to cast it.NEWLINEYou have no maximum hand size.			normal	CNY		Art Validated

@@ -1,0 +1,1 @@
+﻿Held in Contempt	W	common	Enchantment – Aura 	13	W	W	Enchant creatureNEWLINEEnchanted creature has defender.NEWLINEApproval – 2: Exile enchanted creature if its power is less than or equal to the number of colors among permanents you control.			normal	CNY		Art Validated

@@ -1,0 +1,1 @@
+﻿Private Investigators	WU	uncommon	Creature – Human Scout 	241	WU	2W/U	VigilanceNEWLINECreatures you control with vigilance have “WU, T: Draw a card. Activate this ability only if this creature attacked this turn.”	2/3		normal	CNY		Art Validated

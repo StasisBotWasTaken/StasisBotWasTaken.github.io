@@ -1,0 +1,1 @@
+﻿Combat Corporal	U	common	Creature – Human Soldier 	40	U	1U	VigilanceNEWLINET, Sacrifice a creature: Target creature can’t be blocked this turn. Activate only if you control a black permanent.	2/1		normal	CNY		Art Validated

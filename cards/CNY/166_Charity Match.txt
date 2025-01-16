@@ -1,0 +1,1 @@
+﻿Charity Match	WG	uncommon	Instant	166	WG	GW	Teach target creature you control lifelink. It fights up to one target creature you don’t control. (To teach lifelink, put a lifelink counter on it. If it already has lifelink, put a +1/+1 counter on it instead.)			normal	CNY		Art Validated

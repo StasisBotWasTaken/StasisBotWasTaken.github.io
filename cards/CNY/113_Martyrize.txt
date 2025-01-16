@@ -1,0 +1,1 @@
+﻿Martyrize	R	uncommon	Sorcery	113	R	R	As an additional cost to cast this spell, sacrifice a creature.NEWLINEExile the top X cards of your library, where X is the sacrificed creature’s power. Until the end of your next turn, you may play those cards.			normal	CNY		Art Validated

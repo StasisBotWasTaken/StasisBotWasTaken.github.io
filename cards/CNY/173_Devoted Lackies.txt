@@ -1,0 +1,1 @@
+﻿Devoted Lackies	BR	uncommon	Creature – Human Assassin 	173	BR	BR	DeathtouchNEWLINEWhen you sacrifice Devoted Lackies as a cost to cast a spell or activate an ability that isn’t a mana ability, copy that spell or ability. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)	2/2		normal	CNY		Art Validated

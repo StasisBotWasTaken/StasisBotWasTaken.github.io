@@ -1,0 +1,1 @@
+﻿Work Safety Violation	BRG	rare	Sorcery	232	BRG	2BRG	Target player separates all nonland permanents they control into two piles. That player sacrifices all permanents in the pile of your choice.			normal	CNY		NSFWNEWLINEArt Validated

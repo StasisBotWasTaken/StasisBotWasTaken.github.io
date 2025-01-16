@@ -1,0 +1,1 @@
+﻿Nourishing Orator	WG	uncommon	Creature – Human Advisor 	239	WG	1G/WG/W	Whenever you gain life, put a +1/+1 counter on Nourishing Orator.NEWLINE2GW: Nourishing Orator gains lifelink until end of turn.	3/2		normal	CNY		Art Validated

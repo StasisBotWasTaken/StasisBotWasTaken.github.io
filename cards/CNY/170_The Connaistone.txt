@@ -1,0 +1,1 @@
+﻿The Connaistone	WUB	mythic	Legendary Artifact	170	WUB	1WUB	If you would draw a card while your library has no cards in it, instead you may put a card you own from outside the game into your hand.NEWLINET: Draw two cards, then discard a card.			normal	CNY		Art Validated

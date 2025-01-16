@@ -1,0 +1,1 @@
+﻿Main Street Hooligang	R	common	Creature – Lizard Rogue 	112	R	1R	TrampleNEWLINEWhen Main Street Hooligang enters, if you control a green permanent, you may have Main Street Hooligang fight target creature.	2/2		normal	CNY		Art Validated

@@ -1,0 +1,1 @@
+﻿Bulk Bioengineering	G	mythic	Enchantment	129	G	2G	You can’t cast noncreature spells.NEWLINECreature spells you cast cost X less to cast, where X is the greatest power among creatures you control.			normal	CNY		Art Validated

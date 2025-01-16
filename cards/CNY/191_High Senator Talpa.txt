@@ -1,0 +1,1 @@
+﻿High Senator Talpa	WU	mythic	Legendary Creature – Human Advisor 	191	WU	2WU	When High Senator Talpa enters, choose target opponent. If you control fewer creatures than that player, create a number of 1/1 colorless Soldier creature tokens equal to the difference. If you have fewer cards in hand than that player, draw cards equal to the difference.	3/3		normal	CNY		Art Validated

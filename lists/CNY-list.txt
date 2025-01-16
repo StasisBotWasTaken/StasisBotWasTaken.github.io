@@ -1,0 +1,330 @@
+14_Incumbency
+49_Gaze Upon Civilization
+85_Old Times Ruminator
+125_Venture Capitalist
+129_Bulk Bioengineering
+2_Army Reserves
+41_Congressional Kraken
+65_Ascend to Power
+95_Alamer, Profit Rerecorder
+127_Aspiring Anarchist
+6_Chromatic Rift
+43_Demographer
+71_Corrupt Congressman
+104_Flaw in the System
+131_Chromagoyf
+8_Distributive Justice
+54_Quid Pro Quo
+73_Cryptology
+111_Lightning Warmonger
+133_Disestablishmentarianism
+11_Genotype Splicer
+55_Research Grant
+79_Judge, Jury, and Executioner
+116_Penrath Firearm
+137_Golden Age
+19_Mellan, Defense Attorney
+59_Sterling, Federal Informant
+91_Serve Again
+117_Puppet War
+152_Subsidized Market
+32_Severin's Masterwork
+60_Thesis on Mutation
+93_The Venerable Veteran
+122_Sparks of a Revolution
+156_Zeno, Planar Engineer
+12_Getaway Proxy
+34_Ballot Registrar
+64_Arsenal Mentor
+99_Coercive Contractor
+130_Cabinet Recruiter
+15_Induced Evolution
+36_Bug the Line
+70_Corporate Espionage
+100_Corporate Mentor
+138_Grassroots Campaigners
+16_Laboratory Mentor
+37_Bureau Mentor
+77_Extraction Mission
+102_Expendable Arsonist
+141_Instigating Directive
+20_Minister of Utility
+44_Dormant Monstrosity
+80_Killing in the Name of
+105_Flock Favorites
+142_Insurgency Mentor
+21_Overbearing Researcher
+46_Enlightenment
+82_Merciless Headsman
+106_Gain Traction
+146_Prismatic Confluence
+24_Planned Obsolescence
+57_Sleeper Strix
+84_Noxious Conditions
+107_Gubernatorial Fundraiser
+149_Scourge of Capitalism
+25_Prismatic Propagandist
+61_Trench Commander
+87_Product of Nepotism
+113_Martyrize
+150_Sillaman Regrafter
+26_Prosperity Project
+62_Verity Circle
+88_Rank and Defile
+115_Patent Pending
+151_Sleeper Insurgent
+31_Selective Truthseeker
+63_Veto
+94_Warrant-Borne Cop
+121_Scathing Remarks
+153_Sustainable Investments
+3_Border Junction
+33_Abduct
+66_Blue Collar Bloodsucker
+96_Ardent Voter
+126_Anesthesiologist
+4_Brazen Blackcoats
+35_Bring to the Limelight
+67_Bureau Broodmother
+97_Battlefield Tactician
+128_Bouncers-for-Hire
+5_Change Allegiances
+38_Civic Copterist
+68_Climactic Drop
+98_Capital Maglev
+132_Demolition Team
+7_Codename Cicada
+39_Codename Bumblebee
+69_Codename Ant
+101_Declamation Podium
+134_Escalated Tensions
+9_﻿Eager Voter
+40_Combat Corporal
+72_Covert Infiltrator
+103_Flags on High
+136_Gerrymanderer
+10_Enforcer's Baton
+42_Dampening Reconciliator
+74_Deadly Dispute
+108_Hazakh Commandos
+139_Idealistic Voter
+13_Held in Contempt
+45_Election Fraud
+75_Estranged Aristocrat
+109_Hired Shot
+140_Inner City Scout
+17_Magnetic Rhetorician
+47_Evasive Tactics
+76_Expendable Medic
+110_Inflammatory Declaimer
+143_International Development
+18_Medic's Implant
+48_Expendable Researcher
+78_Hazakh Conscriptor
+112_Main Street Hooligang
+144_Invest
+22_Penrath Roperunner
+50_Informed Voter
+81_Lofty Voter
+118_Reckless Jailbreak
+145_Mana Harvesters
+27_Replicated Regiment
+51_Invader of Privacy
+83_Night Squad
+119_Resourceful Hireling
+147_Ram Through
+28_Retaliatory Outburst
+53_Political Prisoner
+86_Presidential Pardon
+120_Revolutionary Throng
+148_Ruinous Discovery
+29_Rogue Justiciar
+56_Rush for Results
+89_Rigged Trial
+123_Splintering Blast
+154_Test Subject Alpha
+30_Seasoned Spymaster
+58_Stasis Chamber
+90_Senators' Chauffeur
+124_Up-and-Comer
+155_Triumphant Herd
+er
+er
+er
+er
+er
+191_High Senator Talpa
+209_Scrapyard Mecha
+185_Garren, Returned Prophet
+179_Estrathian Gentrifiers
+220_Survivors of the New World
+181_Eyes of the Bureau
+172_Defect
+174_Dhante's Inferno
+163_Campaign Rally
+159_Axiomatic Shift
+199_Neuralinked Hive
+192_Identity Forger
+186_Gatherer of Grievances
+230_Vishanki Hellkite
+177_Empowered Revisionary
+187_Genetics Prodigy
+168_Chittering Gargantua
+173_Devoted Lackies
+183_Free Market
+166_Charity Match
+211_Security Initiative
+210_Search and Seizure
+195_Liquidate
+218_Speculative Stockbroker
+223_Together in Arms
+216_Social Engineering
+213_Silence the Opposition
+196_Meeting of the Elites
+227_Vertical Integration
+225_Underclass Hero
+241_Private Investigators
+235_Eyes in the Sky
+237_Loophole Exploiter
+238_Metropolitan Champion
+239_Nourishing Orator
+194_Legislative Gridlock
+224_Traumatic Recollection
+201_Patron of Arms
+198_Mutinous Inciter
+175_Diplomatic Alliance
+245_Senate Filibuster
+244_Rooftop Whistlesilencer
+236_Ignited Soul
+243_Proletarian Rabble
+234_Estrathian Philanthropist
+er
+er
+er
+er
+er
+242_Projects Overseer
+233_Debt Collectors
+240_Pinnacle of Progress
+247_Volatile Sergeant
+246_Trailblazer Anarch
+er
+er
+er
+er
+er
+167_Chief Executive Dhante
+170_The Connaistone
+178_Eo, the Great Equalizer
+193_Krint, Five Star
+212_Severin, Sparkmind
+171_Coup D'Etat
+180_Exemplar of Grit
+184_Freightyard Scrappers
+188_Genome Project
+189_Hazakh Agenda
+200_Out With a Bang
+202_Penrath Agenda
+204_Penrath Dispatcher
+205_Prime for Innovation
+208_Scandalous Revelation
+214_Sillaman Agenda
+221_Tiril Agenda
+228_Vishanki Agenda
+231_Whirring Inspector
+232_Work Safety Violation
+157_Adaptive Hydra
+158_Assault Engine
+160_Bioengineered Opus
+161_Black-Tie Gala
+162_Blackout
+164_Carlisle, Grid Globalizer
+165_Central Processor
+169_Codename Spyder
+176_Dissect
+182_The First Battalion
+197_Mondo, Outcast Maverick
+207_Reconnaissance Agent
+217_Sola, Contraband Playboy
+219_Storm the Senate
+226_Urban Twinmotors
+190_Hazakh Ambassador
+203_Penrath Ambassador
+215_Sillaman Ambassador
+222_Tiril Ambassador
+229_Vishanki Ambassador
+206_The Quindral Accords
+e
+e
+e
+e
+er
+er
+er
+er
+er
+1_Tomer, Figurehead President
+248_The Majority Whip
+e
+e
+e
+er
+er
+er
+er
+er
+250_Congressional Hall
+256_Interrogation Chamber
+253_Executive Office
+258_Neglected Slums
+259_Open Air Boardwalk
+254_Groupthink Tank
+257_Looming Skyscrapers
+251_Controlled Ecosystem
+249_Bustling Motorway
+264_Urban Sunscape
+er
+er
+er
+er
+er
+252_Estrathe, Center of Civilization
+255_Hazakh District
+260_Penrath District
+261_Redeveloped Cityscape
+262_Sillaman District
+263_Tiril District
+265_Vishanki District
+e
+e
+e
+er
+er
+er
+er
+er
+23_Plains
+52_Island
+92_Swamp
+114_Mountain
+135_Forest
+er
+er
+er
+er
+er
+1t_CNY CLIQUE TOKEN REMINDER
+2t_CNY Minion
+3t_CNY Soldier
+4t_CNY Berserker
+5t_CNY Chaneryx, Perfect Lifeform
+6t_CNY Hazakh Arsenal
+7t_CNY Penrath Insurgency
+8t_CNY Sillaman Laboratories
+9t_CNY Tiril Bureau
+10t_CNY Vishanki Inc
+11t_CNY Equipment
+12t_CNY Robot
+13t_CNY Sentry of the New World
+14t_CNY Treasure
+e

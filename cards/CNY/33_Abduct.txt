@@ -1,0 +1,1 @@
+﻿Abduct	U	common	Instant	33	U	3U	Put target creature on top of its owner’s library. Its controller surveils 1, then you surveil 1. (To surveil 1, look at the top card of your library. You may put that card into your graveyard.)			normal	CNY		Art Validated

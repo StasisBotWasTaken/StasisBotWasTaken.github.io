@@ -1,0 +1,1 @@
+﻿Covert Infiltrator	B	common	Creature – Shapeshifter Scout 	72	B	2B	MenaceNEWLINEWhen Covert Infiltrator is put into your graveyard from your library, you may pay 2 life. If you do or if you control a blue permanent, return it to your hand.	2/3		normal	CNY		Art Validated

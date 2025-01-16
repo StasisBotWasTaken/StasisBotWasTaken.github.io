@@ -1,0 +1,1 @@
+﻿Penrath District		uncommon	Land	260	WRG		Penrath District enters tapped unless you control a Mountain, a Forest, and a Plains.NEWLINET: Add R, G, or W.			normal	CNY		!tappedNEWLINEArt Validated

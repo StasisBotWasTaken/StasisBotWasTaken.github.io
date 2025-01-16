@@ -1,0 +1,1 @@
+﻿Alamer, Profit Rerecorder	R	rare	Legendary Creature – Human Noble 	95	R	3R	Whenever you cast a spell, if mana from an artifact source was spent to cast it, you may copy that spell, and you may choose new targets for the copy. Do this only once each turn. (A copy of a permanent spell becomes a token.)	3/3		normal	CNY		Art Validated

@@ -1,0 +1,1 @@
+﻿Expendable Arsonist	R	uncommon	Creature – Minion 	102	R	1R	Trample, hasteNEWLINEDecayed (This can’t block. When it attacks, sacrifice it at end of combat.)	4/4		normal	CNY		Art Validated

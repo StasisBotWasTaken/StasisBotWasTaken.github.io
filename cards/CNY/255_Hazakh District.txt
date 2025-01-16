@@ -1,0 +1,1 @@
+﻿Hazakh District		uncommon	Land	255	UBR		Hazakh District enters tapped unless you control an Island, a Swamp, and a Mountain.NEWLINET: Add U, B, or R.			normal	CNY		!tappedNEWLINEArt Validated

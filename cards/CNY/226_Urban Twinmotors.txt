@@ -1,0 +1,1 @@
+﻿Urban Twinmotors	WRG	uncommon	Creature – Human Rogue 	226	WRG	1RGW	Double strikeNEWLINEWhenever Urban Twinmotors deals combat damage to a player, untap up to one target permanent.	2/3		normal	CNY		Art Validated

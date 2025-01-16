@@ -1,0 +1,1 @@
+﻿Axiomatic Shift	WG	rare	Sorcery	159	WG	XGW	As an additional cost to cast this spell, remove any number of counters from among creatures you control. This spell costs 1 less to cast for each counter removed this way.NEWLINESearch your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle.			normal	CNY		Art Validated

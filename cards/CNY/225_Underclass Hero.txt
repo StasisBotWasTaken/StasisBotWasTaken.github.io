@@ -1,0 +1,1 @@
+﻿Underclass Hero	WG	uncommon	Creature – Human Soldier 	225	WG	1GW	LifelinkNEWLINESpells you cast and abilities you activate that target creatures you control cost 2 less. This effect can’t reduce the mana in that cost to less than one mana.	3/3		normal	CNY		Art Validated

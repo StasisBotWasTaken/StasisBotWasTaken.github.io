@@ -1,0 +1,1 @@
+﻿Resourceful Hireling	R	common	Creature – Elf Artificer 	119	R	2R	When Resourceful Hireling enters, choose one –NEWLINE• Create a 0/0 colorless Robot artifact creature token with a +1/+1 counter on it.NEWLINE• Create a Treasure token.	2/1		normal	CNY		Art Validated

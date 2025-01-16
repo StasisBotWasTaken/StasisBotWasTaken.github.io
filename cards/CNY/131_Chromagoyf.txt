@@ -1,0 +1,1 @@
+﻿Chromagoyf	G	rare	Creature – Lhurgoyf 	131	G	1G	TrampleNEWLINEApproval – Chromagoyf’s power and toughness are each equal to the number of colors among permanents you control.	*/*		normal	CNY		Art Validated

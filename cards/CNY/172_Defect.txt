@@ -1,0 +1,1 @@
+﻿Defect	UB	rare	Enchantment – Aura 	172	UB	1UB	Enchant creatureNEWLINEYou control enchanted creature.NEWLINEEnchanted creature has decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)			normal	CNY		Art Validated

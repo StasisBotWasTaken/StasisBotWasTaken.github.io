@@ -1,0 +1,1 @@
+﻿Debt Collectors	BG	common	Creature – Azra Assassin 	233	BG	2B/G	DeathtouchNEWLINE1, T: Create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)	1/3		normal	CNY		Art Validated

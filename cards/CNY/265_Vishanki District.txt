@@ -1,0 +1,1 @@
+﻿Vishanki District		uncommon	Land	265	BRG		Vishanki District enters tapped unless you control a Swamp, a Mountain, and a Forest.NEWLINET: Add B, R, or G.			normal	CNY		!tappedNEWLINEArt Validated

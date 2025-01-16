@@ -1,0 +1,1 @@
+﻿Sillaman Regrafter	G	uncommon	Creature – Human Artificer 	150	G	1G	When Sillaman Regrafter enters, put a +1/+1 counter on target creature you control.NEWLINEWhenever a creature you control dies, you may move a counter from it onto another target creature.	1/1		normal	CNY		Art Validated

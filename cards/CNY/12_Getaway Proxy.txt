@@ -1,0 +1,1 @@
+﻿Getaway Proxy	W	uncommon	Creature – Human Rogue 	12	W	W	FlashNEWLINEWhen Getaway Proxy enters, you may choose another creature you control. Move any number of counters from that creature onto Getaway Proxy. Attach to Getaway Proxy any number of Auras that are attached to that creature. Then return that creature to its owner’s hand.	1/1		normal	CNY		Art Validated

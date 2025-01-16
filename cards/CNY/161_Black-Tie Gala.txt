@@ -1,0 +1,1 @@
+﻿Black-Tie Gala	BRG	uncommon	Enchantment	161	WUBRG	BRG	Creatures you control have “T: Create a Treasure token.”  (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)NEWLINEWUBRG, Sacrifice Black-Tie Gala: Draw two cards.			normal	CNY		Art Validated

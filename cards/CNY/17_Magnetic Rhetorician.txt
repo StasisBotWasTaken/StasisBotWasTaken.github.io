@@ -1,0 +1,1 @@
+﻿Magnetic Rhetorician	W	common	Creature – Vedalken Advisor 	17	W	4W	Whenever Magnetic Rhetorician attacks, make a pledge. (Create any white Clique enchantment token. If you already control a Clique, instead activate its Pledge without paying its cost.)	3/5		normal	CNY		Art ValidatedNEWLINE!addtoken Tiril Bureau;1;Sillaman Laboratories;1;Penrath Insurgency;1

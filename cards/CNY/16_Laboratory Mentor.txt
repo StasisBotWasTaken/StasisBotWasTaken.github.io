@@ -1,0 +1,1 @@
+﻿Laboratory Mentor	W	uncommon	Creature – Vedalken Artificer 	16	W	2W	LifelinkNEWLINEWhenever Laboratory Mentor attacks, teach target attacking creature with lesser power lifelink. (To teach lifelink, put a lifelink counter on it. If it already has lifelink, put a +1/+1 counter on it instead.)	3/1		normal	CNY		Art Validated

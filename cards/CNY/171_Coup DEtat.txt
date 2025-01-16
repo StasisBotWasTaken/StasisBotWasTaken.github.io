@@ -1,0 +1,1 @@
+﻿Coup D'Etat	UBR	rare	Sorcery	171	UBR	XUBR	Choose up to X target creatures. Switch their power and toughness until end of turn.NEWLINEAll creatures get -3/-3 until end of turn.			normal	CNY		!!exportname Coup D'EtatNEWLINEArt Validated

@@ -1,0 +1,1 @@
+﻿Civic Copterist	U	common	Creature – Human Soldier 	38	U	3U	FlyingNEWLINEWhen Civic Copterist enters, teach target creature flying. (Put a flying counter on it. If it already has flying, put a +1/+1 counter on it instead.)	2/2		normal	CNY		Art Validated

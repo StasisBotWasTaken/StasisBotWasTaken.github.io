@@ -1,0 +1,1 @@
+﻿Zeno, Planar Engineer	G	rare	Legendary Artifact Creature – Human Artificer 	156	G	2G	Whenever a counter is put on another creature you control, you may put a counter of the same kind on Zeno. Then if there are no other counters of that kind on Zeno, draw a card. Do this only once each turn.	3/3		normal	CNY		Art Validated

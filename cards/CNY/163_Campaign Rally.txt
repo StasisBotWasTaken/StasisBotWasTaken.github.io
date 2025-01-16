@@ -1,0 +1,1 @@
+﻿Campaign Rally	RG	rare	Enchantment	163	RG	3RG	Whenever you attack, draw a card for each attacking creature with power 4 or greater, then put a +1/+1 counter on each attacking creature with power 3 or less.			normal	CNY		Art Validated

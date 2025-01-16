@@ -1,0 +1,1 @@
+﻿Inflammatory Declaimer	R	common	Creature – Human Advisor 	110	R	4R	Approval – When Inflammatory Declaimer enters, it deals X damage to each opponent, where X is the number of colors among permanents you control.	4/3		normal	CNY		Art Validated

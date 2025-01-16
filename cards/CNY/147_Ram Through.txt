@@ -1,0 +1,1 @@
+﻿Ram Through	G	common	Instant	147	G	1G	Target creature you control deals damage equal to its power to target creature you don’t control. If the creature you control has trample, excess damage is dealt to that creature’s controller instead.			normal	CNY		ReprintNEWLINEArt Validated

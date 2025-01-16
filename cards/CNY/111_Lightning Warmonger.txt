@@ -1,0 +1,1 @@
+﻿Lightning Warmonger	R	rare	Creature – Human Soldier 	111	R	2R	T: Add RRR. Spend this mana only to cast creature spells. If that mana is spent on a creature spell, it enters with an additional haste counter and decayed counter on it. (It can’t block. When it attacks, sacrifice it at end of combat.)	3/2		normal	CNY		Flag: Maybe too much rampNEWLINEArt Validated

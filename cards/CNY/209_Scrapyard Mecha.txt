@@ -1,0 +1,1 @@
+﻿Scrapyard Mecha	UB	mythic	Artifact – Vehicle 	209	UB	1UB	Whenever one or more creatures you control deal combat damage to a player, you may draw that many cards. If you do, discard a card.NEWLINEExile two creature cards from your graveyard: Scrapyard Mecha becomes an artifact creature until end of turn. Activate only as a sorcery.NEWLINECrew 2	5/5		normal	CNY		Art Validated

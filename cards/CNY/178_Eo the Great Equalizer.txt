@@ -1,0 +1,1 @@
+﻿Eo, the Great Equalizer	WRG	mythic	Legendary Creature – Giant Avatar 	178	WRG	RGW	TrampleNEWLINEOther creatures have base power and toughness 3/3.NEWLINEAt the beginning of your end step, sacrifice Eo unless you attacked this turn.	3/3		normal	CNY		Flag: Maybe too swingyNEWLINEArt Validated

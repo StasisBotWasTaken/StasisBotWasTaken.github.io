@@ -1,0 +1,1 @@
+﻿Sillaman District		uncommon	Land	262	WUG		Sillaman District enters tapped unless you control a Forest, a Plains, and an Island.NEWLINET: Add G, W, or U.			normal	CNY		!tappedNEWLINEArt Validated

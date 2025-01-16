@@ -1,0 +1,1 @@
+﻿Corporate Mentor	R	uncommon	Creature – Human Noble 	100	R	3R	MenaceNEWLINEWhenever Corporate Mentor attacks, teach target attacking creature with lesser power menace. (To teach menace, put a menace counter on it. If it already has menace, put a +1/+1 counter on it instead.)	4/2		normal	CNY		Art Validated

@@ -1,0 +1,1 @@
+﻿Gatherer of Grievances	BR	rare	Creature – Human Advisor 	186	BR	2BR	Whenever you sacrifice a nonland permanent, each opponent sacrifices a permanent that shares a card type with it.NEWLINE3, T, Sacrifice another creature: Gatherer of Grievances deals damage equal to the sacrificed creature’s power to target player. Activate only as a sorcery.	4/2		normal	CNY		Art Validated

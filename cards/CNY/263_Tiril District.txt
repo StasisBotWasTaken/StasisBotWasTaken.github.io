@@ -1,0 +1,1 @@
+﻿Tiril District		uncommon	Land	263	WUB		Tiril District enters tapped unless you control a Plains, an Island, and a Swamp.NEWLINET: Add W, U, or B.			normal	CNY		!tappedNEWLINEArt Validated

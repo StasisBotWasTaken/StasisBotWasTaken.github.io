@@ -1,0 +1,1 @@
+﻿Political Prisoner	U	common	Creature – Human 	53	U	1U	DefenderNEWLINEApproval – Political Prisoner can attack as though it didn’t have defender as long as the number of colors among permanents you control is greater than the number of colors among permanents defending player controls.	3/3		normal	CNY		Art Validated

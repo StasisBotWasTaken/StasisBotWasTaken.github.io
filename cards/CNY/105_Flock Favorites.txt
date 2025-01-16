@@ -1,0 +1,1 @@
+﻿Flock Favorites	R	uncommon	Creature – Human Noble 	105	R	4R	Approval – When Flock Favorites enters, exile the top X cards of your library, where X is the number of colors among permanents you control. Until the end of your next turn, you may play those cards.	3/2		normal	CNY		Art Validated

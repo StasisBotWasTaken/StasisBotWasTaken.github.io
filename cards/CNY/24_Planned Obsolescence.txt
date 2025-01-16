@@ -1,0 +1,1 @@
+﻿Planned Obsolescence	W	uncommon	Enchantment – Aura 	24	W	W	Enchant nonland permanentNEWLINEWhenever a nonland permanent you control enters, if its mana value is greater than enchanted permanent’s, exile enchanted permanent.			normal	CNY		Art Validated

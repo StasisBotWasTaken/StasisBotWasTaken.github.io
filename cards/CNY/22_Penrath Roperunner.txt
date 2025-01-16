@@ -1,0 +1,1 @@
+﻿Penrath Roperunner	W	common	Creature – Human Rogue 	22	W	5W	FlyingNEWLINEWhenever you attack, target attacking creature gets +1/+1 until end of turn. If you control a green permanent, instead put a +1/+1 counter on that creature.	3/3		normal	CNY		Art Validated

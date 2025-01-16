@@ -1,0 +1,1 @@
+﻿Out With a Bang	WRG	rare	Sorcery	200	WRG	RGW	Until end of turn, target creature you control gets +2/+2 and gains “Whenever this creature is dealt damage, you may have it fight target creature you don’t control.” Then, it fights target creature you don’t control.			normal	CNY		Art Validated

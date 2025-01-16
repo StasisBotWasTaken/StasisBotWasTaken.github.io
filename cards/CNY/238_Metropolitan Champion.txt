@@ -1,0 +1,1 @@
+﻿Metropolitan Champion	RG	uncommon	Creature – Human Warrior 	238	RG	3R/GR/G	TrampleNEWLINECreatures you control with trample have “1RG: This creature must be blocked each combat this turn if able.”	5/4		normal	CNY		Art Validated

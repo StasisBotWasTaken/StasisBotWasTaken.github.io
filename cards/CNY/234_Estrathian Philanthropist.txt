@@ -1,0 +1,1 @@
+﻿Estrathian Philanthropist	WG	common	Creature – Human Noble 	234	WG	2G/W	Lifelink (Damage dealt by this creature also causes you to gain that much life.)NEWLINEWhen Estrathian Philanthropist enters, put a +1/+1 counter on target creature.	1/2		normal	CNY		Art Validated

@@ -1,0 +1,1 @@
+﻿The Majority Whip		mythic	Legendary Artifact – Equipment 	248	C	1	Equipped creature gets +2/+2.NEWLINEAs long as there are five colors among permanents you control, equipped creature has indestructible.NEWLINEEquip 5. This ability costs 1 less to activate for each of its target’s colors.			normal	CNY		Art Validated

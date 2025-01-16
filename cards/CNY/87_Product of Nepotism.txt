@@ -1,0 +1,1 @@
+﻿Product of Nepotism	B	uncommon	Creature – Human Noble 	87	B	1B	Whenever you cast a spell, if mana from an artifact source was spent to cast it, you may pay 1 life. If you do, draw a card. Do this only once each turn.	2/1		normal	CNY		Art Validated

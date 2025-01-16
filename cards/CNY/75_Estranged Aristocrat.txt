@@ -1,0 +1,1 @@
+﻿Estranged Aristocrat	B	common	Creature – Elf Noble 	75	B	1B	T, Pay 1 life, Sacrifice an artifact or creature: Make a pledge. (Create any black Clique enchantment token. If you already control a Clique, instead activate its Pledge without paying its cost.)	1/3		normal	CNY		Art ValidatedNEWLINE!addtoken Vishanki Inc.;1;Hazakh Arsenal;1;Tiril Bureau;1

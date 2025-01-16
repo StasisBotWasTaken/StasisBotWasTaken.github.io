@@ -1,0 +1,1 @@
+﻿Merciless Headsman	B	uncommon	Creature – Zombie Assassin 	82	B	2B	When Merciless Headsman enters, create a 2/2 colorless Minion creature token with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)NEWLINE1B, Sacrifice another creature: Draw a card.	2/3		normal	CNY		Art Validated

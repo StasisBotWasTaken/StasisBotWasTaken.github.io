@@ -1,0 +1,1 @@
+﻿Sola, Contraband Playboy	BRG	uncommon	Legendary Creature – Human Advisor 	217	BRG	BRG	When Sola enters, create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)NEWLINE2, Sacrifice a Treasure: You gain 3 life.NEWLINE2, Sacrifice a Treasure: Draw a card.	3/3		normal	CNY		Art Validated

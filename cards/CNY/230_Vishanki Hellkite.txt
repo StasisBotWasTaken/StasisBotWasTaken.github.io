@@ -1,0 +1,1 @@
+﻿Vishanki Hellkite	RG	rare	Creature – Dragon 	230	RG	4RG	Flying, trample, hasteNEWLINEVishanki Hellkite enters with a +1/+1 counter on it for each mana from an artifact source spent to cast it.	4/4		normal	CNY		Art Validated

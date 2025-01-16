@@ -1,0 +1,1 @@
+﻿CNY Berserker	R	common	Token Creature – Berserker 	4	R		HasteNEWLINEThis creature can’t block.	2/2		token	CNY		!!exportname CNY BerserkerNEWLINE!related Penrath Agenda;NEWLINEArt Validated

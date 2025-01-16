@@ -1,0 +1,1 @@
+﻿Lofty Voter	B	common	Creature – Human Citizen 	81	B	2B	FlyingNEWLINEWhen Lofty Voter enters, make a pledge. (Create any black Clique enchantment token. If you already control a Clique, instead activate its Pledge without paying its cost.)	2/1		normal	CNY		Art ValidatedNEWLINE!addtoken Vishanki Inc.;1;Hazakh Arsenal;1;Tiril Bureau;1

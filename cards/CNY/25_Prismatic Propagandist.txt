@@ -1,0 +1,1 @@
+﻿Prismatic Propagandist	W	uncommon	Creature – Vedalken Advisor 	25	W	3W	Approval – When Prismatic Propagandist enters, create X 1/1 colorless Soldier creature tokens, where X is the number of colors among permanents you control.	2/2		normal	CNY		Art Validated

@@ -1,0 +1,1 @@
+﻿Idealistic Voter	G	common	Creature – Centaur Citizen 	139	G	2G	TrampleNEWLINEWhen Idealistic Voter enters, make a pledge. (Create any green Clique enchantment token. If you already control a Clique, instead activate its Pledge without paying its cost.)	3/3		normal	CNY		Art ValidatedNEWLINE!addtoken Sillaman Laboratories;1;Penrath Insurgency;1;Vishanki Inc.;1

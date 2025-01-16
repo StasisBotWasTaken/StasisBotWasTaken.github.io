@@ -1,0 +1,1 @@
+﻿CNY Robot		common	Token Artifact Creature – Robot 	12	C			0/0		token	CNY		!!exportname CNY RobotNEWLINE!related Resourceful Hireling;Prosperity Project;Social Engineering;Central Processor;Subsidized Market;Severin, Sparkmind;NEWLINEArt Validated

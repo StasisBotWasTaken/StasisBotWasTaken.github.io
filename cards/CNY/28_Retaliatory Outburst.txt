@@ -1,0 +1,1 @@
+﻿Retaliatory Outburst	W	common	Instant	28	W	2W	This spell has lifelink as long as you control a creature with lifelink. (Damage dealt by this spell also causes you to gain that much life.)NEWLINERetaliatory Outburst deals 4 damage to target tapped creature.			normal	CNY		Art Validated

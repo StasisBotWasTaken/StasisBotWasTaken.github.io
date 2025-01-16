@@ -1,0 +1,1 @@
+﻿Penrath Ambassador	WRG	common	Creature – Human Advisor 	203	WRG	2RGW	When Penrath Ambassador enters, target creature must be blocked each combat this turn if able and target creature can’t block this turn.NEWLINEBasic landcycling 1G (1G, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)	5/2		normal	CNY		Art Validated

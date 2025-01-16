@@ -1,0 +1,1 @@
+﻿Bureau Broodmother	B	common	Artifact Creature – Orb 	67	B	4B	At the beginning of your end step, if a creature card or creature token was put into your graveyard from anywhere this turn, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)	3/6		normal	CNY		Art Validated

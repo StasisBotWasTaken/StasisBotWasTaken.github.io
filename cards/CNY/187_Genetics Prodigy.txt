@@ -1,0 +1,1 @@
+﻿Genetics Prodigy	WU	uncommon	Creature – Insect Artificer 	187	WU	3WU	Genetics Prodigy enters with a +1/+1 counter, a flying counter, and a vigilance counter on it.NEWLINEWhenever Genetics Prodigy attacks, you may remove a counter from it. If you do, draw a card.	2/2		normal	CNY		Art Validated

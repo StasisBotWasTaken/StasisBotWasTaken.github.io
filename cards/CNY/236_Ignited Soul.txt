@@ -1,0 +1,1 @@
+﻿Ignited Soul	BR	common	Creature – Human Soldier 	236	BR	B/R	MenaceNEWLINEWhenever Ignited Soul deals combat damage to a player, you may discard a card. If you do, draw a card.	1/1		normal	CNY		Art Validated

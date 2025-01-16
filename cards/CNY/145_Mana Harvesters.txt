@@ -1,0 +1,1 @@
+﻿Mana Harvesters	G	common	Creature – Human Artificer 	145	G	1G	T: Add one mana of any color.NEWLINEWhenever you cast a multicolored spell, untap Mana Harvesters. This ability triggers only once each turn.	1/2		normal	CNY		Art Validated

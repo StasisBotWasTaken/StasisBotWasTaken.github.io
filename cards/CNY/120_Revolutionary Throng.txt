@@ -1,0 +1,1 @@
+﻿Revolutionary Throng	R	common	Creature – Human Rogue 	120	R	2R	TrampleNEWLINEWhenever Revolutionary Throng attacks, if you control another creature with power 4 or greater, it gets +2/+0 until end of turn.	2/3		normal	CNY		Art Validated

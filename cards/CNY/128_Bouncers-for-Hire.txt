@@ -1,0 +1,1 @@
+﻿Bouncers-for-Hire	G	common	Creature – Orc Soldier 	128	G	2G	Bouncers-for-Hire can’t attack unless you control a red permanent.	4/3		normal	CNY		Art Validated

@@ -1,0 +1,1 @@
+﻿Gain Traction	R	uncommon	Enchantment – Aura 	106	R	R	Enchant creatureNEWLINEEnchanted creature attacks each combat if able.NEWLINEWhenever enchanted creature attacks, teach it trample. (Put a trample counter on it. If it already has trample, put a +1/+1 counter on it instead.)			normal	CNY		Art Validated

@@ -1,0 +1,1 @@
+﻿Medic's Implant	W	common	Instant	18	W	1W	Target creature gains indestructible until end of turn. Teach it lifelink. (Put a lifelink counter on it. If it already has lifelink, put a +1/+1 counter on it instead.)			normal	CNY		!!exportname Medic's ImplantNEWLINEArt Validated

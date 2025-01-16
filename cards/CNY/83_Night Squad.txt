@@ -1,0 +1,1 @@
+﻿Night Squad	B	common	Creature – Human Assassin 	83	B	3B	When Night Squad enters, teach target creature menace. If you put a +1/+1 counter on it this way, it can’t be blocked this turn. (To teach menace, put a menace counter on it. If it already has menace, put a +1/+1 counter on it instead.)	4/2		normal	CNY		Art Validated

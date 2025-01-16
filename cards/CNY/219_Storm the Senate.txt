@@ -1,0 +1,1 @@
+﻿Storm the Senate	WRG	uncommon	Sorcery	219	WRG	4RGW	Any number of creatures you control fight different creatures you don’t control. Each other creature you control gets +3/+3 and gains trample until end of turn.			normal	CNY		Art Validated

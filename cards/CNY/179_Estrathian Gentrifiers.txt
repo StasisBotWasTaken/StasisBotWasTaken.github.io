@@ -1,0 +1,1 @@
+﻿Estrathian Gentrifiers	RG	mythic	Creature – Human Artificer 	179	RG	1RG	Estrathian Gentrifiers’s power is equal to the number of differently named lands you control.NEWLINEWhenever Estrathian Gentrifiers enters or attacks, you may sacrifice a basic land. If you do, search your library for a land card, put it onto the battlefield, then shuffle.	*/3		normal	CNY		Art Validated

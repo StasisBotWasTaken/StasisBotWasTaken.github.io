@@ -1,0 +1,1 @@
+﻿Overbearing Researcher	W	uncommon	Creature – Human Artificer 	21	W	1W	When Overbearing Researcher enters, put a +1/+1 counter on target creature.NEWLINEEach creature you control has ward X, where X is the number of counters on that creature.	1/1		normal	CNY		Art Validated

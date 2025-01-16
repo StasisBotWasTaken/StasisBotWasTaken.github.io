@@ -1,0 +1,1 @@
+﻿Presidential Pardon	B	common	Instant	86	B	B	Until end of turn, target creature gains “When this creature dies, return it to the battlefield tapped under its owner’s control and teach it flying.” (Put a flying counter on it. If it already has flying, put a +1/+1 counter on it instead.)			normal	CNY		Art Validated

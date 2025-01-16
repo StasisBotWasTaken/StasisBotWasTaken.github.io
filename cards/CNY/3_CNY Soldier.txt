@@ -1,0 +1,1 @@
+﻿CNY Soldier		common	Token Creature – Soldier 	3	C			1/1		token	CNY		!!exportname CNY SoldierNEWLINE!related Enforcer's Baton;Border Junction<3>;Flags on High<2>;Prismatic Propagandist;Together in Arms<2>;Mondo, Outcast Maverick;Sparks of a Revolution;Freedom;Empowered Revisionary;High Senator Talpa;NEWLINEArt Validated

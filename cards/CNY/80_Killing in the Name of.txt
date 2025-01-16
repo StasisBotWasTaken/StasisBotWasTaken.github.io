@@ -1,0 +1,1 @@
+﻿Killing in the Name of	B	uncommon	Sorcery	80	B	1B	Destroy target monocolored creature. Make a pledge. (Create any black Clique enchantment token. If you already control a Clique, instead activate its Pledge without paying its cost.)			normal	CNY		!!exportname Killing in the Name ofNEWLINEArt ValidatedNEWLINE!addtoken Vishanki Inc.;1;Hazakh Arsenal;1;Tiril Bureau;1

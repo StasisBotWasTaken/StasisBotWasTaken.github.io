@@ -1,0 +1,1 @@
+﻿Sleeper Insurgent	G	uncommon	Creature – Human Rogue 	151	G	1G	Sleeper Insurgent doesn’t untap during your untap step.NEWLINEWhenever Sleeper Insurgent becomes the target of a spell or ability you control, untap it. This ability triggers only once each turn.	4/3		normal	CNY		Art Validated

@@ -1,0 +1,1 @@
+﻿Insurgency Mentor	G	uncommon	Creature – Human Rogue 	142	G	4G	TrampleNEWLINEWhenever Insurgency Mentor attacks, teach target attacking creature with lesser power trample. (To teach trample, put a trample counter on it. If it already has trample, put a +1/+1 counter on it instead.)	5/4		normal	CNY		Art Validated

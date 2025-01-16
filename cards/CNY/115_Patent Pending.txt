@@ -1,0 +1,1 @@
+﻿Patent Pending	R	uncommon	Sorcery	115	BRG	2R	Create a token that’s a copy of target creature you control, except it has haste. Sacrifice it at the beginning of the next end step. If G was spent this spell, the token must be blocked each combat this turn if able. If B was spent to cast this spell, the token gains deathtouch.			normal	CNY		Art Validated

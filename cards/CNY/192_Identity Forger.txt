@@ -1,0 +1,1 @@
+﻿Identity Forger	UB	rare	Creature – Shapeshifter Artificer 	192	UB	UB	X, T, Sacrifice another creature: Create a token that’s a copy of target nontoken creature you control other than Identity Forger with mana value X.	1/3		normal	CNY		Art Validated

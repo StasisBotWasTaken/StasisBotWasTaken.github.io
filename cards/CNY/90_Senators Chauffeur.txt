@@ -1,0 +1,1 @@
+﻿Senators' Chauffeur	B	common	Creature – Skeleton Pilot 	90	B	5B	Approval – When Senators’ Chauffeur enters, return up to one target creature card with mana value less than or equal to the number of colors among permanents you control from your graveyard to the battlefield.	4/4		normal	CNY		Art ValidatedNEWLINE!!exportname Senators' Chauffeur

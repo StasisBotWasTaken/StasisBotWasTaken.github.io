@@ -1,0 +1,1 @@
+﻿Triumphant Herd	G	common	Creature – Elephant 	155	G	4GG	Approval – When Triumphant Herd enters, you gain X life, where X is the number of colors among permanents you control.	7/6		normal	CNY		Art Validated

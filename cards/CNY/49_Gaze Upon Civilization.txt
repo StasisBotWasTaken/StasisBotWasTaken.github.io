@@ -1,0 +1,1 @@
+﻿Gaze Upon Civilization	U	mythic	Enchantment	49	U	3U	You may look at the top card of your library any time.NEWLINEApproval – Once during each of your turns, you may cast a spell with mana value less than or equal to the number of colors among permanents you control from your hand or the top of your library without paying its mana cost.			normal	CNY		Art Validated

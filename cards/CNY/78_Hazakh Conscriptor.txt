@@ -1,0 +1,1 @@
+﻿Hazakh Conscriptor	B	common	Creature – Human Advisor 	78	B	2B	Whenever Hazakh Conscriptor deals combat damage to a player, create a 2/2 colorless Minion creature token with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)	3/2		normal	CNY		Art Validated

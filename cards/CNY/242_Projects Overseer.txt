@@ -1,0 +1,1 @@
+﻿Projects Overseer	WB	common	Creature – Human Scout 	242	WB	1W/B	When Projects Overseer enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)	2/2		normal	CNY		Art Validated

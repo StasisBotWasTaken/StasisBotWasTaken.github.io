@@ -1,0 +1,1 @@
+﻿Speculative Stockbroker	RG	uncommon	Creature – Human Advisor 	218	RG	RG	Whenever another creature you control enters, you may pay XX. If you do, put X +1/+1 counters on that creature.NEWLINET: Add one mana of any color.	1/3		normal	CNY		Art Validated

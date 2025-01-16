@@ -1,0 +1,1 @@
+﻿Blue Collar Bloodsucker	B	common	Creature – Vampire Human 	66	B	3B	FlyingNEWLINEWhen Blue Collar Bloodsucker enters, you gain 2 life. Then if you control a red permanent, Blue Collar Bloodsucker deals 2 damage to each opponent.	3/2		normal	CNY		Art Validated

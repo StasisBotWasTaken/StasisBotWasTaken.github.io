@@ -1,0 +1,1 @@
+﻿Hazakh Commandos	R	common	Creature – Human Berserker 	108	R	4R	MenaceNEWLINEWhen Hazakh Commandos enters, if you control a black permanent, create a 2/2 colorless Minion creature token with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)	5/4		normal	CNY		Art Validated

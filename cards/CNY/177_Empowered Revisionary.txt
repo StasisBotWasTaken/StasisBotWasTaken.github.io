@@ -1,0 +1,1 @@
+﻿Empowered Revisionary	WG	rare	Creature – Human Rogue 	177	WG	3GW	LifelinkNEWLINEWhenever Empowered Revisionary attacks, if its power is greater than its base power, create a number of 1/1 colorless Soldier creature tokens equal to the difference.	4/4		normal	CNY		Art Validated

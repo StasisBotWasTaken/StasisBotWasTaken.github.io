@@ -1,0 +1,1 @@
+﻿Hired Shot	R	common	Instant	109	R	2R	You may pay R rather than pay this spell’s mana cost. Spend only mana produced by artifact sources to cast it this way.NEWLINEHired Shot deals 3 damage to any target.			normal	CNY		Art Validated

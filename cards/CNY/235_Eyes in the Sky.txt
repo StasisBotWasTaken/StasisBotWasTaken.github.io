@@ -1,0 +1,1 @@
+﻿Eyes in the Sky	UB	uncommon	Creature – Human Scout 	235	UB	2U/BU/B	FlyingNEWLINEWhenever a creature you control with flying deals combat damage to a player, you may pay U/B. If you paid U, draw a card. If you paid B, that player discards a card.	2/2		normal	CNY		Art Validated

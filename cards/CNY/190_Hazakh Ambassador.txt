@@ -1,0 +1,1 @@
+﻿Hazakh Ambassador	UBR	common	Creature – Human Advisor 	190	UBR	2UBR	FlashNEWLINEWhen Hazakh Ambassador enters, target creature gains deathtouch until end of turn.NEWLINEBasic landcycling 1B (1B, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)	4/3		normal	CNY		Art Validated

@@ -1,0 +1,1 @@
+﻿Patron of Arms	BR	common	Creature – Human Advisor 	201	BR	1BR	MenaceNEWLINEAt the beginning of your end step, if you’ve sacrificed a permanent this turn, you may discard a card. If you do, draw a card.	3/2		normal	CNY		Art Validated

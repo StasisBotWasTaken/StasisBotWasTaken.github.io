@@ -1,0 +1,1 @@
+﻿Codename Cicada	W	common	Creature – Insect Scout 	7	W	W	FlyingNEWLINE1, T: Surveil 1. This ability costs 1 less to activate if you control a blue permanent. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)	1/1		normal	CNY		Art ValidatedNEWLINE!!exportname Codename Cicada
