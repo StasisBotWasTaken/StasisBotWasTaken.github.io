@@ -1,1 +1,0 @@
-﻿Penrath Dispatcher	WRG	rare	Creature – Human Rogue 	204	WRG	RGW	Whenever Penrath Dispatcher attacks, you may put a creature card with mana value less than or equal to Penrath Dispatcher’s power from your hand onto the battlefield tapped and attacking.NEWLINE2: Penrath Dispatcher gets +1/+1 until end of turn.	3/2		normal	CNY		Art Validated

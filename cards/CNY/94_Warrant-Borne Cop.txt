@@ -1,1 +1,0 @@
-﻿Warrant-Borne Cop	B	uncommon	Creature – Human Soldier 	94	B	2B	Approval – When Warrant-Borne Cop enters, target player reveals X cards from their hand, where X is the number of colors among permanents you control. You choose one of them. That player discards that card.	2/2		normal	CNY		Art Validated

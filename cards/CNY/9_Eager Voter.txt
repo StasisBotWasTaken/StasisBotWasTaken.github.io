@@ -1,1 +1,0 @@
-﻿Eager Voter	W	common	Creature – Human Citizen 	9	W	2W	LifelinkNEWLINEWhen Eager Voter enters, make a pledge. (Create any white Clique enchantment token. If you already control a Clique, instead activate its Pledge without paying its cost.)	2/3		normal	CNY		Art ValidatedNEWLINE!addtoken Tiril Bureau;1;Sillaman Laboratories;1;Penrath Insurgency;1

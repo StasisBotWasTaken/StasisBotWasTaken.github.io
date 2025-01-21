@@ -1,1 +1,0 @@
-﻿Search and Seizure	UB	uncommon	Sorcery	210	UB	UB	Target player reveals their hand. You may choose a nonland card from it. If you do, that player discards that card. Otherwise, draw a card.			normal	CNY		Art Validated

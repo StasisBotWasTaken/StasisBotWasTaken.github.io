@@ -1,1 +1,0 @@
-﻿Splintering Blast	R	common	Sorcery	123	R	3R	Splintering Blast deals 4 damage to target creature. If you controlled a creature with menace as you cast this spell, instead Splintering Blast deals 4 damage divided as you choose among up to two target creatures.			normal	CNY		Art Validated

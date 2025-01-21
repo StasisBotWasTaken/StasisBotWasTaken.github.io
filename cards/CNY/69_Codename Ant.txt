@@ -1,1 +1,0 @@
-﻿Codename Ant	B	common	Creature – Insect Scout 	69	B	1B	When Codename: Ant dies, you may search your library for a card named Codename: Ant, reveal it, put it into your hand, then shuffle.	2/1		normal	CNY		Art ValidatedNEWLINE!!exportname Codename Ant

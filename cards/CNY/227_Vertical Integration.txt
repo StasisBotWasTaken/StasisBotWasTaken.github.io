@@ -1,1 +1,0 @@
-﻿Vertical Integration	RG	uncommon	Instant	227	RG	RG	As an additional cost to cast this spell, tap any number of untapped creatures you control.NEWLINETarget creature gets +X/+0 and gains first strike until end of turn, where X is the total power of creatures tapped to pay this spell’s additional cost.			normal	CNY		Art Validated

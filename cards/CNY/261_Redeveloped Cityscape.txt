@@ -1,1 +1,0 @@
-﻿Redeveloped Cityscape		uncommon	Land	261	C		T, Sacrifice Redeveloped Cityscape, Exile a card from your hand: Search your library for two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.			normal	CNY		Art Validated

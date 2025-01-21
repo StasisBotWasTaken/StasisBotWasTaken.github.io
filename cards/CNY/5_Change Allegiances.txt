@@ -1,1 +1,0 @@
-﻿Change Allegiances	W	common	Sorcery	5	W	1W	Choose one –NEWLINE• Return target artifact or enchantment card from your graveyard to your hand.NEWLINE• Destroy target artifact or enchantment.			normal	CNY		Art Validated

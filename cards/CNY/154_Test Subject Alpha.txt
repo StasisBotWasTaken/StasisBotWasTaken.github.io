@@ -1,1 +1,0 @@
-﻿Test Subject Alpha	G	common	Creature – Rat 	154	G	2G	Test Subject Alpha enters with a +1/+1 counter and a trample counter on it.NEWLINEAt the beginning of your upkeep, you may move a counter from Test Subject Alpha onto another creature.	2/1		normal	CNY		Art Validated

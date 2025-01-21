@@ -1,1 +1,0 @@
-﻿Freightyard Scrappers	BRG	rare	Creature – Dwarf Goblin Human 	184	BRG	BRG	Whenever Freightyard Scrappers attacks, create a Treasure token.NEWLINEX, Sacrifice an artifact: Return target artifact card with mana value X or less from your graveyard to the battlefield. Activate only as a sorcery and only once each turn.	3/3		normal	CNY		Art Validated

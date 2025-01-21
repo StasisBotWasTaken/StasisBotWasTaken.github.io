@@ -1,1 +1,0 @@
-﻿Seasoned Spymaster	W	common	Creature – Human Rogue 	30	W	3W	VigilanceNEWLINEWhen Seasoned Spymaster enters, teach target creature vigilance. (Put a vigilance counter on it. If it already has vigilance, put a +1/+1 counter on it instead.)	3/2		normal	CNY		Art Validated

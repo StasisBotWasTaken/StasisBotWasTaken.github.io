@@ -1,1 +1,0 @@
-﻿Flags on High	R	common	Enchantment	103	R	1R	When Flags on High enters, create two 1/1 colorless Soldier creature tokens.NEWLINE1R, Sacrifice Flags on High: Target creature you control gets +1/+0 and gains haste until end of turn. Activate only as a sorcery.			normal	CNY		Art Validated

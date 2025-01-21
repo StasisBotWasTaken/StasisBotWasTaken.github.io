@@ -1,1 +1,0 @@
-﻿Penrath Firearm	R	rare	Creature – Human Rogue 	116	R	4R	HasteNEWLINEWhenever Penrath Firearm attacks, create a colorless Equipment artifact token with “Equipped creature gets +2/+0” and equip 2 attached to target attacking creature.	3/3		normal	CNY		Art Validated

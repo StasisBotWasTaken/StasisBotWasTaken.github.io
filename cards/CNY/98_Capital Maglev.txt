@@ -1,1 +1,0 @@
-﻿Capital Maglev	R	common	Artifact – Vehicle 	98	R	4R	Sacrifice a Treasure: Capital Maglev gains your choice of haste or trample until end of turn.NEWLINECrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)	7/6		normal	CNY		Art Validated

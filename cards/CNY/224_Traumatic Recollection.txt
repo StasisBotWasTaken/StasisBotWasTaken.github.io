@@ -1,1 +1,0 @@
-﻿Traumatic Recollection	UB	common	Sorcery	224	UB	UB	You may mill two cards. Then destroy target creature if its mana value is less than or equal to the number of cards in your graveyard.			normal	CNY		Art Validated

@@ -1,1 +1,0 @@
-﻿Corporate Espionage	B	uncommon	Enchantment	70	B	1B	Whenever a creature you control deals combat damage to a player, you may sacrifice it. If you do, draw a card. Otherwise, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)			normal	CNY		Art Validated

@@ -1,1 +1,0 @@
-﻿Veto	U	uncommon	Instant	63	U	U	Approval – Counter target noncreature spell unless its controller pays X, where X is the number of colors among permanents you control.			normal	CNY		Art Validated

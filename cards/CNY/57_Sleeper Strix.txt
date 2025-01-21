@@ -1,1 +1,0 @@
-﻿Sleeper Strix	U	uncommon	Artifact Creature – Bird 	57	U	U	FlashNEWLINEFlyingNEWLINEWhen Sleeper Strix enters, tap up to one target creature.NEWLINEYou may look at an additional card each time you surveil.	1/1		normal	CNY		Art ValidatedNEWLINEChanged

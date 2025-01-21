@@ -1,1 +1,0 @@
-﻿Demolition Team	G	common	Creature – Human Artificer 	132	G	4G	When Demolition Team enters, teach target creature trample. If you put a +1/+1 counter on it this way, it must be blocked this turn if able. (To teach trample, put a trample counter on it. If it already has trample, put a +1/+1 counter on it instead.)	5/5		normal	CNY		Art Validated

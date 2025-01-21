@@ -1,1 +1,0 @@
-﻿Judge, Jury, and Executioner	B	rare	Creature – Human Advisor Citizen Assassin 	79	B	3B	FlyingNEWLINEApproval – When Judge, Jury, and Executioner enters, exile up to one target creature with mana value less than or equal to the number of colors among permanents you control.	3/2		normal	CNY		Art Validated

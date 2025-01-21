@@ -1,1 +1,0 @@
-﻿Adaptive Hydra	BRG	uncommon	Artifact Creature – Hydra 	157	BRG	XBRG	When Adaptive Hydra enters, teach it your choice of haste, menace, or vigilance. Then repeat this process X times. (To teach a keyword, put a keyword counter of that kind on it. If it already has that keyword, put a +1/+1 counter on it instead.)	3/3		normal	CNY		Art Validated

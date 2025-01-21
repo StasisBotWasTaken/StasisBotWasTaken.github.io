@@ -1,1 +1,0 @@
-﻿Election Fraud	U	common	Instant	45	U	2U	Draw a card.NEWLINEMake a pledge, then make a pledge again. (Create any blue Clique enchantment token. If you already control a Clique, instead activate its Pledge without paying its cost. Repeat this process once.)			normal	CNY		Art ValidatedNEWLINE!addtoken Hazakh Arsenal;1;Tiril Bureau;1;Sillaman Laboratories;1

@@ -1,1 +1,0 @@
-﻿Brazen Blackcoats	W	common	Creature – Human Soldier 	4	W	1W	LifelinkNEWLINEApproval – 5, T: Tap target creature. This ability costs X less to activate, where X is the number of colors among permanents you control.	2/1		normal	CNY		Art Validated

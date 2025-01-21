@@ -1,1 +1,0 @@
-﻿Stasis Chamber	U	common	Enchantment – Aura 	58	U	U	Enchant creatureNEWLINEWhen Stasis Chamber enters, if you control a creature with vigilance, tap enchanted creature.NEWLINEEnchanted creature doesn’t untap during its controller’s untap step.			normal	CNY		Art Validated

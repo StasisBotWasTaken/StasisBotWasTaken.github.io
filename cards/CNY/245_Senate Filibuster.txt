@@ -1,1 +1,0 @@
-﻿Senate Filibuster	WU	common	Creature – Human Advisor 	245	WU	2W/U	Vigilance (Attacking doesn’t cause this creature to tap.)NEWLINE1, T: Tap target creature.	1/3		normal	CNY		Art Validated

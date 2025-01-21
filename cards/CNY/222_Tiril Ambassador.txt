@@ -1,1 +1,0 @@
-﻿Tiril Ambassador	WUB	common	Creature – Human Advisor 	222	WUB	2WUB	When Tiril Ambassador enters, you may return target nonland card from your graveyard to your hand. You lose life equal to its mana value.NEWLINEBasic landcycling 1U (1U, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)	3/2		normal	CNY		Art Validated

@@ -1,1 +1,0 @@
-﻿Mondo, Outcast Maverick	WRG	uncommon	Legendary Creature – Human Rogue 	197	WRG	2RGW	TrampleNEWLINEWhenever Mondo attacks, create a 1/1 colorless Soldier creature token that’s tapped and attacking, then Mondo gets +X/+0 until end of turn, where X is the number of attacking creatures.	3/4		normal	CNY		Art Validated

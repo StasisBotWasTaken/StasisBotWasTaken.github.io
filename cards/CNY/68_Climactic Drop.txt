@@ -1,1 +1,0 @@
-﻿Climactic Drop	B	common	Instant	68	B	2B	Destroy target creature if it has power 3 or less or if you control a creature with flying.			normal	CNY		Art Validated

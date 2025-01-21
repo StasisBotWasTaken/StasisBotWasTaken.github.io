@@ -1,1 +1,0 @@
-﻿Up-and-Comer	R	common	Creature – Human Advisor 	124	R	1R	Approval – 3, T, Discard a card: Draw a card. This ability costs X less to activate, where X is the number of colors among permanents you control.	1/3		normal	CNY		Art Validated

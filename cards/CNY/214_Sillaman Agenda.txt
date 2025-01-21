@@ -1,1 +1,0 @@
-﻿Sillaman Agenda	WUG	rare	Instant	214	WUG	GWU	Choose up to one for each color among green, white, and blue among permanents you control.NEWLINE• Put two +1/+1 counters on target creature.NEWLINE• Target player draws a card for each creature they control with a counter on it.NEWLINE• Untap all nonland permanents target player controls.			normal	CNY		Art Validated

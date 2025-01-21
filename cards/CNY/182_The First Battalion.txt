@@ -1,1 +1,0 @@
-﻿The First Battalion	UBR	uncommon	Legendary Creature – Soldier 	182	UBR	2UBR	When The First Battalion enters, create two 2/2 colorless Minion creature tokens with decayed. (They can’t block. When one attacks, sacrifice it at end of combat.)NEWLINEMinions you control lose all abilities.	2/2		normal	CNY		Art Validated

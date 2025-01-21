@@ -1,1 +1,0 @@
-﻿Estrathe, Center of Civilization		rare	Legendary Land	252	C		T: Add C.NEWLINE2, T: For each color among permanents you control, add one mana of that color.			normal	CNY		Art Validated

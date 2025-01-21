@@ -1,1 +1,0 @@
-﻿Border Junction	W	common	Artifact Creature – Wall 	3	W	W	DefenderNEWLINE3W, T, Sacrifice Border Junction: Create three 1/1 colorless Soldier creature tokens. Activate only as a sorcery.	0/4		normal	CNY		Art Validated

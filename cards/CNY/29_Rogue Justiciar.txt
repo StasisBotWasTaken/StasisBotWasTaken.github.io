@@ -1,1 +1,0 @@
-﻿Rogue Justiciar	W	common	Creature – Human Rogue 	29	W	2W	Whenever Rogue Justiciar becomes the target of a spell or ability you control, you may tap target creature. This ability triggers only once each turn.	3/2		normal	CNY		Art Validated

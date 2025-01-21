@@ -1,1 +1,0 @@
-﻿Volatile Sergeant	UR	common	Creature – Human Soldier 	247	UR	1U/R	U: Volatile Sergeant gets +0/+1 until end of turn.NEWLINER: Volatile Sergeant gets +1/+0 until end of turn.	1/3		normal	CNY		Art Validated

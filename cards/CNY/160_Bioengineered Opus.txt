@@ -1,1 +1,0 @@
-﻿Bioengineered Opus	WUG	uncommon	Creature – Octopus Horror 	160	WUG	1GWU	Bioengineered Opus enters with three +1/+1 counters, a lifelink counter, and a vigilance counter on it.NEWLINEWhen Bioengineered Opus dies, for each creature you control, you may move a counter from Bioengineered Opus onto that creature.	0/0		normal	CNY		Art Validated

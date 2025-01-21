@@ -1,1 +1,0 @@
-﻿Verity Circle	U	uncommon	Enchantment	62	U	2U	Whenever a creature an opponent controls becomes tapped, if it isn’t being declared as an attacker, you may draw a card.NEWLINE4U: Tap target creature without flying.			normal	CNY		ReprintNEWLINEArt Validated

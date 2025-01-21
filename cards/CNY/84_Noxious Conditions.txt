@@ -1,1 +1,0 @@
-﻿Noxious Conditions	B	uncommon	Instant	84	B	3B	All creatures get -2/-2 until end of turn. Until end of turn, whenever one of those creatures die, create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	CNY		Art Validated

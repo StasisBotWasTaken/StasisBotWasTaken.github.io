@@ -1,1 +1,0 @@
-﻿CNY Sentry of the New World		common	Token Artifact Creature – Robot 	13	C		(This token is all colors.)	5/5		token	CNY		!!exportname CNY Sentry of the New WorldNEWLINE!related The Quindral Accords;NEWLINEArt Validated

@@ -1,1 +1,0 @@
-﻿Battlefield Tactician	R	common	Creature – Human Soldier 	97	R	3R	2, Sacrifice a creature: Teach target creature menace. (Put a menace counter on it. If it already has menace, put a +1/+1 counter on it instead.)	4/3		normal	CNY		Art Validated

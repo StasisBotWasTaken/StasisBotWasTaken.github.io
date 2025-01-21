@@ -1,1 +1,0 @@
-﻿Reconnaissance Agent	WUB	uncommon	Creature – Human Scout 	207	WUB	WUB	When Reconnaissance Agent enters, you may choose one –NEWLINE• Exile target card from your graveyard.NEWLINE• Exile another target creature.NEWLINEWhen Reconnaissance Agent leaves the battlefield, return the exiled card to its owner’s hand.	2/2		normal	CNY		Art Validated

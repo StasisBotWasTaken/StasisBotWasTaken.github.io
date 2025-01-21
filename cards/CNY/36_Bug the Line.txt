@@ -1,1 +1,0 @@
-﻿Bug the Line	U	uncommon	Sorcery	36	WUB	2U	Draw two cards. If W was spent to cast this spell, you gain 2 life. If B was spent to cast this spell, each opponent loses 2 life.			normal	CNY		Art Validated

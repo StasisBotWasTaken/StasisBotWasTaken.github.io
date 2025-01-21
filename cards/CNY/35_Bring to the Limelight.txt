@@ -1,1 +1,0 @@
-﻿Bring to the Limelight	U	common	Instant	35	U	U	Target creature gets -X/-0 until end of turn, where X is the number of cards in your graveyard.NEWLINEDraw a card.			normal	CNY		Art Validated

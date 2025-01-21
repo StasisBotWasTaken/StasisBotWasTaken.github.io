@@ -1,1 +1,0 @@
-﻿Proletarian Rabble	RG	common	Creature – Human 	243	RG	3R/G	Trample, haste	4/1		normal	CNY		Art Validated

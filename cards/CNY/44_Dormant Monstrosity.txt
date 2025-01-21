@@ -1,1 +1,0 @@
-﻿Dormant Monstrosity	U	uncommon	Creature – Squid Horror 	44	U	1U	Dormant Monstrosity enters tapped with three stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)NEWLINE1U, Remove a counter from Dormant Monstrosity: Draw a card.	4/4		normal	CNY		!tappedNEWLINEArt Validated

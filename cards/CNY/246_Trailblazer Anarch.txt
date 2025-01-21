@@ -1,1 +1,0 @@
-﻿Trailblazer Anarch	WR	common	Creature – Human Rogue 	246	WR	1R/W	Trailblazer Anarch has first strike as long as it’s your turn.	2/1		normal	CNY		Art Validated

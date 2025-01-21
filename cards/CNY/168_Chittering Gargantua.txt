@@ -1,1 +1,0 @@
-﻿Chittering Gargantua	UB	uncommon	Artifact Creature – Insect 	168	UB	8UB	As an additional cost to cast this spell, sacrifice any number of creatures, then exile any number of creature cards from your graveyard. This spell costs 2 less to cast for each card or token sacrificed or exiled this way.NEWLINEFlying	4/4		normal	CNY		Art Validated

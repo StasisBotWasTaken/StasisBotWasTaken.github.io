@@ -1,1 +1,0 @@
-﻿Rigged Trial	B	common	Instant	89	B	5B	Approval – This spell costs X less to cast, where X is the number of colors among permanents you control.NEWLINEExile target creature.			normal	CNY		Art Validated

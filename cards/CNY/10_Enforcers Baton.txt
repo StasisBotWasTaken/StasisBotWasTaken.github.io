@@ -1,1 +1,0 @@
-﻿Enforcer's Baton	W	common	Artifact – Equipment 	10	W	2W	When Enforcer’s Baton enters, create a 1/1 colorless Soldier creature token, then attach Enforcer’s Baton to it.NEWLINEEquipped creature gets +2/+1 and has vigilance.NEWLINEEquip 4			normal	CNY		Art ValidatedNEWLINE!!exportname Enforcer's Baton

@@ -1,1 +1,0 @@
-﻿Social Engineering	WU	uncommon	Sorcery	216	WU	WU	Return target creature to its owner’s hand. If you controlled it, create a token that’s a copy of it. Otherwise, create a 0/0 colorless Robot artifact creature token with a +1/+1 counter on it.			normal	CNY		Art Validated

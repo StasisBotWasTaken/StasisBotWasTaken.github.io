@@ -1,1 +1,0 @@
-﻿Anesthesiologist	G	common	Creature – Human Artificer 	126	G	1G	Whenever Anesthesiologist attacks, if you control a white permanent, teach Anesthesiologist lifelink. Otherwise, you gain 2 life. (To teach lifelink, put a lifelink counter on it. If it already has lifelink, put a +1/+1 counter on it instead.)	2/1		normal	CNY		Art Validated

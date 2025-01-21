@@ -1,1 +1,0 @@
-﻿Codename Spyder	WUB	uncommon	Legendary Creature – Insect Scout 	169	WUB	1WUB	When Codename: Spyder enters, mill three cards.NEWLINEWhenever one or more cards are put into your graveyard from your library, you may return up to one of those cards to your hand. Do this only once each turn.	2/4		normal	CNY		Art ValidatedNEWLINE!!exportname Codename Spyder

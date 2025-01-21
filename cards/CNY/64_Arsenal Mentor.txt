@@ -1,1 +1,0 @@
-﻿Arsenal Mentor	B	uncommon	Creature – Human Soldier 	64	B	4B	FlyingNEWLINEWhenever Arsenal Mentor attacks, teach target attacking creature with lesser power flying. (To teach flying, put a flying counter on it. If it already has flying, put a +1/+1 counter on it instead.)	3/3		normal	CNY		Art Validated

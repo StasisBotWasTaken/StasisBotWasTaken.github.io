@@ -1,1 +1,0 @@
-﻿Liquidate	BR	uncommon	Instant	195	BR	BR	Destroy target creature or planeswalker. Its controller creates a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	CNY		Art Validated

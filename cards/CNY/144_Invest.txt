@@ -1,1 +1,0 @@
-﻿Invest	G	common	Enchantment – Aura 	144	G	G	Enchant creatureNEWLINEWhenever enchanted creature attacks, create a Treasure token.NEWLINEIf enchanted creature would die, instead sacrifice Invest and return that creature to its owner’s hand.			normal	CNY		Art Validated

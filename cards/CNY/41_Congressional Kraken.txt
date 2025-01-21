@@ -1,1 +1,0 @@
-﻿Congressional Kraken	U	rare	Creature – Kraken 	41	U	5UU	FlashNEWLINEApproval – When Congressional Kraken enters, return each nonland permanent with mana value less than or equal to the number of colors among permanents you control to their owners’ hands.	6/7		normal	CNY		Art Validated

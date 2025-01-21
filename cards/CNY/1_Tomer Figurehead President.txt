@@ -1,1 +1,0 @@
-﻿Tomer, Figurehead President		mythic	Legendary Creature – Human Noble 	1	C	3	Spend only mana of different colors to cast this spell.NEWLINEFor each color among permanents you control, the first multicolored spell you cast each turn costs one mana of that color less to cast. This effect reduces only the amount of colored mana you pay.	2/2		normal	CNY		Art Validated

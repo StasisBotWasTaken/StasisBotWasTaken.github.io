@@ -1,1 +1,0 @@
-﻿Hazakh Agenda	UBR	rare	Instant	189	UBR	UBR	Choose up to one for each color among blue, black, and red among permanents you control.NEWLINE• Create two 2/2 colorless Minion creature tokens with decayed.NEWLINE• You may sacrifice a creature. If you do, draw two cards.NEWLINE• Until end of turn, creatures lose all abilities.			normal	CNY		Art Validated

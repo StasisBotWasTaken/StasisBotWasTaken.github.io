@@ -1,1 +1,0 @@
-﻿Codename Bumblebee	U	common	Creature – Insect Soldier 	39	U	2U	Codename: Bumblebee enters with a +1/+1 counter and a flying counter on it.NEWLINEAt the beginning of your upkeep, you may move a counter from Codename: Bumblebee onto another creature.	1/1		normal	CNY		Art ValidatedNEWLINE!!exportname Codename Bumblebee

@@ -1,1 +1,0 @@
-﻿Mutinous Inciter	RG	common	Creature – Human Rogue 	198	RG	3RG	TrampleNEWLINEWhenever you attack, up to one target attacking creature gets +2/+0 and gains trample until end of turn.	3/3		normal	CNY		Art Validated

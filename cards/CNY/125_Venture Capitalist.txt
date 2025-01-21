@@ -1,1 +1,0 @@
-﻿Venture Capitalist	R	mythic	Creature – Human Noble 	125	R	1RR	Whenever you cast an artifact spell, create a 0/0 colorless Robot artifact creature token with a +1/+1 counter on it.NEWLINE2, T: Add R for each artifact you control. Spend this mana only to cast artifact spells or activate abilities of artifacts.	2/2		normal	CNY		Art Validated

@@ -1,1 +1,0 @@
-﻿Blackout	UBR	uncommon	Sorcery	162	UBR	1UBR	Return target nonland permanent to its owner’s hand. Then that player reveals their hand. You choose a nonland card from it. That player discards that card.			normal	CNY		Art Validated

@@ -1,1 +1,0 @@
-﻿Scourge of Capitalism	G	uncommon	Creature – Giant Insect Beast 	149	G	7G	TrampleNEWLINEWhen Scourge of Capitalism enters, it fights target creature with the greatest power or tied for the greatest power among creatures you don’t control. Excess damage is dealt to that creature’s controller instead.	8/8		normal	CNY		Art Validated

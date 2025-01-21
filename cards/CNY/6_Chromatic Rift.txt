@@ -1,1 +1,0 @@
-﻿Chromatic Rift	W	rare	Sorcery	6	W	3WW	Choose any number –NEWLINE• Destroy all multicolored creatures.NEWLINE• Destroy all monocolored creatures.NEWLINE• Destroy all colorless creatures.			normal	CNY		Art Validated

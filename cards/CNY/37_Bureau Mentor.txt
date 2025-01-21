@@ -1,1 +1,0 @@
-﻿Bureau Mentor	U	uncommon	Creature – Human Scout 	37	U	2U	VigilanceNEWLINEWhenever Bureau Mentor attacks, teach target attacking creature with lesser power vigilance. Untap that creature. (To teach vigilance, put a vigilance counter on it. If it already has vigilance, put a +1/+1 counter on it instead.)	3/2		normal	CNY		Art Validated

@@ -1,1 +1,0 @@
-﻿Expendable Researcher	U	common	Creature – Minion 	48	U	U	Decayed (This can’t block. When it attacks, sacrifice it at end of combat.)NEWLINE2U, Exile Expendable Researcher from your graveyard: Return target instant or sorcery card from your graveyard to your hand. Activate only as a sorcery.	2/2		normal	CNY		Art Validated

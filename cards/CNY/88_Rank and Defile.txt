@@ -1,1 +1,0 @@
-﻿Rank and Defile	B	uncommon	Sorcery	88	B	1B	Each player sacrifices a creature.NEWLINEAs long as a creature card or creature token was put into your graveyard from anywhere this turn, Rank and Defile has flashback 2B. (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	CNY		Art Validated

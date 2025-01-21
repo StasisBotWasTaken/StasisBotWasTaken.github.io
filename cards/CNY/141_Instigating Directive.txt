@@ -1,1 +1,0 @@
-﻿Instigating Directive	G	uncommon	Instant	141	WRG	3G	Choose target creature you control. Whenever that creature deals combat damage to a player this turn, draw that many cards. If R was spent to cast this spell, it gains trample until end of turn. If W was paid to cast this spell, it gets +1/+1 until end of turn.			normal	CNY		Art Validated

@@ -1,1 +1,0 @@
-﻿Evasive Tactics	U	common	Instant	47	U	U	Target creature gains hexproof until end of turn. Teach it vigilance. (Put a vigilance counter on it. If it already has vigilance, put a +1/+1 counter on it instead.)			normal	CNY		Art Validated

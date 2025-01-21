@@ -1,1 +1,0 @@
-﻿Army Reserves	W	rare	Creature – Human Soldier 	2	W	XWW	Army Reserves enters with X +1/+1 counters and a defender counter on it.NEWLINE1: Move a counter from Army Reserves onto another target creature. Activate only as a sorcery.	2/2		normal	CNY		Art Validated

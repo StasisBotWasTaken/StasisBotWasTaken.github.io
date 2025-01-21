@@ -1,1 +1,0 @@
-﻿Dampening Reconciliator	U	common	Creature – Human Advisor 	42	U	3U	Approval – When Dampening Reconciliator enters, tap up to one target creature and put X stun counters on it, where X is the number of colors among permanents you control. (If a permanent with a stun counter would become untapped, remove one from it instead.)	2/2		normal	CNY		Art Validated

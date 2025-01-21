@@ -1,1 +1,0 @@
-﻿Serve Again	B	rare	Enchantment	91	B	2B	Whenever a nontoken creature you control dies, create a token that’s a copy of it, except it’s a Minion and has decayed. (It loses all other creature types. It can’t block. When it attacks, sacrifice it at end of combat.)			normal	CNY		Art Validated

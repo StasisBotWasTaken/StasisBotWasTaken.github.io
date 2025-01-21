@@ -1,1 +1,0 @@
-﻿Chief Executive Dhante	BRG	mythic	Legendary Creature – Dragon Noble 	167	BRG	2BRG	FlyingNEWLINEWhenever Chief Executive Dhante enters or attacks, create a Treasure token, then you may pay X. Spend only mana from artifact sources, and X can’t be 0. When you do, destroy target nonland permanent with mana value X or less.	4/4		normal	CNY		Art Validated

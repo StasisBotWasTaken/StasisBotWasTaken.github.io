@@ -1,1 +1,0 @@
-﻿Sustainable Investments	G	uncommon	Enchantment	153	G	2G	When Sustainable Investments enters, create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)NEWLINETreasures you control have “T: Add one mana of any color.”			normal	CNY		Art Validated

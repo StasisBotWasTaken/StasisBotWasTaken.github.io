@@ -1,1 +1,0 @@
-﻿Prime for Innovation	WUG	rare	Enchantment – Aura 	205	WUG	1GWU	Enchant creatureNEWLINEEnchanted creature gets +3/+3.NEWLINEOnce each turn, you may cast a spell that targets enchanted creature without paying its mana cost.			normal	CNY		Art Validated

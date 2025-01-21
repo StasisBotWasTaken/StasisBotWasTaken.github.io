@@ -1,1 +1,0 @@
-﻿Induced Evolution	W	uncommon	Sorcery	15	WUG	2W	Distribute two +1/+1 counters among one or two target creatures you control. Then if G was spent to cast this spell, put a lifelink counter on one of those creatures. Then if U was spent to cast this spell, put a vigilance counter on one of those creatures.			normal	CNY		Art Validated

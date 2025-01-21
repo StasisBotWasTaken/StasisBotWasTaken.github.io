@@ -1,1 +1,0 @@
-﻿Assault Engine	UBR	uncommon	Artifact – Vehicle 	158	UBR	3UBR	HasteNEWLINEWhen Assault Engine enters, gain control of target creature and untap it. Sacrifice it at the beginning of the next end step. (It’s still affected by summoning sickness, but can crew.)NEWLINECrew 2	5/5		normal	CNY		Art Validated

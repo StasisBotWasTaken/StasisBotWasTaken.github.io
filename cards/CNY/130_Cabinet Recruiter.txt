@@ -1,1 +1,0 @@
-﻿Cabinet Recruiter	G	uncommon	Creature – Human Advisor 	130	G	2G	Approval – When Cabinet Recruiter enters, you may search your library for a creature card with mana value less than or equal to the number of colors among permanents you control, reveal it, put it into your hand, then shuffle.	2/1		normal	CNY		Art Validated

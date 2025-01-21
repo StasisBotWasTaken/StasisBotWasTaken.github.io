@@ -1,1 +1,0 @@
-﻿Prosperity Project	W	uncommon	Enchantment	26	W	3W	Whenever you gain life, you may create a 0/0 colorless Robot artifact creature token with X +1/+1 counters on it, where X is the amount of life you gained. Do this only once each turn.			normal	CNY		Art Validated

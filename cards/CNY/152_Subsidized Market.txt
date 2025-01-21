@@ -1,1 +1,0 @@
-﻿Subsidized Market	G	rare	Artifact	152	G	3G	T: Create a Treasure token.NEWLINET, Sacrifice a Treasure: Put a +1/+1 counter on target creature. Activate only as a sorcery.NEWLINET, Sacrifice two Treasures: Create a 0/0 colorless Robot artifact creature token with four +1/+1 counters on it. Activate only as a sorcery.NEWLINE3: Untap Subsidized Market.			normal	CNY		Art Validated
