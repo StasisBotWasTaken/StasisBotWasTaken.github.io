@@ -1262,7 +1262,7 @@
 		{
 			"name": "Extraction Mission",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{X}{B}",
 			"type": "Sorcery",
 			"collector_number": "77",
 			"image_uris": {
