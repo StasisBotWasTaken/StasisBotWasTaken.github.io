@@ -1,1 +1,9 @@
-﻿{"sets": [{"set_code": "CNY", "set_name": "CNY", "formats": ""}]}
+﻿{
+    "sets": [
+        {
+            "set_code": "CNY",
+            "set_name": "CNY",
+            "formats": ""
+        }
+    ]
+}
