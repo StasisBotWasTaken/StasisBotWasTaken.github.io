@@ -1,7 +1,7 @@
 ﻿{
     "name": "Cliques of Nylin",
     "formats": "",
-    "trimmed": "n",
+    "trimmed": "y",
     "image_type": "png",
     "draft_structure": "draft booster",
     "unpreviewed": "empty",
@@ -5656,5 +5656,6 @@
             "alias": "",
             "notes": "!!exportname Estrathe, Center of Civilization Promo\nArt Validated\n!noexport !promo!design Stasis"
         }
-    ]
+    ],
+    "version": 2
 }
