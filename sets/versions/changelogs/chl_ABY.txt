@@ -1,4 +1,408 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CW09 Coil's Trilogy added.
+CW14 Verdict of the True Sun added.
+CU10 Enforce Equilibrium added.
+CB05 False Mourning's Zealot added.
+CB06 Disciples' Onboarder added.
+CR09 Molten Eldbeast added.
+CR12 Buy Time added.
+CG12 Eldmagic Invocation added.
+CG14 SynthScape Mining added.
+UW01 Inconspicuous Bifurcator added.
+UW03 Orrery Overseer added.
+UW05 Arbiter of the Coil added.
+UW12 Skyscraper Mecha added.
+UU01 Artisan Apprentice added.
+UU04 planar migration added.
+UB02 Augur of the In-Between added.
+UB03 Flickering Finisher added.
+UB08 Nimble Redeye added.
+UR04 All-Purpose Reforger added.
+UR10 Three Prongs added.
+UG01 SynthScape Painter added.
+UG02 Artisan Uncoiler added.
+UG06 Eldworld Wayfarer added.
+UM02 Brain of the Equilibrium added.
+UM04 Mathis, I.E. Operative added.
+UM05 Srina of the Brink added.
+UM08 Solo, Last of the Armanti added.
+UM09 Taras, Omenweb Stringer added.
+UM14 Scrounge, Eldworld Burrower added.
+UM15 A200, Spawned Sentience added.
+UM16 Artisan Guild Tenets added.
+UM18 The Galvanic Dyad added.
+UM19 SynthScape Valiant added.
+UM20 Edrick of Two Paths added.
+
+CW09 Four mana creature removed.
+CW14 All Against One removed.
+CU10 counterspell removed.
+CB05 Three mana creature removed.
+CB06 Four mana creature removed.
+CR09 Six mana creature removed.
+CR12 Rummaging removed.
+CG12 Bite spell removed.
+CG14 Ramp removed.
+UW01 I.E. Peacemaker removed.
+UW03 the artificorr removed.
+UW05 noble guy removed.
+UW12 gear vehicle removed.
+UU01 vcarddraw removed.
+UU04 high fae removed.
+UB02 perfector removed.
+UB03 Nimble Sharpshooter removed.
+UB08 Disciples' Bloodhound removed.
+UR04 Reforger of Filigree and Flesh removed.
+UR10 Splintered Memories removed.
+UG01 Synthscape Painter removed.
+UG02 Blossoming Papillon removed.
+UG06 Eldworld Wayfarers removed.
+UM02 Upkeep removed.
+UM04 Flash removed.
+UM05 Vehicles removed.
+UM08 Big mana removed.
+UM09 Activated abilities removed.
+UM14 Death removed.
+UM15 Counters removed.
+UM16 Vision of a Better World removed.
+UM18 Second draw removed.
+UM19 Synthscape Valiant removed.
+UM20 Exalted removed.
+
+CW01 I.E. Monitor
+rules_text: Flying
+When this creature enters, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+{W}, {T}: Target creature gets +1/+0 until end of turn. Activate only as a sorcery. => Flying
+When this creature enters, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+{1}, {T}: Target creature gets +1/+0 until end of turn. Activate only as a sorcery.
+
+CW02 Luminite Equalizer
+
+CW04 Passage Sanctifier
+rules_text: Whenever another creature enters under your control, you gain 1 life.
+Splinter {W} [i](Whenever this creature attacks, you may pay the splinter cost. If you do, create a tapped and attacking token that's a copy of it with “At the beginning of your end step, sacrifice this token.”)[/i] => Whenever another creature enters under your control, you gain 1 life.
+Splinter {W} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+CW07 Ingenious Joyrider
+
+CW08 Freelance Gearsmith
+rules_text: When this creature enters, target creature you control gets +2/+2 until end of turn.
+Splinter {2}{W} [i](Whenever this creature attacks, you may pay the splinter cost. If you do, create a tapped and attacking token that's a copy of it with “At the beginning of your end step, sacrifice this token.”)[/i] => When this creature enters, target creature you control gets +2/+2 until end of turn.
+Splinter {2}{W} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+CU01 Sifter of Futures Forgotten
+rules_text: When this creature enters create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+{U}, {T}: Target player mills two cards. => When this creature enters create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+{1}, {T}: Target player mills two cards.
+
+CU05 Omenweb Guardian
+
+CU11 Iterate
+
+CU12 Parallel Fates
+
+CB01 Workshop Naughty
+rules_text: Flying
+When this creature enters, each opponent loses 1 life and you gain 1 life.
+Splinter {1}{B} [i](Whenever this creature attacks, you may pay the splinter cost. If you do, create a tapped and attacking token that's a copy of it with “At the beginning of your end step, sacrifice this token.”)[/i] => Flying
+When this creature enters, each opponent loses 1 life and you gain 1 life.
+Splinter {1}{B} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+CB02 Disciples' Strongarm
+rules_text: This creature enters tapped.
+Menace
+Splinter {1}{B} [i](Whenever this creature attacks, you may pay the splinter cost. If you do, create a tapped and attacking token that's a copy of it with “At the beginning of your end step, sacrifice this token.”)[/i] => This creature enters tapped.
+Menace
+Splinter {1}{B} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+CB03 Two mana creature
+rules_text: Whenever this creature or a Vehicle crewed by it this turn deal combat damage to a player, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Whenever this creature or a Vehicle crewed by it this turn deals combat damage to a player, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+CB04 Minister of Penance
+rules_text: Whenever another creature you control dies, put a +1/+1 counter on this creature.
+Splinter {1}{B} [i](Whenever this creature attacks, you may pay the splinter cost. If you do, create a tapped and attacking token that's a copy of it with “At the beginning of your end step, sacrifice this token.”)[/i] => Whenever another creature you control dies, put a +1/+1 counter on this creature.
+Splinter {1}{B} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+CB07 4-5 mana creature
+
+CB11 Identical Backup
+
+CB13 Hand attack
+rules_text: When this Vehicle enters, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Crew 4 [i](Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => When this Vehicle enters, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+pt: 6/4 => 4/3
+
+CR02 Two mana creature
+pt: 2/2 => 3/1
+
+CR03 Voices of the Displaced
+rules_text: Whenever this creature attacks, if you control a Path or if there is a Path card in your graveyard, this creature gains first strike until end of turn. => When this creature dies, if you control a Path or if there is a Path card in your graveyard, exile the top card of your library. You may play it until the end of your next turn.
+pt: 3/1 => 2/2
+
+CR05 Alloy Transmuter
+rules_text: When this creature enters, create a Treasure token.
+Splinter {1}{R} [i](Whenever this creature attacks, you may pay the splinter cost. If you do, create a tapped and attacking token that's a copy of it with “At the beginning of your end step, sacrifice this token.”)[/i] => When this creature enters, create a Treasure token.
+Splinter {1}{R} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+CR06 Borderlands Daredevil
+rules_text: When this creature enters, target creature an opponent controls can't block this turn.
+Splinter {2}{R} [i](Whenever this creature attacks, you may pay the splinter cost. If you do, create a tapped and attacking token that's a copy of it with “At the beginning of your end step, sacrifice this token.”)[/i] => When this creature enters, target creature an opponent controls can't block this turn.
+Splinter {2}{R} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+CR13 Spot Weld
+cost: {R} => {1}{R}
+
+CG04 People of the Sun
+rules_text: {3}{G}: Surveil 1. This ability costs {1} less to activate for each Path you control and each Path card in your graveyard. => Vigilance
+{3}{G}: Surveil 1. This ability costs {1} less to activate for each Path you control and each Path card in your graveyard.
+
+CG05 Chitinous Artisan
+rules_text: Vigilance
+When this creature enters, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i] => When this creature enters, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+pt: 3/2 => 2/4
+
+CG08 Borderland Bullies
+
+CG15 Beseech the Eldmother
+
+CC04 Boom Stick
+
+UW04 Luminite Captain
+rules_text: This creature's power and toughness are each equal to the number of creatures you control.
+Splinter {1}{W}{W} [i](Whenever this creature attacks, you may pay the splinter cost. If you do, create a tapped and attacking token that's a copy of it with “At the beginning of your end step, sacrifice this token.”)[/i] => This creature's power and toughness are each equal to the number of creatures you control.
+Splinter {1}{W}{W} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+UW08 Loxodon Tinkerer
+rules_text: When this creature enters, put a +1/+1 counter on each tapped creature you control.
+Splinter {4}{W} [i](Whenever this creature attacks, you may pay the splinter cost. If you do, create a tapped and attacking token that's a copy of it with “At the beginning of your end step, sacrifice this token.”)[/i] => When this creature enters, put a +1/+1 counter on each tapped creature you control.
+Splinter {4}{W} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+UW09 trial for timecrimetm
+cost: {W} => {1}{W}
+rules_text: Choose one —
+• Remove all counters from target permanent or player.
+• You get {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i] => Choose one —
+• Remove all counters from any number of target permanents and/or players.
+• You get {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i]
+
+UW10 Charged Photon Blast
+
+UW13 Chronicle of the Devout
+rules_text: Creatures can't attack you unless their controller pays {1} for each creature they control that's attacking you.
+Flux 2—Create a 1/1 black Cleric creature token. [i](On your upkeep, add a time counter. Whenever there are two or more, remove two and trigger the flux ability.)[/i] => Creatures can't attack you unless their controller pays {1} for each creature they control that's attacking you.
+Flux 2 — Create a 1/1 black Cleric creature token. [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i]
+
+UW14 Chronicle of the Zealous
+rules_text: Creatures you control get +1/+1.
+Flux 2—Creatures you control get +1/+1 until end of turn. [i](On your upkeep, add a time counter. Whenever there are two or more, remove two and trigger the flux ability.)[/i] => Creatures you control get +1/+1.
+Flux 2 — Creatures you control get +1/+1 until end of turn. [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i]
+
+UU03 Examiner of Oddities
+rules_text: When this creature enters, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+{1}, {T}: Draw a card, then discard a card unless you've drawn two or more cards this turn. => When this creature enters, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+{1}, {T}: Draw a card, then discard a card unless you've drawn three or more cards this turn.
+
+UU11 chronocopy
+rules_text: Create a tapped token that's a copy of target creature you control. If that creature had mana value less than 4, you get {ChronoCounterSymbolsChrono.png} equal to the difference. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i] => Create a tapped token that's a copy of target creature you control, except it isn't legendary. If that creature had mana value less than 4, you get {ChronoCounterSymbolsChrono.png} equal to the difference. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i]
+
+UU13 Chronicle of the Entranced
+rules_text: Flash
+When this enchantment enters, tap up to one target creature and put two stun counters on it.
+Flux 2—Until the end of your next turn, you may cast spells as though they had flash. [i](On your upkeep, add a time counter. Whenever there are two or more, remove two and trigger the flux ability.)[/i] => Flash
+When this enchantment enters, tap up to one target creature and put two stun counters on it.
+Flux 2 — Until the end of your next turn, you may cast spells as though they had flash. [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i]
+
+UU14 Chronicle of the Inspired
+rules_text: If you would draw a card while your library has no cards in it, you win the game instead.
+Flux 2—Draw a card. [i](On your upkeep, add a time counter. Whenever there are two or more, remove two and trigger the flux ability.)[/i] => If you would draw a card while your library has no cards in it, you win the game instead.
+Flux 2 — Draw a card. [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i]
+
+UB04 Omenweb Inquisitor
+rules_text: When this creature enters, each opponent discards a card.
+Splinter—Discard a card. [i](Whenever this creature attacks, you may pay the splinter cost. If you do, create a tapped and attacking token that's a copy of it with “At the beginning of your end step, sacrifice this token.”)[/i] => When this creature enters, each opponent discards a card.
+Splinter—Discard a card. [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+UB07 Chronicler of the Passed
+rules_text: Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+Splinter {3}{B} [i](Whenever this creature attacks, you may pay the splinter cost. If you do, create a tapped and attacking token that's a copy of it with “At the beginning of your end step, sacrifice this token.”)[/i] => Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+Splinter {3}{B} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+UB09 the secrettm
+rules_text: When this creature enters, you get {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i]
+Pay {ChronoCounterSymbolsChrono.png}: This Vehicle becomes an artifact creature until end of turn.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Flying
+When this Vehicle enters, you get {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i]
+Pay {ChronoCounterSymbolsChrono.png}: This Vehicle becomes an artifact creature until end of turn.
+Crew 1
+pt: 5/4 => 3/4
+
+UB14 Chronicle of the Deceived
+rules_text: When this enchantment enters, draw three cards.
+Flux 3—You lose 3 life unless you discard a card or sacrifice a creature. [i](On your upkeep, add a time counter. Whenever there are three or more, remove three and trigger the flux ability.)[/i] => When this enchantment enters, draw three cards.
+Flux 3 — You lose 3 life unless you discard a card or sacrifice a creature. [i](On your upkeep, put a time counter on this. Whenever there are three or more, remove three and trigger the flux ability.)[/i]
+
+UR01 Overeager Courier
+rules_text: Creatures you control that entered this turn get +1/+0.
+Splinter {1}{R} [i](Whenever this creature attacks, you may pay the splinter cost. If you do, create a tapped and attacking token that's a copy of it with “At the beginning of your end step, sacrifice this token.”)[/i] => Creatures you control that entered this turn get +1/+0.
+Splinter {1}{R} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+UR08 Twinarm Outfitter
+rules_text: When this creature enters, target creature gains double strike until end of turn.
+Splinter {4}{R} [i](Whenever this creature attacks, you may pay the splinter cost. If you do, create a tapped and attacking token that's a copy of it with “At the beginning of your end step, sacrifice this token.”)[/i] => When this creature enters, target creature gains double strike until end of turn.
+Splinter {4}{R} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+UR09 empowered slash
+rules_text: This spell deals X damage to target creature, where X is the amount of mana you've spent this turn. => empowered slash deals X damage to target creature, where X is the amount of mana you've spent this turn.
+
+UR11 red eldstone
+rules_text: {T}: Add {R}.
+{T}, Sacrifice artifact: Copy target noncreature spell you control. You may choose new targets for the copy. => {T}: Add {R}.
+{T}, Sacrifice this artifact: Copy target noncreature spell you control. You may choose new targets for the copy.
+
+UR12 The Collapse of the Web
+cost: {3}{R} => {2}{R}
+rules_text: The Collapse of the Web deals X damage to each creature, where X is the number of Paths you control plus the number of Path cards in your graveyard. => This spell has flash as long as you control a Path or as long there is a Path card in your graveyard.
+The Collapse of the Web deals 2 damage to each untapped creature.
+
+UR13 Glimpse the Eldworld
+cost: {4}{R}{R} => {1}{R}{R}
+rules_text: Exile the top four cards of your library. You may play those cards until the end of your next turn. At the beginning of your next turn's end step, if any of those cards remain exiled, put them into your graveyard, then you get {ChronoCounterSymbolsChrono.png} for each card put into your graveyard this way. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i] => Discard your hand, then draw three cards. You get {ChronoCounterSymbolsChrono.png} for each card discarded this way. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i]
+
+UR14 Chronicle of the Faithless
+rules_text: Enchant creature
+When this enchantment enters, gain control of enchanted creature until end of turn. Untap that creature. It gains haste until end of turn.
+Flux 2—Gain control of enchanted creature until end of turn. Untap that creature. It gains haste until end of turn. [i](On your upkeep, add a time counter. Whenever there are two or more, remove two and trigger the flux ability.)[/i] => Enchant creature
+When this enchantment enters, gain control of enchanted creature until end of turn. Untap that creature. It gains haste until end of turn.
+Flux 2 — Gain control of enchanted creature until end of turn. Untap that creature. It gains haste until end of turn. [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i]
+
+UG03 Vitality Reweavers
+
+UG04 Outlands Pioneer
+pt: 2/1 => 2/2
+
+UG10 very safe design
+
+UG11 green eldstone
+
+UG12 Echoes of the Eldworld
+
+UG13 Eldworld Invasion
+
+UG14 Chronicle of the Free
+rules_text: At the beginning of your upkeep, put a +1/+1 counter on up to one target creature.
+Flux 3—Double the number of each kind of counter on up to one target creature. [i](On your upkeep, add a time counter. Whenever there are three or more, remove three and trigger the flux ability.)[/i] => At the beginning of your upkeep, put a +1/+1 counter on up to one target creature.
+Flux 3 — Double the number of each kind of counter on up to one target creature. [i](On your upkeep, put a time counter on this. Whenever there are three or more, remove three and trigger the flux ability.)[/i]
+
+UM01 Chronicle of the Oppressed
+rules_text: At the beginning of your upkeep, tap up to one target creature.
+Flux 2—Put a stun counter on up to one target creature. [i](On your upkeep, add a time counter. Whenever there are two or more, remove two and trigger the flux ability.)[/i] => At the beginning of your upkeep, tap up to one target creature.
+Flux 2 — Put a stun counter on up to one target creature. [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i]
+
+UM12 Ebo, Fulcrum of the Coil
+rules_text: Creature tokens you control get +1/+1.
+Splinter {2}{W}{B}. The token isn't legendary. [i](Whenever this creature attacks, you may pay the splinter cost. If you do, create a tapped and attacking token that's a copy of it with “At the beginning of your end step, sacrifice this token.”)[/i] => Creature tokens you control get +1/+1.
+Splinter {2}{W}{B}. The token isn't legendary. [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+UC02 Counter of Minutes
+cost: {2} => {3}
+rules_text: When this creature enters, you may search your library for any number of cards named Counter of Seconds, reveal them, put them into your hand, then shuffle. => When this creature enters, you may search your library for any number of cards named Counter of Seconds, reveal them, put them into your hand, then shuffle.
+If you would get one or more {ChronoCounterSymbolsChrono.png}, you get that many {ChronoCounterSymbolsChrono.png} plus one instead. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i]
+
+Everywhere
+
+Passage Sanctifier
+rules_text: Whenever another creature enters under your control, you gain 1 life.
+Splinter {W}
+At the beginning of your end step, sacrifice this token. => Whenever another creature enters under your control, you gain 1 life.
+At the beginning of your end step, sacrifice this token.
+
+Freelance Gearsmith
+rules_text: When this creature enters, target creature you control gets +2/+2 until end of turn.
+Splinter {2}{W}
+At the beginning of your end step, sacrifice this creature. => When this creature enters, target creature you control gets +2/+2 until end of turn.
+At the beginning of your end step, sacrifice this creature.
+
+Workshop Naughty
+rules_text: Flying
+When this creature enters, each opponent loses 1 life and you gain 1 life.
+Splinter {1}{B}
+At the beginning of your end step, sacrifice this creature. => Flying
+When this creature enters, each opponent loses 1 life and you gain 1 life.
+At the beginning of your end step, sacrifice this creature.
+
+Disciples' Strongarm
+rules_text: This creature enters tapped.
+Menace
+Splinter {1}{B}
+At the beginning of your end step, sacrifice this creature. => This creature enters tapped.
+Menace
+At the beginning of your end step, sacrifice this creature.
+
+Minister of Penance
+rules_text: Whenever another creature you control dies, put a +1/+1 counter on this creature.
+Splinter {1}{B}
+At the beginning of your end step, sacrifice this creature. => Whenever another creature you control dies, put a +1/+1 counter on this creature.
+At the beginning of your end step, sacrifice this creature.
+
+Alloy Transmuter
+rules_text: When this creature enters, create a Treasure token.
+Splinter {1}{R}
+At the beginning of your end step, sacrifice this creature. => When this creature enters, create a Treasure token.
+At the beginning of your end step, sacrifice this creature.
+
+Borderlands Daredevil
+rules_text: When this creature enters, target creature an opponent controls can't block this turn.
+Splinter {2}{R}
+At the beginning of your end step, sacrifice this creature. => When this creature enters, target creature an opponent controls can't block this turn.
+At the beginning of your end step, sacrifice this creature.
+
+Luminite Captain
+rules_text: This creature's power and toughness are each equal to the number of creatures you control.
+Splinter {1}{W}{W}
+At the beginning of your end step, sacrifice this creature. => This creature's power and toughness are each equal to the number of creatures you control.
+At the beginning of your end step, sacrifice this creature.
+
+Loxodon Tinkerer
+rules_text: When this creature enters, put a +1/+1 counter on each tapped creature you control.
+Splinter {4}{W}
+At the beginning of your end step, sacrifice this creature. => When this creature enters, put a +1/+1 counter on each tapped creature you control.
+At the beginning of your end step, sacrifice this creature.
+
+Omenweb Inquisitor
+rules_text: When this creature enters, each opponent discards a card.
+Splinter—Discard a card.
+At the beginning of your end step, sacrifice this creature. => When this creature enters, each opponent discards a card.
+At the beginning of your end step, sacrifice this creature.
+
+Chronicler of the Passed
+rules_text: Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+Splinter {3}{B}
+At the beginning of your end step, sacrifice this creature. => Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+At the beginning of your end step, sacrifice this creature.
+
+Overeager Courier
+rules_text: Creatures you control that entered this turn get +1/+0.
+Splinter {1}{R}
+At the beginning of your end step, sacrifice this creature. => Creatures you control that entered this turn get +1/+0.
+At the beginning of your end step, sacrifice this creature.
+
+Twinarm Outfitter
+rules_text: When this creature enters, target creature gains double strike until end of turn.
+Splinter {4}{R}
+At the beginning of your end step, sacrifice this creature. => When this creature enters, target creature gains double strike until end of turn.
+At the beginning of your end step, sacrifice this creature.
+
+Ebo, Fulcrum of the Coil
+rules_text: Creature tokens you control get +1/+1.
+Splinter {2}{W}{B}. The token isn't legendary.
+At the beginning of your end step, sacrifice this creature. => Creature tokens you control get +1/+1.
+At the beginning of your end step, sacrifice this creature.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
