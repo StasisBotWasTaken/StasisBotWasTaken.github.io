@@ -1,4 +1,447 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Envoy of the Fallen added.
+Soldier added.
+Incumbency Promo !promo!design Stasis added.
+The Codex added.
+
+Exemplar of Grit removed.
+CNY Soldier removed.
+Incumbency Promo removed.
+
+Held in Contempt
+rules_text: Enchant creature
+Enchanted creature has defender.
+[i][i]Approval[/i][/i] — {2}: Exile enchanted creature if its power is less than or equal to the number of colors among permanents you control. => Enchant creature
+Enchanted creature has defender.
+{2}: Exile enchanted creature if its power is less than or equal to your approval. [i](Your approval contains up to one different permanent of each color.)[/i]
+
+Brazen Blackcoats
+rules_text: Lifelink
+[i]Approval[/i] — {5}, {T}: Tap target creature. This ability costs {X} less to activate, where X is the number of colors among permanents you control. => Lifelink
+{5}, {T}: Tap target creature. This ability costs {X} less to activate, where X is your approval. [i](Your approval contains up to one different permanent of each color.)[/i]
+
+Seasoned Spymaster
+type: Creature — Human Rogue => Creature — Human Rebel
+
+Codename Cicada
+
+Rogue Justiciar
+type: Creature — Human Rogue => Creature — Human Rebel
+
+Dampening Reconciliator
+rules_text: [i]Approval[/i] — When Dampening Reconciliator enters, tap up to one target creature and put X stun counters on it, where X is the number of colors among permanents you control. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i] => When Dampening Reconciliator enters, tap up to one target creature and put X stun counters on it, where X is your approval. [i](Your approval contains up to one different permanent of each color. If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+pt: 2/2 => 2/3
+
+Political Prisoner
+rules_text: Defender
+[i]Approval[/i] — Political Prisoner can attack as though it didn't have defender as long as the number of colors among permanents you control is greater than the number of colors among permanents defending player controls. => Defender
+Political Prisoner can attack as though it didn't have defender as long as your approval is greater than defending player's approval. [i](Your approval contains up to one different permanent of each color.)[/i]
+
+Combat Corporal
+
+Rush for Results
+
+Rigged Trial
+rules_text: [i]Approval[/i] — This spell costs {X} less to cast, where X is the number of colors among permanents you control.
+Exile target creature. => This spell costs {X} less to cast, where X is your approval. [i](Your approval contains up to one different permanent of each color.)[/i]
+Exile target creature.
+
+Senators' Chauffeur
+rules_text: [i]Approval[/i] — When Senators' Chauffeur enters, return up to one target creature card with mana value less than or equal to the number of colors among permanents you control from your graveyard to the battlefield. => When Senators' Chauffeur enters, choose up to one target creature card in your graveyard. Return it to the battlefield if its mana value less is than or equal to your approval. Otherwise, return it to your hand. [i](Your approval contains up to one different permanent of each color.)[/i]
+When Senators' Chauffeur dies, exile it.
+pt: 4/4 => 4/3
+
+Deadly Dispute
+
+Covert Infiltrator
+rules_text: Menace
+When Covert Infiltrator is put into your graveyard from your library, you may pay 2 life. If you do or if you control a blue permanent, return it to your hand. => Menace
+When Covert Infiltrator is put into your graveyard from your library, you may pay 2 life. If you do or if you control a blue permanent, return this card to your hand.
+
+Blue Collar Bloodsucker
+
+Up-and-Comer
+rules_text: [i]Approval[/i] — {3}, {T}, Discard a card: Draw a card. This ability costs {X} less to activate, where X is the number of colors among permanents you control. => {3}, {T}, Discard a card: Draw a card. This ability costs {X} less to activate, where X is your approval. [i](Your approval contains up to one different permanent of each color.)[/i]
+
+Inflammatory Declaimer
+cost: {4}{R} => {3}{R}
+rules_text: [i]Approval[/i] — When Inflammatory Declaimer enters, it deals X damage to each opponent, where X is the number of colors among permanents you control. => When Inflammatory Declaimer enters, it deals X damage to each opponent, where X is your approval. [i](Your approval contains up to one different permanent of each color.)[/i]
+
+Main Street Hooligang
+type: Creature — Lizard Rogue => Creature — Lizard Rebel
+pt: 2/2 => 2/1
+
+Revolutionary Throng
+type: Creature — Human Rogue => Creature — Human Rebel
+
+Hazakh Commandos
+
+Triumphant Herd
+rules_text: [i]Approval[/i] — When Triumphant Herd enters, you gain X life, where X is the number of colors among permanents you control. => When Triumphant Herd enters, you gain X life, where X is your approval [i](Your approval contains up to one different permanent of each color.)[/i]
+
+Gerrymanderer
+rules_text: Vigilance
+[i]Approval[/i] — {1}{G}: Target creature gets +X/+X until end of turn, where X is the number of colors among permanents you control. Activate only once each turn and only as a sorcery. => Vigilance
+{1}{G}: Target creature gets +X/+X until end of turn, where X is your approval. Activate only once each turn and only as a sorcery. [i](Your approval contains up to one different permanent of each color.)[/i]
+
+Ram Through
+
+Test Subject Alpha
+
+Bouncers-for-Hire
+
+Inner City Scout
+type: Creature — Human Rogue => Creature — Human Rebel
+
+Trailblazer Anarch
+type: Creature — Human Rogue => Creature — Human Rebel
+
+Pinnacle of Progress
+rules_text: This spell costs {1} less to cast for each counter among permanents you control.
+Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i] => This spell costs {1} less to cast for each counter among creatures you control.
+Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+
+Mutinous Inciter
+type: Creature — Human Rogue => Creature — Human Rebel
+
+Congressional Hall
+
+Interrogation Chamber
+
+Executive Office
+
+Neglected Slums
+
+Open Air Boardwalk
+
+Groupthink Tank
+
+Bustling Motorway
+
+Looming Skyscrapers
+
+Urban Sunscape
+
+Controlled Ecosystem
+
+Prismatic Propagandist
+rules_text: [i]Approval[/i] — When Prismatic Propagandist enters, create X 1/1 colorless Soldier creature tokens, where X is the number of colors among permanents you control. => When Prismatic Propagandist enters, create X 1/1 colorless Soldier creature tokens, where X is your approval. [i](Your approval contains up to one different permanent of each color.)[/i]
+
+Getaway Proxy
+type: Creature — Human Rogue => Creature — Human Rebel
+
+Veto
+cost: {U} => {X}{U}
+rules_text: [i]Approval[/i] — Counter target noncreature spell unless its controller pays {X}, where X is the number of colors among permanents you control. => This spell costs {1} less to cast for each color in your approval. [i](Your approval contains up to one different permanent of each color.)[/i]
+Counter target noncreature spell unless its controller pays {X}.
+
+Sleeper Strix
+pt: 1/1 => 1/2
+
+Warrant-Borne Cop
+rules_text: [i]Approval[/i] — When Warrant-Borne Cop enters, target player reveals X cards from their hand, where X is the number of colors among permanents you control. You choose one of them. That player discards that card. => When Warrant-Borne Cop enters, target player reveals X cards from their hand, where X is your approval. You choose one of them. That player discards that card. [i](Your approval contains up to one different permanent of each color.)[/i]
+
+Extraction Mission
+rules_text: You may cast this spell as though it had flash as long as {U} is spent to cast it.
+Return target creature card with mana value X or less from your graveyard to the battlefield tapped. If {R} was spent to cast this spell, create a token that's a copy of that creature. It gains haste until end of turn. Sacrifice it at end of combat. => You may cast this spell as though it had flash as long as {U} is spent to cast it.
+Return target creature card with mana value X or less from your graveyard to the battlefield tapped. If {R} was spent to cast this spell, create a token that's a copy of that creature. It gains haste until end of turn. Sacrifice the token at end of combat.
+
+Flock Favorites
+rules_text: [i]Approval[/i] — When Flock Favorites enters, exile the top X cards of your library, where X is the number of colors among permanents you control. Until the end of your next turn, you may play those cards. => When Flock Favorites enters, exile the top X cards of your library, where X is your approval. Until the end of your next turn, you may play those cards. [i](Your approval contains up to one different permanent of each color.)[/i]
+
+Expendable Arsonist
+
+Patent Pending
+rules_text: Create a token that's a copy of target creature you control, except it has haste. Sacrifice it at the beginning of the next end step. If {G} was spent to cast this spell, the token must be blocked each combat this turn if able. If {B} was spent to cast this spell, the token gains deathtouch. => Create a token that's a copy of target creature you control, except it has haste. Sacrifice it at the beginning of the next end step. If {G} was spent this spell, the token must be blocked each combat this turn if able. If {B} was spent to cast this spell, the token gains deathtouch.
+
+Cabinet Recruiter
+rules_text: [i]Approval[/i] — When Cabinet Recruiter enters, you may search your library for a creature card with mana value less than or equal to the number of colors among permanents you control, reveal it, put it into your hand, then shuffle. => When Cabinet Recruiter enters, you may search your library for a creature card with mana value less than or equal to your approval, reveal it, put it into your hand, then shuffle. [i](Your approval contains up to one different permanent of each color.)[/i]
+pt: 2/1 => 3/2
+
+Insurgency Mentor
+type: Creature — Human Rogue => Creature — Human Rebel
+
+Sleeper Insurgent
+type: Creature — Human Rogue => Creature — Human Rebel
+
+Sillaman Regrafter
+cost: {1}{G} => {G}
+pt: 1/1 => 0/1
+
+Social Engineering
+
+Security Initiative
+
+Silence the Opposition
+
+Meeting of the Elites
+
+Free Market
+
+Together in Arms
+
+Mondo, Outcast Maverick
+type: Legendary Creature — Human Rogue => Legendary Creature — Human Rebel
+
+Urban Twinmotors
+type: Creature — Human Rogue => Creature — Human Rebel
+
+Reconnaissance Agent
+
+Distributive Justice
+cost: {2}{W} => {1}{W}
+rules_text: [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Distributive Justice enters, distribute three +1/+1 counters among any number of target creatures you control.
+You control three or more creatures with the same power.
+You control three or more creatures with the same toughness. => [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Distributive Justice enters, distribute up to two +1/+1 counters among one or two target creatures you control.
+{ql} — You control two or more creatures with the same power.
+{ql} — You control two or more creatures with the same toughness.
+special_text: [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Distributive Justice enters, distribute three +1/+1 counters among any number of target creatures you control.
+You control three or more creatures with the same power.
+You control three or more creatures with the same toughness. => [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Distributive Justice enters, distribute up to two +1/+1 counters among one or two target creatures you control.
+{ql} — You control two or more creatures with the same power.
+{ql} — You control two or more creatures with the same toughness.
+
+Chromatic Rift
+cost: {3}{W}{W} => {2}{W}{W}
+rules_text: Choose any number —
+• Destroy all multicolored creatures.
+• Destroy all monocolored creatures.
+• Destroy all colorless creatures. => Choose one —
+• Destroy all multicolored creatures.
+• Destroy all monocolored creatures.
+• Destroy all colorless creatures.
+
+Research Grant
+rules_text: [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Research Grant enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+You've cast two or more spells this turn.
+You've drawn two or more cards this turn. => [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Research Grant enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+{ql} — You've cast two or more spells this turn.
+{ql} — You've drawn two or more cards this turn.
+special_text: [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Research Grant enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+You've cast two or more spells this turn.
+You've drawn two or more cards this turn. => [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Research Grant enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+{ql} — You've cast two or more spells this turn.
+{ql} — You've drawn two or more cards this turn.
+
+Congressional Kraken
+rules_text: Flash
+[i]Approval[/i] — When Congressional Kraken enters, return each nonland permanent with mana value less than or equal to the number of colors among permanents you control to their owners' hands. => Flash
+When Congressional Kraken enters, return each nonland permanent with mana value less than or equal to your approval to their owners' hands. [i](Your approval contains up to one different permanent of each color.)[/i]
+
+Ascend to Power
+
+Judge, Jury, and Executioner
+rules_text: Flying
+[i]Approval[/i] — When Judge, Jury, and Executioner enters, exile up to one target creature with mana value less than or equal to the number of colors among permanents you control. => Flying
+When Judge, Jury, and Executioner enters, exile up to one target creature with mana value less than or equal to your approval. [i](Your approval contains up to one different permanent of each color.)[/i]
+
+Sparks of a Revolution
+
+Flaw in the System
+type: Creature — Human Rogue => Artifact Creature — Human Rebel
+rules_text: Haste
+Whenever a player casts a spell, if no mana from a basic source was spent to cast it, Flaw in the System deals 2 damage to that player. => Haste
+Whenever a player spends one or more mana from a nonbasic source, Flaw in the System deals 1 damage to that player.
+
+Penrath Firearm
+type: Creature — Human Rogue => Creature — Human Rebel
+
+Golden Age
+cost: {1}{G} => {G}
+rules_text: [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Golden Age enters, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield, then shuffle.
+You've cast a multicolored spell this turn. => [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+{ql} — When Golden Age enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{ql}, {ql} — You've cast a multicolored spell this turn.
+special_text: [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Golden Age enters, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield, then shuffle.
+You've cast a multicolored spell this turn. => [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+{ql} — When Golden Age enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{ql}, {ql} — You've cast a multicolored spell this turn.
+
+Chromagoyf
+cost: {1}{G} => {G}
+rules_text: Trample
+[i]Approval[/i] — Chromagoyf's power and toughness are each equal to the number of colors among permanents you control. => Chromagoyf's power is equal to your approval and its toughness is equal to that number plus 1. [i](Your approval contains up to one different permanent of each color.)[/i]
+pt: */* => */1+*
+
+Aspiring Anarchist
+type: Creature — Crocodile Rogue => Creature — Crocodile Rebel
+
+Empowered Revisionary
+type: Creature — Human Rogue => Creature — Human Rebel
+
+Freightyard Scrappers
+cost: {B}{R}{G} => {4}{B}{R}{G}
+rules_text: Whenever Freightyard Scrappers attacks, create a Treasure token.
+{X}, Sacrifice an artifact: Return target artifact card with mana value X or less from your graveyard to the battlefield. Activate only as a sorcery and only once each turn. => As an additional cost to cast this spell, you may sacrifice a nonland permanent. If you do, it costs {X} less to cast, where X is that permanent's mana value.
+Ward—Sacrifice a nonland permanent.
+Whenever Freightyard Scrappers attacks, each opponent sacrifices a nonland permanent.
+pt: 3/3 => 7/7
+
+Penrath Dispatcher
+type: Creature — Human Rogue => Creature — Human Rebel
+cost: {R}{G}{W} => {1}{R}{G}{W}
+rules_text: Whenever Penrath Dispatcher attacks, you may put a creature card with mana value less than or equal to Penrath Dispatcher's power from your hand onto the battlefield tapped and attacking.
+{2}: Penrath Dispatcher gets +1/+1 until end of turn. => Haste
+Whenever Penrath Dispatcher attacks, choose one. X is the number of attacking creatures.
+• Search your library for a creature card with mana value X or less, reveal it, put it into your hand, then shuffle.
+• You may put a creature card with mana value X or less from your hand onto the battlefield tapped and attacking.
+pt: 3/2 => 4/4
+
+Hazakh Agenda
+
+Scandalous Revelation
+type: Instant => Sorcery
+cost: {X}{W}{U}{B} => {2}{W}{U}{B}
+rules_text: As an additional cost to cast this spell, exile X cards from your graveyard.
+You draw X cards and gain X life, then each opponent loses X life. => Draw three cards, then discard any number of cards. When you do, destroy all nonland permanents with mana value X or less, where X is the number of cards you discarded. You gain X life.
+
+Work Safety Violation
+
+Gaze Upon Civilization
+rules_text: You may look at the top card of your library any time.
+[i]Approval[/i] — Once during each of your turns, you may cast a spell with mana value less than or equal to the number of colors among permanents you control from your hand or the top of your library without paying its mana cost. => You may look at the top card of your library any time.
+Once during each of your turns, you may play a land or cast a spell with mana value less than or equal to your approval from your hand or the top of your library without paying its mana cost. [i](Your approval contains up to one different permanent of each color.)[/i]
+
+Old Times Ruminator
+cost: {2}{B}{B} => {4}{B}
+rules_text: During your turn, you may play cards from your graveyard but not from anywhere else.
+Whenever you cast an instant or sorcery spell, exile that card instead of putting it into your graveyard as it resolves.
+If another permanent you control would be put into your graveyard, exile it instead. => Menace
+When Old Times Ruminator enters, create The Codex, a legendary colorless artifact token with “{T}: Mill a card” and “{T}, Sacrifice this token: Search your library for a card, put it into your graveyard, then shuffle.”
+Old Times Ruminator gets +1/+1 for each card in your graveyard.
+pt: 3/3 => 0/1
+
+Venture Capitalist
+cost: {1}{R}{R} => {1}{R}
+rules_text: Whenever you cast an artifact spell, create a 0/0 colorless Robot artifact creature token with a +1/+1 counter on it.
+{2}, {T}: Add {R} for each artifact you control. Spend this mana only to cast artifact spells or to activate abilities of artifacts. => When Venture Capitalist enters, you may search your library for an artifact card, exile it, then shuffle. You may play that card this turn.
+{T}, Sacrifice an artifact: Add one mana of any color.
+
+Eo, the Great Equalizer
+
+High Senator Talpa
+rules_text: When High Senator Talpa enters, choose target opponent. If you control fewer creatures than that player, create a number of 1/1 colorless Soldier creature tokens equal to the difference. If you have fewer cards in hand than that player, draw cards equal to the difference. => Vigilance
+When High Senator Talpa enters or attacks, choose one —
+• If an opponent has more life than you, gain 3 life.
+• If an opponent controls more creatures than you, create a number of 1/1 colorless Soldier creature.
+• If an opponent has more cards in hand than you, draw a card.
+pt: 3/3 => 3/4
+
+Estrathian Gentrifiers
+
+Tomer, Figurehead President
+type: Legendary Creature — Human Noble => Legendary Creature — Human Advisor
+cost: {3} => {4}
+rules_text: Spend only mana of different colors to cast this spell.
+For each color among permanents you control, the first multicolored spell you cast each turn costs one mana of that color less to cast. This effect reduces only the amount of colored mana you pay. => Tomer, Figurehead President is all colors and all creature types.
+Spells you cast have conspire. [i](As you cast a spell with conspire, you may tap two untapped creatures you control that share a color with it. When you do, copy it.)[/i]
+pt: 2/2 => 4/4
+
+The Majority Whip
+rules_text: Equipped creature gets +2/+2.
+As long as there are five colors among permanents you control, equipped creature has indestructible.
+Equip {5}. This ability costs {1} less to activate for each of its target's colors. => Equipped creature gets +2/+2 and has ward {X}, where X is the number of colors it is.
+Whenever a legendary creature you control attacks, you may attach The Majority Whip to it.
+Equip {3}
+
+CNY Tiril Bureau
+
+CNY Hazakh Arsenal
+
+CNY Vishanki Inc
+
+CNY Penrath Insurgency
+
+CNY Sillaman Laboratories
+
+CNY CLIQUE TOKEN REMINDER
+type:  => Token
+rules_text: [b]Cliques are enchantment tokens with the following colors + abilities:[/b]
+{W}{U}{B} TIRIL BUREAU
+— {4}: Surveil 2. Activate only as a sorcery.
+{U}{B}{R} HAZAKH ARSENAL
+— {4}: Create a 2/2 colorless Minion creature token with decayed. Activate only as a sorcery. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+{B}{R}{G} VISHANKI INC.
+— {4}: Create a Treasure token. Activate only as a sorcery.
+{R}{G}{W} PENRATH INSURGENCY
+— {4}: Up to one target creature gets +2/+2 until end of turn. Activate only as a sorcery.
+{G}{W}{U} SILLAMAN LABORATORIES
+— {4}: Tap up to one target untapped creature. You may put a +1/+1 counter on it. Activate only as a sorcery. => 
+
+CNY Minion
+
+CNY Treasure
+
+CNY Robot
+
+CNY Sentry of the New World
+
+CNY Berserker
+
+CNY Chaneryx, Perfect Lifeform
+type: Token Legendary Creature — Leviathan => Legendary Creature — Leviathan
+
+CNY Equipment
+
+Chromatic Rift Promo
+cost: {3}{W}{W} => {2}{W}{W}
+rules_text: Choose any number —
+• Destroy all multicolored creatures.
+• Destroy all monocolored creatures.
+• Destroy all colorless creatures. => Choose one —
+• Destroy all multicolored creatures.
+• Destroy all monocolored creatures.
+• Destroy all colorless creatures.
+
+Severin's Masterwork Promo
+
+Gaze Upon Civilization Promo
+rules_text: You may look at the top card of your library any time.
+[i][i]Approval[/i][/i] — Once during each of your turns, you may cast a spell with mana value less than or equal to the number of colors among permanents you control from your hand or the top of your library without paying its mana cost. => You may look at the top card of your library any time.
+Once during each of your turns, you may play a land or cast a spell with mana value less than or equal to your approval from your hand or the top of your library without paying its mana cost. [i](Your approval contains up to one different permanent of each color.)[/i]
+
+Sparks of a Revolution Promo
+
+Coup D'Etat Promo
+
+Defect Promo
+
+Search and Seizure Promo
+
+Vishanki Hellkite Promo
+
+Whirring Inspector Promo
+
+Work Safety Violation Promo
+
+Estrathe, Center of Civilization Promo
+
+Anesthesiologist
+rules_text: Whenever Anesthesiologist attacks, if you control a white permanent, teach Anesthesiologist lifelink. Otherwise, you gain 2 life. [i](To teach lifelink, put a lifelink counter on it. If it already has lifelink, put a +1/+1 counter on it instead.)[/i] => Whenever Anesthesiologist attacks, teach Anesthesiologist lifelink if you control a white permanent. Otherwise, you gain 2 life. [i](To teach lifelink, put a lifelink counter on it. If it already has lifelink, put a +1/+1 counter on it instead.)[/i]
+
+Ballot Registrar
+
+Dhante's Inferno
+
+Evasive Tactics
+
+Penrath Roperunner
+type: Creature — Human Rogue => Creature — Human Rebel
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.
