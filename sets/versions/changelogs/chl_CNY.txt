@@ -1,4 +1,54 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Distributive Justice
+rules_text: [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Distributive Justice enters, distribute up to two +1/+1 counters among one or two target creatures you control.
+{ql} — You control two or more creatures with the same power.
+{ql} — You control two or more creatures with the same toughness. => [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Distributive Justice enters, distribute up to two +1/+1 counters among one or two target creatures you control.
+You control two or more creatures with the same power.
+You control two or more creatures with the same toughness.
+special_text: [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Distributive Justice enters, distribute up to two +1/+1 counters among one or two target creatures you control.
+{ql} — You control two or more creatures with the same power.
+{ql} — You control two or more creatures with the same toughness. => [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Distributive Justice enters, distribute up to two +1/+1 counters among one or two target creatures you control.
+You control two or more creatures with the same power.
+You control two or more creatures with the same toughness.
+
+Research Grant
+rules_text: [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Research Grant enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+{ql} — You've cast two or more spells this turn.
+{ql} — You've drawn two or more cards this turn. => [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Research Grant enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+You've cast two or more spells this turn.
+You've drawn two or more cards this turn.
+special_text: [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Research Grant enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+{ql} — You've cast two or more spells this turn.
+{ql} — You've drawn two or more cards this turn. => [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Research Grant enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+You've cast two or more spells this turn.
+You've drawn two or more cards this turn.
+
+Golden Age
+rules_text: [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+{ql} — When Golden Age enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{ql}, {ql} — You've cast a multicolored spell this turn. => [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Golden Age enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{ql}, {ql}, {ql} — You've cast a multicolored spell this turn.
+special_text: [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+{ql} — When Golden Age enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{ql}, {ql} — You've cast a multicolored spell this turn. => [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Golden Age enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{ql}, {ql}, {ql} — You've cast a multicolored spell this turn.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Envoy of the Fallen added.
