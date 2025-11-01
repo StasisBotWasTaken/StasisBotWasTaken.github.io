@@ -1,4 +1,34 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+Anesthesiologist removed.
+
+Golden Age
+rules_text: [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Golden Age enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{ql}, {ql}, {ql} — You've cast a multicolored spell this turn. => [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Golden Age enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+You've cast a multicolored spell this turn.
+special_text: [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Golden Age enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{ql}, {ql}, {ql} — You've cast a multicolored spell this turn. => [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Golden Age enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+You've cast a multicolored spell this turn.
+
+High Senator Talpa
+rules_text: Vigilance
+When High Senator Talpa enters or attacks, choose one —
+• If an opponent has more life than you, gain 3 life.
+• If an opponent controls more creatures than you, create a number of 1/1 colorless Soldier creature.
+• If an opponent has more cards in hand than you, draw a card. => Vigilance
+When High Senator Talpa enters or attacks, choose one —
+• If an opponent has more life than you, gain 3 life.
+• If an opponent controls more creatures than you, create a 1/1 colorless Soldier creature token.
+• If an opponent has more cards in hand than you, draw a card.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 

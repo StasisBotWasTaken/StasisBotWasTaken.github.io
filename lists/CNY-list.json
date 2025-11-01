@@ -504,8 +504,8 @@
         "set": "CNY"
     },
     {
-        "card_name": "Anesthesiologist",
-        "number": 127,
+        "card_name": "Bouncers-for-Hire",
+        "number": 129,
         "shape": "normal",
         "set": "CNY"
     },
@@ -534,8 +534,8 @@
         "set": "CNY"
     },
     {
-        "card_name": "Bouncers-for-Hire",
-        "number": 129,
+        "card_name": "Demolition Team",
+        "number": 133,
         "shape": "normal",
         "set": "CNY"
     },
@@ -564,8 +564,8 @@
         "set": "CNY"
     },
     {
-        "card_name": "Demolition Team",
-        "number": 133,
+        "card_name": "Escalated Tensions",
+        "number": 135,
         "shape": "normal",
         "set": "CNY"
     },
@@ -594,8 +594,8 @@
         "set": "CNY"
     },
     {
-        "card_name": "Escalated Tensions",
-        "number": 135,
+        "card_name": "Gerrymanderer",
+        "number": 137,
         "shape": "normal",
         "set": "CNY"
     },
@@ -624,8 +624,8 @@
         "set": "CNY"
     },
     {
-        "card_name": "Gerrymanderer",
-        "number": 137,
+        "card_name": "Idealistic Voter",
+        "number": 140,
         "shape": "normal",
         "set": "CNY"
     },
@@ -654,8 +654,8 @@
         "set": "CNY"
     },
     {
-        "card_name": "Idealistic Voter",
-        "number": 140,
+        "card_name": "Inner City Scout",
+        "number": 141,
         "shape": "normal",
         "set": "CNY"
     },
@@ -684,8 +684,8 @@
         "set": "CNY"
     },
     {
-        "card_name": "Inner City Scout",
-        "number": 141,
+        "card_name": "International Development",
+        "number": 144,
         "shape": "normal",
         "set": "CNY"
     },
@@ -714,8 +714,8 @@
         "set": "CNY"
     },
     {
-        "card_name": "International Development",
-        "number": 144,
+        "card_name": "Invest",
+        "number": 145,
         "shape": "normal",
         "set": "CNY"
     },
@@ -744,8 +744,8 @@
         "set": "CNY"
     },
     {
-        "card_name": "Invest",
-        "number": 145,
+        "card_name": "Mana Harvesters",
+        "number": 146,
         "shape": "normal",
         "set": "CNY"
     },
@@ -774,8 +774,8 @@
         "set": "CNY"
     },
     {
-        "card_name": "Mana Harvesters",
-        "number": 146,
+        "card_name": "Ram Through",
+        "number": 148,
         "shape": "normal",
         "set": "CNY"
     },
@@ -804,8 +804,8 @@
         "set": "CNY"
     },
     {
-        "card_name": "Ram Through",
-        "number": 148,
+        "card_name": "Ruinous Discovery",
+        "number": 149,
         "shape": "normal",
         "set": "CNY"
     },
@@ -834,8 +834,8 @@
         "set": "CNY"
     },
     {
-        "card_name": "Ruinous Discovery",
-        "number": 149,
+        "card_name": "Test Subject Alpha",
+        "number": 155,
         "shape": "normal",
         "set": "CNY"
     },
@@ -864,8 +864,8 @@
         "set": "CNY"
     },
     {
-        "card_name": "Test Subject Alpha",
-        "number": 155,
+        "card_name": "Triumphant Herd",
+        "number": 156,
         "shape": "normal",
         "set": "CNY"
     },
@@ -894,10 +894,7 @@
         "set": "CNY"
     },
     {
-        "card_name": "Triumphant Herd",
-        "number": 156,
-        "shape": "normal",
-        "set": "CNY"
+        "card_name": "e"
     },
     {
         "card_name": "Chromatic Rift Promo",
