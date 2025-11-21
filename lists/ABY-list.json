@@ -1,871 +1,1171 @@
 ﻿[
     {
-        "card_name": "UW01 Inconspicuous Bifurcator",
-        "number": 33,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UU01 Artisan Apprentice",
-        "number": 72,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UB01 sewerperson",
-        "number": 111,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UR01 Overeager Courier",
-        "number": 150,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UG01 SynthScape Painter",
-        "number": 189,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UW02 leoning",
-        "number": 34,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UU02 countersguy",
-        "number": 73,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UB02 Augur of the In-Between",
-        "number": 112,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UR02 protagonistcomplex",
-        "number": 151,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UG02 Artisan Uncoiler",
-        "number": 190,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UW03 Orrery Overseer",
-        "number": 35,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UU03 Examiner of Oddities",
-        "number": 74,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UB03 Flickering Finisher",
-        "number": 113,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UR03 Madcap Prodigies",
-        "number": 152,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UG03 Vitality Reweavers",
-        "number": 191,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UW04 Luminite Captain",
-        "number": 36,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UU04 planar migration",
-        "number": 75,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UB04 Omenweb Inquisitor",
-        "number": 114,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UR04 All-Purpose Reforger",
-        "number": 153,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UG04 Outlands Pioneer",
-        "number": 192,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UW05 Arbiter of the Coil",
-        "number": 37,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UU05 Watcher at the Edge",
-        "number": 76,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UB05 Congregation at Last Light",
-        "number": 115,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UR05 mechaguy",
-        "number": 154,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UG05 Innovative Ecologist",
-        "number": 193,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UW06 Timecoil Restorer",
-        "number": 38,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UU06 Cogwork Inverter",
-        "number": 77,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UB06 Darksteel Ace",
-        "number": 116,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UR06 Timecoil Dismantler",
-        "number": 155,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UG06 Eldworld Wayfarer",
-        "number": 194,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UW07 Omenweb Overseer",
-        "number": 39,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UU07 Spinner of the Omenweb",
-        "number": 78,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UB07 Chronicler of the Passed",
-        "number": 117,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UR07 dargon",
-        "number": 156,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UG07 Retrofit Goliath",
-        "number": 195,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UW08 Loxodon Tinkerer",
-        "number": 40,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UU08 countercounter",
-        "number": 79,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UB08 Nimble Redeye",
-        "number": 118,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UR08 Twinarm Outfitter",
-        "number": 157,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UG08 Interplanar Tunneler",
-        "number": 196,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UW09 trial for timecrimetm",
-        "number": 41,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UU09 Thirst for Answers",
-        "number": 80,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UB09 the secrettm",
-        "number": 119,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UR09 empowered slash",
-        "number": 158,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UG09 March Ever-Forward",
-        "number": 197,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UW10 Charged Photon Blast",
-        "number": 42,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UU10 Paradox Haze",
-        "number": 81,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UB10 Eliminate the Predecessor",
-        "number": 120,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UR10 Three Prongs",
-        "number": 159,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UG10 very safe design",
-        "number": 198,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UW11 Stabilizer Suit",
-        "number": 43,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UU11 chronocopy",
-        "number": 82,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UB11 pocket knife",
-        "number": 121,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UR11 red eldstone",
-        "number": 160,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UG11 green eldstone",
-        "number": 199,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UW12 Skyscraper Mecha",
-        "number": 44,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UU12 the exchangorr",
-        "number": 83,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UB12 Final Word",
-        "number": 122,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UR12 The Collapse of the Web",
-        "number": 161,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UG12 Echoes of the Eldworld",
-        "number": 200,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UW13 Chronicle of the Devout",
-        "number": 45,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UU13 Chronicle of the Entranced",
-        "number": 84,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UB13 Reupload",
-        "number": 123,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UR13 Glimpse the Eldworld",
-        "number": 162,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UG13 Eldworld Invasion",
-        "number": 201,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UW14 Chronicle of the Zealous",
-        "number": 46,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UU14 Chronicle of the Inspired",
-        "number": 85,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UB14 Chronicle of the Deceived",
-        "number": 124,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UR14 Chronicle of the Faithless",
-        "number": 163,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UG14 Chronicle of the Free",
-        "number": 202,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CW01 I.E. Monitor",
-        "number": 8,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CU01 Sifter of Futures Forgotten",
-        "number": 47,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CB01 Workshop Naughty",
-        "number": 86,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CR01 Scrounging Vastor",
-        "number": 125,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CG01 Outlands Specimen",
-        "number": 164,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CW02 Luminite Equalizer",
-        "number": 9,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CU02 Skyline Operator",
-        "number": 48,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CB02 Disciples' Strongarm",
-        "number": 87,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CR02 Two mana creature",
-        "number": 126,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CG02 Two mana creature",
-        "number": 165,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CW03 Fractured Feline",
-        "number": 10,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CU03 Voltaic Virtuoso",
-        "number": 49,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CB03 Two mana creature",
-        "number": 88,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CR03 Voices of the Displaced",
-        "number": 127,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CG03 not bandar",
-        "number": 166,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CW04 Passage Sanctifier",
-        "number": 11,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CU04 Three mana creature",
-        "number": 50,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CB04 Minister of Penance",
-        "number": 89,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CR04 Three mana creature",
-        "number": 128,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CG04 People of the Sun",
-        "number": 167,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CW05 Fleetfoot Re-Runner",
-        "number": 12,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CU05 Omenweb Guardian",
-        "number": 51,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CB05 False Mourning's Zealot",
-        "number": 90,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CR05 Alloy Transmuter",
-        "number": 129,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CG05 Chitinous Artisan",
-        "number": 168,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CW06 Three mana creature",
-        "number": 13,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CU06 I.E. Prognosticator",
-        "number": 52,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CB06 Disciples' Onboarder",
-        "number": 91,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CR06 Borderlands Daredevil",
-        "number": 130,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CG06 Unlikely Symbiotes",
-        "number": 169,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CW07 Ingenious Joyrider",
-        "number": 14,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CU07 Fortuitous Cnidarians",
-        "number": 53,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CB07 4-5 mana creature",
-        "number": 92,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CR07 4-5 mana creature",
-        "number": 131,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CG07 Four mana creature",
-        "number": 170,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CW08 Freelance Gearsmith",
-        "number": 15,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CU08 Portal Dasher",
-        "number": 54,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CB08 5-6 mana creature",
-        "number": 93,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CR08 Bullet Train",
-        "number": 132,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CG08 Borderland Bullies",
-        "number": 171,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CW09 Coil's Trilogy",
+        "card_name": "MW01 Savior of Schisms",
         "number": 16,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CU09 Lost in Tomorrow",
+        "card_name": "MU01 Gallas, Temporal Pioneer",
         "number": 55,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CB09 Scrapyard Tyrant",
+        "card_name": "MB01 Scour the SynthScape",
         "number": 94,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CR09 Molten Eldbeast",
+        "card_name": "MR01 Hannah, the First Anomaly",
         "number": 133,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CG09 Six mana creature",
+        "card_name": "MG01 Interplanar Wayfinder",
         "number": 172,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CW10 I.E. Regulator",
+        "card_name": "MW02 Prodigal Dimensiurge",
         "number": 17,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CU10 Enforce Equilibrium",
+        "card_name": "MU02 Timetangle",
         "number": 56,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CB10 Vanquish the Weak",
+        "card_name": "MB02 Sentience Swapper",
         "number": 95,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CR10 Steamroll",
+        "card_name": "MR02 Breaker of Equilibria",
         "number": 134,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CG10 Urban Flytrap",
+        "card_name": "MG02 The Omenweb Engine",
         "number": 173,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CW11 Zeth's Herald",
+        "card_name": "RW01 SynthScape Familiar",
         "number": 18,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CU11 Iterate",
+        "card_name": "RU01 I.E. Resonator",
         "number": 57,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CB11 Identical Backup",
+        "card_name": "RB01 Outlands Champion",
         "number": 96,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CR11 One Against All",
+        "card_name": "RR01 Recursive Fabricator",
         "number": 135,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CG11 Fight spell",
+        "card_name": "RG01 Bootstrapped Zygote",
         "number": 174,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CW12 Lightfoil Katana",
+        "card_name": "RW02 Insurgent Protocol",
         "number": 19,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CU12 Parallel Fates",
+        "card_name": "RU02 Entangled Infiltrator",
         "number": 58,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CB12 Card draw (added cost)",
+        "card_name": "RB02 Sting",
         "number": 97,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CR12 Buy Time",
+        "card_name": "RR02 Eldworld Kindler",
         "number": 136,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CG12 Eldmagic Invocation",
+        "card_name": "RG02 Stutterhide Stomper",
         "number": 175,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CW13 Locked On",
+        "card_name": "RW03 Luminia, Herocaller",
         "number": 20,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CU13 Pixelate",
+        "card_name": "RU03 Those from Beyond",
         "number": 59,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CB13 Hand attack",
+        "card_name": "RB03 Blessed of the Coil",
         "number": 98,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CR13 Spot Weld",
+        "card_name": "RR03 Untethered Splinter",
         "number": 137,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CG13 Combat trick",
+        "card_name": "RG03 SynthScape Connections",
         "number": 176,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CW14 Verdict of the True Sun",
+        "card_name": "RW04 I.E. Manufactor",
         "number": 21,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CU14 Sink Between Space",
+        "card_name": "RU04 SynthScape Manaform",
         "number": 60,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CB14 Eliminate the Xenic",
+        "card_name": "RB04 Elegy in Three Parts",
         "number": 99,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CR14 Oppressive Fire",
+        "card_name": "RR04 Galvanic Regent",
         "number": 138,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CG14 SynthScape Mining",
+        "card_name": "RG04 Portalhopping",
         "number": 177,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CW15 Combat trick",
+        "card_name": "RW05 Containment Priest",
         "number": 22,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CU15 Return to Sender",
+        "card_name": "RU05 Timecoil Tracings",
         "number": 61,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CB15 Live on in Memory",
+        "card_name": "RB05 Inciting Incident",
         "number": 100,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CR15 Temporal Discharge",
+        "card_name": "RR05 Splintered Memories",
         "number": 139,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CG15 Beseech the Eldmother",
+        "card_name": "RG05 I.E. Residual Error",
         "number": 178,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RW06 Turn Back",
+        "number": 23,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RU06 A Better Yesterday",
+        "number": 62,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RB06 Soulshredder Mecha",
+        "number": 101,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RR06 Foundry Aggravator",
+        "number": 140,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RG06 Eldworld Propagator",
+        "number": 179,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RW07 Dawn, Blinding Hope",
+        "number": 24,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RU07 Ebb, the Amorphous",
+        "number": 63,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RB07 Moonfall, Coilcursed",
+        "number": 102,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RR07 Volta, Brink Freebooter",
+        "number": 141,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RG07 Spark, the Catalyst",
+        "number": 180,
+        "shape": "planeswalker",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RW08 Fracture the Path",
+        "number": 25,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RU08 The Great Exodus",
+        "number": 64,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RB08 Tortured Mind",
+        "number": 103,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RR08 Overclock",
+        "number": 142,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RG08 Millenniapede",
+        "number": 181,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UW01 Artisan-Craft Gargoyle",
+        "number": 26,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UU01 Artisan Apprentice",
+        "number": 65,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UB01 sewerperson",
+        "number": 104,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UR01 Overeager Courier",
+        "number": 143,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UG01 SynthScape Painter",
+        "number": 182,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UW02 Leonin Wanderer",
+        "number": 27,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UU02 countersguy",
+        "number": 66,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UB02 Augur of the In-Between",
+        "number": 105,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UR02 protagonistcomplex",
+        "number": 144,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UG02 Artisan Uncoiler",
+        "number": 183,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UW03 Orrery Overseer",
+        "number": 28,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UU03 Examiner of Oddities",
+        "number": 67,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UB03 Flickering Finisher",
+        "number": 106,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UR03 Madcap Prodigies",
+        "number": 145,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UG03 Vitality Reweavers",
+        "number": 184,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UW04 Luminite Captain",
+        "number": 29,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UU04 planar migration",
+        "number": 68,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UB04 Omenweb Inquisitor",
+        "number": 107,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UR04 All-Purpose Reforger",
+        "number": 146,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UG04 Outlands Pioneer",
+        "number": 185,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UW05 Artisan Arbiter",
+        "number": 30,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UU05 Watcher at the Edge",
+        "number": 69,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UB05 Congregation at Last Light",
+        "number": 108,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UR05 mechaguy",
+        "number": 147,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UG05 Innovative Ecologist",
+        "number": 186,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UW06 Timecoil Restorer",
+        "number": 31,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UU06 Cogwork Inverter",
+        "number": 70,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UB06 Darksteel Ace",
+        "number": 109,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UR06 Timecoil Dismantler",
+        "number": 148,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UG06 Eldworld Wayfarer",
+        "number": 187,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UW07 Omenweb Overseer",
+        "number": 32,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UU07 Spinner of the Omenweb",
+        "number": 71,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UB07 Chronicler of the Passed",
+        "number": 110,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UR07 Scrapwork Scourge",
+        "number": 149,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UG07 Retrofit Goliath",
+        "number": 188,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UW08 Loxodon Tinkerer",
+        "number": 33,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UU08 countercounter",
+        "number": 72,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UB08 Nimble Redeye",
+        "number": 111,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UR08 Twinarm Outfitter",
+        "number": 150,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UG08 Interplanar Tunneler",
+        "number": 189,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UW09 trial for timecrimetm",
+        "number": 34,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UU09 Thirst for Answers",
+        "number": 73,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UB09 the secrettm",
+        "number": 112,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UR09 empowered slash",
+        "number": 151,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UG09 March Ever-Forward",
+        "number": 190,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UW10 Charged Photon Blast",
+        "number": 35,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UU10 Paradox Haze",
+        "number": 74,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UB10 Eliminate the Predecessor",
+        "number": 113,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UR10 Three Prongs",
+        "number": 152,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UG10 very safe design",
+        "number": 191,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UW11 Stabilizer Suit",
+        "number": 36,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UU11 chronocopy",
+        "number": 75,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UB11 pocket knife",
+        "number": 114,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UR11 red eldstone",
+        "number": 153,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UG11 green eldstone",
+        "number": 192,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UW12 Lightsail Skyship",
+        "number": 37,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UU12 Industrial Reclamation",
+        "number": 76,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UB12 Final Word",
+        "number": 115,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UR12 The Collapse of the Web",
+        "number": 154,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UG12 Echoes of the Eldworld",
+        "number": 193,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UW13 Chronicle of the Devout",
+        "number": 38,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UU13 Chronicle of the Entranced",
+        "number": 77,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UB13 From the Abyss",
+        "number": 116,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UR13 Glimpse the Eldworld",
+        "number": 155,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UG13 Eldworld Invasion",
+        "number": 194,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UW14 Chronicle of the Zealous",
+        "number": 39,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UU14 Chronicle of the Inspired",
+        "number": 78,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UB14 Chronicle of the Deceived",
+        "number": 117,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UR14 Chronicle of the Faithless",
+        "number": 156,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UG14 Chronicle of the Free",
+        "number": 195,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CW01 I.E. Monitor",
+        "number": 1,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CU01 Sifter of Futures Forgotten",
+        "number": 40,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CB01 Workshop Naughty",
+        "number": 79,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CR01 Scrounging Vastor",
+        "number": 118,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CG01 Outlands Specimen",
+        "number": 157,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CW02 Luminite Equalizer",
+        "number": 2,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CU02 Skyline Operator",
+        "number": 41,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CB02 Disciples' Strongarm",
+        "number": 80,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CR02 Two mana creature",
+        "number": 119,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CG02 Eldworld Tandem",
+        "number": 158,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CW03 Fractured Feline",
+        "number": 3,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CU03 Voltaic Virtuoso",
+        "number": 42,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CB03 Brink Extortionists",
+        "number": 81,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CR03 Voices of the Displaced",
+        "number": 120,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CG03 not bandar",
+        "number": 159,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CW04 Passage Sanctifier",
+        "number": 4,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CU04 Three mana creature",
+        "number": 43,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CB04 Minister of Penance",
+        "number": 82,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CR04 Three mana creature",
+        "number": 121,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CG04 People of the Sun",
+        "number": 160,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CW05 Fleetfoot Re-Runner",
+        "number": 5,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CU05 Omenweb Guardian",
+        "number": 44,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CB05 False Mourning's Zealot",
+        "number": 83,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CR05 Alloy Transmuter",
+        "number": 122,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CG05 Chitinous Artisan",
+        "number": 161,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CW06 Three mana creature",
+        "number": 6,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CU06 I.E. Prognosticator",
+        "number": 45,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CB06 Disciples' Onboarder",
+        "number": 84,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CR06 Borderlands Daredevil",
+        "number": 123,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CG06 Unlikely Symbiotes",
+        "number": 162,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CW07 Ingenious Joyrider",
+        "number": 7,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CU07 Fortuitous Cnidarians",
+        "number": 46,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CB07 4-5 mana creature",
+        "number": 85,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CR07 4-5 mana creature",
+        "number": 124,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CG07 Four mana creature",
+        "number": 163,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CW08 Freelance Gearsmith",
+        "number": 8,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CU08 Portal Dasher",
+        "number": 47,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CB08 5-6 mana creature",
+        "number": 86,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CR08 Bullet Train",
+        "number": 125,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CG08 Borderland Bullies",
+        "number": 164,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CW09 Coil's Trilogy",
+        "number": 9,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CU09 Lost in Tomorrow",
+        "number": 48,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CB09 Scrapyard Tyrant",
+        "number": 87,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CR09 Molten Eldbeast",
+        "number": 126,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CG09 Six mana creature",
+        "number": 165,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CW10 I.E. Regulator",
+        "number": 10,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CU10 Enforce Equilibrium",
+        "number": 49,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CB10 Vanquish the Weak",
+        "number": 88,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CR10 Steamroll",
+        "number": 127,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CG10 Urban Flytrap",
+        "number": 166,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CW11 Zeth's Herald",
+        "number": 11,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CU11 Iterate",
+        "number": 50,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CB11 Identical Backup",
+        "number": 89,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CR11 One Against All",
+        "number": 128,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CG11 Fight spell",
+        "number": 167,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CW12 Lightfoil Katana",
+        "number": 12,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CU12 Parallel Fates",
+        "number": 51,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CB12 Card draw (added cost)",
+        "number": 90,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CR12 Buy Time",
+        "number": 129,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CG12 Eldmagic Invocation",
+        "number": 168,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CW13 Locked On",
+        "number": 13,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CU13 Pixelate",
+        "number": 52,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CB13 Hand attack",
+        "number": 91,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CR13 Spot Weld",
+        "number": 130,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CG13 Combat trick",
+        "number": 169,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CW14 Verdict of the True Sun",
+        "number": 14,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CU14 Sink Between Space",
+        "number": 53,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CB14 basically xenophobia",
+        "number": 92,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CR14 Oppressive Fire",
+        "number": 131,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CG14 SynthScape Mining",
+        "number": 170,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CW15 Combat trick",
+        "number": 15,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CU15 Return to Sender",
+        "number": 54,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CB15 Live on in Memory",
+        "number": 93,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CR15 Temporal Discharge",
+        "number": 132,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CG15 Beseech the Eldmother",
+        "number": 171,
         "shape": "normal",
         "set": "ABY"
     },
@@ -883,137 +1183,257 @@
     },
     "a->gold",
     {
+        "card_name": "MM01 Zeth, Planar Architect",
+        "number": 196,
+        "shape": "planeswalker",
+        "set": "ABY"
+    },
+    {
+        "card_name": "MM02 Planar Incursion",
+        "number": 197,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "MM03 Brink Wageling",
+        "number": 198,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "MM04 Loche, Returned Pilgrim",
+        "number": 199,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "MM05 Synthesized Blossom",
+        "number": 200,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RM01 She Who Never Was",
+        "number": 206,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RM02 Ouarra, All-Devourer",
+        "number": 207,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RM03 Sheiya, the Timescythe",
+        "number": 208,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RM04 Artisan Spelunker",
+        "number": 209,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RM05 Eris, Ardent Thaumaturge",
+        "number": 210,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
         "card_name": "UM01 Chronicle of the Oppressed",
-        "number": 217,
+        "number": 216,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "UM03 Flash",
-        "number": 219,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UM05 Srina of the Brink",
-        "number": 221,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UM07 Delve Ever Deeper",
-        "number": 223,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UM09 Taras, Omenweb Stringer",
-        "number": 225,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UM02 Brain of the Equilibrium",
         "number": 218,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "UM04 Mathis, I.E. Operative",
+        "card_name": "UM05 Srina of the Brink",
         "number": 220,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "UM06 Vehicles",
+        "card_name": "UM07 Delve Ever Deeper",
         "number": 222,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "UM08 Solo, Last of the Armanti",
+        "card_name": "UM09 Taras, Omenweb Chief",
         "number": 224,
         "shape": "normal",
         "set": "ABY"
     },
     {
+        "card_name": "UM02 Brain of the Equilibrium",
+        "number": 217,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UM04 Mathis, I.E. Operative",
+        "number": 219,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UM06 Vehicles",
+        "number": 221,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UM08 Solo, Last of the Armanti",
+        "number": 223,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
         "card_name": "UM10 Unending Procession",
+        "number": 225,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "MM06 Harbingers of the Old World",
+        "number": 201,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "MM09 Distort the Continuum",
+        "number": 204,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "MM07 Argon, Cyberlich",
+        "number": 202,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "MM10 Cyclical Martyrdom",
+        "number": 205,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "MM08 Seer of all Cycles",
+        "number": 203,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RM06 The Coil's Burdens",
+        "number": 211,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RM09 Muse, Metallurgic Prodigy",
+        "number": 214,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RM07 Eldworld Recultivator",
+        "number": 212,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RM10 Eva, Luminite Skipper",
+        "number": 215,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RM08 Eonspeed Metamorphosis",
+        "number": 213,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UM11 Scriptoral Summons",
         "number": 226,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "UM11 Scriptoral Summons",
-        "number": 227,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
         "card_name": "UM17 Second draw",
-        "number": 233,
+        "number": 232,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "UM13 Turning of the Coil",
-        "number": 229,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UM19 SynthScape Valiant",
-        "number": 235,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UM15 A200, Spawned Sentience",
-        "number": 231,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UM12 Ebo, Fulcrum of the Coil",
         "number": 228,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "UM18 The Galvanic Dyad",
+        "card_name": "UM19 SynthScape Valiant",
         "number": 234,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "UM14 Scrounge, Eldworld Burrower",
+        "card_name": "UM15 A200, Spawned Sentience",
         "number": 230,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "UM20 Edrick of Two Paths",
-        "number": 236,
+        "card_name": "UM12 Ebo, Fulcrum of the Coil",
+        "number": 227,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UM18 The Polarized Dyad",
+        "number": 233,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UM14 Scrounge, Eldworld Burrower",
+        "number": 229,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UM20 Ray, the Second Light",
+        "number": 235,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "UM16 Artisan Guild Tenets",
-        "number": 232,
+        "number": 231,
         "shape": "normal",
         "set": "ABY"
     },
@@ -1031,68 +1451,98 @@
     },
     "a->colorless",
     {
-        "card_name": "UC01 Chronomaton",
-        "number": 245,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UC02 Counter of Minutes",
-        "number": 246,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UC03 Multiuse Gizmo",
-        "number": 247,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UC04 Sundial of the Infinite",
-        "number": 248,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "UC05 Omenweb Atlas",
-        "number": 249,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CC01 Counter of Seconds",
-        "number": 237,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CC02 Three mana creature",
-        "number": 238,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CC03 Precog in the Machine",
-        "number": 239,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CC04 Boom Stick",
-        "number": 240,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CC05 Chromatic Lens",
+        "card_name": "MC01 The Immortal Moon",
         "number": 241,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "Chrono Counters Reminder",
-        "number": 284,
+        "card_name": "MC02 The Judgment Clock",
+        "number": 242,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RC01 Counter of Hours",
+        "number": 243,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RC02 Trailblazer Aurora",
+        "number": 244,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RC03 I.E. Infantry",
+        "number": 245,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RC04 The Everglass",
+        "number": 246,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UC01 Chronomaton",
+        "number": 247,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UC02 Counter of Minutes",
+        "number": 248,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UC03 Multiuse Gizmo",
+        "number": 249,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UC04 Sundial of the Infinite",
+        "number": 250,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "UC05 Omenweb Atlas",
+        "number": 251,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CC01 Counter of Seconds",
+        "number": 236,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CC02 Three mana creature",
+        "number": 237,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CC03 Precog in the Machine",
+        "number": 238,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CC04 Forge Reconfigurer",
+        "number": 239,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CC05 Chromatic Lens",
+        "number": 240,
         "shape": "normal",
         "set": "ABY"
     },
@@ -1123,31 +1573,31 @@
     "a->land",
     {
         "card_name": "UL01 W Path",
-        "number": 267,
+        "number": 274,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "UL02 U Path",
-        "number": 268,
+        "number": 275,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "UL03 B Path",
-        "number": 269,
+        "number": 276,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "UL04 R Path",
-        "number": 270,
+        "number": 277,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "UL05 G Path",
-        "number": 271,
+        "number": 278,
         "shape": "normal",
         "set": "ABY"
     },
@@ -1165,105 +1615,168 @@
     },
     {
         "card_name": "er"
+    },
+    {
+        "card_name": "RL01 WU",
+        "number": 264,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RL02 UB",
+        "number": 265,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RL03 BR",
+        "number": 266,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RL04 RG",
+        "number": 267,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RL05 GW",
+        "number": 268,
+        "shape": "normal",
+        "set": "ABY"
     },
     {
         "card_name": "CL01 WU Path",
-        "number": 251,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CL02 UB Path",
-        "number": 252,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CL03 BR Path",
         "number": 253,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CL04 RG Path",
+        "card_name": "CL02 UB Path",
         "number": 254,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CL05 GW Path",
+        "card_name": "CL03 BR Path",
         "number": 255,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "CL06 WB Path",
+        "card_name": "CL04 RG Path",
         "number": 256,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CL09 UR Path",
-        "number": 259,
-        "shape": "normal",
-        "set": "ABY"
-    },
-    {
-        "card_name": "CL07 BG Path",
+        "card_name": "CL05 GW Path",
         "number": 257,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CL10 RW Path",
-        "number": 260,
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RL06 WB",
+        "number": 269,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "CL08 GU Path",
+        "card_name": "RL09 UR",
+        "number": 272,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RL07 BG",
+        "number": 270,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RL10 RW",
+        "number": 273,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "RL08 GU",
+        "number": 271,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CL06 WB Path",
         "number": 258,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "CC06 Unexplored Omenpath",
-        "number": 250,
+        "card_name": "CL09 UR Path",
+        "number": 261,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "e"
+        "card_name": "CL07 BG Path",
+        "number": 259,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CL10 RW Path",
+        "number": 262,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CL08 GU Path",
+        "number": 260,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RC05 A Place Out of Time",
+        "number": 263,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "CC06 Unexplored Omenpath",
+        "number": 252,
+        "shape": "normal",
+        "set": "ABY"
     },
     {
         "card_name": "e"
@@ -1291,31 +1804,31 @@
     },
     {
         "card_name": "Plains",
-        "number": 272,
+        "number": 279,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Island",
-        "number": 273,
+        "number": 280,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Swamp",
-        "number": 274,
+        "number": 281,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Mountain",
-        "number": 275,
+        "number": 282,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Forest",
-        "number": 276,
+        "number": 283,
         "shape": "normal",
         "set": "ABY"
     },
@@ -1339,14 +1852,50 @@
         "set": "ABY"
     },
     {
-        "card_name": "Vehicle",
+        "card_name": "The Planar Portal",
+        "number": 19,
+        "shape": "token",
+        "set": "ABY"
+    },
+    {
+        "card_name": "Splintered Lotus",
+        "number": 20,
+        "shape": "token",
+        "set": "ABY"
+    },
+    {
+        "card_name": "Treasure",
         "number": 21,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Everywhere",
+        "card_name": "Vehicle",
         "number": 22,
+        "shape": "token",
+        "set": "ABY"
+    },
+    {
+        "card_name": "Everywhere",
+        "number": 23,
+        "shape": "token",
+        "set": "ABY"
+    },
+    {
+        "card_name": "Nowhere",
+        "number": 24,
+        "shape": "token",
+        "set": "ABY"
+    },
+    {
+        "card_name": "Chrono Counters",
+        "number": 26,
+        "shape": "token",
+        "set": "ABY"
+    },
+    {
+        "card_name": "Dawn, Blinding Hope",
+        "number": 1,
         "shape": "token",
         "set": "ABY"
     },
@@ -1423,6 +1972,12 @@
         "set": "ABY"
     },
     {
+        "card_name": "Foundry Aggravator",
+        "number": 14,
+        "shape": "token",
+        "set": "ABY"
+    },
+    {
         "card_name": "Overeager Courier",
         "number": 15,
         "shape": "token",
@@ -1439,12 +1994,6 @@
         "number": 17,
         "shape": "token",
         "set": "ABY"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"

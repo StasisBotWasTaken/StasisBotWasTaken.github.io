@@ -1,4 +1,411 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+CB03 Brink Extortionists added.
+CB14 basically xenophobia added.
+CG02 Eldworld Tandem added.
+CC04 Forge Reconfigurer added.
+UW01 Artisan-Craft Gargoyle added.
+UW02 Leonin Wanderer added.
+UW05 Artisan Arbiter added.
+UW12 Lightsail Skyship added.
+UU12 Industrial Reclamation added.
+UB13 From the Abyss added.
+UR07 Scrapwork Scourge added.
+UM09 Taras, Omenweb Chief added.
+UM18 The Polarized Dyad added.
+UM20 Ray, the Second Light added.
+RW01 SynthScape Familiar added.
+RW02 Insurgent Protocol added.
+RW03 Luminia, Herocaller added.
+RW04 I.E. Manufactor added.
+RW05 Containment Priest added.
+RW06 Turn Back added.
+RW07 Dawn, Blinding Hope added.
+RW08 Fracture the Path added.
+RU01 I.E. Resonator added.
+RU02 Entangled Infiltrator added.
+RU03 Those from Beyond added.
+RU04 SynthScape Manaform added.
+RU05 Timecoil Tracings added.
+RU06 A Better Yesterday added.
+RU07 Ebb, the Amorphous added.
+RU08 The Great Exodus added.
+RB01 Outlands Champion added.
+RB02 Sting added.
+RB03 Blessed of the Coil added.
+RB04 Elegy in Three Parts added.
+RB05 Inciting Incident added.
+RB06 Soulshredder Mecha added.
+RB07 Moonfall, Coilcursed added.
+RB08 Tortured Mind added.
+RR01 Recursive Fabricator added.
+RR02 Eldworld Kindler added.
+RR03 Untethered Splinter added.
+RR04 Galvanic Regent added.
+RR05 Splintered Memories added.
+RR06 Foundry Aggravator added.
+RR07 Volta, Brink Freebooter added.
+RR08 Overclock added.
+RG01 Bootstrapped Zygote added.
+RG02 Stutterhide Stomper added.
+RG03 SynthScape Connections added.
+RG04 Portalhopping added.
+RG05 I.E. Residual Error added.
+RG06 Eldworld Propagator added.
+RG07 Spark, the Catalyst added.
+RG08 Millenniapede added.
+RM01 She Who Never Was added.
+RM02 Ouarra, All-Devourer added.
+RM03 Sheiya, the Timescythe added.
+RM04 Artisan Spelunker added.
+RM05 Eris, Ardent Thaumaturge added.
+RM06 The Coil's Burdens added.
+RM07 Eldworld Recultivator added.
+RM08 Eonspeed Metamorphosis added.
+RM09 Muse, Metallurgic Prodigy added.
+RM10 Eva, Luminite Skipper added.
+RC01 Counter of Hours added.
+RC02 Trailblazer Aurora added.
+RC03 I.E. Infantry added.
+RC04 The Everglass added.
+RC05 A Place Out of Time added.
+RL01 WU added.
+RL02 UB added.
+RL03 BR added.
+RL04 RG added.
+RL05 GW added.
+RL06 WB added.
+RL07 BG added.
+RL08 GU added.
+RL09 UR added.
+RL10 RW added.
+MW01 Savior of Schisms added.
+MW02 Prodigal Dimensiurge added.
+MU01 Gallas, Temporal Pioneer added.
+MU02 Timetangle added.
+MB01 Scour the SynthScape added.
+MB02 Sentience Swapper added.
+MR01 Hannah, the First Anomaly added.
+MR02 Breaker of Equilibria added.
+MG01 Interplanar Wayfinder added.
+MG02 The Omenweb Engine added.
+MM01 Zeth, Planar Architect added.
+MM02 Planar Incursion added.
+MM03 Brink Wageling added.
+MM04 Loche, Returned Pilgrim added.
+MM05 Synthesized Blossom added.
+MM06 Harbingers of the Old World added.
+MM07 Argon, Cyberlich added.
+MM08 Seer of all Cycles added.
+MM09 Distort the Continuum added.
+MM10 Cyclical Martyrdom added.
+MC01 The Immortal Moon added.
+MC02 The Judgment Clock added.
+Chrono Counters added.
+Treasure added.
+Nowhere added.
+Dawn, Blinding Hope added.
+Foundry Aggravator added.
+The Planar Portal added.
+Splintered Lotus added.
+
+CB03 Two mana creature removed.
+CB14 Eliminate the Xenic removed.
+CG02 Two mana creature removed.
+CC04 Boom Stick removed.
+UW01 Inconspicuous Bifurcator removed.
+UW02 leoning removed.
+UW05 Arbiter of the Coil removed.
+UW12 Skyscraper Mecha removed.
+UU12 the exchangorr removed.
+UB13 Reupload removed.
+UR07 dargon removed.
+UM09 Taras, Omenweb Stringer removed.
+UM18 The Galvanic Dyad removed.
+UM20 Edrick of Two Paths removed.
+Chrono Counters Reminder removed.
+
+CW01 I.E. Monitor
+
+CW09 Coil's Trilogy
+rules_text: When this enchantment enters, create three 1/1 black Cleric creature tokens.
+{2}{W}{W}, Sacrifice this enchantment: Creatures you control get +1/+1 until end of turn. Activate only as a sorcery. => When this enchantment enters, create three 1/1 black Cleric creature tokens.
+{4}{W}{W}, Sacrifice this enchantment: Creatures you control get +1/+1 until end of turn. Activate only as a sorcery.
+
+CW11 Zeth's Herald
+rules_text: This spell costs {1} less to cast for each ability that isn't a mana ability you activated this turn.
+Flying
+Cycling {W} [i]({W}, Discard this card: Draw a card.)[/i] => This spell costs {1} less to cast for each ability that isn't a mana ability you've activated this turn.
+Flying
+Cycling {W} [i]({W}, Discard this card: Draw a card.)[/i]
+
+CW13 Locked On
+type: Enchantment => Enchantment — Aura
+
+CU01 Sifter of Futures Forgotten
+rules_text: When this creature enters create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+{1}, {T}: Target player mills two cards. => When this creature enters, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+{1}, {T}: Target player mills two cards.
+
+CB02 Disciples' Strongarm
+rules_text: This creature enters tapped.
+Menace
+Splinter {1}{B} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i] => This creature enters tapped.
+Lifelink
+Splinter {1}{B} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+CB04 Minister of Penance
+
+CB05 False Mourning's Zealot
+type: Creature — Human Warlock => Creature — Human Cleric
+
+CB06 Disciples' Onboarder
+rules_text: Lifelink
+When this Vehicle enters, create two 1/1 black Cleric creature tokens.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => When this Vehicle enters, create two 1/1 black Cleric creature tokens.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+pt: 4/4 => 3/3
+
+CB09 Scrapyard Tyrant
+rules_text: Menace
+When this creature enters, target creature you control gets +1/+0 and gains menace until end of turn.
+Cycling {B} [i]({B}, Discard this card: Draw a card.)[/i] => Menace
+When this creature enters, target creature you control gets +2/+0 and gains menace until end of turn.
+Cycling {B} [i]({B}, Discard this card: Draw a card.)[/i]
+
+CB11 Identical Backup
+
+CB13 Hand attack
+rules_text: When this Vehicle enters, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => When this Vehicle enters, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+pt: 4/3 => 3/2
+
+CR02 Two mana creature
+
+CR03 Voices of the Displaced
+
+CR05 Alloy Transmuter
+type: Creature — Human Scientist => Creature — Human Artificer
+
+CR11 One Against All
+
+CR13 Spot Weld
+
+CG04 People of the Sun
+
+CG05 Chitinous Artisan
+
+CG14 SynthScape Mining
+
+CC01 Counter of Seconds
+rules_text: When this creature enters, you get {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i] => Whenever this creature becomes tapped, you get {ChronoCounterSymbolsChrono.png}. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i]
+
+CC02 Three mana creature
+cost: {3} => {2}
+rules_text: When this Vehicle enters, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => When this Vehicle enters, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+pt: 4/5 => 3/4
+
+CC03 Precog in the Machine
+rules_text: Whenever this creature becomes tapped, scry 1. => When this creature enters, scry 2.
+
+CL01 WU Path
+rules_text: This land enters tapped.
+{T}: Add {W} or {U}.
+Traverse 4 [i](Tap any number of creatures you control with total power 4 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Plains card and a basic Island card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle. => This land enters tapped.
+{T}: Add {W} or {U}.
+Traverse 3 [i](Tap any number of creatures you control with total power 3 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Plains card and a basic Island card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle.
+
+CL02 UB Path
+rules_text: This land enters tapped.
+{T}: Add {U} or {B}.
+Traverse 4 [i](Tap any number of creatures you control with total power 4 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Island card and a basic Swamp card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle. => This land enters tapped.
+{T}: Add {U} or {B}.
+Traverse 3 [i](Tap any number of creatures you control with total power 3 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Island card and a basic Swamp card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle.
+
+CL03 BR Path
+rules_text: This land enters tapped.
+{T}: Add {B} or {R}.
+Traverse 4 [i](Tap any number of creatures you control with total power 4 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Swamp card and a basic Mountain card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle. => This land enters tapped.
+{T}: Add {B} or {R}.
+Traverse 3 [i](Tap any number of creatures you control with total power 3 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Swamp card and a basic Mountain card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle.
+
+CL04 RG Path
+rules_text: This land enters tapped.
+{T}: Add {R} or {G}.
+Traverse 4 [i](Tap any number of creatures you control with total power 4 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Mountain card and a basic Forest card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle. => This land enters tapped.
+{T}: Add {R} or {G}.
+Traverse 3 [i](Tap any number of creatures you control with total power 3 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Mountain card and a basic Forest card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle.
+
+CL05 GW Path
+rules_text: This land enters tapped.
+{T}: Add {G} or {W}.
+Traverse 4 [i](Tap any number of creatures you control with total power 4 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Forest card and a basic Plains card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle. => This land enters tapped.
+{T}: Add {G} or {W}.
+Traverse 3 [i](Tap any number of creatures you control with total power 3 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Forest card and a basic Plains card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle.
+
+CL06 WB Path
+rules_text: This land enters tapped.
+{T}: Add {W} or {B}.
+Traverse 4 [i](Tap any number of creatures you control with total power 4 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Plains card and a basic Swamp card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle. => This land enters tapped.
+{T}: Add {W} or {B}.
+Traverse 3 [i](Tap any number of creatures you control with total power 3 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Plains card and a basic Swamp card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle.
+
+CL07 BG Path
+rules_text: This land enters tapped.
+{T}: Add {B} or {G}.
+Traverse 4 [i](Tap any number of creatures you control with total power 4 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Swamp card and a basic Forest card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle. => This land enters tapped.
+{T}: Add {B} or {G}.
+Traverse 3 [i](Tap any number of creatures you control with total power 3 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Swamp card and a basic Forest card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle.
+
+CL08 GU Path
+rules_text: This land enters tapped.
+{T}: Add {G} or {U}.
+Traverse 4 [i](Tap any number of creatures you control with total power 4 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Forest card and a basic Island card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle. => This land enters tapped.
+{T}: Add {G} or {U}.
+Traverse 3 [i](Tap any number of creatures you control with total power 3 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Forest card and a basic Island card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle.
+
+CL09 UR Path
+rules_text: This land enters tapped.
+{T}: Add {U} or {R}.
+Traverse 4 [i](Tap any number of creatures you control with total power 4 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Island card and a basic Mountain card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle. => This land enters tapped.
+{T}: Add {U} or {R}.
+Traverse 3 [i](Tap any number of creatures you control with total power 3 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Island card and a basic Mountain card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle.
+
+CL10 RW Path
+rules_text: This land enters tapped.
+{T}: Add {R} or {W}.
+Traverse 4 [i](Tap any number of creatures you control with total power 4 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Mountain card and a basic Plains card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle. => This land enters tapped.
+{T}: Add {R} or {W}.
+Traverse 3 [i](Tap any number of creatures you control with total power 3 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, search your library for a basic Mountain card and a basic Plains card, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle.
+
+UW03 Orrery Overseer
+
+UW09 trial for timecrimetm
+
+UW10 Charged Photon Blast
+
+UW11 Stabilizer Suit
+rules_text: Equipped creature gets +2/+2 and can't be sacrificed. [i](This includes Splinter abilities.)[/i]
+Equip {3}
+Equip token {1} => Equipped creature gets +2/+2 and can't be sacrificed. [i](This includes Splinter abilities.)[/i]
+Equip token {1}
+Equip {3}
+
+UU03 Examiner of Oddities
+
+UU10 Paradox Haze
+
+UU11 chronocopy
+
+UB02 Augur of the In-Between
+rules_text: {2}, Sacrifice a nontoken creature: Create a token that's a copy of the sacrificed creature. Activate only as a sorcery.
+{2}, Sacrifice a token: Draw a card. Activate only as a sorcery. => {2}, Sacrifice a nontoken creature: Create a token that's a copy of the sacrificed creature. Activate only as a sorcery.
+{2}, Sacrifice a token creature: Draw a card. Activate only as a sorcery.
+
+UB08 Nimble Redeye
+
+UB09 the secrettm
+pt: 3/4 => 3/3
+
+UR02 protagonistcomplex
+rules_text: Menace
+This creature can only attack or block alone. => This creature can only attack or block alone.
+
+UR03 Madcap Prodigies
+rules_text: Whenever you cast a spell, you get {ChronoCounterSymbolsChrono.png}. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i] => Whenever you cast a spell, choose one —
+• Add {R}.
+• You get {ChronoCounterSymbolsChrono.png}. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i]
+
+UR04 All-Purpose Reforger
+
+UR10 Three Prongs
+
+UR12 The Collapse of the Web
+
+UR13 Glimpse the Eldworld
+
+UG01 SynthScape Painter
+
+UG04 Outlands Pioneer
+
+UG07 Retrofit Goliath
+rules_text: Whenever this creature attacks, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+Sacrifice three Gears: Return this card from your graveyard to your hand. => Reach
+Whenever this creature attacks, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+Sacrifice three Gears: Return this card from your graveyard to your hand.
+
+UG13 Eldworld Invasion
+rules_text: Until end of turn, creatures you control get +1/+1 and gain “{T}: This creature fights target creature. Activate only as a sorcery.” => Until end of turn, creatures you control get +2/+1 and gain “{T}: This creature fights target creature. Activate only as a sorcery.”
+
+UM05 Srina of the Brink
+
+UM07 Delve Ever Deeper
+
+UM08 Solo, Last of the Armanti
+
+UM10 Unending Procession
+rules_text: At the beginning of each end step, create a 1/1 black Cleric creature token if you activated an ability that wasn't a mana ability this turn.
+{2}{G}{W}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery. => At the beginning of each end step, create a 1/1 black Cleric creature token if you've activated an ability that wasn't a mana ability this turn.
+{2}{G}{W}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.
+
+UM17 Second draw
+
+UC02 Counter of Minutes
+
+UC03 Multiuse Gizmo
+type: Artifact — Gear Food Clue => Artifact — Clue Gear Food
+cost: {0} => {2}
+rules_text: {T}, Sacrifice this artifact: Untap target nonland permanent.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.
+{2}, Sacrifice this artifact: Draw a card. => When this artifact enters, draw a card.
+{2}, Sacrifice this artifact: Draw a card.
+{T}, Sacrifice this artifact: Untap target nonland permanent.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.
+
+UL03 B Path
+rules_text: This land enters tapped unless you control a tapped black creature.
+{T}: Add {B}.
+Traverse 6 [i](Tap any number of creatures you control with total power 6 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, each opponent loses 3 life and you gain 3 life. => This land enters tapped unless you control a tapped black creature.
+{T}: Add {B}.
+Traverse 6 [i](Tap any number of creatures you control with total power 6 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, return target creature card from your graveyard to your hand.
+
+Disciples' Strongarm
+rules_text: This creature enters tapped.
+Menace
+At the beginning of your end step, sacrifice this creature. => This creature enters tapped.
+Lifelink
+At the beginning of your end step, sacrifice this creature.
+
+Minister of Penance
+
+
+VERSION 2 CHANGELOG
 ====================
 
 CW09 Coil's Trilogy added.
