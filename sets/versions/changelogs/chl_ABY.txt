@@ -1,4 +1,680 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+I.E. Monitor added.
+Luminite Equalizer added.
+Fractured Feline added.
+Fleetfoot Re-Runner added.
+I.E. Subsister added.
+Ingenious Joyrider added.
+Coil's Trilogy added.
+I.E. Regulator added.
+Zeth's Herald added.
+Thunderous Trailblaster added.
+Locked On added.
+Verdict of the True Sun added.
+In the Nick of Time added.
+Sifter of Futures Forgotten added.
+Skyline Operator added.
+Voltaic Virtuoso added.
+SynthScape Slink added.
+Omenweb Guardian added.
+I.E. Prognosticator added.
+Fortuitous Cnidarians added.
+Portal Dasher added.
+Lost in Tomorrow added.
+Enforce Equilibrium added.
+Iterate added.
+Parallel Fates added.
+Pixelate added.
+Sink Between Space added.
+Return to Sender added.
+Brink Extortionists added.
+False Mourning's Zealot added.
+Disciples' Onboarder added.
+Crackling Constrictor added.
+Vulture-for-Hire added.
+Scrapyard Tyrant added.
+Vanquish the Weak added.
+Identical Backup added.
+Scriptoral Operation added.
+I.E. Scrutinizer added.
+Sanctify the Coil added.
+Live on in Memory added.
+Scrounging Vastor added.
+Pious Motorists added.
+Voices of the Displaced added.
+Luminite Liberator added.
+Peoples' Champion added.
+Bullet Train added.
+Molten Eldbeast added.
+Steamroll added.
+One Against All added.
+Buy Time added.
+Spot Weld added.
+Oppressive Fire added.
+Temporal Discharge added.
+Outlands Specimen added.
+Eldworld Tandem added.
+Clockwork Consciousness added.
+People of the Sun added.
+Chitinous Artisan added.
+Unlikely Symbiotes added.
+Disciples' Taskmaster added.
+Borderland Bullies added.
+Augmented Tusker added.
+Urban Flytrap added.
+No Room for Us Both added.
+Eldmagic Invocation added.
+Leap Forward added.
+SynthScape Mining added.
+Beseech the Eldmother added.
+Counter of Seconds added.
+Scrapwork Rig added.
+Precog in the Machine added.
+Forge Reconfigurer added.
+Chromatic Lens added.
+Unexplored Omenpath added.
+Path from Arcavios added.
+Path from Calloran added.
+Path from Azerron added.
+Path from Colviscer added.
+Path from the Sanctuary added.
+Path from Roddemar added.
+Path from Duncaster added.
+Path from Kamigawa added.
+Path from Nimnura added.
+Path from Thunder Junction added.
+Artisan-Craft Gargoyle added.
+Leonin Wanderer added.
+Orrery Overseer added.
+Arbiters of Progress added.
+Timecoil Restorer added.
+Omenweb Overseer added.
+Serve Time added.
+Charged Photon Blast added.
+Stabilizer Suit added.
+Lightsail Skyship added.
+Chronicle of the Devout added.
+Chronicle of the Zealous added.
+Gallas's Understudy added.
+Future-Proofer added.
+Examiner of Oddities added.
+Migratory Roc added.
+Watcher at the Edge added.
+Cogwork Inverter added.
+Spinner of the Omenweb added.
+Modify the Canon added.
+Thirst for Answers added.
+Paradox Haze added.
+All at Once added.
+Industrial Reclamation added.
+Chronicle of the Entranced added.
+Chronicle of the Inspired added.
+Chronological Constant added.
+Augur of the In-Between added.
+Flickering Finisher added.
+Congregation at Last Light added.
+Darksteel Ace added.
+Nimble Redeye added.
+Circuit Skimmer added.
+Eliminate the Predecessor added.
+Dimension Cleaver added.
+Final Word added.
+From the Abyss added.
+Chronicle of the Deceived added.
+Heel of the Outlands added.
+Madcap Prodigies added.
+All-Purpose Reforger added.
+Flowstone Engineer added.
+Timecoil Dismantler added.
+Scrapwork Scourge added.
+Retroactive Rending added.
+Glimpse the Possibilities added.
+Dynavolt Auger added.
+Collapse of the Web added.
+Abandon the Timeline added.
+Chronicle of the Faithless added.
+SynthScape Painter added.
+Artisan Guild Uncoiler added.
+Vitality Reweavers added.
+Outlands Pioneer added.
+Innovative Ecologist added.
+Chronometric Driller added.
+Retrofit Goliath added.
+Interplanar Tunneler added.
+March Ever-Forward added.
+Standard-Issue Shield added.
+Séance With Those To Be added.
+Echoes of the Eldworld added.
+Eldworld Invasion added.
+Chronicle of the Free added.
+Chronicle of the Oppressed added.
+Brain of the Equilibrium added.
+Glitch in the Fabric added.
+Mathis, I.E. Operative added.
+Srina of the Brink added.
+Onslaught Engine added.
+Delve Ever Deeper added.
+Solo, Last of the Armanti added.
+Taras, Omenweb Chief added.
+Unending Procession added.
+Scriptoral Summons added.
+Turning of the Coil added.
+Scrounge, Eldworld Burrower added.
+A200, Spawned Sentience added.
+Artisan Guild Tenets added.
+Frenetic Archivist added.
+The Polarized Dyad added.
+SynthScape Valiant added.
+Ray, the Second Light added.
+Chronomaton added.
+Counter of Minutes added.
+Multiuse Gizmo added.
+Sundial of the Infinite added.
+Omenweb Atlas added.
+Path from Naveia added.
+Path from Yenire added.
+Path from the Abyss added.
+Path from the Weft added.
+Path from Srai-Val-Nul added.
+SynthScape Familiar added.
+Insurgent Protocol added.
+Luminia, Herocaller added.
+I.E. Manufactor added.
+Containment Priest added.
+Turn Back added.
+Fracture the Path added.
+I.E. Resonator added.
+Entangled Infiltrator added.
+Those from Beyond added.
+SynthScape Manaform added.
+Timecoil Tracings added.
+A Better Yesterday added.
+Ebb, the Amorphous added.
+The Great Exodus added.
+Brink Desecrator added.
+Sting added.
+Blessed of the Coil added.
+Elegy in Three Parts added.
+Inciting Incident added.
+Soulshredder Mecha added.
+Moonfall, Coilcursed added.
+Tortured Mind added.
+Recursive Fabricator added.
+Eldworld Kindler added.
+Untethered Splinter added.
+Galvanic Regent added.
+Splintered Memories added.
+Volta, Brink Freebooter added.
+Overclock added.
+Bootstrapped Zygote added.
+Stutterhide Stomper added.
+SynthScape Connections added.
+Portalhopping added.
+I.E. Residual Error added.
+Eldworld Propagator added.
+Spark, the Catalyst added.
+Millenniapede added.
+She Who Always Was added.
+Ouarra, All-Devourer added.
+Sheiya, the Timescythe added.
+Artisan Spelunker added.
+Eris, Ardent Thaumaturge added.
+The Coil's Burdens added.
+Eldworld Recultivator added.
+Eonspeed Metamorphosis added.
+Muse, Metallurgic Prodigy added.
+Eva, Luminite Skipper added.
+Counter of Hours added.
+Trailblazer Aurora added.
+I.E. Infantry added.
+The Everglass added.
+The SynthScape added.
+Eldstone of Transience added.
+Eldstone of Serenity added.
+Eldstone of Oblivion added.
+Eldstone of Fervor added.
+Eldstone of Bloom added.
+Savior of Schisms added.
+Prodigal Dimensiurge added.
+Gallas, Temporal Pioneer added.
+Timetangle added.
+Scour the SynthScape added.
+Sentience Swapper added.
+Hannah, the First Anomaly added.
+Breaker of Equilibria added.
+Interplanar Wayfinder added.
+The Omenweb Engine added.
+Zeth, Planar Architect added.
+Planar Incursion added.
+Brink Wageling added.
+Loche, Returned Pilgrim added.
+Synthesized Blossom added.
+Harbingers of the Old World added.
+Argon, Cyberlich added.
+Seer of all Cycles added.
+Distort the Continuum added.
+Cyclical Martyrdom added.
+The Immortal Moon added.
+The Judgment Clock added.
+Rebirth added.
+Passage Sanctifier added.
+Freelance Gearsmith added.
+Workshop Naughty added.
+Disciples' Strongarm added.
+Minister of Penance added.
+Alloy Transmuter added.
+Borderlands Daredevil added.
+Luminite Captain added.
+Loxodon Tinkerer added.
+Omenweb Inquisitor added.
+Chronicler of the Passed added.
+Overeager Courier added.
+Twinarm Outfitter added.
+Ebo, Fulcrum of the Coil added.
+Dawn, Blinding Hope added.
+Foundry Aggravator added.
+Mathis, the Kingpin added.
+Ragna, Hordecaller added.
+Taras, True Believer added.
+Ebo, Eternal Martyr added.
+Flaw, Deadlands Hoarder added.
+A200, of Flesh and Filigree added.
+Edrick, Solblessed added.
+Ravi, Back-Alley Harrier added.
+Kesha, the Known Unknown added.
+Nevali, Duskbringer added.
+Arianna, the Scrapper added.
+Tel, Supressed Spark added.
+She Who Never Was added.
+Sheiya, Victim of the Ages added.
+Ishanna, Phenomaniac added.
+
+CW01 I.E. Monitor removed.
+CW02 Luminite Equalizer removed.
+CW03 Fractured Feline removed.
+CW04 Passage Sanctifier removed.
+CW05 Fleetfoot Re-Runner removed.
+CW06 Three mana creature removed.
+CW07 Ingenious Joyrider removed.
+CW08 Freelance Gearsmith removed.
+CW09 Coil's Trilogy removed.
+CW10 I.E. Regulator removed.
+CW11 Zeth's Herald removed.
+CW12 Lightfoil Katana removed.
+CW13 Locked On removed.
+CW14 Verdict of the True Sun removed.
+CW15 Combat trick removed.
+CU01 Sifter of Futures Forgotten removed.
+CU02 Skyline Operator removed.
+CU03 Voltaic Virtuoso removed.
+CU04 Three mana creature removed.
+CU05 Omenweb Guardian removed.
+CU06 I.E. Prognosticator removed.
+CU07 Fortuitous Cnidarians removed.
+CU08 Portal Dasher removed.
+CU09 Lost in Tomorrow removed.
+CU10 Enforce Equilibrium removed.
+CU11 Iterate removed.
+CU12 Parallel Fates removed.
+CU13 Pixelate removed.
+CU14 Sink Between Space removed.
+CU15 Return to Sender removed.
+CB01 Workshop Naughty removed.
+CB02 Disciples' Strongarm removed.
+CB03 Brink Extortionists removed.
+CB04 Minister of Penance removed.
+CB05 False Mourning's Zealot removed.
+CB06 Disciples' Onboarder removed.
+CB07 4-5 mana creature removed.
+CB08 5-6 mana creature removed.
+CB09 Scrapyard Tyrant removed.
+CB10 Vanquish the Weak removed.
+CB11 Identical Backup removed.
+CB12 Card draw (added cost) removed.
+CB13 Hand attack removed.
+CB14 basically xenophobia removed.
+CB15 Live on in Memory removed.
+CR01 Scrounging Vastor removed.
+CR02 Two mana creature removed.
+CR03 Voices of the Displaced removed.
+CR04 Three mana creature removed.
+CR05 Alloy Transmuter removed.
+CR06 Borderlands Daredevil removed.
+CR07 4-5 mana creature removed.
+CR08 Bullet Train removed.
+CR09 Molten Eldbeast removed.
+CR10 Steamroll removed.
+CR11 One Against All removed.
+CR12 Buy Time removed.
+CR13 Spot Weld removed.
+CR14 Oppressive Fire removed.
+CR15 Temporal Discharge removed.
+CG01 Outlands Specimen removed.
+CG02 Eldworld Tandem removed.
+CG03 not bandar removed.
+CG04 People of the Sun removed.
+CG05 Chitinous Artisan removed.
+CG06 Unlikely Symbiotes removed.
+CG07 Four mana creature removed.
+CG08 Borderland Bullies removed.
+CG09 Six mana creature removed.
+CG10 Urban Flytrap removed.
+CG11 Fight spell removed.
+CG12 Eldmagic Invocation removed.
+CG13 Combat trick removed.
+CG14 SynthScape Mining removed.
+CG15 Beseech the Eldmother removed.
+CC01 Counter of Seconds removed.
+CC02 Three mana creature removed.
+CC03 Precog in the Machine removed.
+CC04 Forge Reconfigurer removed.
+CC05 Chromatic Lens removed.
+CC06 Unexplored Omenpath removed.
+CL01 WU Path removed.
+CL02 UB Path removed.
+CL03 BR Path removed.
+CL04 RG Path removed.
+CL05 GW Path removed.
+CL06 WB Path removed.
+CL07 BG Path removed.
+CL08 GU Path removed.
+CL09 UR Path removed.
+CL10 RW Path removed.
+UW01 Artisan-Craft Gargoyle removed.
+UW02 Leonin Wanderer removed.
+UW03 Orrery Overseer removed.
+UW04 Luminite Captain removed.
+UW05 Artisan Arbiter removed.
+UW06 Timecoil Restorer removed.
+UW07 Omenweb Overseer removed.
+UW08 Loxodon Tinkerer removed.
+UW09 trial for timecrimetm removed.
+UW10 Charged Photon Blast removed.
+UW11 Stabilizer Suit removed.
+UW12 Lightsail Skyship removed.
+UW13 Chronicle of the Devout removed.
+UW14 Chronicle of the Zealous removed.
+UU01 Artisan Apprentice removed.
+UU02 countersguy removed.
+UU03 Examiner of Oddities removed.
+UU04 planar migration removed.
+UU05 Watcher at the Edge removed.
+UU06 Cogwork Inverter removed.
+UU07 Spinner of the Omenweb removed.
+UU08 countercounter removed.
+UU09 Thirst for Answers removed.
+UU10 Paradox Haze removed.
+UU11 chronocopy removed.
+UU12 Industrial Reclamation removed.
+UU13 Chronicle of the Entranced removed.
+UU14 Chronicle of the Inspired removed.
+UB01 sewerperson removed.
+UB02 Augur of the In-Between removed.
+UB03 Flickering Finisher removed.
+UB04 Omenweb Inquisitor removed.
+UB05 Congregation at Last Light removed.
+UB06 Darksteel Ace removed.
+UB07 Chronicler of the Passed removed.
+UB08 Nimble Redeye removed.
+UB09 the secrettm removed.
+UB10 Eliminate the Predecessor removed.
+UB11 pocket knife removed.
+UB12 Final Word removed.
+UB13 From the Abyss removed.
+UB14 Chronicle of the Deceived removed.
+UR01 Overeager Courier removed.
+UR02 protagonistcomplex removed.
+UR03 Madcap Prodigies removed.
+UR04 All-Purpose Reforger removed.
+UR05 mechaguy removed.
+UR06 Timecoil Dismantler removed.
+UR07 Scrapwork Scourge removed.
+UR08 Twinarm Outfitter removed.
+UR09 empowered slash removed.
+UR10 Three Prongs removed.
+UR11 red eldstone removed.
+UR12 The Collapse of the Web removed.
+UR13 Glimpse the Eldworld removed.
+UR14 Chronicle of the Faithless removed.
+UG01 SynthScape Painter removed.
+UG02 Artisan Uncoiler removed.
+UG03 Vitality Reweavers removed.
+UG04 Outlands Pioneer removed.
+UG05 Innovative Ecologist removed.
+UG06 Eldworld Wayfarer removed.
+UG07 Retrofit Goliath removed.
+UG08 Interplanar Tunneler removed.
+UG09 March Ever-Forward removed.
+UG10 very safe design removed.
+UG11 green eldstone removed.
+UG12 Echoes of the Eldworld removed.
+UG13 Eldworld Invasion removed.
+UG14 Chronicle of the Free removed.
+UM01 Chronicle of the Oppressed removed.
+UM02 Brain of the Equilibrium removed.
+UM03 Flash removed.
+UM04 Mathis, I.E. Operative removed.
+UM05 Srina of the Brink removed.
+UM06 Vehicles removed.
+UM07 Delve Ever Deeper removed.
+UM08 Solo, Last of the Armanti removed.
+UM09 Taras, Omenweb Chief removed.
+UM10 Unending Procession removed.
+UM11 Scriptoral Summons removed.
+UM12 Ebo, Fulcrum of the Coil removed.
+UM13 Turning of the Coil removed.
+UM14 Scrounge, Eldworld Burrower removed.
+UM15 A200, Spawned Sentience removed.
+UM16 Artisan Guild Tenets removed.
+UM17 Second draw removed.
+UM18 The Polarized Dyad removed.
+UM19 SynthScape Valiant removed.
+UM20 Ray, the Second Light removed.
+UC01 Chronomaton removed.
+UC02 Counter of Minutes removed.
+UC03 Multiuse Gizmo removed.
+UC04 Sundial of the Infinite removed.
+UC05 Omenweb Atlas removed.
+UL01 W Path removed.
+UL02 U Path removed.
+UL03 B Path removed.
+UL04 R Path removed.
+UL05 G Path removed.
+RW01 SynthScape Familiar removed.
+RW02 Insurgent Protocol removed.
+RW03 Luminia, Herocaller removed.
+RW04 I.E. Manufactor removed.
+RW05 Containment Priest removed.
+RW06 Turn Back removed.
+RW07 Dawn, Blinding Hope removed.
+RW08 Fracture the Path removed.
+RU01 I.E. Resonator removed.
+RU02 Entangled Infiltrator removed.
+RU03 Those from Beyond removed.
+RU04 SynthScape Manaform removed.
+RU05 Timecoil Tracings removed.
+RU06 A Better Yesterday removed.
+RU07 Ebb, the Amorphous removed.
+RU08 The Great Exodus removed.
+RB01 Outlands Champion removed.
+RB02 Sting removed.
+RB03 Blessed of the Coil removed.
+RB04 Elegy in Three Parts removed.
+RB05 Inciting Incident removed.
+RB06 Soulshredder Mecha removed.
+RB07 Moonfall, Coilcursed removed.
+RB08 Tortured Mind removed.
+RR01 Recursive Fabricator removed.
+RR02 Eldworld Kindler removed.
+RR03 Untethered Splinter removed.
+RR04 Galvanic Regent removed.
+RR05 Splintered Memories removed.
+RR06 Foundry Aggravator removed.
+RR07 Volta, Brink Freebooter removed.
+RR08 Overclock removed.
+RG01 Bootstrapped Zygote removed.
+RG02 Stutterhide Stomper removed.
+RG03 SynthScape Connections removed.
+RG04 Portalhopping removed.
+RG05 I.E. Residual Error removed.
+RG06 Eldworld Propagator removed.
+RG07 Spark, the Catalyst removed.
+RG08 Millenniapede removed.
+RM01 She Who Never Was removed.
+RM02 Ouarra, All-Devourer removed.
+RM03 Sheiya, the Timescythe removed.
+RM04 Artisan Spelunker removed.
+RM05 Eris, Ardent Thaumaturge removed.
+RM06 The Coil's Burdens removed.
+RM07 Eldworld Recultivator removed.
+RM08 Eonspeed Metamorphosis removed.
+RM09 Muse, Metallurgic Prodigy removed.
+RM10 Eva, Luminite Skipper removed.
+RC01 Counter of Hours removed.
+RC02 Trailblazer Aurora removed.
+RC03 I.E. Infantry removed.
+RC04 The Everglass removed.
+RC05 A Place Out of Time removed.
+RL01 WU removed.
+RL02 UB removed.
+RL03 BR removed.
+RL04 RG removed.
+RL05 GW removed.
+RL06 WB removed.
+RL07 BG removed.
+RL08 GU removed.
+RL09 UR removed.
+RL10 RW removed.
+MW01 Savior of Schisms removed.
+MW02 Prodigal Dimensiurge removed.
+MU01 Gallas, Temporal Pioneer removed.
+MU02 Timetangle removed.
+MB01 Scour the SynthScape removed.
+MB02 Sentience Swapper removed.
+MR01 Hannah, the First Anomaly removed.
+MR02 Breaker of Equilibria removed.
+MG01 Interplanar Wayfinder removed.
+MG02 The Omenweb Engine removed.
+MM01 Zeth, Planar Architect removed.
+MM02 Planar Incursion removed.
+MM03 Brink Wageling removed.
+MM04 Loche, Returned Pilgrim removed.
+MM05 Synthesized Blossom removed.
+MM06 Harbingers of the Old World removed.
+MM07 Argon, Cyberlich removed.
+MM08 Seer of all Cycles removed.
+MM09 Distort the Continuum removed.
+MM10 Cyclical Martyrdom removed.
+MC01 The Immortal Moon removed.
+MC02 The Judgment Clock removed.
+Nowhere removed.
+
+Passage Sanctifier
+type: Token Creature — Human Cleric => Creature — Human Cleric
+rules_text: Whenever another creature enters under your control, you gain 1 life.
+At the beginning of your end step, sacrifice this token. => Whenever another creature you control enters, you gain 1 life.
+Splinter {W} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+Freelance Gearsmith
+type: Token Creature — Human Artificer => Creature — Human Artificer
+rules_text: When this creature enters, target creature you control gets +2/+2 until end of turn.
+At the beginning of your end step, sacrifice this creature. => When this creature enters, target creature you control gets +2/+2 until end of turn.
+Splinter {2}{W} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+Workshop Naughty
+type: Token Creature — Faerie Rogue => Creature — Faerie Rogue
+rules_text: Flying
+When this creature enters, each opponent loses 1 life and you gain 1 life.
+At the beginning of your end step, sacrifice this creature. => Flying
+When this creature enters, each opponent loses 1 life and you gain 1 life.
+Splinter {1}{B} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+Disciples' Strongarm
+type: Token Creature — Human Warrior => Creature — Human Warrior
+rules_text: This creature enters tapped.
+Lifelink
+At the beginning of your end step, sacrifice this creature. => This creature enters tapped.
+Lifelink
+Splinter {1}{B} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+Minister of Penance
+type: Token Creature — Human Advisor => Creature — Human Advisor
+rules_text: Whenever another creature you control dies, put a +1/+1 counter on this creature.
+At the beginning of your end step, sacrifice this creature. => Whenever another creature you control dies, put a +1/+1 counter on this creature.
+Splinter {1}{B} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+Alloy Transmuter
+type: Token Creature — Human Artificer => Creature — Human Artificer
+rules_text: When this creature enters, create a Treasure token.
+At the beginning of your end step, sacrifice this creature. => When this creature enters, create a Treasure token.
+Splinter {1}{R} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+Borderlands Daredevil
+type: Token Creature — Human Scout => Creature — Human Scout
+rules_text: When this creature enters, target creature an opponent controls can't block this turn.
+At the beginning of your end step, sacrifice this creature. => When this creature enters, target creature an opponent controls can't block this turn.
+Splinter {2}{R} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+Luminite Captain
+type: Token Creature — Human Warrior => Creature — Human Warrior
+rules_text: This creature's power and toughness are each equal to the number of creatures you control.
+At the beginning of your end step, sacrifice this creature. => This creature's power and toughness are each equal to the number of creatures you control.
+Splinter {1}{W}{W} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+Loxodon Tinkerer
+type: Token Creature — Elephant Artificer => Creature — Elephant Artificer
+rules_text: When this creature enters, put a +1/+1 counter on each tapped creature you control.
+At the beginning of your end step, sacrifice this creature. => When this creature enters, put a +1/+1 counter on each tapped creature you control.
+Splinter {4}{W} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+Omenweb Inquisitor
+type: Token Creature — Human Advisor => Creature — Human Advisor
+rules_text: When this creature enters, each opponent discards a card.
+At the beginning of your end step, sacrifice this creature. => When this creature enters, each opponent discards a card.
+Splinter—Discard a card. [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+Chronicler of the Passed
+type: Token Creature — Human Advisor => Creature — Human Advisor
+rules_text: Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+At the beginning of your end step, sacrifice this creature. => Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+Splinter {3}{B} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+Overeager Courier
+type: Token Creature — Human Scout => Creature — Human Scout
+rules_text: Creatures you control that entered this turn get +1/+0.
+At the beginning of your end step, sacrifice this creature. => Creatures you control that entered this turn get +1/+0.
+Splinter {1}{R} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+pt: 2/1 => 2/2
+
+Twinarm Outfitter
+type: Token Creature — Human Artificer => Creature — Human Artificer
+rules_text: When this creature enters, target creature gains double strike until end of turn.
+At the beginning of your end step, sacrifice this creature. => When this creature enters, target creature gains double strike until end of turn.
+Splinter {4}{R} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+Ebo, Fulcrum of the Coil
+type: Token Creature — Human Cleric => Legendary Creature — Human Cleric
+rules_text: Creature tokens you control get +1/+1.
+At the beginning of your end step, sacrifice this creature. => Creature tokens you control get +1/+1.
+Splinter {2}{W}{B}. The token isn't legendary. [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+Dawn, Blinding Hope
+type: Token Creature — Human Rebel => Legendary Creature — Human Rebel
+cost: {2}{W} => {3}{W}
+rules_text: When Dawn enters, exile up to one other target creature until Dawn leaves the battlefield.
+At the beginning of your end step, sacrifice this creature. => When Dawn enters, exile up to one other target creature until Dawn leaves the battlefield.
+Splinter {1}{W}. The token isn't legendary. [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+pt: 1/3 => 3/3
+
+Foundry Aggravator
+rules_text: This creature's power is equal to the number of attacking creatures you control.
+At the beginning of your end step, sacrifice this creature. => This creature's power is equal to the number of attacking creatures you control.
+Splinter {1}{R} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+
+VERSION 3 CHANGELOG
 ====================
 
 CB03 Brink Extortionists added.
