@@ -1948,37 +1948,37 @@
         "set": "ABY"
     },
     {
-        "card_name": "Dawn, Blinding Hope",
+        "card_name": "Dawn, Blinding Hope Token",
         "number": 1,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Freelance Gearsmith",
+        "card_name": "Freelance Gearsmith Token",
         "number": 2,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Loxodon Tinkerer",
+        "card_name": "Loxodon Tinkerer Token",
         "number": 3,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Luminite Captain",
+        "card_name": "Luminite Captain Token",
         "number": 4,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Passage Sanctifier",
+        "card_name": "Passage Sanctifier Token",
         "number": 5,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Chronicler of the Passed",
+        "card_name": "Chronicler of the Passed Token",
         "number": 6,
         "shape": "token",
         "set": "ABY"
@@ -1990,19 +1990,19 @@
         "set": "ABY"
     },
     {
-        "card_name": "Disciples' Strongarm",
+        "card_name": "Disciples' Strongarm Token",
         "number": 8,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Minister of Penance",
+        "card_name": "Minister of Penance Token",
         "number": 9,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Omenweb Inquisitor",
+        "card_name": "Omenweb Inquisitor Token",
         "number": 10,
         "shape": "token",
         "set": "ABY"
@@ -2014,43 +2014,43 @@
         "set": "ABY"
     },
     {
-        "card_name": "Workshop Naughty",
+        "card_name": "Workshop Naughty Token",
         "number": 12,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Alloy Transmuter",
+        "card_name": "Alloy Transmuter Token",
         "number": 13,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Borderlands Daredevil",
+        "card_name": "Borderlands Daredevil Token",
         "number": 14,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Foundry Aggravator",
+        "card_name": "Foundry Aggravator Token",
         "number": 15,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Overeager Courier",
+        "card_name": "Overeager Courier Token",
         "number": 16,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Twinarm Outfitter",
+        "card_name": "Twinarm Outfitter Token",
         "number": 17,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Ebo, Fulcrum of the Coil",
+        "card_name": "Ebo, Fulcrum of the Coil Token",
         "number": 18,
         "shape": "token",
         "set": "ABY"

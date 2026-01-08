@@ -1,4 +1,42 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Passage Sanctifier Token added.
+Freelance Gearsmith Token added.
+Workshop Naughty Token added.
+Disciples' Strongarm Token added.
+Minister of Penance Token added.
+Alloy Transmuter Token added.
+Borderlands Daredevil Token added.
+Luminite Captain Token added.
+Loxodon Tinkerer Token added.
+Omenweb Inquisitor Token added.
+Chronicler of the Passed Token added.
+Overeager Courier Token added.
+Twinarm Outfitter Token added.
+Ebo, Fulcrum of the Coil Token added.
+Dawn, Blinding Hope Token added.
+Foundry Aggravator Token added.
+
+Passage Sanctifier removed.
+Freelance Gearsmith removed.
+Workshop Naughty removed.
+Disciples' Strongarm removed.
+Minister of Penance removed.
+Alloy Transmuter removed.
+Borderlands Daredevil removed.
+Luminite Captain removed.
+Loxodon Tinkerer removed.
+Omenweb Inquisitor removed.
+Chronicler of the Passed removed.
+Overeager Courier removed.
+Twinarm Outfitter removed.
+Ebo, Fulcrum of the Coil removed.
+Dawn, Blinding Hope removed.
+Foundry Aggravator removed.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 I.E. Monitor added.

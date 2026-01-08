@@ -5460,7 +5460,7 @@
             "notes": ""
         },
         {
-            "card_name": "Passage Sanctifier",
+            "card_name": "Passage Sanctifier Token",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Cleric",
@@ -5476,10 +5476,10 @@
             "loyalty": "",
             "artist": "Damian Audino",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Passage Sanctifier Token"
         },
         {
-            "card_name": "Freelance Gearsmith",
+            "card_name": "Freelance Gearsmith Token",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Artificer",
@@ -5495,10 +5495,10 @@
             "loyalty": "",
             "artist": "Anh Tung",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Freelance Gearsmith Token"
         },
         {
-            "card_name": "Workshop Naughty",
+            "card_name": "Workshop Naughty Token",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Faerie Rogue",
@@ -5514,10 +5514,10 @@
             "loyalty": "",
             "artist": "Anh Tung",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Workshop Naughty Token"
         },
         {
-            "card_name": "Disciples' Strongarm",
+            "card_name": "Disciples' Strongarm Token",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Warrior",
@@ -5533,10 +5533,10 @@
             "loyalty": "",
             "artist": "Zero Wen",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Disciples' Strongarm Token"
         },
         {
-            "card_name": "Minister of Penance",
+            "card_name": "Minister of Penance Token",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Advisor",
@@ -5552,10 +5552,10 @@
             "loyalty": "",
             "artist": "Anh Tung",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Minister of Penance Token"
         },
         {
-            "card_name": "Alloy Transmuter",
+            "card_name": "Alloy Transmuter Token",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Artificer",
@@ -5571,10 +5571,10 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Alloy Transmuter Token"
         },
         {
-            "card_name": "Borderlands Daredevil",
+            "card_name": "Borderlands Daredevil Token",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Scout",
@@ -5590,10 +5590,10 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Borderlands Daredevil Token"
         },
         {
-            "card_name": "Luminite Captain",
+            "card_name": "Luminite Captain Token",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Warrior",
@@ -5609,10 +5609,10 @@
             "loyalty": "",
             "artist": "Matteo Spirito",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Luminite Captain Token"
         },
         {
-            "card_name": "Loxodon Tinkerer",
+            "card_name": "Loxodon Tinkerer Token",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Elephant Artificer",
@@ -5628,10 +5628,10 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Loxodon Tinkerer Token"
         },
         {
-            "card_name": "Omenweb Inquisitor",
+            "card_name": "Omenweb Inquisitor Token",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Advisor",
@@ -5647,10 +5647,10 @@
             "loyalty": "",
             "artist": "Zael",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Omenweb Inquisitor Token"
         },
         {
-            "card_name": "Chronicler of the Passed",
+            "card_name": "Chronicler of the Passed Token",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Advisor",
@@ -5666,10 +5666,10 @@
             "loyalty": "",
             "artist": "Matteo Spirito",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Chronicler of the Passed Token"
         },
         {
-            "card_name": "Overeager Courier",
+            "card_name": "Overeager Courier Token",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Scout",
@@ -5678,17 +5678,17 @@
             "cost": "{1}{R}",
             "rules_text": "Creatures you control that entered this turn get +1/+0.\nAt the beginning of your end step, sacrifice this creature.",
             "flavor_text": "[i][/i]",
-            "pt": "2/1",
+            "pt": "2/2",
             "special_text": "",
             "shape": "token",
             "set": "ABY",
             "loyalty": "",
             "artist": "Aaron Ming",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Overeager Courier Token"
         },
         {
-            "card_name": "Twinarm Outfitter",
+            "card_name": "Twinarm Outfitter Token",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Artificer",
@@ -5704,10 +5704,10 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Twinarm Outfitter Token"
         },
         {
-            "card_name": "Ebo, Fulcrum of the Coil",
+            "card_name": "Ebo, Fulcrum of the Coil Token",
             "color": "WB",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Cleric",
@@ -5723,10 +5723,10 @@
             "loyalty": "",
             "artist": "Grzegorz Przybys",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Ebo, Fulcrum of the Coil Token"
         },
         {
-            "card_name": "Dawn, Blinding Hope",
+            "card_name": "Dawn, Blinding Hope Token",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Rebel",
@@ -5742,10 +5742,10 @@
             "loyalty": "",
             "artist": "Sam Yang",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Dawn, Blinding Hope Token"
         },
         {
-            "card_name": "Foundry Aggravator",
+            "card_name": "Foundry Aggravator Token",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Human Rebel",
@@ -5761,7 +5761,7 @@
             "loyalty": "",
             "artist": "Anh Tung",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Foundry Aggravator Token"
         },
         {
             "card_name": "Mathis, the Kingpin",
@@ -6049,5 +6049,5 @@
             "notes": "Bonus sheet"
         }
     ],
-    "version": 4
+    "version": 5
 }

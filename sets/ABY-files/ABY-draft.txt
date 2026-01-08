@@ -2871,163 +2871,163 @@
 			}
 		},
 		{
-			"name": "Passage Sanctifier",
+			"name": "Passage Sanctifier Token",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Token Creature — Human Cleric",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/5_Passage Sanctifier.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/5_Passage Sanctifier Token.png"
 			}
 		},
 		{
-			"name": "Freelance Gearsmith",
+			"name": "Freelance Gearsmith Token",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Token Creature — Human Artificer",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/2_Freelance Gearsmith.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/2_Freelance Gearsmith Token.png"
 			}
 		},
 		{
-			"name": "Workshop Naughty",
+			"name": "Workshop Naughty Token",
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Token Creature — Faerie Rogue",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/12_Workshop Naughty.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/12_Workshop Naughty Token.png"
 			}
 		},
 		{
-			"name": "Disciples' Strongarm",
+			"name": "Disciples' Strongarm Token",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Token Creature — Human Warrior",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/8_Disciples' Strongarm.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/8_Disciples' Strongarm Token.png"
 			}
 		},
 		{
-			"name": "Minister of Penance",
+			"name": "Minister of Penance Token",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Token Creature — Human Advisor",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/9_Minister of Penance.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/9_Minister of Penance Token.png"
 			}
 		},
 		{
-			"name": "Alloy Transmuter",
+			"name": "Alloy Transmuter Token",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Token Creature — Human Artificer",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/13_Alloy Transmuter.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/13_Alloy Transmuter Token.png"
 			}
 		},
 		{
-			"name": "Borderlands Daredevil",
+			"name": "Borderlands Daredevil Token",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Token Creature — Human Scout",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/14_Borderlands Daredevil.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/14_Borderlands Daredevil Token.png"
 			}
 		},
 		{
-			"name": "Luminite Captain",
+			"name": "Luminite Captain Token",
 			"rarity": "common",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Token Creature — Human Warrior",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/4_Luminite Captain.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/4_Luminite Captain Token.png"
 			}
 		},
 		{
-			"name": "Loxodon Tinkerer",
+			"name": "Loxodon Tinkerer Token",
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
 			"type": "Token Creature — Elephant Artificer",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/3_Loxodon Tinkerer.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/3_Loxodon Tinkerer Token.png"
 			}
 		},
 		{
-			"name": "Omenweb Inquisitor",
+			"name": "Omenweb Inquisitor Token",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Token Creature — Human Advisor",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/10_Omenweb Inquisitor.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/10_Omenweb Inquisitor Token.png"
 			}
 		},
 		{
-			"name": "Chronicler of the Passed",
+			"name": "Chronicler of the Passed Token",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Token Creature — Human Advisor",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/6_Chronicler of the Passed.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/6_Chronicler of the Passed Token.png"
 			}
 		},
 		{
-			"name": "Overeager Courier",
+			"name": "Overeager Courier Token",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Token Creature — Human Scout",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/16_Overeager Courier.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/16_Overeager Courier Token.png"
 			}
 		},
 		{
-			"name": "Twinarm Outfitter",
+			"name": "Twinarm Outfitter Token",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Token Creature — Human Artificer",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/17_Twinarm Outfitter.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/17_Twinarm Outfitter Token.png"
 			}
 		},
 		{
-			"name": "Ebo, Fulcrum of the Coil",
+			"name": "Ebo, Fulcrum of the Coil Token",
 			"rarity": "common",
 			"mana_cost": "{W}{B}",
 			"type": "Token Creature — Human Cleric",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/18_Ebo, Fulcrum of the Coil.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/18_Ebo, Fulcrum of the Coil Token.png"
 			}
 		},
 		{
-			"name": "Dawn, Blinding Hope",
+			"name": "Dawn, Blinding Hope Token",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Token Creature — Human Rebel",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/1_Dawn, Blinding Hope.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/1_Dawn, Blinding Hope Token.png"
 			}
 		},
 		{
-			"name": "Foundry Aggravator",
+			"name": "Foundry Aggravator Token",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Rebel",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/15_Foundry Aggravator.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/15_Foundry Aggravator Token.png"
 			}
 		},
 		{
