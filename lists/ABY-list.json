@@ -7,13 +7,13 @@
     },
     {
         "card_name": "Gallas, Temporal Pioneer",
-        "number": 53,
+        "number": 54,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Scour the SynthScape",
-        "number": 111,
+        "number": 110,
         "shape": "normal",
         "set": "ABY"
     },
@@ -43,13 +43,13 @@
     },
     {
         "card_name": "Sentience Swapper",
-        "number": 114,
+        "number": 113,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Hannah, the First Anomaly",
-        "number": 137,
+        "number": 136,
         "shape": "normal",
         "set": "ABY"
     },
@@ -61,7 +61,7 @@
     },
     {
         "card_name": "Containment Priest",
-        "number": 7,
+        "number": 8,
         "shape": "normal",
         "set": "ABY"
     },
@@ -79,7 +79,7 @@
     },
     {
         "card_name": "Eldstone of Fervor",
-        "number": 131,
+        "number": 130,
         "shape": "normal",
         "set": "ABY"
     },
@@ -91,7 +91,7 @@
     },
     {
         "card_name": "Dawn, Blinding Hope",
-        "number": 8,
+        "number": 9,
         "shape": "normal",
         "set": "ABY"
     },
@@ -109,19 +109,19 @@
     },
     {
         "card_name": "Eldworld Kindler",
-        "number": 132,
+        "number": 131,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Eldstone of Bloom",
-        "number": 173,
+        "number": 172,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Eldstone of Transience",
-        "number": 9,
+        "number": 10,
         "shape": "normal",
         "set": "ABY"
     },
@@ -139,25 +139,25 @@
     },
     {
         "card_name": "Foundry Aggravator",
-        "number": 134,
+        "number": 133,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Eldworld Propagator",
-        "number": 175,
+        "number": 174,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Fracture the Path",
-        "number": 11,
+        "number": 12,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Entangled Infiltrator",
-        "number": 49,
+        "number": 50,
         "shape": "normal",
         "set": "ABY"
     },
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "Galvanic Regent",
-        "number": 135,
+        "number": 134,
         "shape": "normal",
         "set": "ABY"
     },
@@ -181,13 +181,13 @@
     },
     {
         "card_name": "I.E. Manufactor",
-        "number": 14,
+        "number": 15,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "The Great Exodus",
-        "number": 55,
+        "number": 56,
         "shape": "normal",
         "set": "ABY"
     },
@@ -211,13 +211,13 @@
     },
     {
         "card_name": "Insurgent Protocol",
-        "number": 20,
+        "number": 21,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "I.E. Resonator",
-        "number": 57,
+        "number": 58,
         "shape": "normal",
         "set": "ABY"
     },
@@ -241,7 +241,7 @@
     },
     {
         "card_name": "Luminia, Herocaller",
-        "number": 25,
+        "number": 26,
         "shape": "normal",
         "set": "ABY"
     },
@@ -253,7 +253,7 @@
     },
     {
         "card_name": "Soulshredder Mecha",
-        "number": 115,
+        "number": 114,
         "shape": "normal",
         "set": "ABY"
     },
@@ -283,7 +283,7 @@
     },
     {
         "card_name": "Sting",
-        "number": 116,
+        "number": 115,
         "shape": "normal",
         "set": "ABY"
     },
@@ -313,7 +313,7 @@
     },
     {
         "card_name": "Tortured Mind",
-        "number": 117,
+        "number": 116,
         "shape": "normal",
         "set": "ABY"
     },
@@ -336,7 +336,7 @@
         "set": "ABY"
     },
     {
-        "card_name": "Kesha, the Known Unknown",
+        "card_name": "Keshi, the Known Unknown",
         "number": 280,
         "shape": "normal",
         "set": "ABY"
@@ -360,7 +360,7 @@
         "set": "ABY"
     },
     {
-        "card_name": "Arbiters of Progress",
+        "card_name": "Appealer to the Masses",
         "number": 1,
         "shape": "normal",
         "set": "ABY"
@@ -378,7 +378,7 @@
         "set": "ABY"
     },
     {
-        "card_name": "Abandon the Timeline",
+        "card_name": "Abandon the Timecoil",
         "number": 121,
         "shape": "normal",
         "set": "ABY"
@@ -390,7 +390,7 @@
         "set": "ABY"
     },
     {
-        "card_name": "Artisan-Craft Gargoyle",
+        "card_name": "Arbiters of Progress",
         "number": 2,
         "shape": "normal",
         "set": "ABY"
@@ -420,7 +420,7 @@
         "set": "ABY"
     },
     {
-        "card_name": "Charged Photon Blast",
+        "card_name": "Artisan-Craft Gargoyle",
         "number": 3,
         "shape": "normal",
         "set": "ABY"
@@ -450,7 +450,7 @@
         "set": "ABY"
     },
     {
-        "card_name": "Chronicle of the Devout",
+        "card_name": "Charged Photon Blast",
         "number": 4,
         "shape": "normal",
         "set": "ABY"
@@ -475,19 +475,19 @@
     },
     {
         "card_name": "Echoes of the Eldworld",
-        "number": 171,
+        "number": 170,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "Chronicle of the Zealous",
+        "card_name": "Chronicle of the Devout",
         "number": 5,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "Examiner of Oddities",
-        "number": 50,
+        "card_name": "Eldworld Sprite",
+        "number": 48,
         "shape": "normal",
         "set": "ABY"
     },
@@ -498,26 +498,26 @@
         "set": "ABY"
     },
     {
-        "card_name": "Dynavolt Auger",
-        "number": 130,
+        "card_name": "Flowstone Engineer",
+        "number": 132,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Eldworld Invasion",
-        "number": 174,
+        "number": 173,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "Leonin Wanderer",
-        "number": 21,
+        "card_name": "Chronicle of the Zealous",
+        "number": 6,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "Future-Proofer",
-        "number": 52,
+        "card_name": "Examiner of Oddities",
+        "number": 51,
         "shape": "normal",
         "set": "ABY"
     },
@@ -528,8 +528,8 @@
         "set": "ABY"
     },
     {
-        "card_name": "Flowstone Engineer",
-        "number": 133,
+        "card_name": "Glimpse the Possibilities",
+        "number": 135,
         "shape": "normal",
         "set": "ABY"
     },
@@ -540,14 +540,14 @@
         "set": "ABY"
     },
     {
-        "card_name": "Lightsail Skyship",
+        "card_name": "Leonin Wanderer",
         "number": 22,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "Gallas's Understudy",
-        "number": 54,
+        "card_name": "Future-Proofer",
+        "number": 53,
         "shape": "normal",
         "set": "ABY"
     },
@@ -558,8 +558,8 @@
         "set": "ABY"
     },
     {
-        "card_name": "Glimpse the Possibilities",
-        "number": 136,
+        "card_name": "Heel of the Outlands",
+        "number": 137,
         "shape": "normal",
         "set": "ABY"
     },
@@ -570,14 +570,14 @@
         "set": "ABY"
     },
     {
-        "card_name": "Loxodon Tinkerer",
-        "number": 24,
+        "card_name": "Lightsail Skyship",
+        "number": 23,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "Industrial Reclamation",
-        "number": 58,
+        "card_name": "Gallas's Understudy",
+        "number": 55,
         "shape": "normal",
         "set": "ABY"
     },
@@ -588,8 +588,8 @@
         "set": "ABY"
     },
     {
-        "card_name": "Heel of the Outlands",
-        "number": 138,
+        "card_name": "Madcap Prodigies",
+        "number": 139,
         "shape": "normal",
         "set": "ABY"
     },
@@ -600,14 +600,14 @@
         "set": "ABY"
     },
     {
-        "card_name": "Luminite Captain",
-        "number": 26,
+        "card_name": "Loxodon Tinkerer",
+        "number": 25,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "Migratory Roc",
-        "number": 61,
+        "card_name": "Industrial Reclamation",
+        "number": 59,
         "shape": "normal",
         "set": "ABY"
     },
@@ -618,7 +618,7 @@
         "set": "ABY"
     },
     {
-        "card_name": "Madcap Prodigies",
+        "card_name": "Magmatic Auger",
         "number": 140,
         "shape": "normal",
         "set": "ABY"
@@ -630,7 +630,7 @@
         "set": "ABY"
     },
     {
-        "card_name": "Omenweb Overseer",
+        "card_name": "Omenweb Taskmaster",
         "number": 28,
         "shape": "normal",
         "set": "ABY"
@@ -762,8 +762,8 @@
         "set": "ABY"
     },
     {
-        "card_name": "Omenweb Inquisitor",
-        "number": 109,
+        "card_name": "Wasteland Inquisitor",
+        "number": 119,
         "shape": "normal",
         "set": "ABY"
     },
@@ -781,13 +781,13 @@
     },
     {
         "card_name": "Coil's Trilogy",
-        "number": 6,
+        "number": 7,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Enforce Equilibrium",
-        "number": 48,
+        "number": 49,
         "shape": "normal",
         "set": "ABY"
     },
@@ -811,13 +811,13 @@
     },
     {
         "card_name": "Fleetfoot Re-Runner",
-        "number": 10,
+        "number": 11,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Fortuitous Cnidarians",
-        "number": 51,
+        "number": 52,
         "shape": "normal",
         "set": "ABY"
     },
@@ -841,13 +841,13 @@
     },
     {
         "card_name": "Fractured Feline",
-        "number": 12,
+        "number": 13,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "I.E. Prognosticator",
-        "number": 56,
+        "number": 57,
         "shape": "normal",
         "set": "ABY"
     },
@@ -871,13 +871,13 @@
     },
     {
         "card_name": "Freelance Gearsmith",
-        "number": 13,
+        "number": 14,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Iterate",
-        "number": 59,
+        "number": 60,
         "shape": "normal",
         "set": "ABY"
     },
@@ -901,13 +901,13 @@
     },
     {
         "card_name": "I.E. Monitor",
-        "number": 15,
+        "number": 16,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Lost in Tomorrow",
-        "number": 60,
+        "number": 61,
         "shape": "normal",
         "set": "ABY"
     },
@@ -919,7 +919,7 @@
     },
     {
         "card_name": "Luminite Liberator",
-        "number": 139,
+        "number": 138,
         "shape": "normal",
         "set": "ABY"
     },
@@ -931,7 +931,7 @@
     },
     {
         "card_name": "I.E. Regulator",
-        "number": 16,
+        "number": 17,
         "shape": "normal",
         "set": "ABY"
     },
@@ -954,14 +954,14 @@
         "set": "ABY"
     },
     {
-        "card_name": "Disciples' Taskmaster",
-        "number": 170,
+        "card_name": "Eldmagic Invocation",
+        "number": 171,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "I.E. Subsister",
-        "number": 17,
+        "number": 18,
         "shape": "normal",
         "set": "ABY"
     },
@@ -984,14 +984,14 @@
         "set": "ABY"
     },
     {
-        "card_name": "Eldmagic Invocation",
-        "number": 172,
+        "card_name": "Eldworld Tandem",
+        "number": 175,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "In the Nick of Time",
-        "number": 18,
+        "number": 19,
         "shape": "normal",
         "set": "ABY"
     },
@@ -1014,14 +1014,14 @@
         "set": "ABY"
     },
     {
-        "card_name": "Eldworld Tandem",
+        "card_name": "Gibbous Moon's Devout",
         "number": 176,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Ingenious Joyrider",
-        "number": 19,
+        "number": 20,
         "shape": "normal",
         "set": "ABY"
     },
@@ -1051,7 +1051,7 @@
     },
     {
         "card_name": "Locked On",
-        "number": 23,
+        "number": 24,
         "shape": "normal",
         "set": "ABY"
     },
@@ -1063,7 +1063,7 @@
     },
     {
         "card_name": "Sanctify the Coil",
-        "number": 110,
+        "number": 109,
         "shape": "normal",
         "set": "ABY"
     },
@@ -1093,7 +1093,7 @@
     },
     {
         "card_name": "Scrapyard Tyrant",
-        "number": 112,
+        "number": 111,
         "shape": "normal",
         "set": "ABY"
     },
@@ -1123,7 +1123,7 @@
     },
     {
         "card_name": "Scriptoral Operation",
-        "number": 113,
+        "number": 112,
         "shape": "normal",
         "set": "ABY"
     },
@@ -1153,7 +1153,7 @@
     },
     {
         "card_name": "Vanquish the Weak",
-        "number": 118,
+        "number": 117,
         "shape": "normal",
         "set": "ABY"
     },
@@ -1183,7 +1183,7 @@
     },
     {
         "card_name": "Vulture-for-Hire",
-        "number": 119,
+        "number": 118,
         "shape": "normal",
         "set": "ABY"
     },
@@ -1321,8 +1321,8 @@
         "set": "ABY"
     },
     {
-        "card_name": "Delve Ever Deeper",
-        "number": 210,
+        "card_name": "Chart Past and Future",
+        "number": 207,
         "shape": "normal",
         "set": "ABY"
     },
@@ -1364,7 +1364,7 @@
     },
     {
         "card_name": "Chronicle of the Oppressed",
-        "number": 207,
+        "number": 208,
         "shape": "normal",
         "set": "ABY"
     },
@@ -1427,7 +1427,7 @@
     },
     {
         "card_name": "Cyclical Martyrdom",
-        "number": 209,
+        "number": 210,
         "shape": "normal",
         "set": "ABY"
     },
@@ -1439,7 +1439,7 @@
     },
     {
         "card_name": "The Coil's Burdens",
-        "number": 208,
+        "number": 209,
         "shape": "normal",
         "set": "ABY"
     },
@@ -1504,7 +1504,7 @@
         "set": "ABY"
     },
     {
-        "card_name": "Frenetic Archivist",
+        "card_name": "Farrah, Frenetic Archivist",
         "number": 217,
         "shape": "normal",
         "set": "ABY"
@@ -1534,7 +1534,7 @@
         "set": "ABY"
     },
     {
-        "card_name": "The Polarized Dyad",
+        "card_name": "Polarized Dyad",
         "number": 226,
         "shape": "normal",
         "set": "ABY"
@@ -1572,31 +1572,31 @@
     "a->colorless",
     {
         "card_name": "The Immortal Moon",
-        "number": 249,
+        "number": 248,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "The Judgment Clock",
-        "number": 250,
+        "number": 249,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Counter of Hours",
-        "number": 243,
+        "number": 242,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "The Everglass",
-        "number": 246,
+        "number": 245,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "I.E. Infantry",
-        "number": 248,
+        "number": 247,
         "shape": "normal",
         "set": "ABY"
     },
@@ -1608,25 +1608,25 @@
     },
     {
         "card_name": "Chronomaton",
-        "number": 242,
+        "number": 241,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Counter of Minutes",
-        "number": 244,
+        "number": 243,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Multiuse Gizmo",
-        "number": 251,
+        "number": 250,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Omenweb Atlas",
-        "number": 252,
+        "number": 251,
         "shape": "normal",
         "set": "ABY"
     },
@@ -1637,25 +1637,31 @@
         "set": "ABY"
     },
     {
-        "card_name": "Chromatic Lens",
-        "number": 241,
-        "shape": "normal",
+        "card_name": "Revival ABY",
+        "number": 0,
+        "shape": "saga",
         "set": "ABY"
     },
     {
         "card_name": "Counter of Seconds",
-        "number": 245,
+        "number": 244,
         "shape": "normal",
         "set": "ABY"
     },
     {
-        "card_name": "Forge Reconfigurer",
-        "number": 247,
+        "card_name": "Heavy Artillery System",
+        "number": 246,
         "shape": "normal",
         "set": "ABY"
     },
     {
         "card_name": "Precog in the Machine",
+        "number": 252,
+        "shape": "normal",
+        "set": "ABY"
+    },
+    {
+        "card_name": "Prismatic Lens",
         "number": 253,
         "shape": "normal",
         "set": "ABY"
@@ -1665,9 +1671,6 @@
         "number": 254,
         "shape": "normal",
         "set": "ABY"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1906,103 +1909,109 @@
     },
     "a->token",
     {
-        "card_name": "Gear",
-        "number": 19,
-        "shape": "token",
-        "set": "ABY"
-    },
-    {
-        "card_name": "The Planar Portal",
+        "card_name": "Clue",
         "number": 20,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Splintered Lotus",
+        "card_name": "Gear",
         "number": 21,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Treasure",
+        "card_name": "The Planar Portal",
         "number": 22,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Vehicle",
+        "card_name": "Splintered Lotus",
         "number": 23,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Everywhere",
+        "card_name": "Treasure",
         "number": 24,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Chrono Counters",
+        "card_name": "Vehicle",
         "number": 25,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Dawn, Blinding Hope Token",
+        "card_name": "Everywhere",
+        "number": 26,
+        "shape": "token",
+        "set": "ABY"
+    },
+    {
+        "card_name": "Chrono Counters",
+        "number": 27,
+        "shape": "token",
+        "set": "ABY"
+    },
+    {
+        "card_name": "Appealer to the Masses Token",
         "number": 1,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Freelance Gearsmith Token",
+        "card_name": "Dawn, Blinding Hope Token",
         "number": 2,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Loxodon Tinkerer Token",
+        "card_name": "Ebo, Eternal Martyr Token",
         "number": 3,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Luminite Captain Token",
+        "card_name": "Freelance Gearsmith Token",
         "number": 4,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Passage Sanctifier Token",
+        "card_name": "Loxodon Tinkerer Token",
         "number": 5,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Chronicler of the Passed Token",
+        "card_name": "Passage Sanctifier Token",
         "number": 6,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Cleric",
+        "card_name": "Chronicler of the Passed Token",
         "number": 7,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Disciples' Strongarm Token",
+        "card_name": "Cleric",
         "number": 8,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Minister of Penance Token",
+        "card_name": "Disciples' Strongarm Token",
         "number": 9,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Omenweb Inquisitor Token",
+        "card_name": "Minister of Penance Token",
         "number": 10,
         "shape": "token",
         "set": "ABY"
@@ -2014,46 +2023,61 @@
         "set": "ABY"
     },
     {
-        "card_name": "Workshop Naughty Token",
+        "card_name": "Wasteland Inquisitor Token",
         "number": 12,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Alloy Transmuter Token",
+        "card_name": "Workshop Naughty Token",
         "number": 13,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Borderlands Daredevil Token",
+        "card_name": "Alloy Transmuter Token",
         "number": 14,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Foundry Aggravator Token",
+        "card_name": "Borderlands Daredevil Token",
         "number": 15,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Overeager Courier Token",
+        "card_name": "Foundry Aggravator Token",
         "number": 16,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Twinarm Outfitter Token",
+        "card_name": "Overeager Courier Token",
         "number": 17,
         "shape": "token",
         "set": "ABY"
     },
     {
-        "card_name": "Ebo, Fulcrum of the Coil Token",
+        "card_name": "Twinarm Outfitter Token",
         "number": 18,
         "shape": "token",
         "set": "ABY"
+    },
+    {
+        "card_name": "Ebo, Fulcrum of the Coil Token",
+        "number": 19,
+        "shape": "token",
+        "set": "ABY"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"

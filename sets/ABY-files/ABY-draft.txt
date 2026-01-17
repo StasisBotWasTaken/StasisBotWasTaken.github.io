@@ -5,9 +5,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Artifact Creature — Robot Drone",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/15_I.E. Monitor.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/16_I.E. Monitor.png"
 			}
 		},
 		{
@@ -25,9 +25,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Cat",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/12_Fractured Feline.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/13_Fractured Feline.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/10_Fleetfoot Re-Runner.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/11_Fleetfoot Re-Runner.png"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact Creature — Human Robot",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/17_I.E. Subsister.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/18_I.E. Subsister.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/19_Ingenious Joyrider.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/20_Ingenious Joyrider.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/13_Freelance Gearsmith.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/14_Freelance Gearsmith.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/6_Coil's Trilogy.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/7_Coil's Trilogy.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Artifact Creature — Robot Advisor",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/16_I.E. Regulator.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/17_I.E. Regulator.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/23_Locked On.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/24_Locked On.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/18_In the Nick of Time.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/19_In the Nick of Time.png"
 			}
 		},
 		{
@@ -205,9 +205,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Artifact Creature — Robot Sphinx",
-			"collector_number": "56",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/56_I.E. Prognosticator.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/57_I.E. Prognosticator.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Jellyfish Illusion",
-			"collector_number": "51",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/51_Fortuitous Cnidarians.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/52_Fortuitous Cnidarians.png"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "60",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/60_Lost in Tomorrow.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/61_Lost in Tomorrow.png"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "48",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/48_Enforce Equilibrium.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/49_Enforce Equilibrium.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "59",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/59_Iterate.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/60_Iterate.png"
 			}
 		},
 		{
@@ -375,9 +375,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Human Pilot Mercenary",
-			"collector_number": "119",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/119_Vulture-for-Hire.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/118_Vulture-for-Hire.png"
 			}
 		},
 		{
@@ -385,9 +385,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "112",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/112_Scrapyard Tyrant.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/111_Scrapyard Tyrant.png"
 			}
 		},
 		{
@@ -395,9 +395,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "118",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/118_Vanquish the Weak.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/117_Vanquish the Weak.png"
 			}
 		},
 		{
@@ -415,9 +415,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/113_Scriptoral Operation.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/112_Scriptoral Operation.png"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
-			"collector_number": "110",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/110_Sanctify the Coil.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/109_Sanctify the Coil.png"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "139",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/139_Luminite Liberator.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/138_Luminite Liberator.png"
 			}
 		},
 		{
@@ -615,9 +615,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Elemental Artificer",
-			"collector_number": "176",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/176_Eldworld Tandem.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/175_Eldworld Tandem.png"
 			}
 		},
 		{
@@ -661,13 +661,13 @@
 			}
 		},
 		{
-			"name": "Disciples' Taskmaster",
+			"name": "Gibbous Moon's Devout",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Human Artificer",
-			"collector_number": "170",
+			"type": "Creature — Human Cleric",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/170_Disciples' Taskmaster.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/176_Gibbous Moon's Devout.png"
 			}
 		},
 		{
@@ -694,7 +694,7 @@
 			"name": "Urban Flytrap",
 			"rarity": "common",
 			"mana_cost": "{6}{G}",
-			"type": "Creature — Plant Elemental",
+			"type": "Creature — Plant",
 			"collector_number": "199",
 			"image_uris": {
 				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/199_Urban Flytrap.png"
@@ -715,9 +715,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "172",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/172_Eldmagic Invocation.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/171_Eldmagic Invocation.png"
 			}
 		},
 		{
@@ -755,9 +755,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "245",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/245_Counter of Seconds.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/244_Counter of Seconds.png"
 			}
 		},
 		{
@@ -775,29 +775,29 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "253",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/253_Precog in the Machine.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/252_Precog in the Machine.png"
 			}
 		},
 		{
-			"name": "Forge Reconfigurer",
+			"name": "Heavy Artillery System",
 			"rarity": "common",
 			"mana_cost": "{1}",
-			"type": "Artifact — Equipment",
-			"collector_number": "247",
+			"type": "Artifact",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/247_Forge Reconfigurer.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/246_Heavy Artillery System.png"
 			}
 		},
 		{
-			"name": "Chromatic Lens",
+			"name": "Prismatic Lens",
 			"rarity": "common",
-			"mana_cost": "{3}",
+			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "241",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/241_Chromatic Lens.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/253_Prismatic Lens.png"
 			}
 		},
 		{
@@ -915,9 +915,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Artifact Creature — Gargoyle",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/2_Artisan-Craft Gargoyle.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/3_Artisan-Craft Gargoyle.png"
 			}
 		},
 		{
@@ -925,9 +925,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Cat Cleric",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/21_Leonin Wanderer.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/22_Leonin Wanderer.png"
 			}
 		},
 		{
@@ -941,13 +941,13 @@
 			}
 		},
 		{
-			"name": "Luminite Captain",
+			"name": "Appealer to the Masses",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "26",
+			"collector_number": "1",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/26_Luminite Captain.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/1_Appealer to the Masses.png"
 			}
 		},
 		{
@@ -955,9 +955,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/1_Arbiters of Progress.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/2_Arbiters of Progress.png"
 			}
 		},
 		{
@@ -971,23 +971,23 @@
 			}
 		},
 		{
-			"name": "Omenweb Overseer",
+			"name": "Loxodon Tinkerer",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
-			"type": "Creature — Human Advisor",
-			"collector_number": "28",
+			"type": "Creature — Elephant Artificer",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/28_Omenweb Overseer.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/25_Loxodon Tinkerer.png"
 			}
 		},
 		{
-			"name": "Loxodon Tinkerer",
+			"name": "Omenweb Taskmaster",
 			"rarity": "uncommon",
-			"mana_cost": "{5}{W}",
-			"type": "Creature — Elephant Artificer",
-			"collector_number": "24",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/24_Loxodon Tinkerer.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/28_Omenweb Taskmaster.png"
 			}
 		},
 		{
@@ -1005,9 +1005,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/3_Charged Photon Blast.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/4_Charged Photon Blast.png"
 			}
 		},
 		{
@@ -1025,9 +1025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/22_Lightsail Skyship.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/23_Lightsail Skyship.png"
 			}
 		},
 		{
@@ -1035,9 +1035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/4_Chronicle of the Devout.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/5_Chronicle of the Devout.png"
 			}
 		},
 		{
@@ -1045,9 +1045,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/5_Chronicle of the Zealous.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/6_Chronicle of the Zealous.png"
 			}
 		},
 		{
@@ -1055,9 +1055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Scientist",
-			"collector_number": "54",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/54_Gallas's Understudy.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/55_Gallas's Understudy.png"
 			}
 		},
 		{
@@ -1065,9 +1065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Human Robot",
-			"collector_number": "52",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/52_Future-Proofer.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/53_Future-Proofer.png"
 			}
 		},
 		{
@@ -1075,19 +1075,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "50",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/50_Examiner of Oddities.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/51_Examiner of Oddities.png"
 			}
 		},
 		{
-			"name": "Migratory Roc",
+			"name": "Eldworld Sprite",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Bird",
-			"collector_number": "61",
+			"type": "Creature — Jellyfish Elemental",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/61_Migratory Roc.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/48_Eldworld Sprite.png"
 			}
 		},
 		{
@@ -1165,9 +1165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment",
-			"collector_number": "58",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/58_Industrial Reclamation.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/59_Industrial Reclamation.png"
 			}
 		},
 		{
@@ -1221,13 +1221,13 @@
 			}
 		},
 		{
-			"name": "Omenweb Inquisitor",
+			"name": "Wasteland Inquisitor",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "109",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/109_Omenweb Inquisitor.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/119_Wasteland Inquisitor.png"
 			}
 		},
 		{
@@ -1345,9 +1345,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "138",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/138_Heel of the Outlands.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/137_Heel of the Outlands.png"
 			}
 		},
 		{
@@ -1355,9 +1355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Gremlin Scientist",
-			"collector_number": "140",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/140_Madcap Prodigies.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/139_Madcap Prodigies.png"
 			}
 		},
 		{
@@ -1374,10 +1374,10 @@
 			"name": "Flowstone Engineer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Artificer",
-			"collector_number": "133",
+			"type": "Creature — Human Artificer Pilot",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/133_Flowstone Engineer.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/132_Flowstone Engineer.png"
 			}
 		},
 		{
@@ -1403,7 +1403,7 @@
 		{
 			"name": "Twinarm Outfitter",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{R}",
+			"mana_cost": "{5}{R}",
 			"type": "Creature — Human Artificer",
 			"collector_number": "157",
 			"image_uris": {
@@ -1413,8 +1413,8 @@
 		{
 			"name": "Retroactive Rending",
 			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Instant",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
 			"collector_number": "149",
 			"image_uris": {
 				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/149_Retroactive Rending.png"
@@ -1425,19 +1425,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "136",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/136_Glimpse the Possibilities.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/135_Glimpse the Possibilities.png"
 			}
 		},
 		{
-			"name": "Dynavolt Auger",
+			"name": "Magmatic Auger",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact",
-			"collector_number": "130",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/130_Dynavolt Auger.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/140_Magmatic Auger.png"
 			}
 		},
 		{
@@ -1451,13 +1451,13 @@
 			}
 		},
 		{
-			"name": "Abandon the Timeline",
+			"name": "Abandon the Timecoil",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/121_Abandon the Timeline.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/121_Abandon the Timecoil.png"
 			}
 		},
 		{
@@ -1585,9 +1585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "171",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/171_Echoes of the Eldworld.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/170_Echoes of the Eldworld.png"
 			}
 		},
 		{
@@ -1595,9 +1595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "174",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/174_Eldworld Invasion.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/173_Eldworld Invasion.png"
 			}
 		},
 		{
@@ -1615,9 +1615,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Enchantment",
-			"collector_number": "207",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/207_Chronicle of the Oppressed.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/208_Chronicle of the Oppressed.png"
 			}
 		},
 		{
@@ -1671,13 +1671,13 @@
 			}
 		},
 		{
-			"name": "Delve Ever Deeper",
+			"name": "Chart Past and Future",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "210",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/210_Delve Ever Deeper.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/207_Chart Past and Future.png"
 			}
 		},
 		{
@@ -1771,23 +1771,23 @@
 			}
 		},
 		{
-			"name": "Frenetic Archivist",
+			"name": "Farrah, Frenetic Archivist",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
-			"type": "Creature — Human Artificer",
+			"type": "Legendary Creature — Human Artificer",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/217_Frenetic Archivist.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/217_Farrah, Frenetic Archivist.png"
 			}
 		},
 		{
-			"name": "The Polarized Dyad",
+			"name": "Polarized Dyad",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Legendary Artifact Creature — Robot Warrior",
+			"type": "Artifact Creature — Robot Warrior",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/226_The Polarized Dyad.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/226_Polarized Dyad.png"
 			}
 		},
 		{
@@ -1815,9 +1815,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "242",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/242_Chronomaton.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/241_Chronomaton.png"
 			}
 		},
 		{
@@ -1825,9 +1825,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "244",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/244_Counter of Minutes.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/243_Counter of Minutes.png"
 			}
 		},
 		{
@@ -1835,9 +1835,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Clue Gear Food",
-			"collector_number": "251",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/251_Multiuse Gizmo.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/250_Multiuse Gizmo.png"
 			}
 		},
 		{
@@ -1855,9 +1855,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "252",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/252_Omenweb Atlas.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/251_Omenweb Atlas.png"
 			}
 		},
 		{
@@ -1925,9 +1925,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/20_Insurgent Protocol.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/21_Insurgent Protocol.png"
 			}
 		},
 		{
@@ -1935,9 +1935,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/25_Luminia, Herocaller.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/26_Luminia, Herocaller.png"
 			}
 		},
 		{
@@ -1945,9 +1945,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact Creature — Robot Artificer",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/14_I.E. Manufactor.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/15_I.E. Manufactor.png"
 			}
 		},
 		{
@@ -1955,9 +1955,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/7_Containment Priest.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/8_Containment Priest.png"
 			}
 		},
 		{
@@ -1975,9 +1975,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Creature — Human Rebel",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/8_Dawn, Blinding Hope.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/9_Dawn, Blinding Hope.png"
 			}
 		},
 		{
@@ -1985,9 +1985,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/11_Fracture the Path.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/12_Fracture the Path.png"
 			}
 		},
 		{
@@ -1995,9 +1995,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "57",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/57_I.E. Resonator.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/58_I.E. Resonator.png"
 			}
 		},
 		{
@@ -2005,9 +2005,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "49",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/49_Entangled Infiltrator.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/50_Entangled Infiltrator.png"
 			}
 		},
 		{
@@ -2065,9 +2065,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Instant",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/55_The Great Exodus.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/56_The Great Exodus.png"
 			}
 		},
 		{
@@ -2085,9 +2085,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "116",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/116_Sting.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/115_Sting.png"
 			}
 		},
 		{
@@ -2125,9 +2125,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "115",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/115_Soulshredder Mecha.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/114_Soulshredder Mecha.png"
 			}
 		},
 		{
@@ -2145,9 +2145,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Brain",
-			"collector_number": "117",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/117_Tortured Mind.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/116_Tortured Mind.png"
 			}
 		},
 		{
@@ -2165,9 +2165,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "132",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/132_Eldworld Kindler.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/131_Eldworld Kindler.png"
 			}
 		},
 		{
@@ -2185,9 +2185,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "135",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/135_Galvanic Regent.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/134_Galvanic Regent.png"
 			}
 		},
 		{
@@ -2205,9 +2205,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "134",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/134_Foundry Aggravator.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/133_Foundry Aggravator.png"
 			}
 		},
 		{
@@ -2285,9 +2285,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "175",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/175_Eldworld Propagator.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/174_Eldworld Propagator.png"
 			}
 		},
 		{
@@ -2365,9 +2365,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Legendary Enchantment",
-			"collector_number": "208",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/208_The Coil's Burdens.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/209_The Coil's Burdens.png"
 			}
 		},
 		{
@@ -2415,9 +2415,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "243",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/243_Counter of Hours.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/242_Counter of Hours.png"
 			}
 		},
 		{
@@ -2435,9 +2435,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Robot Warrior",
-			"collector_number": "248",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/248_I.E. Infantry.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/247_I.E. Infantry.png"
 			}
 		},
 		{
@@ -2445,9 +2445,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
-			"collector_number": "246",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/246_The Everglass.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/245_The Everglass.png"
 			}
 		},
 		{
@@ -2465,9 +2465,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Artifact",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/9_Eldstone of Transience.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/10_Eldstone of Transience.png"
 			}
 		},
 		{
@@ -2495,9 +2495,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Artifact",
-			"collector_number": "131",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/131_Eldstone of Fervor.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/130_Eldstone of Fervor.png"
 			}
 		},
 		{
@@ -2505,9 +2505,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Artifact",
-			"collector_number": "173",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/173_Eldstone of Bloom.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/172_Eldstone of Bloom.png"
 			}
 		},
 		{
@@ -2535,9 +2535,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "53",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/53_Gallas, Temporal Pioneer.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/54_Gallas, Temporal Pioneer.png"
 			}
 		},
 		{
@@ -2555,9 +2555,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "111",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/111_Scour the SynthScape.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/110_Scour the SynthScape.png"
 			}
 		},
 		{
@@ -2565,9 +2565,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Human Mercenary Warlock",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/114_Sentience Swapper.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/113_Sentience Swapper.png"
 			}
 		},
 		{
@@ -2575,9 +2575,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Human Rebel",
-			"collector_number": "137",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/137_Hannah, the First Anomaly.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/136_Hannah, the First Anomaly.png"
 			}
 		},
 		{
@@ -2653,7 +2653,7 @@
 		{
 			"name": "Synthesized Blossom",
 			"rarity": "mythic",
-			"mana_cost": "{1}{G}{W}",
+			"mana_cost": "{G}{W}",
 			"type": "Artifact Creature — Construct Plant",
 			"collector_number": "235",
 			"image_uris": {
@@ -2705,9 +2705,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Enchantment",
-			"collector_number": "209",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/209_Cyclical Martyrdom.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/210_Cyclical Martyrdom.png"
 			}
 		},
 		{
@@ -2715,9 +2715,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{6}",
 			"type": "Legendary Artifact",
-			"collector_number": "249",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/249_The Immortal Moon.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/248_The Immortal Moon.png"
 			}
 		},
 		{
@@ -2725,9 +2725,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact",
-			"collector_number": "250",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/250_The Judgment Clock.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/249_The Judgment Clock.png"
 			}
 		},
 		{
@@ -2785,9 +2785,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token",
-			"collector_number": "25",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/25_Chrono Counters.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/27_Chrono Counters.png"
 			}
 		},
 		{
@@ -2795,9 +2795,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Gear",
-			"collector_number": "19",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/19_Gear.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/21_Gear.png"
 			}
 		},
 		{
@@ -2805,9 +2805,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Cleric",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/7_Cleric.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/8_Cleric.png"
 			}
 		},
 		{
@@ -2815,9 +2815,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "22",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/22_Treasure.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/24_Treasure.png"
 			}
 		},
 		{
@@ -2825,9 +2825,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Vehicle",
-			"collector_number": "23",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/23_Vehicle.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/25_Vehicle.png"
 			}
 		},
 		{
@@ -2835,9 +2835,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Land",
-			"collector_number": "24",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/24_Everywhere.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/26_Everywhere.png"
 			}
 		},
 		{
@@ -2855,9 +2855,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "20",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/20_The Planar Portal.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/22_The Planar Portal.png"
 			}
 		},
 		{
@@ -2865,9 +2865,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact",
-			"collector_number": "21",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/21_Splintered Lotus.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/23_Splintered Lotus.png"
 			}
 		},
 		{
@@ -2875,9 +2875,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Token Creature — Human Cleric",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/5_Passage Sanctifier Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/6_Passage Sanctifier Token.png"
 			}
 		},
 		{
@@ -2885,9 +2885,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Token Creature — Human Artificer",
-			"collector_number": "2",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/2_Freelance Gearsmith Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/4_Freelance Gearsmith Token.png"
 			}
 		},
 		{
@@ -2895,9 +2895,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Token Creature — Faerie Rogue",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/12_Workshop Naughty Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/13_Workshop Naughty Token.png"
 			}
 		},
 		{
@@ -2905,9 +2905,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Token Creature — Human Warrior",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/8_Disciples' Strongarm Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/9_Disciples' Strongarm Token.png"
 			}
 		},
 		{
@@ -2915,9 +2915,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Token Creature — Human Advisor",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/9_Minister of Penance Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/10_Minister of Penance Token.png"
 			}
 		},
 		{
@@ -2925,9 +2925,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Token Creature — Human Artificer",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/13_Alloy Transmuter Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/14_Alloy Transmuter Token.png"
 			}
 		},
 		{
@@ -2935,39 +2935,39 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Token Creature — Human Scout",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/14_Borderlands Daredevil Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/15_Borderlands Daredevil Token.png"
 			}
 		},
 		{
-			"name": "Luminite Captain Token",
+			"name": "Appealer to the Masses Token",
 			"rarity": "common",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Token Creature — Human Warrior",
-			"collector_number": "4",
+			"collector_number": "1",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/4_Luminite Captain Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/1_Appealer to the Masses Token.png"
 			}
 		},
 		{
 			"name": "Loxodon Tinkerer Token",
 			"rarity": "common",
-			"mana_cost": "{5}{W}",
+			"mana_cost": "{4}{W}",
 			"type": "Token Creature — Elephant Artificer",
-			"collector_number": "3",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/3_Loxodon Tinkerer Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/5_Loxodon Tinkerer Token.png"
 			}
 		},
 		{
-			"name": "Omenweb Inquisitor Token",
+			"name": "Wasteland Inquisitor Token",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Token Creature — Human Advisor",
-			"collector_number": "10",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/10_Omenweb Inquisitor Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/12_Wasteland Inquisitor Token.png"
 			}
 		},
 		{
@@ -2975,9 +2975,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Token Creature — Human Advisor",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/6_Chronicler of the Passed Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/7_Chronicler of the Passed Token.png"
 			}
 		},
 		{
@@ -2985,19 +2985,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Token Creature — Human Scout",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/16_Overeager Courier Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/17_Overeager Courier Token.png"
 			}
 		},
 		{
 			"name": "Twinarm Outfitter Token",
 			"rarity": "common",
-			"mana_cost": "{4}{R}",
+			"mana_cost": "{5}{R}",
 			"type": "Token Creature — Human Artificer",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/17_Twinarm Outfitter Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/18_Twinarm Outfitter Token.png"
 			}
 		},
 		{
@@ -3005,9 +3005,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}{B}",
 			"type": "Token Creature — Human Cleric",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/18_Ebo, Fulcrum of the Coil Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/19_Ebo, Fulcrum of the Coil Token.png"
 			}
 		},
 		{
@@ -3015,19 +3015,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Token Creature — Human Rebel",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/1_Dawn, Blinding Hope Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/2_Dawn, Blinding Hope Token.png"
 			}
 		},
 		{
 			"name": "Foundry Aggravator Token",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Human Rebel",
-			"collector_number": "15",
+			"type": "Token Creature — Human Rebel",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/15_Foundry Aggravator Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/16_Foundry Aggravator Token.png"
 			}
 		},
 		{
@@ -3111,13 +3111,13 @@
 			}
 		},
 		{
-			"name": "Kesha, the Known Unknown",
+			"name": "Keshi, the Known Unknown",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Shapeshifter",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/280_Kesha, the Known Unknown.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/280_Keshi, the Known Unknown.png"
 			}
 		},
 		{
@@ -3178,6 +3178,36 @@
 			"collector_number": "288",
 			"image_uris": {
 				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/288_Ishanna, Phenomaniac.png"
+			}
+		},
+		{
+			"name": "Ebo, Eternal Martyr Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Zombie Human Cleric",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/3_Ebo, Eternal Martyr Token.png"
+			}
+		},
+		{
+			"name": "Revival ABY",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Saga",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/0_Revival ABY.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/20_Clue.png"
 			}
 		}
 	]
@@ -3266,7 +3296,7 @@
 	1 The Immortal Moon
 	1 The Judgment Clock
 	2 Ravi, Back-Alley Harrier
-	2 Kesha, the Known Unknown
+	2 Keshi, the Known Unknown
 	2 Nevali, Duskbringer
 	2 Arianna, the Scrapper
 	2 Tel, Supressed Spark
@@ -3277,11 +3307,11 @@
 	4 Artisan-Craft Gargoyle
 	4 Leonin Wanderer
 	4 Orrery Overseer
-	4 Luminite Captain
+	4 Appealer to the Masses
 	4 Arbiters of Progress
 	4 Timecoil Restorer
-	4 Omenweb Overseer
 	4 Loxodon Tinkerer
+	4 Omenweb Taskmaster
 	4 Serve Time
 	4 Charged Photon Blast
 	4 Stabilizer Suit
@@ -3291,7 +3321,7 @@
 	4 Gallas's Understudy
 	4 Future-Proofer
 	4 Examiner of Oddities
-	4 Migratory Roc
+	4 Eldworld Sprite
 	4 Watcher at the Edge
 	4 Cogwork Inverter
 	4 Spinner of the Omenweb
@@ -3305,7 +3335,7 @@
 	4 Chronological Constant
 	4 Augur of the In-Between
 	4 Flickering Finisher
-	4 Omenweb Inquisitor
+	4 Wasteland Inquisitor
 	4 Congregation at Last Light
 	4 Darksteel Ace
 	4 Chronicler of the Passed
@@ -3326,9 +3356,9 @@
 	4 Twinarm Outfitter
 	4 Retroactive Rending
 	4 Glimpse the Possibilities
-	4 Dynavolt Auger
+	4 Magmatic Auger
 	4 Collapse of the Web
-	4 Abandon the Timeline
+	4 Abandon the Timecoil
 	4 Chronicle of the Faithless
 	4 SynthScape Painter
 	4 Artisan Guild Uncoiler
@@ -3350,7 +3380,7 @@
 	4 Mathis, I.E. Operative
 	4 Srina of the Brink
 	4 Onslaught Engine
-	4 Delve Ever Deeper
+	4 Chart Past and Future
 	4 Solo, Last of the Armanti
 	4 Taras, Omenweb Chief
 	4 Unending Procession
@@ -3360,8 +3390,8 @@
 	4 Scrounge, Eldworld Burrower
 	4 A200, Spawned Sentience
 	4 Artisan Guild Tenets
-	4 Frenetic Archivist
-	4 The Polarized Dyad
+	4 Farrah, Frenetic Archivist
+	4 Polarized Dyad
 	4 SynthScape Valiant
 	4 Ray, the Second Light
 	4 Chronomaton
@@ -3448,7 +3478,7 @@
 	8 People of the Sun
 	8 Chitinous Artisan
 	8 Unlikely Symbiotes
-	8 Disciples' Taskmaster
+	8 Gibbous Moon's Devout
 	8 Borderland Bullies
 	8 Augmented Tusker
 	8 Urban Flytrap
@@ -3460,8 +3490,8 @@
 	8 Counter of Seconds
 	8 Scrapwork Rig
 	8 Precog in the Machine
-	8 Forge Reconfigurer
-	8 Chromatic Lens
+	8 Heavy Artillery System
+	8 Prismatic Lens
 	8 Unexplored Omenpath
 	8 Path from Arcavios
 	8 Path from Calloran
@@ -3473,6 +3503,7 @@
 	8 Path from Kamigawa
 	8 Path from Nimnura
 	8 Path from Thunder Junction
+	8 Revival ABY
 [foil(1)]
 	12 I.E. Monitor
 	12 Luminite Equalizer
@@ -3540,7 +3571,7 @@
 	12 People of the Sun
 	12 Chitinous Artisan
 	12 Unlikely Symbiotes
-	12 Disciples' Taskmaster
+	12 Gibbous Moon's Devout
 	12 Borderland Bullies
 	12 Augmented Tusker
 	12 Urban Flytrap
@@ -3552,8 +3583,8 @@
 	12 Counter of Seconds
 	12 Scrapwork Rig
 	12 Precog in the Machine
-	12 Forge Reconfigurer
-	12 Chromatic Lens
+	12 Heavy Artillery System
+	12 Prismatic Lens
 	12 Unexplored Omenpath
 	12 Path from Arcavios
 	12 Path from Calloran
@@ -3568,11 +3599,11 @@
 	6 Artisan-Craft Gargoyle
 	6 Leonin Wanderer
 	6 Orrery Overseer
-	6 Luminite Captain
+	6 Appealer to the Masses
 	6 Arbiters of Progress
 	6 Timecoil Restorer
-	6 Omenweb Overseer
 	6 Loxodon Tinkerer
+	6 Omenweb Taskmaster
 	6 Serve Time
 	6 Charged Photon Blast
 	6 Stabilizer Suit
@@ -3582,7 +3613,7 @@
 	6 Gallas's Understudy
 	6 Future-Proofer
 	6 Examiner of Oddities
-	6 Migratory Roc
+	6 Eldworld Sprite
 	6 Watcher at the Edge
 	6 Cogwork Inverter
 	6 Spinner of the Omenweb
@@ -3596,7 +3627,7 @@
 	6 Chronological Constant
 	6 Augur of the In-Between
 	6 Flickering Finisher
-	6 Omenweb Inquisitor
+	6 Wasteland Inquisitor
 	6 Congregation at Last Light
 	6 Darksteel Ace
 	6 Chronicler of the Passed
@@ -3617,9 +3648,9 @@
 	6 Twinarm Outfitter
 	6 Retroactive Rending
 	6 Glimpse the Possibilities
-	6 Dynavolt Auger
+	6 Magmatic Auger
 	6 Collapse of the Web
-	6 Abandon the Timeline
+	6 Abandon the Timecoil
 	6 Chronicle of the Faithless
 	6 SynthScape Painter
 	6 Artisan Guild Uncoiler
@@ -3641,7 +3672,7 @@
 	6 Mathis, I.E. Operative
 	6 Srina of the Brink
 	6 Onslaught Engine
-	6 Delve Ever Deeper
+	6 Chart Past and Future
 	6 Solo, Last of the Armanti
 	6 Taras, Omenweb Chief
 	6 Unending Procession
@@ -3651,8 +3682,8 @@
 	6 Scrounge, Eldworld Burrower
 	6 A200, Spawned Sentience
 	6 Artisan Guild Tenets
-	6 Frenetic Archivist
-	6 The Polarized Dyad
+	6 Farrah, Frenetic Archivist
+	6 Polarized Dyad
 	6 SynthScape Valiant
 	6 Ray, the Second Light
 	6 Chronomaton
@@ -3755,13 +3786,14 @@
 	6 A200, of Flesh and Filigree
 	6 Edrick, Solblessed
 	2 Ravi, Back-Alley Harrier
-	2 Kesha, the Known Unknown
+	2 Keshi, the Known Unknown
 	2 Nevali, Duskbringer
 	2 Arianna, the Scrapper
 	2 Tel, Supressed Spark
 	2 She Who Never Was
 	2 Sheiya, Victim of the Ages
 	2 Ishanna, Phenomaniac
+	12 Revival ABY
 [wildcard(1)]
 	6 I.E. Monitor
 	6 Luminite Equalizer
@@ -3829,7 +3861,7 @@
 	6 People of the Sun
 	6 Chitinous Artisan
 	6 Unlikely Symbiotes
-	6 Disciples' Taskmaster
+	6 Gibbous Moon's Devout
 	6 Borderland Bullies
 	6 Augmented Tusker
 	6 Urban Flytrap
@@ -3841,8 +3873,8 @@
 	6 Counter of Seconds
 	6 Scrapwork Rig
 	6 Precog in the Machine
-	6 Forge Reconfigurer
-	6 Chromatic Lens
+	6 Heavy Artillery System
+	6 Prismatic Lens
 	6 Unexplored Omenpath
 	6 Path from Arcavios
 	6 Path from Calloran
@@ -3857,11 +3889,11 @@
 	15 Artisan-Craft Gargoyle
 	15 Leonin Wanderer
 	15 Orrery Overseer
-	15 Luminite Captain
+	15 Appealer to the Masses
 	15 Arbiters of Progress
 	15 Timecoil Restorer
-	15 Omenweb Overseer
 	15 Loxodon Tinkerer
+	15 Omenweb Taskmaster
 	15 Serve Time
 	15 Charged Photon Blast
 	15 Stabilizer Suit
@@ -3871,7 +3903,7 @@
 	15 Gallas's Understudy
 	15 Future-Proofer
 	15 Examiner of Oddities
-	15 Migratory Roc
+	15 Eldworld Sprite
 	15 Watcher at the Edge
 	15 Cogwork Inverter
 	15 Spinner of the Omenweb
@@ -3885,7 +3917,7 @@
 	15 Chronological Constant
 	15 Augur of the In-Between
 	15 Flickering Finisher
-	15 Omenweb Inquisitor
+	15 Wasteland Inquisitor
 	15 Congregation at Last Light
 	15 Darksteel Ace
 	15 Chronicler of the Passed
@@ -3906,9 +3938,9 @@
 	15 Twinarm Outfitter
 	15 Retroactive Rending
 	15 Glimpse the Possibilities
-	15 Dynavolt Auger
+	15 Magmatic Auger
 	15 Collapse of the Web
-	15 Abandon the Timeline
+	15 Abandon the Timecoil
 	15 Chronicle of the Faithless
 	15 SynthScape Painter
 	15 Artisan Guild Uncoiler
@@ -3930,7 +3962,7 @@
 	15 Mathis, I.E. Operative
 	15 Srina of the Brink
 	15 Onslaught Engine
-	15 Delve Ever Deeper
+	15 Chart Past and Future
 	15 Solo, Last of the Armanti
 	15 Taras, Omenweb Chief
 	15 Unending Procession
@@ -3940,8 +3972,8 @@
 	15 Scrounge, Eldworld Burrower
 	15 A200, Spawned Sentience
 	15 Artisan Guild Tenets
-	15 Frenetic Archivist
-	15 The Polarized Dyad
+	15 Farrah, Frenetic Archivist
+	15 Polarized Dyad
 	15 SynthScape Valiant
 	15 Ray, the Second Light
 	15 Chronomaton
@@ -4044,10 +4076,11 @@
 	15 A200, of Flesh and Filigree
 	15 Edrick, Solblessed
 	7 Ravi, Back-Alley Harrier
-	7 Kesha, the Known Unknown
+	7 Keshi, the Known Unknown
 	7 Nevali, Duskbringer
 	7 Arianna, the Scrapper
 	7 Tel, Supressed Spark
 	7 She Who Never Was
 	7 Sheiya, Victim of the Ages
 	7 Ishanna, Phenomaniac
+	6 Revival ABY

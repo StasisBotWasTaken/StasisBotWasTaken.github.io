@@ -1,4 +1,473 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Gibbous Moon's Devout added.
+Heavy Artillery System added.
+Prismatic Lens added.
+Appealer to the Masses added.
+Omenweb Taskmaster added.
+Eldworld Sprite added.
+Wasteland Inquisitor added.
+Magmatic Auger added.
+Abandon the Timecoil added.
+Chart Past and Future added.
+Farrah, Frenetic Archivist added.
+Polarized Dyad added.
+Appealer to the Masses Token added.
+Wasteland Inquisitor Token added.
+Keshi, the Known Unknown added.
+Ebo, Eternal Martyr Token added.
+Revival ABY added.
+Clue added.
+
+Disciples' Taskmaster removed.
+Forge Reconfigurer removed.
+Chromatic Lens removed.
+Luminite Captain removed.
+Omenweb Overseer removed.
+Migratory Roc removed.
+Omenweb Inquisitor removed.
+Dynavolt Auger removed.
+Abandon the Timeline removed.
+Delve Ever Deeper removed.
+Frenetic Archivist removed.
+The Polarized Dyad removed.
+Luminite Captain Token removed.
+Omenweb Inquisitor Token removed.
+Kesha, the Known Unknown removed.
+
+Fractured Feline
+
+I.E. Subsister
+rules_text: Vigilance
+At the beginning of your upkeep, you get {ChronoCounterSymbolsChrono.png}. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i] => At the beginning of your upkeep, you get {ChronoCounterSymbolsChrono.png}. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i]
+pt: 2/3 => 2/4
+
+Coil's Trilogy
+
+I.E. Regulator
+
+Thunderous Trailblaster
+
+Locked On
+
+In the Nick of Time
+
+SynthScape Slink
+
+Omenweb Guardian
+
+I.E. Prognosticator
+
+Fortuitous Cnidarians
+pt: 3/4 => 4/2
+
+Portal Dasher
+
+Enforce Equilibrium
+
+Parallel Fates
+
+Disciples' Strongarm
+
+Brink Extortionists
+rules_text: Whenever this creature or a Vehicle crewed by it this turn deals combat damage to a player, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Whenever this creature or a Vehicle crewed by it this turn deals combat damage to a player, create a tapped Treasure token.
+
+Disciples' Onboarder
+
+Crackling Constrictor
+
+Vanquish the Weak
+
+Identical Backup
+
+I.E. Scrutinizer
+
+Sanctify the Coil
+
+Pious Motorists
+
+Voices of the Displaced
+
+Alloy Transmuter
+rules_text: When this creature enters, create a Treasure token.
+Splinter {1}{R} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i] => When this creature enters, create a tapped Treasure token.
+Splinter {1}{R} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+pt: 2/2 => 2/3
+
+Peoples' Champion
+
+One Against All
+
+Oppressive Fire
+
+Temporal Discharge
+
+Outlands Specimen
+
+People of the Sun
+
+Chitinous Artisan
+rules_text: When this creature enters, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+{T}: You gain 1 life. => When this creature enters, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+{1}, {T}: You gain 1 life.
+
+Augmented Tusker
+
+Urban Flytrap
+type: Creature — Plant Elemental => Creature — Plant
+
+No Room for Us Both
+
+Leap Forward
+
+Precog in the Machine
+
+Path from Arcavios
+
+Path from Calloran
+
+Path from Azerron
+
+Path from Colviscer
+
+Path from the Sanctuary
+
+Path from Roddemar
+
+Path from Duncaster
+
+Path from Kamigawa
+
+Path from Nimnura
+
+Path from Thunder Junction
+
+Arbiters of Progress
+rules_text: Creatures your opponents control enter tapped.
+Whenever another creature you control enters, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i] => Creatures your opponents control enter tapped.
+Whenever another creature you control enters, create a tapped Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+
+Loxodon Tinkerer
+cost: {5}{W} => {4}{W}
+rules_text: When this creature enters, put a +1/+1 counter on each tapped creature you control.
+Splinter {4}{W} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i] => Reach
+When this creature enters, put a +1/+1 counter on each tapped creature you control.
+Splinter {5}{W} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+pt: 5/4 => 4/4
+
+Serve Time
+rules_text: Choose one —
+• Remove all counters from any number of target permanents and/or players.
+• You get {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i] => Choose one —
+• Remove any number of counters from target permanent or player.
+• You get {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i]
+
+Chronicle of the Zealous
+
+Gallas's Understudy
+
+Thirst for Answers
+
+Industrial Reclamation
+
+Chronological Constant
+rules_text: This creature enters tapped.
+Pay {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}: Return this creature from your graveyard to the battlefield. => This creature enters tapped.
+Pay {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}: Return this creature from your graveyard to the battlefield. Activate only as a sorcery.
+
+Augur of the In-Between
+
+Flickering Finisher
+
+Congregation at Last Light
+
+Darksteel Ace
+
+Circuit Skimmer
+
+Eliminate the Predecessor
+rules_text: Exile target creature card from a graveyard. When you do, exile up to one target creature with mana value less than that creature's mana value. => Exile target creature card from a graveyard. When you do, exile up to one target creature with mana value less than that card's mana value.
+
+Chronicle of the Deceived
+rules_text: When this enchantment enters, draw three cards.
+Flux 3 — You lose 3 life unless you sacrifice a creature or discard a card. [i](On your upkeep, put a time counter on this. Whenever there are three or more, remove three and trigger the flux ability.)[/i] => When this enchantment enters, draw three cards.
+Flux 2 — You lose 3 life unless you sacrifice a creature or discard a card. [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i]
+
+Overeager Courier
+
+Heel of the Outlands
+
+All-Purpose Reforger
+
+Flowstone Engineer
+type: Creature — Human Artificer => Creature — Human Artificer Pilot
+
+Timecoil Dismantler
+
+Twinarm Outfitter
+cost: {4}{R} => {5}{R}
+rules_text: When this creature enters, target creature gains double strike until end of turn.
+Splinter {4}{R} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i] => When this creature enters, target creature gains double strike until end of turn.
+Splinter {2}{R} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+pt: 4/5 => 3/6
+
+Retroactive Rending
+type: Instant => Sorcery
+cost: {R} => {X}{R}
+rules_text: Retroactive Rending deals X damage to target creature, where X is the amount of mana you've spent this turn. => Retroactive Rending deals damage to target creature equal to the amount of mana you've spent this turn.
+
+Innovative Ecologist
+rules_text: When this creature enters, create two Gear tokens. [i](They're artifacts with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+Gears you control have “{T}, Sacrifice this artifact: Untap target land.” => When this creature enters, create two Gear tokens. [i](They're artifacts with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+Gears you control have “{T}, Sacrifice this artifact: Untap target land. Activate only as a sorcery.”
+
+Chronometric Driller
+
+Retrofit Goliath
+
+Interplanar Tunneler
+
+Standard-Issue Shield
+
+Séance With Those To Be
+rules_text: Spells you cast with mana value 5 or greater have convoke. [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+{3}{G}: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order. => When this enchantment enters, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
+Spells you cast with mana value 5 or greater have convoke. [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+
+Echoes of the Eldworld
+
+Chronicle of the Oppressed
+
+Glitch in the Fabric
+
+Scriptoral Summons
+
+A200, Spawned Sentience
+
+SynthScape Valiant
+
+Chronomaton
+
+Omenweb Atlas
+
+Path from Naveia
+rules_text: This land enters tapped unless you control a tapped white creature.
+{T}: Add {W}.
+Traverse 4 [i](Tap any number of creatures you control with total power 4 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, exile up to one target creature you own, then return it to the battlefield. => This land enters tapped unless you control a tapped white creature.
+{T}: Add {W}.
+Traverse 5 [i](Tap any number of creatures you control with total power 5 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, exile up to two target creatures you control, then return those cards to the battlefield tapped under their owner's control.
+
+Path from Yenire
+rules_text: This land enters tapped unless you control a tapped blue creature.
+{T}: Add {U}.
+Traverse 4 [i](Tap any number of creatures you control with total power 4 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, draw two cards, then discard two cards. => This land enters tapped unless you control a tapped blue creature.
+{T}: Add {U}.
+Traverse 3 [i](Tap any number of creatures you control with total power 3 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, draw two cards, then discard two cards.
+
+Path from the Abyss
+
+Path from the Weft
+rules_text: This land enters tapped unless you control a tapped red creature.
+{T}: Add {R}.
+Traverse 4 [i](Tap any number of creatures you control with total power 4 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, it deals 2 damage to target opponent. => This land enters tapped unless you control a tapped red creature.
+{T}: Add {R}.
+Traverse 4 [i](Tap any number of creatures you control with total power 4 or more: Traverse this Path, then sacrifice it. Traverse only as a sorcery.)[/i]
+When this Path is traversed, it deals 3 damage to target opponent.
+
+Path from Srai-Val-Nul
+
+I.E. Manufactor
+
+Containment Priest
+
+Fracture the Path
+
+I.E. Resonator
+rules_text: {1}, {T}: Copy target triggered ability you control. You may choose new targets for the copy. [i](A triggered ability uses the words “when,” “whenever,” or “at.”)[/i]
+Sacrifice an artifact: Untap this creature. => {1}, {T}: Copy target triggered ability you control. You may choose new targets for the copy.
+Sacrifice an artifact: Untap this creature.
+
+A Better Yesterday
+
+The Great Exodus
+
+Brink Desecrator
+
+Blessed of the Coil
+rules_text: If an opponent would lose life, you may instead have them lose life equal to this creature's power.
+{B}, Pay 1 life: This creature gets +1/+1 until end of turn. => If an opponent would lose life, you may instead have them lose life equal to this creature's power. [i](Multiple creatures dealing combat damage simultaneously is one instance of life loss.)[/i]
+{B}, Pay 1 life: This creature gets +1/+1 until end of turn.
+
+Inciting Incident
+
+Soulshredder Mecha
+
+Tortured Mind
+
+Eldworld Kindler
+
+Splintered Memories
+rules_text: When this enchantment enters, draw a card.
+Each card in your hand has cycling {1}. [i]({1}, Discard this card: Draw a card.)[/i]
+At the beginning of your end step, sacrifice this enchantment. => When this enchantment enters, draw a card.
+Each card in your hand has cycling {1}. [i]({1}, Discard that card: Draw a card.)[/i]
+At the beginning of your end step, sacrifice this enchantment.
+
+Volta, Brink Freebooter
+
+Bootstrapped Zygote
+
+The Coil's Burdens
+
+Eldworld Recultivator
+rules_text: Sacrifice a creature: Add {G}.
+{2}, Pay 2 life: Draw a card. => Sacrifice a creature: Add {G}.
+{2}{B}, {T}: Return target creature card from your graveyard to the battlefield tapped with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+
+Trailblazer Aurora
+
+The Everglass
+
+The SynthScape
+
+Eldstone of Transience
+rules_text: {W}, {T}: Exile any number of target creatures you control, then return them to the battlefield under their owner's control. Activate only as a sorcery.
+When you cycle this card, exile up to one target creature you control, then return it to the battlefield under its owner's control.
+Basic landcycling {1}{W} [i]({1}{W}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => {W}, {T}: Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped.
+Basic landcycling {1}{W} [i]({1}{W}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+When you cycle this card, return up to one target creature card with mana value 1 or less from your graveyard to the battlefield tapped.
+
+Eldstone of Serenity
+rules_text: {U}, {T}: Tap target permanent. Put a stun counter on it. Activate only as a sorcery.
+When you cycle this card, tap up to one target permanent.
+Basic landcycling {1}{U} [i]({1}{U}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => {U}, {T}: Tap target nonland permanent. Put a stun counter on it.
+Basic landcycling {1}{U} [i]({1}{U}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+When you cycle this card, tap up to one target nonland permanent.
+
+Eldstone of Oblivion
+rules_text: {B}, {T}: Target player mills six cards. Activate only as a sorcery.
+When you cycle this card, target player mills three cards.
+Basic landcycling {1}{B} [i]({1}{B}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => {B}, {T}: Target player mills six cards.
+Basic landcycling {1}{B} [i]({1}{B}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+When you cycle this card, target player mills three cards.
+
+Eldstone of Fervor
+rules_text: {R}, {T}: This artifact deals 2 damage to any target. Activate only as a sorcery.
+When you cycle this card, it deals 1 damage to any target.
+Basic landcycling {1}{R} [i]({1}{R}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => {R}, {T}: This artifact deals 2 damage to any target.
+Basic landcycling {1}{R} [i]({1}{R}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+When you cycle this card, it deals 1 damage to any target.
+
+Eldstone of Bloom
+rules_text: {G}, {T}: Put a +1/+1 counter on each creature you control. Activate only as a sorcery.
+When you cycle this card, put a +1/+1 counter on target creature you control.
+Basic landcycling {1}{G} [i]({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => {G}, {T}: Put a +1/+1 counter on each creature you control.
+Basic landcycling {1}{G} [i]({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+When you cycle this card, put a +1/+1 counter on target creature you control.
+
+Prodigal Dimensiurge
+
+Gallas, Temporal Pioneer
+
+Breaker of Equilibria
+
+Zeth, Planar Architect
+
+Planar Incursion
+
+Brink Wageling
+
+Synthesized Blossom
+cost: {1}{G}{W} => {G}{W}
+pt: 0/5 => 0/3
+
+Distort the Continuum
+
+The Judgment Clock
+
+Chrono Counters
+
+Gear
+
+Cleric
+
+Treasure
+
+Vehicle
+
+Everywhere
+
+Rebirth
+
+The Planar Portal
+
+Splintered Lotus
+
+Passage Sanctifier Token
+
+Freelance Gearsmith Token
+
+Workshop Naughty Token
+
+Disciples' Strongarm Token
+
+Minister of Penance Token
+
+Alloy Transmuter Token
+rules_text: When this creature enters, create a Treasure token.
+At the beginning of your end step, sacrifice this creature. => When this creature enters, create a tapped Treasure token.
+At the beginning of your end step, sacrifice this creature.
+pt: 2/2 => 2/3
+
+Borderlands Daredevil Token
+
+Loxodon Tinkerer Token
+cost: {5}{W} => {4}{W}
+rules_text: When this creature enters, put a +1/+1 counter on each tapped creature you control.
+At the beginning of your end step, sacrifice this creature. => Reach
+When this creature enters, put a +1/+1 counter on each tapped creature you control.
+At the beginning of your end step, sacrifice this creature.
+pt: 5/4 => 4/4
+
+Chronicler of the Passed Token
+
+Overeager Courier Token
+
+Twinarm Outfitter Token
+cost: {4}{R} => {5}{R}
+pt: 4/5 => 3/6
+
+Ebo, Fulcrum of the Coil Token
+
+Dawn, Blinding Hope Token
+
+Foundry Aggravator Token
+type: Creature — Human Rebel => Token Creature — Human Rebel
+
+Taras, True Believer
+rules_text: Vigilance
+Tap and exert a creature you control: Add one mana of any color. [i](An exerted creature won't untap during your next untap step.)[/i]
+Tap and exert a creature you control: Tap target creature. [i](An exerted creature won't untap during your next untap step.)[/i] => Vigilance
+Tap and exert an untapped creature you control: Add one mana of any color. [i](An exerted creature won't untap during your next untap step.)[/i]
+Tap and exert an untapped creature you control: Tap target creature. [i](An exerted creature won't untap during your next untap step.)[/i]
+
+Edrick, Solblessed
+
+Nevali, Duskbringer
+rules_text: Deathtouch
+When Nevali dies, create a colorless Saga enchantment token named Revival with “III — Return a card named Nevali, Duskbringer from your graveyard to your hand.” => Deathtouch
+When Nevali dies, create a colorless Saga enchantment token named Revival with “r{3} — Return a card named Nevali, Duskbringer from your graveyard to your hand.”
+
+She Who Never Was
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Passage Sanctifier Token added.
