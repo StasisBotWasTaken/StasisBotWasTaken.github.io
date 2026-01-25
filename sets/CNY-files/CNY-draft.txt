@@ -2627,7 +2627,7 @@
 			"type": "Token Enchantment — Clique",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/8_CNY Tiril Bureau.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/8t_CNY Tiril Bureau.png"
 			}
 		},
 		{
@@ -2637,7 +2637,7 @@
 			"type": "Token Enchantment — Clique",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/5_CNY Hazakh Arsenal.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/5t_CNY Hazakh Arsenal.png"
 			}
 		},
 		{
@@ -2647,7 +2647,7 @@
 			"type": "Token Enchantment — Clique",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/9_CNY Vishanki Inc.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/9t_CNY Vishanki Inc.png"
 			}
 		},
 		{
@@ -2657,7 +2657,7 @@
 			"type": "Token Enchantment — Clique",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/6_CNY Penrath Insurgency.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/6t_CNY Penrath Insurgency.png"
 			}
 		},
 		{
@@ -2667,7 +2667,7 @@
 			"type": "Token Enchantment — Clique",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/7_CNY Sillaman Laboratories.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/7t_CNY Sillaman Laboratories.png"
 			}
 		},
 		{
@@ -2687,7 +2687,7 @@
 			"type": "Token Creature — Minion",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/1_CNY Minion.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/1t_CNY Minion.png"
 			}
 		},
 		{
@@ -2697,7 +2697,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/14_CNY Treasure.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/14t_CNY Treasure.png"
 			}
 		},
 		{
@@ -2707,7 +2707,7 @@
 			"type": "Token Creature — Soldier",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/2_Soldier.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/2t_Soldier.png"
 			}
 		},
 		{
@@ -2717,7 +2717,7 @@
 			"type": "Token Artifact Creature — Robot",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/12_CNY Robot.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/12t_CNY Robot.png"
 			}
 		},
 		{
@@ -2727,7 +2727,7 @@
 			"type": "Token Artifact Creature — Robot",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/13_CNY Sentry of the New World.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/13t_CNY Sentry of the New World.png"
 			}
 		},
 		{
@@ -2737,7 +2737,7 @@
 			"type": "Token Creature — Berserker",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/3_CNY Berserker.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/3t_CNY Berserker.png"
 			}
 		},
 		{
@@ -2747,7 +2747,7 @@
 			"type": "Legendary Creature — Leviathan",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/4_CNY Chaneryx, Perfect Lifeform.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/4t_CNY Chaneryx, Perfect Lifeform.png"
 			}
 		},
 		{
@@ -2757,7 +2757,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/11_CNY Equipment.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/11t_CNY Equipment.png"
 			}
 		},
 		{
@@ -2984,7 +2984,7 @@
 			"type": "Token Legendary Artifact",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/10_The Codex.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/10t_The Codex.png"
 			}
 		}
 	]

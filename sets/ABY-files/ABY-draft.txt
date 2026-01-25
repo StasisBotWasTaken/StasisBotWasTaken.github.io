@@ -475,9 +475,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Orc Nomad",
-			"collector_number": "159",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/159_Voices of the Displaced.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/160_Voices of the Displaced.png"
 			}
 		},
 		{
@@ -545,9 +545,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "154",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/154_Steamroll.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/155_Steamroll.png"
 			}
 		},
 		{
@@ -575,9 +575,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "153",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/153_Spot Weld.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/154_Spot Weld.png"
 			}
 		},
 		{
@@ -595,9 +595,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Sorcery",
-			"collector_number": "155",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/155_Temporal Discharge.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/156_Temporal Discharge.png"
 			}
 		},
 		{
@@ -1323,7 +1323,7 @@
 		{
 			"name": "Chronicle of the Deceived",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{1}{B}{B}",
 			"type": "Enchantment",
 			"collector_number": "85",
 			"image_uris": {
@@ -1385,9 +1385,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "156",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/156_Timecoil Dismantler.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/157_Timecoil Dismantler.png"
 			}
 		},
 		{
@@ -1405,9 +1405,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "157",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/157_Twinarm Outfitter.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/158_Twinarm Outfitter.png"
 			}
 		},
 		{
@@ -1561,13 +1561,13 @@
 			}
 		},
 		{
-			"name": "Standard-Issue Shield",
+			"name": "Standard-Issue Shields",
 			"rarity": "uncommon",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/193_Standard-Issue Shield.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/193_Standard-Issue Shields.png"
 			}
 		},
 		{
@@ -2175,9 +2175,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}",
 			"type": "Creature — Illusion Warrior",
-			"collector_number": "158",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/158_Untethered Splinter.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/159_Untethered Splinter.png"
 			}
 		},
 		{
@@ -2195,9 +2195,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "152",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/152_Splintered Memories.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/153_Splintered Memories.png"
 			}
 		},
 		{
@@ -2211,13 +2211,13 @@
 			}
 		},
 		{
-			"name": "Volta, Brink Freebooter",
+			"name": "Sky, Brink Freebooter",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Human Pirate",
-			"collector_number": "160",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/160_Volta, Brink Freebooter.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/152_Sky, Brink Freebooter.png"
 			}
 		},
 		{
@@ -2787,7 +2787,7 @@
 			"type": "Token",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/27_Chrono Counters.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/27t_Chrono Counters.png"
 			}
 		},
 		{
@@ -2797,7 +2797,7 @@
 			"type": "Token Artifact — Gear",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/21_Gear.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/21t_Gear.png"
 			}
 		},
 		{
@@ -2807,7 +2807,7 @@
 			"type": "Token Creature — Cleric",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/8_Cleric.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/8t_Cleric.png"
 			}
 		},
 		{
@@ -2817,7 +2817,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/24_Treasure.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/24t_Treasure.png"
 			}
 		},
 		{
@@ -2827,7 +2827,7 @@
 			"type": "Token Artifact — Vehicle",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/25_Vehicle.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/25t_Vehicle.png"
 			}
 		},
 		{
@@ -2837,7 +2837,7 @@
 			"type": "Token Land",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/26_Everywhere.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/26t_Everywhere.png"
 			}
 		},
 		{
@@ -2847,7 +2847,7 @@
 			"type": "Token Enchantment",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/11_Rebirth.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/11t_Rebirth.png"
 			}
 		},
 		{
@@ -2857,7 +2857,7 @@
 			"type": "Token Legendary Artifact",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/22_The Planar Portal.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/22t_The Planar Portal.png"
 			}
 		},
 		{
@@ -2867,7 +2867,7 @@
 			"type": "Token Artifact",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/23_Splintered Lotus.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/23t_Splintered Lotus.png"
 			}
 		},
 		{
@@ -2877,7 +2877,7 @@
 			"type": "Token Creature — Human Cleric",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/6_Passage Sanctifier Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/6t_Passage Sanctifier Token.png"
 			}
 		},
 		{
@@ -2887,7 +2887,7 @@
 			"type": "Token Creature — Human Artificer",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/4_Freelance Gearsmith Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/4t_Freelance Gearsmith Token.png"
 			}
 		},
 		{
@@ -2897,7 +2897,7 @@
 			"type": "Token Creature — Faerie Rogue",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/13_Workshop Naughty Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/13t_Workshop Naughty Token.png"
 			}
 		},
 		{
@@ -2907,7 +2907,7 @@
 			"type": "Token Creature — Human Warrior",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/9_Disciples' Strongarm Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/9t_Disciples' Strongarm Token.png"
 			}
 		},
 		{
@@ -2917,7 +2917,7 @@
 			"type": "Token Creature — Human Advisor",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/10_Minister of Penance Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/10t_Minister of Penance Token.png"
 			}
 		},
 		{
@@ -2927,7 +2927,7 @@
 			"type": "Token Creature — Human Artificer",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/14_Alloy Transmuter Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/14t_Alloy Transmuter Token.png"
 			}
 		},
 		{
@@ -2937,7 +2937,7 @@
 			"type": "Token Creature — Human Scout",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/15_Borderlands Daredevil Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/15t_Borderlands Daredevil Token.png"
 			}
 		},
 		{
@@ -2947,7 +2947,7 @@
 			"type": "Token Creature — Human Warrior",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/1_Appealer to the Masses Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/1t_Appealer to the Masses Token.png"
 			}
 		},
 		{
@@ -2957,7 +2957,7 @@
 			"type": "Token Creature — Elephant Artificer",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/5_Loxodon Tinkerer Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/5t_Loxodon Tinkerer Token.png"
 			}
 		},
 		{
@@ -2967,7 +2967,7 @@
 			"type": "Token Creature — Human Advisor",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/12_Wasteland Inquisitor Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/12t_Wasteland Inquisitor Token.png"
 			}
 		},
 		{
@@ -2977,7 +2977,7 @@
 			"type": "Token Creature — Human Advisor",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/7_Chronicler of the Passed Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/7t_Chronicler of the Passed Token.png"
 			}
 		},
 		{
@@ -2987,7 +2987,7 @@
 			"type": "Token Creature — Human Scout",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/17_Overeager Courier Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/17t_Overeager Courier Token.png"
 			}
 		},
 		{
@@ -2997,7 +2997,7 @@
 			"type": "Token Creature — Human Artificer",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/18_Twinarm Outfitter Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/18t_Twinarm Outfitter Token.png"
 			}
 		},
 		{
@@ -3007,7 +3007,7 @@
 			"type": "Token Creature — Human Cleric",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/19_Ebo, Fulcrum of the Coil Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/19t_Ebo, Fulcrum of the Coil Token.png"
 			}
 		},
 		{
@@ -3017,7 +3017,7 @@
 			"type": "Token Creature — Human Rebel",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/2_Dawn, Blinding Hope Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/2t_Dawn, Blinding Hope Token.png"
 			}
 		},
 		{
@@ -3027,7 +3027,7 @@
 			"type": "Token Creature — Human Rebel",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/16_Foundry Aggravator Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/16t_Foundry Aggravator Token.png"
 			}
 		},
 		{
@@ -3187,7 +3187,7 @@
 			"type": "Token Legendary Creature — Zombie Human Cleric",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/3_Ebo, Eternal Martyr Token.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/3t_Ebo, Eternal Martyr Token.png"
 			}
 		},
 		{
@@ -3207,7 +3207,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/20_Clue.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/20t_Clue.png"
 			}
 		}
 	]
@@ -3243,7 +3243,7 @@
 	2 Galvanic Regent
 	2 Splintered Memories
 	2 Foundry Aggravator
-	2 Volta, Brink Freebooter
+	2 Sky, Brink Freebooter
 	2 Overclock
 	2 Bootstrapped Zygote
 	2 Stutterhide Stomper
@@ -3369,7 +3369,7 @@
 	4 Retrofit Goliath
 	4 Interplanar Tunneler
 	4 March Ever-Forward
-	4 Standard-Issue Shield
+	4 Standard-Issue Shields
 	4 Séance With Those To Be
 	4 Echoes of the Eldworld
 	4 Eldworld Invasion
@@ -3411,7 +3411,100 @@
 	4 Flaw, Deadlands Hoarder
 	4 A200, of Flesh and Filigree
 	4 Edrick, Solblessed
-[common(7)]
+[common(6)]
+	8 I.E. Monitor
+	8 Luminite Equalizer
+	8 Fractured Feline
+	8 Passage Sanctifier
+	8 Fleetfoot Re-Runner
+	8 I.E. Subsister
+	8 Ingenious Joyrider
+	8 Freelance Gearsmith
+	8 Coil's Trilogy
+	8 I.E. Regulator
+	8 Zeth's Herald
+	8 Thunderous Trailblaster
+	8 Locked On
+	8 Verdict of the True Sun
+	8 In the Nick of Time
+	8 Sifter of Futures Forgotten
+	8 Skyline Operator
+	8 Voltaic Virtuoso
+	8 SynthScape Slink
+	8 Omenweb Guardian
+	8 I.E. Prognosticator
+	8 Fortuitous Cnidarians
+	8 Portal Dasher
+	8 Lost in Tomorrow
+	8 Enforce Equilibrium
+	8 Iterate
+	8 Parallel Fates
+	8 Pixelate
+	8 Sink Between Space
+	8 Return to Sender
+	8 Workshop Naughty
+	8 Disciples' Strongarm
+	8 Brink Extortionists
+	8 Minister of Penance
+	8 False Mourning's Zealot
+	8 Disciples' Onboarder
+	8 Crackling Constrictor
+	8 Vulture-for-Hire
+	8 Scrapyard Tyrant
+	8 Vanquish the Weak
+	8 Identical Backup
+	8 Scriptoral Operation
+	8 I.E. Scrutinizer
+	8 Sanctify the Coil
+	8 Live on in Memory
+	8 Scrounging Vastor
+	8 Pious Motorists
+	8 Voices of the Displaced
+	8 Luminite Liberator
+	8 Alloy Transmuter
+	8 Borderlands Daredevil
+	8 Peoples' Champion
+	8 Bullet Train
+	8 Molten Eldbeast
+	8 Steamroll
+	8 One Against All
+	8 Buy Time
+	8 Spot Weld
+	8 Oppressive Fire
+	8 Temporal Discharge
+	8 Outlands Specimen
+	8 Eldworld Tandem
+	8 Clockwork Consciousness
+	8 People of the Sun
+	8 Chitinous Artisan
+	8 Unlikely Symbiotes
+	8 Gibbous Moon's Devout
+	8 Borderland Bullies
+	8 Augmented Tusker
+	8 Urban Flytrap
+	8 No Room for Us Both
+	8 Eldmagic Invocation
+	8 Leap Forward
+	8 SynthScape Mining
+	8 Beseech the Eldmother
+	8 Counter of Seconds
+	8 Scrapwork Rig
+	8 Precog in the Machine
+	8 Heavy Artillery System
+	8 Prismatic Lens
+	8 Unexplored Omenpath
+	8 Path from Arcavios
+	8 Path from Calloran
+	8 Path from Azerron
+	8 Path from Colviscer
+	8 Path from the Sanctuary
+	8 Path from Roddemar
+	8 Path from Duncaster
+	8 Path from Kamigawa
+	8 Path from Nimnura
+	8 Path from Thunder Junction
+	8 Revival ABY
+[common | masterpiece(1)]
 	8 I.E. Monitor
 	8 Luminite Equalizer
 	8 Fractured Feline
@@ -3661,7 +3754,7 @@
 	6 Retrofit Goliath
 	6 Interplanar Tunneler
 	6 March Ever-Forward
-	6 Standard-Issue Shield
+	6 Standard-Issue Shields
 	6 Séance With Those To Be
 	6 Echoes of the Eldworld
 	6 Eldworld Invasion
@@ -3726,7 +3819,7 @@
 	2 Galvanic Regent
 	2 Splintered Memories
 	2 Foundry Aggravator
-	2 Volta, Brink Freebooter
+	2 Sky, Brink Freebooter
 	2 Overclock
 	2 Bootstrapped Zygote
 	2 Stutterhide Stomper
@@ -3951,7 +4044,7 @@
 	15 Retrofit Goliath
 	15 Interplanar Tunneler
 	15 March Ever-Forward
-	15 Standard-Issue Shield
+	15 Standard-Issue Shields
 	15 Séance With Those To Be
 	15 Echoes of the Eldworld
 	15 Eldworld Invasion
@@ -4016,7 +4109,7 @@
 	7 Galvanic Regent
 	7 Splintered Memories
 	7 Foundry Aggravator
-	7 Volta, Brink Freebooter
+	7 Sky, Brink Freebooter
 	7 Overclock
 	7 Bootstrapped Zygote
 	7 Stutterhide Stomper

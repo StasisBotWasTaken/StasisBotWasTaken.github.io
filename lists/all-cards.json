@@ -945,7 +945,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2013 Human Orc Nomad",
-            "number": 159,
+            "number": 160,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "When this creature dies, if you control a Path or if there is a Path card in your graveyard, exile the top card of your library. You may play it until the end of your next turn.",
@@ -1085,7 +1085,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 154,
+            "number": 155,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "This spell costs {1} less to cast if it targets a Vehicle creature you control.\nTarget creature you control deals damage equal to its power to target creature you don't control.",
@@ -1145,7 +1145,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 153,
+            "number": 154,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Choose one \u2013\n\u2022 Create a 3/2 colorless Vehicle artifact token with crew 1. [i](It has \u201cTap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.\u201d)[/i]\n\u2022 Destroy target artifact.",
@@ -1185,7 +1185,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 155,
+            "number": 156,
             "color_identity": "R",
             "cost": "{4}{R}",
             "rules_text": "Temporal Discharge deals 6 damage to target creature. If that creature was dealt excess damage this way, you get that many {ChronoCounterSymbolsChrono.png}. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i]",
@@ -2647,8 +2647,8 @@
             "type": "Enchantment",
             "number": 85,
             "color_identity": "B",
-            "cost": "{2}{B}",
-            "rules_text": "When this enchantment enters, draw three cards.\nFlux 2 \u2013 You lose 3 life unless you sacrifice a creature or discard a card. [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i]",
+            "cost": "{1}{B}{B}",
+            "rules_text": "When this enchantment enters, draw three cards, then you lose 3 life unless you sacrifice a creature or discard a card.\nFlux 2 \u2013 You lose 3 life unless you sacrifice a creature or discard a card. [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2657,7 +2657,7 @@
             "loyalty": "",
             "artist": "Hoang Lap",
             "alias": "",
-            "notes": "",
+            "notes": "Changed: 1BB, flux trigger on the enters trigger too",
             "image_type": "png"
         },
         {
@@ -2765,7 +2765,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Rebel",
-            "number": 156,
+            "number": 157,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "Haste\nWhen this creature enters, you get {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i]\nWhenever you spend one or more {ChronoCounterSymbolsChrono.png}, this creature deals that much damage to each opponent.",
@@ -2805,7 +2805,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Artificer",
-            "number": 157,
+            "number": 158,
             "color_identity": "R",
             "cost": "{5}{R}",
             "rules_text": "When this creature enters, target creature gains double strike until end of turn.\nSplinter {2}{R} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains \u201cAt the beginning of your end step, sacrifice this token.\u201d)[/i]",
@@ -3121,14 +3121,14 @@
             "image_type": "png"
         },
         {
-            "card_name": "Standard-Issue Shield",
+            "card_name": "Standard-Issue Shields",
             "color": "G",
             "rarity": "uncommon",
             "type": "Instant",
             "number": 193,
             "color_identity": "G",
-            "cost": "{G}",
-            "rules_text": "You may remove a +1/+1 counter from this spell's target rather than paying its mana cost.\nTarget creature you control gets +1/+1 and gains indestructible until end of turn.",
+            "cost": "{1}{G}",
+            "rules_text": "Choose two. You may choose the same mode more than once.\n\u2022 Put a +1/+1 counter on target creature.\n\u2022 Put a shield counter on target creature. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3137,7 +3137,7 @@
             "loyalty": "",
             "artist": "Rayven Studios",
             "alias": "",
-            "notes": "",
+            "notes": "Changed: Redesigned",
             "image_type": "png"
         },
         {
@@ -3668,7 +3668,7 @@
             "number": 250,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "When this artifact enters, draw a card.\n{2}, Sacrifice this artifact: Draw a card.\n{T}, Sacrifice this artifact: Untap target nonland permanent.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.",
+            "rules_text": "When this artifact enters, draw a card.\n{2}, Sacrifice this artifact: Draw a card.\n{T}, Sacrifice this artifact: Untap target nonland permanent. Activate only as a sorcery.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3677,7 +3677,7 @@
             "loyalty": "",
             "artist": "Anh Tung",
             "alias": "",
-            "notes": "",
+            "notes": "Changed: Gear is sorc speed",
             "image_type": "png"
         },
         {
@@ -3897,7 +3897,7 @@
             "loyalty": "",
             "artist": "Ginger Anne London",
             "alias": "",
-            "notes": "!tag wishlist",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -4028,7 +4028,7 @@
             "number": 76,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "Flash\nWhen this creature enters, exile target spell or nonland permanent you don't control with two time counters on it. If it doesn't have suspend, it gains suspend. [i](At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost. If it's a creature, it has haste.)[/i]",
+            "rules_text": "Flash\nWhen this creature enters, if it was cast, exile target spell or nonland permanent you don't control with two time counters on it. If it doesn't have suspend, it gains suspend. [i](At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost. If it's a creature, it has haste.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/1",
             "special_text": "",
@@ -4037,7 +4037,7 @@
             "loyalty": "",
             "artist": "Jue Li",
             "alias": "",
-            "notes": "",
+            "notes": "!tag wishlist\nChanged: Cast rider",
             "image_type": "png"
         },
         {
@@ -4177,7 +4177,7 @@
             "loyalty": "",
             "artist": "Oliver Wetter",
             "alias": "",
-            "notes": "",
+            "notes": "!tag wishlist",
             "image_type": "png"
         },
         {
@@ -4345,7 +4345,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2013 Illusion Warrior",
-            "number": 158,
+            "number": 159,
             "color_identity": "R",
             "cost": "{R}{R}",
             "rules_text": "Haste\nWhenever this creature attacks, it fights up to one target creature defending player controls.\nAt the beginning of your end step, sacrifice this creature.",
@@ -4385,7 +4385,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 152,
+            "number": 153,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "When this enchantment enters, draw a card.\nEach card in your hand has cycling {1}. [i]({1}, Discard that card: Draw a card.)[/i]\nAt the beginning of your end step, sacrifice this enchantment.",
@@ -4421,14 +4421,14 @@
             "image_type": "png"
         },
         {
-            "card_name": "Volta, Brink Freebooter",
+            "card_name": "Sky, Brink Freebooter",
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Human Pirate",
-            "number": 160,
+            "number": 152,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Whenever Volta deals combat damage to a player, you may cast a noncreature spell from your hand with mana value less than or equal to the damage dealt without paying its mana cost.\nWhenever you cast your second spell each turn, put a +1/+1 counter on Volta.",
+            "rules_text": "Whenever Sky deals combat damage to a player, you may cast a noncreature spell from your hand with mana value less than or equal to the damage dealt without paying its mana cost.\nWhenever you cast your second spell each turn, put a +1/+1 counter on Sky.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -5317,7 +5317,7 @@
             "loyalty": "",
             "artist": "Bad Moon Art Studio",
             "alias": "",
-            "notes": "!tag wishlist",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -5448,7 +5448,7 @@
             "number": 249,
             "color_identity": "C",
             "cost": "{4}",
-            "rules_text": "Indestructible\n{T}: Each player exiles a permanent they control. Put a charge counter on The Judgment Clock.\n{T}, Remove twelve charge counters from The Judgment Clock: Restart the game, leaving in exile all permanent cards exiled with The Judgment Clock. Then put those cards onto the battlefield under your control.",
+            "rules_text": "{T}: Each player exiles a nonland permanent they control. Put a charge counter on The Judgment Clock.\n{T}, Remove twelve charge counters from The Judgment Clock: Restart the game, leaving in exile all permanent cards exiled with The Judgment Clock. Then put those cards onto the battlefield under your control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5457,7 +5457,7 @@
             "loyalty": "",
             "artist": "MJ Fetesio",
             "alias": "",
-            "notes": "!tag wishlist",
+            "notes": "!tag wishlist\nChanged: Nonland rider, lost indestructible",
             "image_type": "png"
         },
         {
@@ -5597,7 +5597,7 @@
             "loyalty": "",
             "artist": "Thomas Ricci",
             "alias": "",
-            "notes": "!related I.E. Monitor;Luminite Equalizer;Sifter of Futures Forgotten;Iterate;Chitinous Artisan;Leap Forward;Scrapwork Rig;Orrery Overseer;Arbiters of Progress;Examiner of Oddities;Cogwork Inverter<2>;Innovative Ecologist<2>;Retrofit Goliath;Taras, Omenweb Chief;I.E. Manufactor<2>",
+            "notes": "!related I.E. Monitor;Luminite Equalizer;Sifter of Futures Forgotten;Iterate;Chitinous Artisan;Leap Forward;Scrapwork Rig;Orrery Overseer;Arbiters of Progress;Examiner of Oddities;Cogwork Inverter<3>;Innovative Ecologist<2>;Retrofit Goliath;Taras, Omenweb Chief;I.E. Manufactor<2>",
             "image_type": "png"
         },
         {
@@ -5757,7 +5757,7 @@
             "loyalty": "",
             "artist": "Damian Audino",
             "alias": "",
-            "notes": "!exportname Passage Sanctifier Token\n!related Passage Sanctifier\n!tapped",
+            "notes": "!exportname Passage Sanctifier Token\n!related Passage Sanctifier",
             "image_type": "png"
         },
         {
@@ -5777,7 +5777,7 @@
             "loyalty": "",
             "artist": "Anh Tung",
             "alias": "",
-            "notes": "!exportname Freelance Gearsmith Token\n!related Freelance Gearsmith\n!tapped",
+            "notes": "!exportname Freelance Gearsmith Token\n!related Freelance Gearsmith",
             "image_type": "png"
         },
         {
@@ -5797,7 +5797,7 @@
             "loyalty": "",
             "artist": "Anh Tung",
             "alias": "",
-            "notes": "!exportname Workshop Naughty Token\n!related Workshop Naughty\n!tapped",
+            "notes": "!exportname Workshop Naughty Token\n!related Workshop Naughty",
             "image_type": "png"
         },
         {
@@ -5817,7 +5817,7 @@
             "loyalty": "",
             "artist": "Zero Wen",
             "alias": "",
-            "notes": "!exportname Disciples' Strongarm Token\n!related Disciples' Strongarm\n!tapped",
+            "notes": "!exportname Disciples' Strongarm Token\n!related Disciples' Strongarm",
             "image_type": "png"
         },
         {
@@ -5837,7 +5837,7 @@
             "loyalty": "",
             "artist": "Anh Tung",
             "alias": "",
-            "notes": "!exportname Minister of Penance Token\n!related Minister of Penance\n!tapped",
+            "notes": "!exportname Minister of Penance Token\n!related Minister of Penance",
             "image_type": "png"
         },
         {
@@ -5857,7 +5857,7 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
-            "notes": "!exportname Alloy Transmuter Token\n!related Alloy Transmuter\n!tapped",
+            "notes": "!exportname Alloy Transmuter Token\n!related Alloy Transmuter",
             "image_type": "png"
         },
         {
@@ -5877,7 +5877,7 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
-            "notes": "!exportname Borderlands Daredevil Token\n!related Borderlands Daredevil\n!tapped",
+            "notes": "!exportname Borderlands Daredevil Token\n!related Borderlands Daredevil",
             "image_type": "png"
         },
         {
@@ -5897,7 +5897,7 @@
             "loyalty": "",
             "artist": "Matteo Spirito",
             "alias": "",
-            "notes": "!exportname Appealer to the Masses Token\n!related Appealer to the Masses\n!tapped",
+            "notes": "!exportname Appealer to the Masses Token\n!related Appealer to the Masses",
             "image_type": "png"
         },
         {
@@ -5917,7 +5917,7 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
-            "notes": "!exportname Loxodon Tinkerer Token\n!related Loxodon Tinkerer\n!tapped",
+            "notes": "!exportname Loxodon Tinkerer Token\n!related Loxodon Tinkerer",
             "image_type": "png"
         },
         {
@@ -5937,7 +5937,7 @@
             "loyalty": "",
             "artist": "Zael",
             "alias": "",
-            "notes": "!exportname Wasteland Inquisitor Token\n!related Wasteland Inquisitor\n!tapped",
+            "notes": "!exportname Wasteland Inquisitor Token\n!related Wasteland Inquisitor",
             "image_type": "png"
         },
         {
@@ -5957,7 +5957,7 @@
             "loyalty": "",
             "artist": "Matteo Spirito",
             "alias": "",
-            "notes": "!exportname Chronicler of the Passed Token\n!related Chronicler of the Passed\n!tapped",
+            "notes": "!exportname Chronicler of the Passed Token\n!related Chronicler of the Passed",
             "image_type": "png"
         },
         {
@@ -5977,7 +5977,7 @@
             "loyalty": "",
             "artist": "Aaron Ming",
             "alias": "",
-            "notes": "!exportname Overeager Courier Token\n!related Overeager Courier\n!tapped",
+            "notes": "!exportname Overeager Courier Token\n!related Overeager Courier",
             "image_type": "png"
         },
         {
@@ -5997,7 +5997,7 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
-            "notes": "!exportname Twinarm Outfitter Token\n!related Twinarm Outfitter\n!tapped",
+            "notes": "!exportname Twinarm Outfitter Token\n!related Twinarm Outfitter",
             "image_type": "png"
         },
         {
@@ -6017,7 +6017,7 @@
             "loyalty": "",
             "artist": "Grzegorz Przybys",
             "alias": "",
-            "notes": "!exportname Ebo, Fulcrum of the Coil Token\n!related Ebo, Fulcrum of the Coil\n!tapped",
+            "notes": "!exportname Ebo, Fulcrum of the Coil Token\n!related Ebo, Fulcrum of the Coil",
             "image_type": "png"
         },
         {
@@ -6037,7 +6037,7 @@
             "loyalty": "",
             "artist": "Sam Yang",
             "alias": "",
-            "notes": "!exportname Dawn, Blinding Hope Token\n!related Dawn, Blinding Hope\n!tapped",
+            "notes": "!exportname Dawn, Blinding Hope Token\n!related Dawn, Blinding Hope",
             "image_type": "png"
         },
         {
@@ -6057,7 +6057,7 @@
             "loyalty": "",
             "artist": "Anh Tung",
             "alias": "",
-            "notes": "!exportname Foundry Aggravator Token\n!related Foundry Aggravator\n!tapped",
+            "notes": "!exportname Foundry Aggravator Token\n!related Foundry Aggravator",
             "image_type": "png"
         },
         {
@@ -6276,7 +6276,7 @@
             "set": "ABY",
             "loyalty": "",
             "artist": "Rodrigo Clark",
-            "alias": "Volta, Brink Freebooter",
+            "alias": "Sky, Brink Freebooter",
             "notes": "Bonus sheet",
             "image_type": "png"
         },

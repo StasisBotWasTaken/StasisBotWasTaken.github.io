@@ -1,4 +1,82 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Standard-Issue Shields added.
+Sky, Brink Freebooter added.
+
+Standard-Issue Shield removed.
+Volta, Brink Freebooter removed.
+
+Chronicle of the Deceived
+cost: {2}{B} => {1}{B}{B}
+rules_text: When this enchantment enters, draw three cards.
+Flux 2 — You lose 3 life unless you sacrifice a creature or discard a card. [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i] => When this enchantment enters, draw three cards, then you lose 3 life unless you sacrifice a creature or discard a card.
+Flux 2 — You lose 3 life unless you sacrifice a creature or discard a card. [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i]
+
+Multiuse Gizmo
+rules_text: When this artifact enters, draw a card.
+{2}, Sacrifice this artifact: Draw a card.
+{T}, Sacrifice this artifact: Untap target nonland permanent.
+{2}, {T}, Sacrifice this artifact: You gain 3 life. => When this artifact enters, draw a card.
+{2}, Sacrifice this artifact: Draw a card.
+{T}, Sacrifice this artifact: Untap target nonland permanent. Activate only as a sorcery.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.
+
+I.E. Manufactor
+
+Those from Beyond
+rules_text: Flash
+When this creature enters, exile target spell or nonland permanent you don't control with two time counters on it. If it doesn't have suspend, it gains suspend. [i](At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost. If it's a creature, it has haste.)[/i] => Flash
+When this creature enters, if it was cast, exile target spell or nonland permanent you don't control with two time counters on it. If it doesn't have suspend, it gains suspend. [i](At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost. If it's a creature, it has haste.)[/i]
+
+Sting
+
+Synthesized Blossom
+
+The Judgment Clock
+rules_text: Indestructible
+{T}: Each player exiles a permanent they control. Put a charge counter on The Judgment Clock.
+{T}, Remove twelve charge counters from The Judgment Clock: Restart the game, leaving in exile all permanent cards exiled with The Judgment Clock. Then put those cards onto the battlefield under your control. => {T}: Each player exiles a nonland permanent they control. Put a charge counter on The Judgment Clock.
+{T}, Remove twelve charge counters from The Judgment Clock: Restart the game, leaving in exile all permanent cards exiled with The Judgment Clock. Then put those cards onto the battlefield under your control.
+
+Gear
+
+Passage Sanctifier Token
+
+Freelance Gearsmith Token
+
+Workshop Naughty Token
+
+Disciples' Strongarm Token
+
+Minister of Penance Token
+
+Alloy Transmuter Token
+
+Borderlands Daredevil Token
+
+Appealer to the Masses Token
+
+Loxodon Tinkerer Token
+
+Wasteland Inquisitor Token
+
+Chronicler of the Passed Token
+
+Overeager Courier Token
+
+Twinarm Outfitter Token
+
+Ebo, Fulcrum of the Coil Token
+
+Dawn, Blinding Hope Token
+
+Foundry Aggravator Token
+
+Arianna, the Scrapper
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Gibbous Moon's Devout added.
