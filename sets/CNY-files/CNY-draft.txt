@@ -1491,13 +1491,13 @@
 			}
 		},
 		{
-			"name": "Devoted Lackies",
+			"name": "Devoted Lackeys",
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Human Assassin",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/174_Devoted Lackies.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/174_Devoted Lackeys.png"
 			}
 		},
 		{
@@ -2744,7 +2744,7 @@
 			"name": "CNY Chaneryx, Perfect Lifeform",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Legendary Creature — Leviathan",
+			"type": "Token Legendary Creature — Leviathan",
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/4t_CNY Chaneryx, Perfect Lifeform.png"
@@ -2758,133 +2758,6 @@
 			"collector_number": "11",
 			"image_uris": {
 				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/11t_CNY Equipment.png"
-			}
-		},
-		{
-			"name": "Chromatic Rift Promo",
-			"rarity": "special",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Sorcery",
-			"collector_number": "267",
-			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/267_Chromatic Rift Promo.png"
-			}
-		},
-		{
-			"name": "Incumbency Promo !promo!design Stasis",
-			"rarity": "special",
-			"mana_cost": "{1}{W}",
-			"type": "Sorcery",
-			"collector_number": "268",
-			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/268_Incumbency Promo !promo!design Stasis.png"
-			}
-		},
-		{
-			"name": "Severin's Masterwork Promo",
-			"rarity": "special",
-			"mana_cost": "{3}{W}",
-			"type": "Legendary Enchantment",
-			"collector_number": "269",
-			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/269_Severin's Masterwork Promo.png"
-			}
-		},
-		{
-			"name": "Gaze Upon Civilization Promo",
-			"rarity": "special",
-			"mana_cost": "{3}{U}",
-			"type": "Enchantment",
-			"collector_number": "270",
-			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/270_Gaze Upon Civilization Promo.png"
-			}
-		},
-		{
-			"name": "Sparks of a Revolution Promo",
-			"rarity": "special",
-			"mana_cost": "{R}",
-			"type": "Enchantment — Policy",
-			"collector_number": "272",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/272_Sparks of a Revolution Promo_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/272_Sparks of a Revolution Promo_front.png"
-			}
-		},
-		{
-			"name": "Coup D'Etat Promo",
-			"rarity": "special",
-			"mana_cost": "{X}{U}{B}{R}",
-			"type": "Sorcery",
-			"collector_number": "274",
-			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/274_Coup D'Etat Promo.png"
-			}
-		},
-		{
-			"name": "Defect Promo",
-			"rarity": "special",
-			"mana_cost": "{1}{U}{B}",
-			"type": "Enchantment — Aura",
-			"collector_number": "275",
-			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/275_Defect Promo.png"
-			}
-		},
-		{
-			"name": "Search and Seizure Promo",
-			"rarity": "special",
-			"mana_cost": "{U}{B}",
-			"type": "Sorcery",
-			"collector_number": "276",
-			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/276_Search and Seizure Promo.png"
-			}
-		},
-		{
-			"name": "Vishanki Hellkite Promo",
-			"rarity": "special",
-			"mana_cost": "{4}{R}{G}",
-			"type": "Creature — Dragon",
-			"collector_number": "277",
-			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/277_Vishanki Hellkite Promo.png"
-			}
-		},
-		{
-			"name": "Whirring Inspector Promo",
-			"rarity": "special",
-			"mana_cost": "{W}{U}{B}",
-			"type": "Artifact Creature — Insect Eye",
-			"collector_number": "278",
-			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/278_Whirring Inspector Promo.png"
-			}
-		},
-		{
-			"name": "Work Safety Violation Promo",
-			"rarity": "special",
-			"mana_cost": "{B}{R}{G}",
-			"type": "Sorcery",
-			"collector_number": "279",
-			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/279_Work Safety Violation Promo.png"
-			}
-		},
-		{
-			"name": "Estrathe, Center of Civilization Promo",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "280",
-			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/280_Estrathe, Center of Civilization Promo.png"
 			}
 		},
 		{
@@ -2935,6 +2808,16 @@
 			"collector_number": "93",
 			"image_uris": {
 				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/93_Swamp.png"
+			}
+		},
+		{
+			"name": "Anesthesiologist",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/127_Anesthesiologist.png"
 			}
 		},
 		{
@@ -2990,265 +2873,892 @@
 	]
 
 [rare(1)]
-	5 Distributive Justice
-	5 Chromatic Rift
-	5 Mellan, Defense Attorney
-	5 Genotype Splicer
-	5 Severin's Masterwork
-	5 Army Reserves
-	5 Research Grant
-	5 Quid Pro Quo
-	5 Sterling, Federal Informant
-	5 Congressional Kraken
-	5 Demographer
-	5 Thesis on Mutation
-	5 Ascend to Power
-	5 The Venerable Veteran
-	5 Serve Again
-	5 Judge, Jury, and Executioner
-	5 Corrupt Congressman
-	5 Cryptology
-	5 Sparks of a Revolution
-	5 Puppet War
-	5 Alamer, Profit Rerecorder
-	5 Flaw in the System
-	5 Lightning Warmonger
-	5 Penrath Firearm
-	5 Golden Age
-	5 Chromagoyf
-	5 Aspiring Anarchist
-	5 Subsidized Market
-	5 Zeno, Planar Engineer
-	5 Disestablishmentarianism
-	5 Neuralinked Hive
-	5 Identity Forger
-	5 Campaign Rally
-	5 Empowered Revisionary
-	5 Eyes of the Bureau
-	5 Defect
-	5 Gatherer of Grievances
-	5 Vishanki Hellkite
-	5 Axiomatic Shift
-	5 Whirring Inspector
-	5 Envoy of the Fallen
-	5 Freightyard Scrappers
-	5 Penrath Dispatcher
-	5 Genome Project
-	5 Tiril Agenda
-	5 Hazakh Agenda
-	5 Vishanki Agenda
-	5 Penrath Agenda
-	5 Sillaman Agenda
-	5 Scandalous Revelation
-	5 Coup D'Etat
-	5 Work Safety Violation
-	5 Out With a Bang
-	5 Prime for Innovation
-	5 Estrathe, Center of Civilization
-	5 Incumbency
-	5 Gaze Upon Civilization
-	5 Old Times Ruminator
-	5 Venture Capitalist
-	5 Bulk Bioengineering
-	5 The Connaistone
-	5 Krint, Five Star
-	5 Chief Executive Dhante
-	5 Eo, the Great Equalizer
-	5 Severin, Sparkmind
-	5 The Quindral Accords
-	5 Garren, Returned Prophet
-	5 High Senator Talpa
-	5 Scrapyard Mecha
-	5 Survivors of the New World
-	5 Estrathian Gentrifiers
-	5 Tomer, Figurehead President
-	5 The Majority Whip
-	5 Dhante's Inferno
+	2 Distributive Justice
+	2 Chromatic Rift
+	2 Mellan, Defense Attorney
+	2 Genotype Splicer
+	2 Severin's Masterwork
+	2 Army Reserves
+	2 Research Grant
+	2 Quid Pro Quo
+	2 Sterling, Federal Informant
+	2 Congressional Kraken
+	2 Demographer
+	2 Thesis on Mutation
+	2 Ascend to Power
+	2 The Venerable Veteran
+	2 Serve Again
+	2 Judge, Jury, and Executioner
+	2 Corrupt Congressman
+	2 Cryptology
+	2 Sparks of a Revolution
+	2 Puppet War
+	2 Alamer, Profit Rerecorder
+	2 Flaw in the System
+	2 Lightning Warmonger
+	2 Penrath Firearm
+	2 Golden Age
+	2 Chromagoyf
+	2 Aspiring Anarchist
+	2 Subsidized Market
+	2 Zeno, Planar Engineer
+	2 Disestablishmentarianism
+	2 Neuralinked Hive
+	2 Identity Forger
+	2 Campaign Rally
+	2 Empowered Revisionary
+	2 Eyes of the Bureau
+	2 Defect
+	2 Gatherer of Grievances
+	2 Vishanki Hellkite
+	2 Axiomatic Shift
+	2 Whirring Inspector
+	2 Envoy of the Fallen
+	2 Freightyard Scrappers
+	2 Penrath Dispatcher
+	2 Genome Project
+	2 Tiril Agenda
+	2 Hazakh Agenda
+	2 Vishanki Agenda
+	2 Penrath Agenda
+	2 Sillaman Agenda
+	2 Scandalous Revelation
+	2 Coup D'Etat
+	2 Work Safety Violation
+	2 Out With a Bang
+	2 Prime for Innovation
+	2 Estrathe, Center of Civilization
+	1 Incumbency
+	1 Gaze Upon Civilization
+	1 Old Times Ruminator
+	1 Venture Capitalist
+	1 Bulk Bioengineering
+	1 The Connaistone
+	1 Krint, Five Star
+	1 Chief Executive Dhante
+	1 Eo, the Great Equalizer
+	1 Severin, Sparkmind
+	1 The Quindral Accords
+	1 Garren, Returned Prophet
+	1 High Senator Talpa
+	1 Scrapyard Mecha
+	1 Survivors of the New World
+	1 Estrathian Gentrifiers
+	1 Tomer, Figurehead President
+	1 The Majority Whip
+	2 Dhante's Inferno
 [uncommon(3)]
-	5 Redeveloped Cityscape
-	5 Minister of Utility
-	5 Prismatic Propagandist
-	5 Laboratory Mentor
-	5 Prosperity Project
-	5 Getaway Proxy
-	5 Overbearing Researcher
-	5 Planned Obsolescence
-	5 Selective Truthseeker
-	5 Induced Evolution
-	5 Veto
-	5 Bureau Mentor
-	5 Verity Circle
-	5 Enlightenment
-	5 Sleeper Strix
-	5 Dormant Monstrosity
-	5 Trench Commander
-	5 Bug the Line
-	5 Killing in the Name of
-	5 Warrant-Borne Cop
-	5 Arsenal Mentor
-	5 Corporate Espionage
-	5 Rank and Defile
-	5 Merciless Headsman
-	5 Noxious Conditions
-	5 Product of Nepotism
-	5 Extraction Mission
-	5 Gubernatorial Fundraiser
-	5 Flock Favorites
-	5 Corporate Mentor
-	5 Scathing Remarks
-	5 Gain Traction
-	5 Martyrize
-	5 Expendable Arsonist
-	5 Coercive Contractor
-	5 Patent Pending
-	5 Grassroots Campaigners
-	5 Cabinet Recruiter
-	5 Insurgency Mentor
-	5 Scourge of Capitalism
-	5 Prismatic Confluence
-	5 Sustainable Investments
-	5 Sleeper Insurgent
-	5 Sillaman Regrafter
-	5 Instigating Directive
-	5 Private Investigators
-	5 Eyes in the Sky
-	5 Loophole Exploiter
-	5 Metropolitan Champion
-	5 Nourishing Orator
-	5 Genetics Prodigy
-	5 Chittering Gargantua
-	5 Devoted Lackies
-	5 Speculative Stockbroker
-	5 Underclass Hero
-	5 Social Engineering
-	5 Search and Seizure
-	5 Liquidate
-	5 Vertical Integration
-	5 Charity Match
-	5 Security Initiative
-	5 Silence the Opposition
-	5 Meeting of the Elites
-	5 Free Market
-	5 Together in Arms
-	5 Codename Spyder
-	5 The First Battalion
-	5 Sola, Contraband Playboy
-	5 Mondo, Outcast Maverick
-	5 Carlisle, Grid Globalizer
-	5 Central Processor
-	5 Assault Engine
-	5 Black-Tie Gala
-	5 Urban Twinmotors
-	5 Bioengineered Opus
-	5 Reconnaissance Agent
-	5 Blackout
-	5 Adaptive Hydra
-	5 Storm the Senate
-	5 Dissect
-	5 Tiril District
-	5 Hazakh District
-	5 Vishanki District
-	5 Penrath District
-	5 Sillaman District
-	5 Ballot Registrar
-[common(10)]
-	5 Eager Voter
-	5 Magnetic Rhetorician
-	5 Held in Contempt
-	5 Brazen Blackcoats
-	5 Medic's Implant
-	5 Seasoned Spymaster
-	5 Retaliatory Outburst
-	5 Enforcer's Baton
-	5 Codename Cicada
-	5 Rogue Justiciar
-	5 Border Junction
-	5 Change Allegiances
-	5 Replicated Regiment
-	5 Informed Voter
-	5 Election Fraud
-	5 Dampening Reconciliator
-	5 Political Prisoner
-	5 Civic Copterist
-	5 Stasis Chamber
-	5 Abduct
-	5 Codename Bumblebee
-	5 Bring to the Limelight
-	5 Combat Corporal
-	5 Expendable Researcher
-	5 Invader of Privacy
-	5 Rush for Results
-	5 Lofty Voter
-	5 Estranged Aristocrat
-	5 Rigged Trial
-	5 Senators' Chauffeur
-	5 Presidential Pardon
-	5 Night Squad
-	5 Deadly Dispute
-	5 Codename Ant
-	5 Climactic Drop
-	5 Covert Infiltrator
-	5 Expendable Medic
-	5 Blue Collar Bloodsucker
-	5 Hazakh Conscriptor
-	5 Bureau Broodmother
-	5 Ardent Voter
-	5 Declamation Podium
-	5 Up-and-Comer
-	5 Inflammatory Declaimer
-	5 Battlefield Tactician
-	5 Reckless Jailbreak
-	5 Hired Shot
-	5 Splintering Blast
-	5 Resourceful Hireling
-	5 Main Street Hooligang
-	5 Capital Maglev
-	5 Flags on High
-	5 Revolutionary Throng
-	5 Hazakh Commandos
-	5 Idealistic Voter
-	5 International Development
-	5 Triumphant Herd
-	5 Gerrymanderer
-	5 Demolition Team
-	5 Ram Through
-	5 Ruinous Discovery
-	5 Test Subject Alpha
-	5 Bouncers-for-Hire
-	5 Mana Harvesters
-	5 Inner City Scout
-	5 Invest
-	5 Escalated Tensions
-	5 Senate Filibuster
-	5 Rooftop Whistlesilencer
-	5 Ignited Soul
-	5 Proletarian Rabble
-	5 Estrathian Philanthropist
-	5 Projects Overseer
-	5 Volatile Sergeant
-	5 Debt Collectors
-	5 Trailblazer Anarch
-	5 Pinnacle of Progress
-	5 Legislative Gridlock
-	5 Traumatic Recollection
-	5 Patron of Arms
-	5 Mutinous Inciter
-	5 Diplomatic Alliance
-	5 Tiril Ambassador
-	5 Hazakh Ambassador
-	5 Vishanki Ambassador
-	5 Penrath Ambassador
-	5 Sillaman Ambassador
-	5 Congressional Hall
-	5 Interrogation Chamber
-	5 Executive Office
-	5 Neglected Slums
-	5 Open Air Boardwalk
-	5 Groupthink Tank
-	5 Bustling Motorway
-	5 Looming Skyscrapers
-	5 Urban Sunscape
-	5 Controlled Ecosystem
-	5 CNY CLIQUE TOKEN REMINDER
-	5 Evasive Tactics
-	5 Penrath Roperunner
+	4 Redeveloped Cityscape
+	4 Minister of Utility
+	4 Prismatic Propagandist
+	4 Laboratory Mentor
+	4 Prosperity Project
+	4 Getaway Proxy
+	4 Overbearing Researcher
+	4 Planned Obsolescence
+	4 Selective Truthseeker
+	4 Induced Evolution
+	4 Veto
+	4 Bureau Mentor
+	4 Verity Circle
+	4 Enlightenment
+	4 Sleeper Strix
+	4 Dormant Monstrosity
+	4 Trench Commander
+	4 Bug the Line
+	4 Killing in the Name of
+	4 Warrant-Borne Cop
+	4 Arsenal Mentor
+	4 Corporate Espionage
+	4 Rank and Defile
+	4 Merciless Headsman
+	4 Noxious Conditions
+	4 Product of Nepotism
+	4 Extraction Mission
+	4 Gubernatorial Fundraiser
+	4 Flock Favorites
+	4 Corporate Mentor
+	4 Scathing Remarks
+	4 Gain Traction
+	4 Martyrize
+	4 Expendable Arsonist
+	4 Coercive Contractor
+	4 Patent Pending
+	4 Grassroots Campaigners
+	4 Cabinet Recruiter
+	4 Insurgency Mentor
+	4 Scourge of Capitalism
+	4 Prismatic Confluence
+	4 Sustainable Investments
+	4 Sleeper Insurgent
+	4 Sillaman Regrafter
+	4 Instigating Directive
+	4 Private Investigators
+	4 Eyes in the Sky
+	4 Loophole Exploiter
+	4 Metropolitan Champion
+	4 Nourishing Orator
+	4 Genetics Prodigy
+	4 Chittering Gargantua
+	4 Devoted Lackeys
+	4 Speculative Stockbroker
+	4 Underclass Hero
+	4 Social Engineering
+	4 Search and Seizure
+	4 Liquidate
+	4 Vertical Integration
+	4 Charity Match
+	4 Security Initiative
+	4 Silence the Opposition
+	4 Meeting of the Elites
+	4 Free Market
+	4 Together in Arms
+	4 Codename Spyder
+	4 The First Battalion
+	4 Sola, Contraband Playboy
+	4 Mondo, Outcast Maverick
+	4 Carlisle, Grid Globalizer
+	4 Central Processor
+	4 Assault Engine
+	4 Black-Tie Gala
+	4 Urban Twinmotors
+	4 Bioengineered Opus
+	4 Reconnaissance Agent
+	4 Blackout
+	4 Adaptive Hydra
+	4 Storm the Senate
+	4 Dissect
+	4 Tiril District
+	4 Hazakh District
+	4 Vishanki District
+	4 Penrath District
+	4 Sillaman District
+	4 Ballot Registrar
+[common(6)]
+	8 Eager Voter
+	8 Magnetic Rhetorician
+	8 Held in Contempt
+	8 Brazen Blackcoats
+	8 Medic's Implant
+	8 Seasoned Spymaster
+	8 Retaliatory Outburst
+	8 Enforcer's Baton
+	8 Codename Cicada
+	8 Rogue Justiciar
+	8 Border Junction
+	8 Change Allegiances
+	8 Replicated Regiment
+	8 Informed Voter
+	8 Election Fraud
+	8 Dampening Reconciliator
+	8 Political Prisoner
+	8 Civic Copterist
+	8 Stasis Chamber
+	8 Abduct
+	8 Codename Bumblebee
+	8 Bring to the Limelight
+	8 Combat Corporal
+	8 Expendable Researcher
+	8 Invader of Privacy
+	8 Rush for Results
+	8 Lofty Voter
+	8 Estranged Aristocrat
+	8 Rigged Trial
+	8 Senators' Chauffeur
+	8 Presidential Pardon
+	8 Night Squad
+	8 Deadly Dispute
+	8 Codename Ant
+	8 Climactic Drop
+	8 Covert Infiltrator
+	8 Expendable Medic
+	8 Blue Collar Bloodsucker
+	8 Hazakh Conscriptor
+	8 Bureau Broodmother
+	8 Ardent Voter
+	8 Declamation Podium
+	8 Up-and-Comer
+	8 Inflammatory Declaimer
+	8 Battlefield Tactician
+	8 Reckless Jailbreak
+	8 Hired Shot
+	8 Splintering Blast
+	8 Resourceful Hireling
+	8 Main Street Hooligang
+	8 Capital Maglev
+	8 Flags on High
+	8 Revolutionary Throng
+	8 Hazakh Commandos
+	8 Idealistic Voter
+	8 International Development
+	8 Triumphant Herd
+	8 Gerrymanderer
+	8 Demolition Team
+	8 Ram Through
+	8 Ruinous Discovery
+	8 Test Subject Alpha
+	8 Bouncers-for-Hire
+	8 Mana Harvesters
+	8 Inner City Scout
+	8 Invest
+	8 Escalated Tensions
+	8 Senate Filibuster
+	8 Rooftop Whistlesilencer
+	8 Ignited Soul
+	8 Proletarian Rabble
+	8 Estrathian Philanthropist
+	8 Projects Overseer
+	8 Volatile Sergeant
+	8 Debt Collectors
+	8 Trailblazer Anarch
+	8 Pinnacle of Progress
+	8 Legislative Gridlock
+	8 Traumatic Recollection
+	8 Patron of Arms
+	8 Mutinous Inciter
+	8 Diplomatic Alliance
+	8 Tiril Ambassador
+	8 Hazakh Ambassador
+	8 Vishanki Ambassador
+	8 Penrath Ambassador
+	8 Sillaman Ambassador
+	8 Congressional Hall
+	8 Interrogation Chamber
+	8 Executive Office
+	8 Neglected Slums
+	8 Open Air Boardwalk
+	8 Groupthink Tank
+	8 Bustling Motorway
+	8 Looming Skyscrapers
+	8 Urban Sunscape
+	8 Controlled Ecosystem
+	8 CNY CLIQUE TOKEN REMINDER
+	8 Anesthesiologist
+	8 Evasive Tactics
+	8 Penrath Roperunner
+[common | masterpiece(1)]
+	8 Eager Voter
+	8 Magnetic Rhetorician
+	8 Held in Contempt
+	8 Brazen Blackcoats
+	8 Medic's Implant
+	8 Seasoned Spymaster
+	8 Retaliatory Outburst
+	8 Enforcer's Baton
+	8 Codename Cicada
+	8 Rogue Justiciar
+	8 Border Junction
+	8 Change Allegiances
+	8 Replicated Regiment
+	8 Informed Voter
+	8 Election Fraud
+	8 Dampening Reconciliator
+	8 Political Prisoner
+	8 Civic Copterist
+	8 Stasis Chamber
+	8 Abduct
+	8 Codename Bumblebee
+	8 Bring to the Limelight
+	8 Combat Corporal
+	8 Expendable Researcher
+	8 Invader of Privacy
+	8 Rush for Results
+	8 Lofty Voter
+	8 Estranged Aristocrat
+	8 Rigged Trial
+	8 Senators' Chauffeur
+	8 Presidential Pardon
+	8 Night Squad
+	8 Deadly Dispute
+	8 Codename Ant
+	8 Climactic Drop
+	8 Covert Infiltrator
+	8 Expendable Medic
+	8 Blue Collar Bloodsucker
+	8 Hazakh Conscriptor
+	8 Bureau Broodmother
+	8 Ardent Voter
+	8 Declamation Podium
+	8 Up-and-Comer
+	8 Inflammatory Declaimer
+	8 Battlefield Tactician
+	8 Reckless Jailbreak
+	8 Hired Shot
+	8 Splintering Blast
+	8 Resourceful Hireling
+	8 Main Street Hooligang
+	8 Capital Maglev
+	8 Flags on High
+	8 Revolutionary Throng
+	8 Hazakh Commandos
+	8 Idealistic Voter
+	8 International Development
+	8 Triumphant Herd
+	8 Gerrymanderer
+	8 Demolition Team
+	8 Ram Through
+	8 Ruinous Discovery
+	8 Test Subject Alpha
+	8 Bouncers-for-Hire
+	8 Mana Harvesters
+	8 Inner City Scout
+	8 Invest
+	8 Escalated Tensions
+	8 Senate Filibuster
+	8 Rooftop Whistlesilencer
+	8 Ignited Soul
+	8 Proletarian Rabble
+	8 Estrathian Philanthropist
+	8 Projects Overseer
+	8 Volatile Sergeant
+	8 Debt Collectors
+	8 Trailblazer Anarch
+	8 Pinnacle of Progress
+	8 Legislative Gridlock
+	8 Traumatic Recollection
+	8 Patron of Arms
+	8 Mutinous Inciter
+	8 Diplomatic Alliance
+	8 Tiril Ambassador
+	8 Hazakh Ambassador
+	8 Vishanki Ambassador
+	8 Penrath Ambassador
+	8 Sillaman Ambassador
+	8 Congressional Hall
+	8 Interrogation Chamber
+	8 Executive Office
+	8 Neglected Slums
+	8 Open Air Boardwalk
+	8 Groupthink Tank
+	8 Bustling Motorway
+	8 Looming Skyscrapers
+	8 Urban Sunscape
+	8 Controlled Ecosystem
+	8 CNY CLIQUE TOKEN REMINDER
+	8 Anesthesiologist
+	8 Evasive Tactics
+	8 Penrath Roperunner
+[foil(1)]
+	12 Eager Voter
+	12 Magnetic Rhetorician
+	12 Held in Contempt
+	12 Brazen Blackcoats
+	12 Medic's Implant
+	12 Seasoned Spymaster
+	12 Retaliatory Outburst
+	12 Enforcer's Baton
+	12 Codename Cicada
+	12 Rogue Justiciar
+	12 Border Junction
+	12 Change Allegiances
+	12 Replicated Regiment
+	12 Informed Voter
+	12 Election Fraud
+	12 Dampening Reconciliator
+	12 Political Prisoner
+	12 Civic Copterist
+	12 Stasis Chamber
+	12 Abduct
+	12 Codename Bumblebee
+	12 Bring to the Limelight
+	12 Combat Corporal
+	12 Expendable Researcher
+	12 Invader of Privacy
+	12 Rush for Results
+	12 Lofty Voter
+	12 Estranged Aristocrat
+	12 Rigged Trial
+	12 Senators' Chauffeur
+	12 Presidential Pardon
+	12 Night Squad
+	12 Deadly Dispute
+	12 Codename Ant
+	12 Climactic Drop
+	12 Covert Infiltrator
+	12 Expendable Medic
+	12 Blue Collar Bloodsucker
+	12 Hazakh Conscriptor
+	12 Bureau Broodmother
+	12 Ardent Voter
+	12 Declamation Podium
+	12 Up-and-Comer
+	12 Inflammatory Declaimer
+	12 Battlefield Tactician
+	12 Reckless Jailbreak
+	12 Hired Shot
+	12 Splintering Blast
+	12 Resourceful Hireling
+	12 Main Street Hooligang
+	12 Capital Maglev
+	12 Flags on High
+	12 Revolutionary Throng
+	12 Hazakh Commandos
+	12 Idealistic Voter
+	12 International Development
+	12 Triumphant Herd
+	12 Gerrymanderer
+	12 Demolition Team
+	12 Ram Through
+	12 Ruinous Discovery
+	12 Test Subject Alpha
+	12 Bouncers-for-Hire
+	12 Mana Harvesters
+	12 Inner City Scout
+	12 Invest
+	12 Escalated Tensions
+	12 Senate Filibuster
+	12 Rooftop Whistlesilencer
+	12 Ignited Soul
+	12 Proletarian Rabble
+	12 Estrathian Philanthropist
+	12 Projects Overseer
+	12 Volatile Sergeant
+	12 Debt Collectors
+	12 Trailblazer Anarch
+	12 Pinnacle of Progress
+	12 Legislative Gridlock
+	12 Traumatic Recollection
+	12 Patron of Arms
+	12 Mutinous Inciter
+	12 Diplomatic Alliance
+	12 Tiril Ambassador
+	12 Hazakh Ambassador
+	12 Vishanki Ambassador
+	12 Penrath Ambassador
+	12 Sillaman Ambassador
+	12 Congressional Hall
+	12 Interrogation Chamber
+	12 Executive Office
+	12 Neglected Slums
+	12 Open Air Boardwalk
+	12 Groupthink Tank
+	12 Bustling Motorway
+	12 Looming Skyscrapers
+	12 Urban Sunscape
+	12 Controlled Ecosystem
+	6 Redeveloped Cityscape
+	6 Minister of Utility
+	6 Prismatic Propagandist
+	6 Laboratory Mentor
+	6 Prosperity Project
+	6 Getaway Proxy
+	6 Overbearing Researcher
+	6 Planned Obsolescence
+	6 Selective Truthseeker
+	6 Induced Evolution
+	6 Veto
+	6 Bureau Mentor
+	6 Verity Circle
+	6 Enlightenment
+	6 Sleeper Strix
+	6 Dormant Monstrosity
+	6 Trench Commander
+	6 Bug the Line
+	6 Killing in the Name of
+	6 Warrant-Borne Cop
+	6 Arsenal Mentor
+	6 Corporate Espionage
+	6 Rank and Defile
+	6 Merciless Headsman
+	6 Noxious Conditions
+	6 Product of Nepotism
+	6 Extraction Mission
+	6 Gubernatorial Fundraiser
+	6 Flock Favorites
+	6 Corporate Mentor
+	6 Scathing Remarks
+	6 Gain Traction
+	6 Martyrize
+	6 Expendable Arsonist
+	6 Coercive Contractor
+	6 Patent Pending
+	6 Grassroots Campaigners
+	6 Cabinet Recruiter
+	6 Insurgency Mentor
+	6 Scourge of Capitalism
+	6 Prismatic Confluence
+	6 Sustainable Investments
+	6 Sleeper Insurgent
+	6 Sillaman Regrafter
+	6 Instigating Directive
+	6 Private Investigators
+	6 Eyes in the Sky
+	6 Loophole Exploiter
+	6 Metropolitan Champion
+	6 Nourishing Orator
+	6 Genetics Prodigy
+	6 Chittering Gargantua
+	6 Devoted Lackeys
+	6 Speculative Stockbroker
+	6 Underclass Hero
+	6 Social Engineering
+	6 Search and Seizure
+	6 Liquidate
+	6 Vertical Integration
+	6 Charity Match
+	6 Security Initiative
+	6 Silence the Opposition
+	6 Meeting of the Elites
+	6 Free Market
+	6 Together in Arms
+	6 Codename Spyder
+	6 The First Battalion
+	6 Sola, Contraband Playboy
+	6 Mondo, Outcast Maverick
+	6 Carlisle, Grid Globalizer
+	6 Central Processor
+	6 Assault Engine
+	6 Black-Tie Gala
+	6 Urban Twinmotors
+	6 Bioengineered Opus
+	6 Reconnaissance Agent
+	6 Blackout
+	6 Adaptive Hydra
+	6 Storm the Senate
+	6 Dissect
+	6 Tiril District
+	6 Hazakh District
+	6 Vishanki District
+	6 Penrath District
+	6 Sillaman District
+	2 Distributive Justice
+	2 Chromatic Rift
+	2 Mellan, Defense Attorney
+	2 Genotype Splicer
+	2 Severin's Masterwork
+	2 Army Reserves
+	2 Research Grant
+	2 Quid Pro Quo
+	2 Sterling, Federal Informant
+	2 Congressional Kraken
+	2 Demographer
+	2 Thesis on Mutation
+	2 Ascend to Power
+	2 The Venerable Veteran
+	2 Serve Again
+	2 Judge, Jury, and Executioner
+	2 Corrupt Congressman
+	2 Cryptology
+	2 Sparks of a Revolution
+	2 Puppet War
+	2 Alamer, Profit Rerecorder
+	2 Flaw in the System
+	2 Lightning Warmonger
+	2 Penrath Firearm
+	2 Golden Age
+	2 Chromagoyf
+	2 Aspiring Anarchist
+	2 Subsidized Market
+	2 Zeno, Planar Engineer
+	2 Disestablishmentarianism
+	2 Neuralinked Hive
+	2 Identity Forger
+	2 Campaign Rally
+	2 Empowered Revisionary
+	2 Eyes of the Bureau
+	2 Defect
+	2 Gatherer of Grievances
+	2 Vishanki Hellkite
+	2 Axiomatic Shift
+	2 Whirring Inspector
+	2 Envoy of the Fallen
+	2 Freightyard Scrappers
+	2 Penrath Dispatcher
+	2 Genome Project
+	2 Tiril Agenda
+	2 Hazakh Agenda
+	2 Vishanki Agenda
+	2 Penrath Agenda
+	2 Sillaman Agenda
+	2 Scandalous Revelation
+	2 Coup D'Etat
+	2 Work Safety Violation
+	2 Out With a Bang
+	2 Prime for Innovation
+	2 Estrathe, Center of Civilization
+	1 Incumbency
+	1 Gaze Upon Civilization
+	1 Old Times Ruminator
+	1 Venture Capitalist
+	1 Bulk Bioengineering
+	1 The Connaistone
+	1 Krint, Five Star
+	1 Chief Executive Dhante
+	1 Eo, the Great Equalizer
+	1 Severin, Sparkmind
+	1 The Quindral Accords
+	1 Garren, Returned Prophet
+	1 High Senator Talpa
+	1 Scrapyard Mecha
+	1 Survivors of the New World
+	1 Estrathian Gentrifiers
+	1 Tomer, Figurehead President
+	1 The Majority Whip
+	12 CNY CLIQUE TOKEN REMINDER
+	12 Anesthesiologist
+	6 Ballot Registrar
+	2 Dhante's Inferno
+	12 Evasive Tactics
+	12 Penrath Roperunner
+[wildcard(1)]
+	6 Eager Voter
+	6 Magnetic Rhetorician
+	6 Held in Contempt
+	6 Brazen Blackcoats
+	6 Medic's Implant
+	6 Seasoned Spymaster
+	6 Retaliatory Outburst
+	6 Enforcer's Baton
+	6 Codename Cicada
+	6 Rogue Justiciar
+	6 Border Junction
+	6 Change Allegiances
+	6 Replicated Regiment
+	6 Informed Voter
+	6 Election Fraud
+	6 Dampening Reconciliator
+	6 Political Prisoner
+	6 Civic Copterist
+	6 Stasis Chamber
+	6 Abduct
+	6 Codename Bumblebee
+	6 Bring to the Limelight
+	6 Combat Corporal
+	6 Expendable Researcher
+	6 Invader of Privacy
+	6 Rush for Results
+	6 Lofty Voter
+	6 Estranged Aristocrat
+	6 Rigged Trial
+	6 Senators' Chauffeur
+	6 Presidential Pardon
+	6 Night Squad
+	6 Deadly Dispute
+	6 Codename Ant
+	6 Climactic Drop
+	6 Covert Infiltrator
+	6 Expendable Medic
+	6 Blue Collar Bloodsucker
+	6 Hazakh Conscriptor
+	6 Bureau Broodmother
+	6 Ardent Voter
+	6 Declamation Podium
+	6 Up-and-Comer
+	6 Inflammatory Declaimer
+	6 Battlefield Tactician
+	6 Reckless Jailbreak
+	6 Hired Shot
+	6 Splintering Blast
+	6 Resourceful Hireling
+	6 Main Street Hooligang
+	6 Capital Maglev
+	6 Flags on High
+	6 Revolutionary Throng
+	6 Hazakh Commandos
+	6 Idealistic Voter
+	6 International Development
+	6 Triumphant Herd
+	6 Gerrymanderer
+	6 Demolition Team
+	6 Ram Through
+	6 Ruinous Discovery
+	6 Test Subject Alpha
+	6 Bouncers-for-Hire
+	6 Mana Harvesters
+	6 Inner City Scout
+	6 Invest
+	6 Escalated Tensions
+	6 Senate Filibuster
+	6 Rooftop Whistlesilencer
+	6 Ignited Soul
+	6 Proletarian Rabble
+	6 Estrathian Philanthropist
+	6 Projects Overseer
+	6 Volatile Sergeant
+	6 Debt Collectors
+	6 Trailblazer Anarch
+	6 Pinnacle of Progress
+	6 Legislative Gridlock
+	6 Traumatic Recollection
+	6 Patron of Arms
+	6 Mutinous Inciter
+	6 Diplomatic Alliance
+	6 Tiril Ambassador
+	6 Hazakh Ambassador
+	6 Vishanki Ambassador
+	6 Penrath Ambassador
+	6 Sillaman Ambassador
+	6 Congressional Hall
+	6 Interrogation Chamber
+	6 Executive Office
+	6 Neglected Slums
+	6 Open Air Boardwalk
+	6 Groupthink Tank
+	6 Bustling Motorway
+	6 Looming Skyscrapers
+	6 Urban Sunscape
+	6 Controlled Ecosystem
+	15 Redeveloped Cityscape
+	15 Minister of Utility
+	15 Prismatic Propagandist
+	15 Laboratory Mentor
+	15 Prosperity Project
+	15 Getaway Proxy
+	15 Overbearing Researcher
+	15 Planned Obsolescence
+	15 Selective Truthseeker
+	15 Induced Evolution
+	15 Veto
+	15 Bureau Mentor
+	15 Verity Circle
+	15 Enlightenment
+	15 Sleeper Strix
+	15 Dormant Monstrosity
+	15 Trench Commander
+	15 Bug the Line
+	15 Killing in the Name of
+	15 Warrant-Borne Cop
+	15 Arsenal Mentor
+	15 Corporate Espionage
+	15 Rank and Defile
+	15 Merciless Headsman
+	15 Noxious Conditions
+	15 Product of Nepotism
+	15 Extraction Mission
+	15 Gubernatorial Fundraiser
+	15 Flock Favorites
+	15 Corporate Mentor
+	15 Scathing Remarks
+	15 Gain Traction
+	15 Martyrize
+	15 Expendable Arsonist
+	15 Coercive Contractor
+	15 Patent Pending
+	15 Grassroots Campaigners
+	15 Cabinet Recruiter
+	15 Insurgency Mentor
+	15 Scourge of Capitalism
+	15 Prismatic Confluence
+	15 Sustainable Investments
+	15 Sleeper Insurgent
+	15 Sillaman Regrafter
+	15 Instigating Directive
+	15 Private Investigators
+	15 Eyes in the Sky
+	15 Loophole Exploiter
+	15 Metropolitan Champion
+	15 Nourishing Orator
+	15 Genetics Prodigy
+	15 Chittering Gargantua
+	15 Devoted Lackeys
+	15 Speculative Stockbroker
+	15 Underclass Hero
+	15 Social Engineering
+	15 Search and Seizure
+	15 Liquidate
+	15 Vertical Integration
+	15 Charity Match
+	15 Security Initiative
+	15 Silence the Opposition
+	15 Meeting of the Elites
+	15 Free Market
+	15 Together in Arms
+	15 Codename Spyder
+	15 The First Battalion
+	15 Sola, Contraband Playboy
+	15 Mondo, Outcast Maverick
+	15 Carlisle, Grid Globalizer
+	15 Central Processor
+	15 Assault Engine
+	15 Black-Tie Gala
+	15 Urban Twinmotors
+	15 Bioengineered Opus
+	15 Reconnaissance Agent
+	15 Blackout
+	15 Adaptive Hydra
+	15 Storm the Senate
+	15 Dissect
+	15 Tiril District
+	15 Hazakh District
+	15 Vishanki District
+	15 Penrath District
+	15 Sillaman District
+	7 Distributive Justice
+	7 Chromatic Rift
+	7 Mellan, Defense Attorney
+	7 Genotype Splicer
+	7 Severin's Masterwork
+	7 Army Reserves
+	7 Research Grant
+	7 Quid Pro Quo
+	7 Sterling, Federal Informant
+	7 Congressional Kraken
+	7 Demographer
+	7 Thesis on Mutation
+	7 Ascend to Power
+	7 The Venerable Veteran
+	7 Serve Again
+	7 Judge, Jury, and Executioner
+	7 Corrupt Congressman
+	7 Cryptology
+	7 Sparks of a Revolution
+	7 Puppet War
+	7 Alamer, Profit Rerecorder
+	7 Flaw in the System
+	7 Lightning Warmonger
+	7 Penrath Firearm
+	7 Golden Age
+	7 Chromagoyf
+	7 Aspiring Anarchist
+	7 Subsidized Market
+	7 Zeno, Planar Engineer
+	7 Disestablishmentarianism
+	7 Neuralinked Hive
+	7 Identity Forger
+	7 Campaign Rally
+	7 Empowered Revisionary
+	7 Eyes of the Bureau
+	7 Defect
+	7 Gatherer of Grievances
+	7 Vishanki Hellkite
+	7 Axiomatic Shift
+	7 Whirring Inspector
+	7 Envoy of the Fallen
+	7 Freightyard Scrappers
+	7 Penrath Dispatcher
+	7 Genome Project
+	7 Tiril Agenda
+	7 Hazakh Agenda
+	7 Vishanki Agenda
+	7 Penrath Agenda
+	7 Sillaman Agenda
+	7 Scandalous Revelation
+	7 Coup D'Etat
+	7 Work Safety Violation
+	7 Out With a Bang
+	7 Prime for Innovation
+	7 Estrathe, Center of Civilization
+	4 Incumbency
+	4 Gaze Upon Civilization
+	4 Old Times Ruminator
+	4 Venture Capitalist
+	4 Bulk Bioengineering
+	4 The Connaistone
+	4 Krint, Five Star
+	4 Chief Executive Dhante
+	4 Eo, the Great Equalizer
+	4 Severin, Sparkmind
+	4 The Quindral Accords
+	4 Garren, Returned Prophet
+	4 High Senator Talpa
+	4 Scrapyard Mecha
+	4 Survivors of the New World
+	4 Estrathian Gentrifiers
+	4 Tomer, Figurehead President
+	4 The Majority Whip
+	6 CNY CLIQUE TOKEN REMINDER
+	6 Anesthesiologist
+	15 Ballot Registrar
+	7 Dhante's Inferno
+	6 Evasive Tactics
+	6 Penrath Roperunner

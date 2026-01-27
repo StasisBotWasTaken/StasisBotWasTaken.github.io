@@ -9,7 +9,7 @@
     },
     {
         "card_name": "Gallas, Temporal Pioneer",
-        "number": 54,
+        "number": 55,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -129,7 +129,7 @@
     },
     {
         "card_name": "Ebb, the Amorphous",
-        "number": 46,
+        "number": 47,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "Eldstone of Serenity",
-        "number": 47,
+        "number": 48,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -209,7 +209,7 @@
     },
     {
         "card_name": "Entangled Infiltrator",
-        "number": 50,
+        "number": 51,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -249,7 +249,7 @@
     },
     {
         "card_name": "The Great Exodus",
-        "number": 56,
+        "number": 57,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -289,7 +289,7 @@
     },
     {
         "card_name": "I.E. Resonator",
-        "number": 58,
+        "number": 59,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -649,7 +649,7 @@
     },
     {
         "card_name": "Eldworld Sprite",
-        "number": 48,
+        "number": 49,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -689,7 +689,7 @@
     },
     {
         "card_name": "Examiner of Oddities",
-        "number": 51,
+        "number": 52,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -729,7 +729,7 @@
     },
     {
         "card_name": "Future-Proofer",
-        "number": 53,
+        "number": 54,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -769,7 +769,7 @@
     },
     {
         "card_name": "Gallas's Understudy",
-        "number": 55,
+        "number": 56,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -809,7 +809,7 @@
     },
     {
         "card_name": "Industrial Reclamation",
-        "number": 59,
+        "number": 60,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -849,7 +849,7 @@
     },
     {
         "card_name": "Modify the Canon",
-        "number": 62,
+        "number": 63,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1048,8 +1048,8 @@
         "position": ""
     },
     {
-        "card_name": "Enforce Equilibrium",
-        "number": 49,
+        "card_name": "Dormant Empiricist",
+        "number": 46,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1088,8 +1088,8 @@
         "position": ""
     },
     {
-        "card_name": "Fortuitous Cnidarians",
-        "number": 52,
+        "card_name": "Enforce Equilibrium",
+        "number": 50,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1128,8 +1128,8 @@
         "position": ""
     },
     {
-        "card_name": "I.E. Prognosticator",
-        "number": 57,
+        "card_name": "Fortuitous Cnidarians",
+        "number": 53,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1168,8 +1168,8 @@
         "position": ""
     },
     {
-        "card_name": "Iterate",
-        "number": 60,
+        "card_name": "I.E. Prognosticator",
+        "number": 58,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1208,7 +1208,7 @@
         "position": ""
     },
     {
-        "card_name": "Lost in Tomorrow",
+        "card_name": "Iterate",
         "number": 61,
         "shape": "normal",
         "set": "ABY",
@@ -1248,8 +1248,8 @@
         "position": ""
     },
     {
-        "card_name": "Omenweb Guardian",
-        "number": 63,
+        "card_name": "Lost in Tomorrow",
+        "number": 62,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,

@@ -1,4 +1,165 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Devoted Lackeys added.
+Anesthesiologist added.
+
+Devoted Lackies removed.
+Chromatic Rift Promo removed.
+Incumbency Promo !promo!design Stasis removed.
+Severin's Masterwork Promo removed.
+Gaze Upon Civilization Promo removed.
+Sparks of a Revolution Promo removed.
+Coup D'Etat Promo removed.
+Defect Promo removed.
+Search and Seizure Promo removed.
+Vishanki Hellkite Promo removed.
+Whirring Inspector Promo removed.
+Work Safety Violation Promo removed.
+Estrathe, Center of Civilization Promo removed.
+
+Seasoned Spymaster
+
+Rogue Justiciar
+
+Rigged Trial
+
+Deadly Dispute
+rules_text: As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Main Street Hooligang
+
+Revolutionary Throng
+
+Test Subject Alpha
+
+Inner City Scout
+
+Debt Collectors
+rules_text: Deathtouch
+{1}, {T}: Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Deathtouch
+{1}, {T}: Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Trailblazer Anarch
+
+Mutinous Inciter
+
+Getaway Proxy
+
+Noxious Conditions
+rules_text: All creatures get -2/-2 until end of turn. Until end of turn, whenever one of those creatures die, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => All creatures get -2/-2 until end of turn. Until end of turn, whenever one of those creatures die, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Insurgency Mentor
+
+Sustainable Investments
+rules_text: When Sustainable Investments enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Treasures you control have “{T}: Add one mana of any color.” => When Sustainable Investments enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Treasures you control have “{T}: Add one mana of any color.”
+
+Sleeper Insurgent
+
+Social Engineering
+
+Liquidate
+rules_text: Destroy target creature or planeswalker. Its controller creates a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Destroy target creature or planeswalker. Its controller creates a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Meeting of the Elites
+rules_text: [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Meeting of the Elites enters, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+You've sacrificed a nonland permanent this turn. => [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Meeting of the Elites enters, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+You've sacrificed a nonland permanent this turn.
+special_text: [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Meeting of the Elites enters, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+You've sacrificed a nonland permanent this turn. => [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Meeting of the Elites enters, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+You've sacrificed a nonland permanent this turn.
+
+Sola, Contraband Playboy
+rules_text: When Sola enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+{2}, Sacrifice a Treasure: You gain 3 life.
+{2}, Sacrifice a Treasure: Draw a card. => When Sola enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+{2}, Sacrifice a Treasure: You gain 3 life.
+{2}, Sacrifice a Treasure: Draw a card.
+
+Mondo, Outcast Maverick
+
+Black-Tie Gala
+rules_text: Creatures you control have “{T}: Create a Treasure token.” [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+{W}{U}{B}{R}{G}, Sacrifice Black-Tie Gala: Draw two cards. => Creatures you control have “{T}: Create a Treasure token.” [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+{W}{U}{B}{R}{G}, Sacrifice Black-Tie Gala: Draw two cards.
+
+Urban Twinmotors
+
+Reconnaissance Agent
+
+Distributive Justice
+
+Chromatic Rift
+
+Congressional Kraken
+
+Serve Again
+rules_text: Whenever a nontoken creature you control dies, create a token that's a copy of it, except it's a Minion and has decayed. [i](It loses all other creature types. It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Whenever a nontoken creature you control dies, you may exile it. If you do, create a token that's a copy of it, except it's a Minion and has decayed. [i](It loses all other creature types. It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Judge, Jury, and Executioner
+
+Flaw in the System
+
+Penrath Firearm
+
+Golden Age
+
+Chromagoyf
+
+Aspiring Anarchist
+
+Empowered Revisionary
+
+Envoy of the Fallen
+rules_text: Lifelink
+When Envoy of the Fallen enters, return any number of target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+Sacrifice another creature: Envoy of the Fallen deals 1 damage to each opponent. => Lifelink
+When Envoy of the Fallen enters, if it was cast, return any number of target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+Sacrifice another creature: Envoy of the Fallen deals 1 damage to each opponent.
+pt: 3/3 => 3/2
+
+Freightyard Scrappers
+
+Penrath Dispatcher
+
+Scandalous Revelation
+
+Gaze Upon Civilization
+
+Old Times Ruminator
+
+Venture Capitalist
+
+High Senator Talpa
+rules_text: Vigilance
+When High Senator Talpa enters or attacks, choose one —
+• If an opponent has more life than you, gain 3 life.
+• If an opponent controls more creatures than you, create a 1/1 colorless Soldier creature token.
+• If an opponent has more cards in hand than you, draw a card. => Vigilance
+Whenever High Senator Talpa enters or attacks, choose one —
+• If an opponent has more life than you, gain 3 life.
+• If an opponent controls more creatures than you, create a 1/1 colorless Soldier creature token.
+• If an opponent has more cards in hand than you, draw a card.
+
+Tomer, Figurehead President
+
+The Majority Whip
+
+CNY Chaneryx, Perfect Lifeform
+type: Legendary Creature — Leviathan => Token Legendary Creature — Leviathan
+
+Penrath Roperunner
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

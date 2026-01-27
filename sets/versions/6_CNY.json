@@ -3,7 +3,7 @@
     "formats": "",
     "trimmed": "n",
     "image_type": "png",
-    "draft_structure": "draft booster",
+    "draft_structure": "play booster",
     "unpreviewed": "empty",
     "cards": [
         {
@@ -118,7 +118,7 @@
             "loyalty": "",
             "artist": "Fuyuan Tee",
             "alias": "",
-            "notes": "Art Validated\n!update 101: Changed from Rogue to Rebel."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Retaliatory Outburst",
@@ -194,7 +194,7 @@
             "loyalty": "",
             "artist": "VOLTA",
             "alias": "",
-            "notes": "Art Validated\n!update 101: Changed from Rogue to Rebel."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Border Junction",
@@ -555,7 +555,7 @@
             "loyalty": "",
             "artist": "Sylvain Sarrailh",
             "alias": "",
-            "notes": "Changed: Now 1 mana less\nArt Validated\n!update nerfed: Approval now counts like party."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Senators' Chauffeur",
@@ -622,7 +622,7 @@
             "number": 75,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "As an additional cost to cast this spell, sacrifice an artifact or creature.\nDraw two cards and create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "As an additional cost to cast this spell, sacrifice an artifact or creature.\nDraw two cards and create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i]They say business is a cutthroat industry. The Vishanki aim slightly higher.[/i]",
             "pt": "",
             "special_text": "",
@@ -954,7 +954,7 @@
             "loyalty": "",
             "artist": "Ishmael Hoover",
             "alias": "",
-            "notes": "Art Validated\n!update 101: Changed from Rogue to Rebel."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Capital Maglev",
@@ -1011,7 +1011,7 @@
             "loyalty": "",
             "artist": "Thomas Elliott",
             "alias": "",
-            "notes": "Art Validated\n!update 101: Changed from Rogue to Rebel."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Hazakh Commandos",
@@ -1182,7 +1182,7 @@
             "loyalty": "",
             "artist": "JB Casacop",
             "alias": "",
-            "notes": "Changed: Now a 2/1 to avoid typeline match with voter\nArt Validated"
+            "notes": "Art Validated"
         },
         {
             "card_name": "Bouncers-for-Hire",
@@ -1239,7 +1239,7 @@
             "loyalty": "",
             "artist": "Christian Fell",
             "alias": "",
-            "notes": "Art Validated\n!update 101: Changed from Rogue to Rebel."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Invest",
@@ -1420,7 +1420,7 @@
             "number": 234,
             "color_identity": "BG",
             "cost": "{2}{BG}",
-            "rules_text": "Deathtouch\n{1}, {T}: Create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "Deathtouch\n{1}, {T}: Create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i]\u201cTime's up. It's your money or your head.\u201d[/i]",
             "pt": "1/3",
             "special_text": "",
@@ -1448,7 +1448,7 @@
             "loyalty": "",
             "artist": "Alex Alexandrov",
             "alias": "",
-            "notes": "Art Validated\n!update 101: Changed from Rogue to Rebel."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Pinnacle of Progress",
@@ -1543,7 +1543,7 @@
             "loyalty": "",
             "artist": "Aurelien Rantet",
             "alias": "",
-            "notes": "Art Validated\n!update 101: Changed from Rogue to Rebel."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Diplomatic Alliance",
@@ -1961,7 +1961,7 @@
             "loyalty": "",
             "artist": "Jarek Nocon",
             "alias": "",
-            "notes": "Art Validated\n!update 101: Changed from Rogue to Rebel."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Overbearing Researcher",
@@ -2313,7 +2313,7 @@
             "number": 85,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "All creatures get -2/-2 until end of turn. Until end of turn, whenever one of those creatures die, create a tapped Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "All creatures get -2/-2 until end of turn. Until end of turn, whenever one of those creatures die, create a tapped Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i]The Vishanki reward their hardest workers with a livelihood and the rest with their life.[/i]",
             "pt": "",
             "special_text": "",
@@ -2588,7 +2588,7 @@
             "loyalty": "",
             "artist": "Benjamin Giletti",
             "alias": "",
-            "notes": "Art Validated\n!update 101: Changed from Rogue to Rebel."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Scourge of Capitalism",
@@ -2636,7 +2636,7 @@
             "number": 154,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "When Sustainable Investments enters, create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]\nTreasures you control have \u201c{T}: Add one mana of any color.\u201d",
+            "rules_text": "When Sustainable Investments enters, create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]\nTreasures you control have \u201c{T}: Add one mana of any color.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2664,7 +2664,7 @@
             "loyalty": "",
             "artist": "Mathieu Lauffray",
             "alias": "",
-            "notes": "Art Validated\n!update 101: Changed from Rogue to Rebel."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Sillaman Regrafter",
@@ -2838,14 +2838,14 @@
             "notes": "Art Validated"
         },
         {
-            "card_name": "Devoted Lackies",
+            "card_name": "Devoted Lackeys",
             "color": "BR",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Assassin",
             "number": 174,
             "color_identity": "BR",
             "cost": "{B}{R}",
-            "rules_text": "Deathtouch\nWhen you sacrifice Devoted Lackies as a cost to cast a spell or activate an ability that isn't a mana ability, copy that spell or ability. You may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i]",
+            "rules_text": "Deathtouch\nWhen you sacrifice Devoted Lackeys as a cost to cast a spell or activate an ability that isn't a mana ability, copy that spell or ability. You may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2911,7 +2911,7 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
-            "notes": "Art Validated\n nerfed: Changed to sorcery."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Search and Seizure",
@@ -2940,7 +2940,7 @@
             "number": 196,
             "color_identity": "BR",
             "cost": "{B}{R}",
-            "rules_text": "Destroy target creature or planeswalker. Its controller creates a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "Destroy target creature or planeswalker. Its controller creates a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i]\u201cYour services are no longer needed. Your goods, however, may yet prove useful.\u201d\n\u2014Sola, Contraband Playboy[/i]",
             "pt": "",
             "special_text": "",
@@ -3057,10 +3057,10 @@
             "number": 197,
             "color_identity": "BR",
             "cost": "{B}{R}",
-            "rules_text": "[i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]\nWhen Meeting of the Elites enters, create a tapped Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]\nYou've sacrificed a nonland permanent this turn.",
+            "rules_text": "[i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]\nWhen Meeting of the Elites enters, create a tapped Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]\nYou've sacrificed a nonland permanent this turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]\nWhen Meeting of the Elites enters, create a tapped Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]\nYou've sacrificed a nonland permanent this turn.",
+            "special_text": "[i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]\nWhen Meeting of the Elites enters, create a tapped Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]\nYou've sacrificed a nonland permanent this turn.",
             "shape": "transform double faced",
             "set": "CNY",
             "loyalty": "",
@@ -3185,7 +3185,7 @@
             "number": 218,
             "color_identity": "BRG",
             "cost": "{B}{R}{G}",
-            "rules_text": "When Sola enters, create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]\n{2}, Sacrifice a Treasure: You gain 3 life.\n{2}, Sacrifice a Treasure: Draw a card.",
+            "rules_text": "When Sola enters, create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]\n{2}, Sacrifice a Treasure: You gain 3 life.\n{2}, Sacrifice a Treasure: Draw a card.",
             "flavor_text": "[i]\u201cLess-than-legal product is not beyond our reach. It'll just cost you a bit more.\u201d[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3213,7 +3213,7 @@
             "loyalty": "",
             "artist": "Aboy Singh",
             "alias": "",
-            "notes": "Art Validated\n!update 101: Changed from Rogue to Rebel."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Carlisle, Grid Globalizer",
@@ -3280,7 +3280,7 @@
             "number": 162,
             "color_identity": "WUBRG",
             "cost": "{B}{R}{G}",
-            "rules_text": "Creatures you control have \u201c{T}: Create a Treasure token.\u201d [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]\n{W}{U}{B}{R}{G}, Sacrifice Black-Tie Gala: Draw two cards.",
+            "rules_text": "Creatures you control have \u201c{T}: Create a Treasure token.\u201d [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]\n{W}{U}{B}{R}{G}, Sacrifice Black-Tie Gala: Draw two cards.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3308,7 +3308,7 @@
             "loyalty": "",
             "artist": "Nick Iorfino",
             "alias": "",
-            "notes": "Art Validated\n!update 101: Changed from Rogue to Rebel."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Bioengineered Opus",
@@ -3346,7 +3346,7 @@
             "loyalty": "",
             "artist": "Nino Setiawan",
             "alias": "",
-            "notes": "Art Validated\n!update buffed: Now an Insect."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Blackout",
@@ -3547,7 +3547,7 @@
             "loyalty2": "",
             "artist2": "Nazar Hrabovyi",
             "alias2": "",
-            "notes": "Art Validated\n!update adjusted: Was {2}{W}. Policy effects changed from three creatures. Equality changed from \"At the beginning of each combat, until end of turn, creatures you control have base power equal to the greatest base power among creatures you control and have base toughness equal to the greatest base toughness among creatures you control.\"\n!altleader {ql},{ql},{ql},{ql},{ql},{ql},"
+            "notes": "Art Validated\n!altleader {ql},{ql},{ql},{ql},{ql},{ql},"
         },
         {
             "card_name": "Chromatic Rift",
@@ -3566,7 +3566,7 @@
             "loyalty": "",
             "artist": "Geoffrey Amesse & Scribbl",
             "alias": "",
-            "notes": "Art Validated\n!update adjusted: Was Choose any number at {3}{W}{W}."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Mellan, Defense Attorney",
@@ -3729,7 +3729,7 @@
             "loyalty": "",
             "artist": "Monstermind Studios & Scribbl",
             "alias": "",
-            "notes": "Art Validated\n!update nerfed: Approval now counts like party."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Demographer",
@@ -3826,7 +3826,7 @@
             "number": 92,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Whenever a nontoken creature you control dies, create a token that's a copy of it, except it's a Minion and has decayed. [i](It loses all other creature types. It can't block. When it attacks, sacrifice it at end of combat.)[/i]",
+            "rules_text": "Whenever a nontoken creature you control dies, you may exile it. If you do, create a token that's a copy of it, except it's a Minion and has decayed. [i](It loses all other creature types. It can't block. When it attacks, sacrifice it at end of combat.)[/i]",
             "flavor_text": "[i]\u201cYour mission is not yet complete.\u201d\n\u2014Krint, Five Star[/i]",
             "pt": "",
             "special_text": "",
@@ -3854,7 +3854,7 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
-            "notes": "Art Validated\n!update nerfed: Approval now counts like party."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Corrupt Congressman",
@@ -3979,7 +3979,7 @@
             "loyalty": "",
             "artist": "Izzy Medrano",
             "alias": "",
-            "notes": "Art Validated\n!update adjusted: Ability was \"Whenever a player casts a spell, if no mana from a basic source was spent to cast it, Flaw in the System deals 2 damage to that player.\" Changed from Rogue to Rebel."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Lightning Warmonger",
@@ -4017,7 +4017,7 @@
             "loyalty": "",
             "artist": "Sonderflex & Schwa77",
             "alias": "",
-            "notes": "Art Validated\n!update 101: Changed from Rogue to Rebel."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Golden Age",
@@ -4047,7 +4047,7 @@
             "loyalty2": "",
             "artist2": "Terraform Studios",
             "alias2": "",
-            "notes": "Art Validated\n!altleader {ql},{ql},{ql},{ql},{ql},{ql},\n!update adjusted: Was {1}{G} with etb \"you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield, then shuffle.\""
+            "notes": "Art Validated\n!altleader {ql},{ql},{ql},{ql},{ql},{ql},"
         },
         {
             "card_name": "Chromagoyf",
@@ -4066,7 +4066,7 @@
             "loyalty": "",
             "artist": "Fan Zhang",
             "alias": "",
-            "notes": "Art Validated\n!update adjusted: Was X/X with trample for {1}{G}. Approval now counts like party."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Aspiring Anarchist",
@@ -4085,7 +4085,7 @@
             "loyalty": "",
             "artist": "Juan Diego Leon",
             "alias": "",
-            "notes": "Art Validated\n!update 101: Changed from Rogue to Rebel."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Subsidized Market",
@@ -4218,7 +4218,7 @@
             "loyalty": "",
             "artist": "Joshua Griffin",
             "alias": "",
-            "notes": "Art Validated\n!update 101: Changed from Rogue to Rebel."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Eyes of the Bureau",
@@ -4342,16 +4342,16 @@
             "number": 179,
             "color_identity": "UBR",
             "cost": "{1}{U}{B}{R}",
-            "rules_text": "Lifelink\nWhen Envoy of the Fallen enters, return any number of target creature cards with total mana value 3 or less from your graveyard to the battlefield.\nSacrifice another creature: Envoy of the Fallen deals 1 damage to each opponent.",
+            "rules_text": "Lifelink\nWhen Envoy of the Fallen enters, if it was cast, return any number of target creature cards with total mana value 3 or less from your graveyard to the battlefield.\nSacrifice another creature: Envoy of the Fallen deals 1 damage to each opponent.",
             "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "pt": "3/2",
             "special_text": "",
             "shape": "normal",
             "set": "CNY",
             "loyalty": "",
             "artist": "Francisco Badilla",
             "alias": "",
-            "notes": "Art Validated\n!renameof Exemplar of Grit\n!update reworked: Was Exemplar of Grit, a 3/1 Human Survivor for {U}{B}{R} with \"When ~ dies while attacking, return it to the battlefield tapped under its owner's control with a defender counter on it.\" \"When ~ dies while blocking, return it to the battlefield tapped under its owner's control with a decayed counter on it."
+            "notes": "Art Validated\n!renameof Exemplar of Grit"
         },
         {
             "card_name": "Freightyard Scrappers",
@@ -4370,7 +4370,7 @@
             "loyalty": "",
             "artist": "Felipe de Barros",
             "alias": "",
-            "notes": "Art Validated\n!update reworked: Was 3/3 for {B}{R}{G} that made a Treasure on attack and has \"X, Sacrifice an artifact: Return target artifact card with mana value X or less from your graveyard to the battlefield. Activate only as a sorcery and only once each turn.\""
+            "notes": "Art Validated"
         },
         {
             "card_name": "Penrath Dispatcher",
@@ -4389,7 +4389,7 @@
             "loyalty": "",
             "artist": "Liang Sinan",
             "alias": "",
-            "notes": "Art Validated\n!update reworked: Was a 3/2 for {R}{G}{W} with \"Whenever Penrath Dispatcher attacks, you may put a creature card with mana value less than or equal to Penrath Dispatcher's power from your hand onto the battlefield tapped and attacking.\", \"{2}: Penrath Dispatcher gets +1/+1 until end of turn.\""
+            "notes": "Art Validated"
         },
         {
             "card_name": "Genome Project",
@@ -4522,7 +4522,7 @@
             "loyalty": "",
             "artist": "Amy McCullough & Scribbl",
             "alias": "",
-            "notes": "Art Validated\n!update reworked: Was {X}{W}{U}{B} instant with \"As an additional cost to cast this spell, exile X cards from your graveyard.\" \"You draw X cards and gain X life, then each opponent loses X life.\""
+            "notes": "Art Validated"
         },
         {
             "card_name": "Coup D'Etat",
@@ -4655,7 +4655,7 @@
             "loyalty": "",
             "artist": "Volodymyr Donchenko",
             "alias": "",
-            "notes": "Art Validated\n!update adjusted: Can now play lands. Approval now counts like party."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Old Times Ruminator",
@@ -4674,7 +4674,7 @@
             "loyalty": "",
             "artist": "Borja Pindado",
             "alias": "",
-            "notes": "Art Validated\n!update was 3/3 for {2}{B}{B} that let you only cast cards from your graveyard during your turn, exiling cards that touched your graveyard."
+            "notes": "Art Validated"
         },
         {
             "card_name": "Venture Capitalist",
@@ -4693,7 +4693,7 @@
             "loyalty": "",
             "artist": "Mariusz Gandzel",
             "alias": "",
-            "notes": "Art Validated\n!update reworked: Was 2/2 for {1}{R}{R} with \"Whenever you cast an artifact spell, create a 0/0 colorless Robot artifact creature token with a +1/+1 counter on it.\" \"{2}, {T}: Add {R} for each artifact you control. Spend this mana only to cast artifact spells or activate abilities of artifacts.\""
+            "notes": "Art Validated"
         },
         {
             "card_name": "Bulk Bioengineering",
@@ -4855,7 +4855,7 @@
             "number": 192,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
-            "rules_text": "Vigilance\nWhen High Senator Talpa enters or attacks, choose one \u2014\n\u2022 If an opponent has more life than you, gain 3 life.\n\u2022 If an opponent controls more creatures than you, create a 1/1 colorless Soldier creature token.\n\u2022 If an opponent has more cards in hand than you, draw a card.",
+            "rules_text": "Vigilance\nWhenever High Senator Talpa enters or attacks, choose one \u2014\n\u2022 If an opponent has more life than you, gain 3 life.\n\u2022 If an opponent controls more creatures than you, create a 1/1 colorless Soldier creature token.\n\u2022 If an opponent has more cards in hand than you, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -4864,7 +4864,7 @@
             "loyalty": "",
             "artist": "Joel Chaim Holtzman",
             "alias": "",
-            "notes": "Art Validated\n!update adjusted: Was 3/3 without vigilance and \"When High Senator Talpa enters, choose target opponent. If you control fewer creatures than that player, create a number of 1/1 colorless Soldier creature tokens equal to the difference. If you have fewer cards in hand than that player, draw cards equal to the difference.\""
+            "notes": "Art Validated"
         },
         {
             "card_name": "Scrapyard Mecha",
@@ -4940,7 +4940,7 @@
             "loyalty": "",
             "artist": "Brenda van Vugt",
             "alias": "",
-            "notes": "Art Validated\n!update reworked: Was 2/2 for {3} with \"Spend only mana of different colors to cast this spell.\", \"For each color among permanents you control, the first multicolored spell you cast each turn costs one mana of that color less to cast. This effect reduces only the amount of colored mana you pay.\""
+            "notes": "Art Validated"
         },
         {
             "card_name": "The Majority Whip",
@@ -4959,7 +4959,7 @@
             "loyalty": "",
             "artist": "RX",
             "alias": "",
-            "notes": "Art Validated\n!update adjusted: Previously gave indestructible at max approval rather than ward. Previously had Equip {5}, discounted by the target's colors rather than the attach condition."
+            "notes": "Art Validated"
         },
         {
             "card_name": "CNY Tiril Bureau",
@@ -5193,7 +5193,7 @@
             "card_name": "CNY Chaneryx, Perfect Lifeform",
             "color": "WUG",
             "rarity": "common",
-            "type": "Legendary Creature \u2014 Leviathan",
+            "type": "Token Legendary Creature \u2014 Leviathan",
             "number": 4,
             "color_identity": "WUG",
             "cost": "",
@@ -5226,245 +5226,6 @@
             "artist": "Eddie Mendoza",
             "alias": "",
             "notes": "!!exportname CNY Equipment\n!update\n!related Penrath Firearm;\nArt Validated"
-        },
-        {
-            "card_name": "Chromatic Rift Promo",
-            "color": "W",
-            "rarity": "special",
-            "type": "Sorcery",
-            "number": 267,
-            "color_identity": "W",
-            "cost": "{2}{W}{W}",
-            "rules_text": "Choose one \u2014\n\u2022 Destroy all multicolored creatures.\n\u2022 Destroy all monocolored creatures.\n\u2022 Destroy all colorless creatures.",
-            "flavor_text": "[i]At once, centuries' worth of tolerance and stability was undone, and the horrors of Nylin's past subsumed it.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "CNY",
-            "loyalty": "",
-            "artist": "Cleopatra Motzel",
-            "alias": "",
-            "notes": "!!exportname Chromatic Rift Promo\nArt Validated\n!update\n\n!promo!design Stasis"
-        },
-        {
-            "card_name": "Incumbency Promo !promo!design Stasis",
-            "color": "W",
-            "rarity": "special",
-            "type": "Sorcery",
-            "number": 268,
-            "color_identity": "W",
-            "cost": "{1}{W}",
-            "rules_text": "Draw a card, gain 3 life, then make a pledge. [i](Create any white Clique enchantment token. If you already control a Clique, instead activate its Pledge without paying its cost.)[/i]\nIf you've cast four or more spells named Incumbency this game and there are five colors among permanents you control, you win the game.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "CNY",
-            "loyalty": "",
-            "artist": "Damian Krzywonos",
-            "alias": "",
-            "notes": "Art Validated\n!!exportname Incumbency Promo !promo!design Stasis\n!addtoken Tiril Bureau;1;Sillaman Laboratories;1;Penrath Insurgency;1\n!inpend pledge./add/ (Create any white Clique enchantment token. If you already control a Clique, instead activate its Pledge without paying its cost.)"
-        },
-        {
-            "card_name": "Severin's Masterwork Promo",
-            "color": "W",
-            "rarity": "special",
-            "type": "Legendary Enchantment",
-            "number": 269,
-            "color_identity": "WUG",
-            "cost": "{3}{W}",
-            "rules_text": "At the beginning of your end step, put a +1/+1 counter on each tapped creature you control.\n{G}{W}{U}, Remove five counters from among creatures you control, Sacrifice Severin's Masterwork: Create Chaneryx, Perfect Lifeform, a legendary 10/10 green, white, and blue Leviathan creature token with ward {10}.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "CNY",
-            "loyalty": "",
-            "artist": "Kenza Morvan",
-            "alias": "",
-            "notes": "!!exportname Severin's Masterwork Promo\n !promo!design Stasis"
-        },
-        {
-            "card_name": "Gaze Upon Civilization Promo",
-            "color": "U",
-            "rarity": "special",
-            "type": "Enchantment",
-            "number": 270,
-            "color_identity": "U",
-            "cost": "{3}{U}",
-            "rules_text": "You may look at the top card of your library any time.\nOnce during each of your turns, you may play a land or cast a spell with mana value less than or equal to your approval from your hand or the top of your library without paying its mana cost. [i](Your approval contains up to one different permanent of each color.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "CNY",
-            "loyalty": "",
-            "artist": "Sylvain Sarrailh",
-            "alias": "",
-            "notes": "!!exportname Gaze Upon Civilization Promo\n!update\n!promo!design Stasis"
-        },
-        {
-            "card_name": "Sparks of a Revolution Promo",
-            "color": "R",
-            "rarity": "special",
-            "type": "Enchantment \u2014 Policy",
-            "number": 272,
-            "color_identity": "R",
-            "cost": "{R}",
-            "rules_text": "[i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]\nWhen Sparks of a Revolution enters, create a 1/1 colorless Soldier creature token. It gains haste until end of turn.\nThree or more sources you controlled dealt damage this turn.\nA source you controlled dealt 3 or more damage this turn.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]\nWhen Sparks of a Revolution enters, create a 1/1 colorless Soldier creature token. It gains haste until end of turn.\nThree or more sources you controlled dealt damage this turn.\nA source you controlled dealt 3 or more damage this turn.",
-            "shape": "transform double faced",
-            "set": "CNY",
-            "loyalty": "",
-            "artist": "Tony Foti",
-            "alias": "",
-            "card_name2": "Freedom",
-            "color2": "R",
-            "type2": "Legendary Enchantment",
-            "cost2": "",
-            "rules_text2": "Whenever you attack, create a 1/1 colorless Soldier creature token that's tapped and attacking.",
-            "flavor_text2": "[i]Liberty is not a bell that tolls somewhere off on the horizon; liberty is the ability to strike it.[/i]",
-            "pt2": "",
-            "special_text2": "",
-            "loyalty2": "",
-            "artist2": "Adrian Marc",
-            "alias2": "",
-            "notes": "Art Validated\n!update\n!!exportname Sparks of a Revolution Promo\n\n!promo!design Stasis\n!altleader {ql},{ql},{ql},{ql},{ql},{ql},"
-        },
-        {
-            "card_name": "Coup D'Etat Promo",
-            "color": "UBR",
-            "rarity": "special",
-            "type": "Sorcery",
-            "number": 274,
-            "color_identity": "UBR",
-            "cost": "{X}{U}{B}{R}",
-            "rules_text": "Choose up to X target creatures. Switch their power and toughness until end of turn.\nAll creatures get -3/-3 until end of turn.",
-            "flavor_text": "[i]\u201cShort-term violence is a small price to pay to put the right people in power.\u201d\n\u2014Krint, Five Star[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "CNY",
-            "loyalty": "",
-            "artist": "Argentics",
-            "alias": "",
-            "notes": "!!exportname Coup D'Etat Promo\n\n!promo!design Stasis"
-        },
-        {
-            "card_name": "Defect Promo",
-            "color": "UB",
-            "rarity": "special",
-            "type": "Enchantment \u2014 Aura",
-            "number": 275,
-            "color_identity": "UB",
-            "cost": "{1}{U}{B}",
-            "rules_text": "Enchant creature\nYou control enchanted creature.\nEnchanted creature has decayed.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "CNY",
-            "loyalty": "",
-            "artist": "Grzegorz Przybys",
-            "alias": "",
-            "notes": "!!exportname Defect Promo\nArt Validated\n\n!promo!design Stasis\n!append (It can't block. When it attacks, sacrifice it at end of combat.)"
-        },
-        {
-            "card_name": "Search and Seizure Promo",
-            "color": "UB",
-            "rarity": "special",
-            "type": "Sorcery",
-            "number": 276,
-            "color_identity": "UB",
-            "cost": "{U}{B}",
-            "rules_text": "Target player reveals their hand. You may choose a nonland card from it. If you do, that player discards that card. Otherwise, draw a card.",
-            "flavor_text": "[i]Access to the Tiril hivemind is impossible for even the most advanced hackers, but required for uncooperative criminals.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "CNY",
-            "loyalty": "",
-            "artist": "Eddie Mendoza",
-            "alias": "",
-            "notes": "!!exportname Search and Seizure Promo\nArt Validated\n\n!promo!design Stasis"
-        },
-        {
-            "card_name": "Vishanki Hellkite Promo",
-            "color": "RG",
-            "rarity": "special",
-            "type": "Creature \u2014 Dragon",
-            "number": 277,
-            "color_identity": "RG",
-            "cost": "{4}{R}{G}",
-            "rules_text": "Flying, trample, haste\nVishanki Hellkite enters with a +1/+1 counter on it for each mana from an artifact source spent to cast it.",
-            "flavor_text": "[i]Money talks, but destruction roars.[/i]",
-            "pt": "4/4",
-            "special_text": "",
-            "shape": "normal",
-            "set": "CNY",
-            "loyalty": "",
-            "artist": "Devin Elle Kurtz",
-            "alias": "",
-            "notes": "!!exportname Vishanki Hellkite Promo\nChanged: Only cares about artifact sources, not nonland\n!promo!design Stasis"
-        },
-        {
-            "card_name": "Whirring Inspector Promo",
-            "color": "WUB",
-            "rarity": "special",
-            "type": "Artifact Creature \u2014 Insect Eye",
-            "number": 278,
-            "color_identity": "WUB",
-            "cost": "{W}{U}{B}",
-            "rules_text": "Flash\nFlying\nWhen Whirring Inspector enters, look at target player's hand. You may exile a nonland card from it until your next turn. When you don't, exile up to one target nonland permanent that player controls until your next turn.",
-            "flavor_text": "[i][/i]",
-            "pt": "3/2",
-            "special_text": "",
-            "shape": "normal",
-            "set": "CNY",
-            "loyalty": "",
-            "artist": "JB Casacop",
-            "alias": "",
-            "notes": "!!exportname Whirring Inspector Promo\n!promo!design Stasis\n!append (That card returns to its owner's hand, or that permanent returns to the battlefield under its owner's control.)"
-        },
-        {
-            "card_name": "Work Safety Violation Promo",
-            "color": "BRG",
-            "rarity": "special",
-            "type": "Sorcery",
-            "number": 279,
-            "color_identity": "BRG",
-            "cost": "{B}{R}{G}",
-            "rules_text": "Destroy target nonland permanent. Create a Treasure token.",
-            "flavor_text": "[i]\u201cWhat are you talking about? Of course I'm forklift certified!\u201d\n\u2014Torple, Vishanki Hireling, last words[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "CNY",
-            "loyalty": "",
-            "artist": "Anna Butova",
-            "alias": "",
-            "notes": "NSFW \n!!exportname Work Safety Violation Promo\nArt Validated\n\n!promo!design Stasis"
-        },
-        {
-            "card_name": "Estrathe, Center of Civilization Promo",
-            "color": "",
-            "rarity": "special",
-            "type": "Legendary Land",
-            "number": 280,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "{T}: Add {C}.\n{2}, {T}: For each color among permanents you control, add one mana of that color.",
-            "flavor_text": "[i]Its tallest skyscraper a symbol of the heights Nylin has reached. Its lowest slum a symbol of the cost to reach it.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "CNY",
-            "loyalty": "",
-            "artist": "Maxim Dadin",
-            "alias": "",
-            "notes": "!!exportname Estrathe, Center of Civilization Promo\nArt Validated\n\n !promo!design Stasis"
         },
         {
             "card_name": "Forest",
@@ -5562,6 +5323,25 @@
             "notes": ""
         },
         {
+            "card_name": "Anesthesiologist",
+            "color": "G",
+            "rarity": "common",
+            "type": "Creature \u2014 Human Artificer",
+            "number": 127,
+            "color_identity": "G",
+            "cost": "{1}{G}",
+            "rules_text": "Whenever Anesthesiologist attacks, teach Anesthesiologist lifelink if you control a white permanent. Otherwise, you gain 2 life. [i](To teach lifelink, put a lifelink counter on it. If it already has lifelink, put a +1/+1 counter on it instead.)[/i]",
+            "flavor_text": "[i]World-class medicine made exclusively by the fittest, for the fittest.[/i]",
+            "pt": "2/1",
+            "special_text": "",
+            "shape": "normal",
+            "set": "CNY",
+            "loyalty": "",
+            "artist": "Javier Charro",
+            "alias": "",
+            "notes": "Art Validated"
+        },
+        {
             "card_name": "Ballot Registrar",
             "color": "U",
             "rarity": "uncommon",
@@ -5635,7 +5415,7 @@
             "loyalty": "",
             "artist": "Gaspar Gombos",
             "alias": "",
-            "notes": "Art Validated\n!update 101: Changed from Rogue to Rebel."
+            "notes": "Art Validated"
         },
         {
             "card_name": "The Codex",

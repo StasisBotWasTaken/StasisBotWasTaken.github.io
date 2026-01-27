@@ -5,7 +5,7 @@
 			<name>CNY</name>
 			<longname>CNY</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-25</releasedate>
+			<releasedate>2026-01-26</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -570,7 +570,7 @@ When Senators&apos; Chauffeur dies, exile it.</text>
 		<card>
 			<name>Deadly Dispute</name>
 			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
-Draw two cards and create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+Draw two cards and create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/75_Deadly Dispute.png" num="75">CNY</set>
 			<prop>
 				<layout>normal</layout>
@@ -1300,7 +1300,7 @@ When Estrathian Philanthropist enters, put a +1/+1 counter on target creature.</
 		<card>
 			<name>Debt Collectors</name>
 			<text>Deathtouch
-{1}, {T}: Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+{1}, {T}: Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/234_Debt Collectors.png" num="234">CNY</set>
 			<prop>
 				<layout>normal</layout>
@@ -2125,7 +2125,7 @@ As long as a creature card or creature token was put into your graveyard from an
 		</card>
 		<card>
 			<name>Noxious Conditions</name>
-			<text>All creatures get -2/-2 until end of turn. Until end of turn, whenever one of those creatures die, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<text>All creatures get -2/-2 until end of turn. Until end of turn, whenever one of those creatures die, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/85_Noxious Conditions.png" num="85">CNY</set>
 			<prop>
 				<layout>normal</layout>
@@ -2418,7 +2418,7 @@ When Scourge of Capitalism enters, it fights target creature with the greatest p
 		</card>
 		<card>
 			<name>Sustainable Investments</name>
-			<text>When Sustainable Investments enters, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)
+			<text>When Sustainable Investments enters, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
 Treasures you control have &quot;{T}: Add one mana of any color.&quot;</text>
 			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/154_Sustainable Investments.png" num="154">CNY</set>
 			<prop>
@@ -2612,10 +2612,10 @@ Flying</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Devoted Lackies</name>
+			<name>Devoted Lackeys</name>
 			<text>Deathtouch
-When you sacrifice Devoted Lackies as a cost to cast a spell or activate an ability that isn&apos;t a mana ability, copy that spell or ability. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/174_Devoted Lackies.png" num="174">CNY</set>
+When you sacrifice Devoted Lackeys as a cost to cast a spell or activate an ability that isn&apos;t a mana ability, copy that spell or ability. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)</text>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/174_Devoted Lackeys.png" num="174">CNY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2699,7 +2699,7 @@ Spells you cast and abilities you activate that target creatures you control cos
 		</card>
 		<card>
 			<name>Liquidate</name>
-			<text>Destroy target creature or planeswalker. Its controller creates a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<text>Destroy target creature or planeswalker. Its controller creates a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/196_Liquidate.png" num="196">CNY</set>
 			<prop>
 				<layout>normal</layout>
@@ -2832,7 +2832,7 @@ Creatures you don&apos;t control get -1/-0.
 		<card>
 			<name>Meeting of the Elites</name>
 			<text>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)
-When Meeting of the Elites enters, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)
+When Meeting of the Elites enters, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
 You&apos;ve sacrificed a nonland permanent this turn.
 ---
 (Back): Aristocracy</text>
@@ -2990,7 +2990,7 @@ Minions you control lose all abilities.</text>
 		</card>
 		<card>
 			<name>Sola, Contraband Playboy</name>
-			<text>When Sola enters, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)
+			<text>When Sola enters, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
 {2}, Sacrifice a Treasure: You gain 3 life.
 {2}, Sacrifice a Treasure: Draw a card.</text>
 			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/218_Sola, Contraband Playboy.png" num="218">CNY</set>
@@ -3083,7 +3083,7 @@ Crew 2</text>
 		</card>
 		<card>
 			<name>Black-Tie Gala</name>
-			<text>Creatures you control have &quot;{T}: Create a Treasure token.&quot; (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)
+			<text>Creatures you control have &quot;{T}: Create a Treasure token.&quot; (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
 {W}{U}{B}{R}{G}, Sacrifice Black-Tie Gala: Draw two cards.</text>
 			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/162_Black-Tie Gala.png" num="162">CNY</set>
 			<prop>
@@ -3629,7 +3629,7 @@ You may cast The Venerable Veteran from your graveyard.</text>
 		</card>
 		<card>
 			<name>Serve Again</name>
-			<text>Whenever a nontoken creature you control dies, create a token that&apos;s a copy of it, except it&apos;s a Minion and has decayed. (It loses all other creature types. It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<text>Whenever a nontoken creature you control dies, you may exile it. If you do, create a token that&apos;s a copy of it, except it&apos;s a Minion and has decayed. (It loses all other creature types. It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
 			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/92_Serve Again.png" num="92">CNY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4132,7 +4132,7 @@ When Whirring Inspector enters, look at target player&apos;s hand. You may exile
 		<card>
 			<name>Envoy of the Fallen</name>
 			<text>Lifelink
-When Envoy of the Fallen enters, return any number of target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+When Envoy of the Fallen enters, if it was cast, return any number of target creature cards with total mana value 3 or less from your graveyard to the battlefield.
 Sacrifice another creature: Envoy of the Fallen deals 1 damage to each opponent.</text>
 			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/179_Envoy of the Fallen.png" num="179">CNY</set>
 			<prop>
@@ -4144,7 +4144,7 @@ Sacrifice another creature: Envoy of the Fallen deals 1 damage to each opponent.
 				<cmc>4</cmc>
 				<colors>UBR</colors>
 				<coloridentity>UBR</coloridentity>
-				<pt>3/3</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4618,7 +4618,7 @@ Pledge — {3}{W}{U}{B}{R}{G}: Create a 5/5 Robot artifact creature token named 
 		<card>
 			<name>High Senator Talpa</name>
 			<text>Vigilance
-When High Senator Talpa enters or attacks, choose one —
+Whenever High Senator Talpa enters or attacks, choose one —
 • If an opponent has more life than you, gain 3 life.
 • If an opponent controls more creatures than you, create a 1/1 colorless Soldier creature token.
 • If an opponent has more cards in hand than you, draw a card.</text>
@@ -5076,7 +5076,7 @@ This creature can&apos;t block.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Leviathan</type>
+				<type>Token Legendary Creature — Leviathan</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -5104,236 +5104,6 @@ Equip {2}</text>
 			<tablerow>1</tablerow>
 			<token>1</token>
 			<reverse_related>Penrath Firearm</reverse_related>
-		</card>
-		<card>
-			<name>Chromatic Rift Promo</name>
-			<text>Choose one —
-• Destroy all multicolored creatures.
-• Destroy all monocolored creatures.
-• Destroy all colorless creatures.</text>
-			<set rarity="special" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/267_Chromatic Rift Promo.png" num="267">CNY</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>2WW</manacost>
-				<cmc>4</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Incumbency Promo !promo!design Stasis</name>
-			<text>Draw a card, gain 3 life, then make a pledge. (Create any white Clique enchantment token. If you already control a Clique, instead activate its Pledge without paying its cost.)
-If you&apos;ve cast four or more spells named Incumbency this game and there are five colors among permanents you control, you win the game.</text>
-			<set rarity="special" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/268_Incumbency Promo !promo!design Stasis.png" num="268">CNY</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Severin&apos;s Masterwork Promo</name>
-			<text>At the beginning of your end step, put a +1/+1 counter on each tapped creature you control.
-{G}{W}{U}, Remove five counters from among creatures you control, Sacrifice Severin&apos;s Masterwork: Create Chaneryx, Perfect Lifeform, a legendary 10/10 green, white, and blue Leviathan creature token with ward {10}.</text>
-			<set rarity="special" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/269_Severin&apos;s Masterwork Promo.png" num="269">CNY</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Enchantment</type>
-				<maintype>Enchantment</maintype>
-				<manacost>3W</manacost>
-				<cmc>4</cmc>
-				<colors>W</colors>
-				<coloridentity>WUG</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Gaze Upon Civilization Promo</name>
-			<text>You may look at the top card of your library any time.
-Once during each of your turns, you may play a land or cast a spell with mana value less than or equal to your approval from your hand or the top of your library without paying its mana cost. (Your approval contains up to one different permanent of each color.)</text>
-			<set rarity="special" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/270_Gaze Upon Civilization Promo.png" num="270">CNY</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Enchantment</type>
-				<maintype>Enchantment</maintype>
-				<manacost>3U</manacost>
-				<cmc>4</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Sparks of a Revolution Promo</name>
-			<text>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)
-When Sparks of a Revolution enters, create a 1/1 colorless Soldier creature token. It gains haste until end of turn.
-Three or more sources you controlled dealt damage this turn.
-A source you controlled dealt 3 or more damage this turn.
----
-(Back): Freedom</text>
-			<set rarity="special" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/272_Sparks of a Revolution Promo_front.png" num="272a">CNY</set>
-			<prop>
-				<layout>transform</layout>
-				<side>front</side>
-				<type>Enchantment — Policy</type>
-				<maintype>Enchantment</maintype>
-				<manacost>R</manacost>
-				<cmc>1</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-			<related attach="transform">Freedom</related>
-		</card>
-		<card>
-			<name>Freedom</name>
-			<text>Whenever you attack, create a 1/1 colorless Soldier creature token that&apos;s tapped and attacking.
----
-(Front): Sparks of a Revolution Promo</text>
-			<set rarity="special" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/272_Sparks of a Revolution Promo_back.png" num="272b">CNY</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Legendary Enchantment</type>
-				<maintype>Enchantment</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-			<related attach="transform">Sparks of a Revolution Promo</related>
-		</card>
-		<card>
-			<name>Coup D&apos;Etat Promo</name>
-			<text>Choose up to X target creatures. Switch their power and toughness until end of turn.
-All creatures get -3/-3 until end of turn.</text>
-			<set rarity="special" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/274_Coup D&apos;Etat Promo.png" num="274">CNY</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>XUBR</manacost>
-				<cmc>3</cmc>
-				<colors>UBR</colors>
-				<coloridentity>UBR</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Defect Promo</name>
-			<text>Enchant creature
-You control enchanted creature.
-Enchanted creature has decayed.</text>
-			<set rarity="special" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/275_Defect Promo.png" num="275">CNY</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Enchantment — Aura</type>
-				<maintype>Enchantment</maintype>
-				<manacost>1UB</manacost>
-				<cmc>3</cmc>
-				<colors>UB</colors>
-				<coloridentity>UB</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Search and Seizure Promo</name>
-			<text>Target player reveals their hand. You may choose a nonland card from it. If you do, that player discards that card. Otherwise, draw a card.</text>
-			<set rarity="special" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/276_Search and Seizure Promo.png" num="276">CNY</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>UB</manacost>
-				<cmc>2</cmc>
-				<colors>UB</colors>
-				<coloridentity>UB</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Vishanki Hellkite Promo</name>
-			<text>Flying, trample, haste
-Vishanki Hellkite enters with a +1/+1 counter on it for each mana from an artifact source spent to cast it.</text>
-			<set rarity="special" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/277_Vishanki Hellkite Promo.png" num="277">CNY</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Dragon</type>
-				<maintype>Creature</maintype>
-				<manacost>4RG</manacost>
-				<cmc>6</cmc>
-				<colors>RG</colors>
-				<coloridentity>RG</coloridentity>
-				<pt>4/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Whirring Inspector Promo</name>
-			<text>Flash
-Flying
-When Whirring Inspector enters, look at target player&apos;s hand. You may exile a nonland card from it until your next turn. When you don&apos;t, exile up to one target nonland permanent that player controls until your next turn.</text>
-			<set rarity="special" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/278_Whirring Inspector Promo.png" num="278">CNY</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Artifact Creature — Insect Eye</type>
-				<maintype>Creature</maintype>
-				<manacost>WUB</manacost>
-				<cmc>3</cmc>
-				<colors>WUB</colors>
-				<coloridentity>WUB</coloridentity>
-				<pt>3/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Work Safety Violation Promo</name>
-			<text>Destroy target nonland permanent. Create a Treasure token.</text>
-			<set rarity="special" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/279_Work Safety Violation Promo.png" num="279">CNY</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>BRG</manacost>
-				<cmc>3</cmc>
-				<colors>BRG</colors>
-				<coloridentity>BRG</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Estrathe, Center of Civilization Promo</name>
-			<text>{T}: Add {C}.
-{2}, {T}: For each color among permanents you control, add one mana of that color.</text>
-			<set rarity="special" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/280_Estrathe, Center of Civilization Promo.png" num="280">CNY</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
 		</card>
 		<card>
 			<name>Forest</name>
@@ -5409,6 +5179,23 @@ When Whirring Inspector enters, look at target player&apos;s hand. You may exile
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Anesthesiologist</name>
+			<text>Whenever Anesthesiologist attacks, teach Anesthesiologist lifelink if you control a white permanent. Otherwise, you gain 2 life. (To teach lifelink, put a lifelink counter on it. If it already has lifelink, put a +1/+1 counter on it instead.)</text>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/127_Anesthesiologist.png" num="127">CNY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Ballot Registrar</name>

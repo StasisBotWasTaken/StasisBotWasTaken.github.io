@@ -5,7 +5,7 @@
 			<name>ABY</name>
 			<longname>A Better Yesterday</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-25</releasedate>
+			<releasedate>2026-01-26</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -274,14 +274,13 @@ You get {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}. (Once 
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Sifter of Futures Forgotten</name>
-			<text>When this creature enters, create a Gear token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.&quot;)
-{1}, {T}: Target player mills two cards.</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/69_Sifter of Futures Forgotten.png" num="69">ABY</set>
+			<name>Dormant Empiricist</name>
+			<text>At the beginning of your upkeep, you may put a +1/+1 counter on this creature. If you do, tap it.</text>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/46_Dormant Empiricist.png" num="46">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Artificer</type>
+				<type>Creature — Human Scientist</type>
 				<maintype>Creature</maintype>
 				<manacost>1U</manacost>
 				<cmc>2</cmc>
@@ -345,14 +344,14 @@ This creature can&apos;t be blocked as long as you&apos;ve drawn two or more car
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Omenweb Guardian</name>
-			<text>Flash
-When this creature enters, return up to one other target creature you control to its owner&apos;s hand.</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/63_Omenweb Guardian.png" num="63">ABY</set>
+			<name>Sifter of Futures Forgotten</name>
+			<text>When this creature enters, create a Gear token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.&quot;)
+{1}, {T}: Target player mills two cards.</text>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/69_Sifter of Futures Forgotten.png" num="69">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Warrior</type>
+				<type>Creature — Human Artificer</type>
 				<maintype>Creature</maintype>
 				<manacost>2U</manacost>
 				<cmc>3</cmc>
@@ -366,7 +365,7 @@ When this creature enters, return up to one other target creature you control to
 			<name>I.E. Prognosticator</name>
 			<text>Flying
 At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/57_I.E. Prognosticator.png" num="57">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/58_I.E. Prognosticator.png" num="58">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -384,7 +383,7 @@ At the beginning of your upkeep, surveil 1. (Look at the top card of your librar
 			<name>Fortuitous Cnidarians</name>
 			<text>Flying
 When this creature enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/52_Fortuitous Cnidarians.png" num="52">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/53_Fortuitous Cnidarians.png" num="53">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -421,7 +420,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 			<name>Lost in Tomorrow</name>
 			<text>Target creature phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)
 You get {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}. (Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/61_Lost in Tomorrow.png" num="61">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/62_Lost in Tomorrow.png" num="62">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -437,7 +436,7 @@ You get {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}. (Once 
 		<card>
 			<name>Enforce Equilibrium</name>
 			<text>Counter target spell. You get {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}. (Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/49_Enforce Equilibrium.png" num="49">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/50_Enforce Equilibrium.png" num="50">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -453,7 +452,7 @@ You get {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}. (Once 
 		<card>
 			<name>Iterate</name>
 			<text>Draw a card. Create a Gear token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/60_Iterate.png" num="60">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/61_Iterate.png" num="61">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1862,7 +1861,7 @@ Flux 2 — Creatures you control get +1/+1 until end of turn. (On your upkeep, p
 		<card>
 			<name>Gallas&apos;s Understudy</name>
 			<text>Whenever you draw a card, you get {ChronoCounterSymbolsChrono.png}. (Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/55_Gallas&apos;s Understudy.png" num="55">ABY</set>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/56_Gallas&apos;s Understudy.png" num="56">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1880,7 +1879,7 @@ Flux 2 — Creatures you control get +1/+1 until end of turn. (On your upkeep, p
 			<name>Future-Proofer</name>
 			<text>Whenever this creature attacks, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 {3}{U}{U}: Put a stun counter on target creature.</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/53_Future-Proofer.png" num="53">ABY</set>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/54_Future-Proofer.png" num="54">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1898,7 +1897,7 @@ Flux 2 — Creatures you control get +1/+1 until end of turn. (On your upkeep, p
 			<name>Examiner of Oddities</name>
 			<text>When this creature enters, create a Gear token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.&quot;)
 {1}, {T}: Draw a card, then discard a card unless you&apos;ve drawn three or more cards this turn.</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/51_Examiner of Oddities.png" num="51">ABY</set>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/52_Examiner of Oddities.png" num="52">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1917,7 +1916,7 @@ Flux 2 — Creatures you control get +1/+1 until end of turn. (On your upkeep, p
 			<text>Flash
 Flying
 Whenever you cast a spell, you may tap target creature.</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/48_Eldworld Sprite.png" num="48">ABY</set>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/49_Eldworld Sprite.png" num="49">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1990,7 +1989,7 @@ You may spend chrono counters to take additional steps and phases any number of 
 			<name>Modify the Canon</name>
 			<text>This spell costs {X} less to cast, where X is the number of different kinds of counters among permanents you control.
 Counter target spell unless its controller pays {X}.</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/62_Modify the Canon.png" num="62">ABY</set>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/63_Modify the Canon.png" num="63">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2055,7 +2054,7 @@ At the beginning of enchanted player&apos;s first upkeep each turn, that player 
 		<card>
 			<name>Industrial Reclamation</name>
 			<text>At the beginning of your upkeep, untap all lands you control.</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/59_Industrial Reclamation.png" num="59">ABY</set>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/60_Industrial Reclamation.png" num="60">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3506,7 +3505,7 @@ Exile Fracture the Path.</text>
 			<name>I.E. Resonator</name>
 			<text>{1}, {T}: Copy target triggered ability you control. You may choose new targets for the copy.
 Sacrifice an artifact: Untap this creature.</text>
-			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/58_I.E. Resonator.png" num="58">ABY</set>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/59_I.E. Resonator.png" num="59">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3524,7 +3523,7 @@ Sacrifice an artifact: Untap this creature.</text>
 			<name>Entangled Infiltrator</name>
 			<text>When this creature enters, surveil 2.
 Whenever a creature you control deals combat damage to a player, you may exile it, then return it to the battlefield tapped under its owner&apos;s control.</text>
-			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/50_Entangled Infiltrator.png" num="50">ABY</set>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/51_Entangled Infiltrator.png" num="51">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3612,7 +3611,7 @@ Return Timecoil Tracings to its owner&apos;s hand.</text>
 			<name>Ebb, the Amorphous</name>
 			<text>Ebb can&apos;t be blocked by creatures with greater power.
 Whenever Ebb attacks, you may have it become a copy of another target attacking creature until end of turn, except it&apos;s 1/1 and it can&apos;t be blocked by creatures with greater power.</text>
-			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/46_Ebb, the Amorphous.png" num="46">ABY</set>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/47_Ebb, the Amorphous.png" num="47">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3630,7 +3629,7 @@ Whenever Ebb attacks, you may have it become a copy of another target attacking 
 			<name>The Great Exodus</name>
 			<text>Return all creatures to their owner&apos;s hands.
 You may cast a spell with mana value X or less from your hand without paying its mana cost, where X is the number of Paths you control plus the number of Paths cards in your graveyard.</text>
-			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/56_The Great Exodus.png" num="56">ABY</set>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/57_The Great Exodus.png" num="57">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4363,7 +4362,7 @@ When you cycle this card, return up to one target creature card with mana value 
 			<text>{U}, {T}: Tap target nonland permanent. Put a stun counter on it.
 Basic landcycling {1}{U} ({1}{U}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 When you cycle this card, tap up to one target nonland permanent.</text>
-			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/47_Eldstone of Serenity.png" num="47">ABY</set>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/48_Eldstone of Serenity.png" num="48">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4471,7 +4470,7 @@ Whenever another creature you control enters, put a +1/+1 counter on this creatu
 			<name>Gallas, Temporal Pioneer</name>
 			<text>Whenever you cast a spell, you get {ChronoCounterSymbolsChrono.png} for each spell you&apos;ve cast this turn. (Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)
 {T}, Pay {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}: If it isn&apos;t an extra turn, take an extra turn after this one. Activate only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/54_Gallas, Temporal Pioneer.png" num="54">ABY</set>
+			<set rarity="mythic" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/55_Gallas, Temporal Pioneer.png" num="55">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

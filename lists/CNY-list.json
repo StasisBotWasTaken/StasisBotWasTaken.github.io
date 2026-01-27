@@ -672,8 +672,8 @@
         "position": ""
     },
     {
-        "card_name": "Bouncers-for-Hire",
-        "number": 129,
+        "card_name": "Anesthesiologist",
+        "number": 127,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -712,8 +712,8 @@
         "position": ""
     },
     {
-        "card_name": "Demolition Team",
-        "number": 133,
+        "card_name": "Bouncers-for-Hire",
+        "number": 129,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -752,8 +752,8 @@
         "position": ""
     },
     {
-        "card_name": "Escalated Tensions",
-        "number": 135,
+        "card_name": "Demolition Team",
+        "number": 133,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -792,8 +792,8 @@
         "position": ""
     },
     {
-        "card_name": "Gerrymanderer",
-        "number": 137,
+        "card_name": "Escalated Tensions",
+        "number": 135,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -832,8 +832,8 @@
         "position": ""
     },
     {
-        "card_name": "Idealistic Voter",
-        "number": 140,
+        "card_name": "Gerrymanderer",
+        "number": 137,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -872,8 +872,8 @@
         "position": ""
     },
     {
-        "card_name": "Inner City Scout",
-        "number": 141,
+        "card_name": "Idealistic Voter",
+        "number": 140,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -912,8 +912,8 @@
         "position": ""
     },
     {
-        "card_name": "International Development",
-        "number": 144,
+        "card_name": "Inner City Scout",
+        "number": 141,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -952,8 +952,8 @@
         "position": ""
     },
     {
-        "card_name": "Invest",
-        "number": 145,
+        "card_name": "International Development",
+        "number": 144,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -992,8 +992,8 @@
         "position": ""
     },
     {
-        "card_name": "Mana Harvesters",
-        "number": 146,
+        "card_name": "Invest",
+        "number": 145,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -1032,8 +1032,8 @@
         "position": ""
     },
     {
-        "card_name": "Ram Through",
-        "number": 148,
+        "card_name": "Mana Harvesters",
+        "number": 146,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -1072,8 +1072,8 @@
         "position": ""
     },
     {
-        "card_name": "Ruinous Discovery",
-        "number": 149,
+        "card_name": "Ram Through",
+        "number": 148,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -1112,8 +1112,8 @@
         "position": ""
     },
     {
-        "card_name": "Test Subject Alpha",
-        "number": 155,
+        "card_name": "Ruinous Discovery",
+        "number": 149,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -1152,8 +1152,8 @@
         "position": ""
     },
     {
-        "card_name": "Triumphant Herd",
-        "number": 156,
+        "card_name": "Test Subject Alpha",
+        "number": 155,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -1192,77 +1192,12 @@
         "position": ""
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Chromatic Rift Promo",
-        "number": 267,
+        "card_name": "Triumphant Herd",
+        "number": 156,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
         "position": ""
-    },
-    {
-        "card_name": "Gaze Upon Civilization Promo",
-        "number": 270,
-        "shape": "normal",
-        "set": "CNY",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Sparks of a Revolution Promo",
-        "number": 272,
-        "shape": "transform double faced",
-        "set": "CNY",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Incumbency Promo !promo!design Stasis",
-        "number": 268,
-        "shape": "normal",
-        "set": "CNY",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Severin's Masterwork Promo",
-        "number": 269,
-        "shape": "normal",
-        "set": "CNY",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1414,7 +1349,7 @@
         "position": ""
     },
     {
-        "card_name": "Devoted Lackies",
+        "card_name": "Devoted Lackeys",
         "number": 174,
         "shape": "normal",
         "set": "CNY",
@@ -1636,51 +1571,6 @@
         "set": "CNY",
         "rotated": false,
         "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Defect Promo",
-        "number": 275,
-        "shape": "normal",
-        "set": "CNY",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Vishanki Hellkite Promo",
-        "number": 277,
-        "shape": "normal",
-        "set": "CNY",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Search and Seizure Promo",
-        "number": 276,
-        "shape": "normal",
-        "set": "CNY",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -2049,12 +1939,7 @@
         "position": ""
     },
     {
-        "card_name": "Work Safety Violation Promo",
-        "number": 279,
-        "shape": "normal",
-        "set": "CNY",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
         "card_name": "Penrath Ambassador",
@@ -2071,31 +1956,6 @@
         "set": "CNY",
         "rotated": false,
         "position": ""
-    },
-    {
-        "card_name": "Whirring Inspector Promo",
-        "number": 278,
-        "shape": "normal",
-        "set": "CNY",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Coup D'Etat Promo",
-        "number": 274,
-        "shape": "normal",
-        "set": "CNY",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -2362,12 +2222,7 @@
         "position": ""
     },
     {
-        "card_name": "Estrathe, Center of Civilization Promo",
-        "number": 280,
-        "shape": "normal",
-        "set": "CNY",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
         "card_name": "e"
