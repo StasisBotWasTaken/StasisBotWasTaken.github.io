@@ -1,4 +1,64 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Alina and A200, Symbiotes added.
+
+A200, of Flesh and Filigree removed.
+
+Passage Sanctifier
+rules_text: Whenever another creature you control enters, you gain 1 life.
+Splinter {W} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i] => Whenever another creature you control enters, you gain 1 life.
+Splinter {1}{W} [i](Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains “At the beginning of your end step, sacrifice this token.”)[/i]
+
+Dormant Empiricist
+
+Sifter of Futures Forgotten
+
+Chronicle of the Deceived
+
+Standard-Issue Shields
+
+A200, Spawned Sentience
+type: Legendary Artifact Creature — Human Robot => Legendary Artifact Creature — Robot
+
+Multiuse Gizmo
+
+Path from Naveia
+
+Path from Yenire
+
+Path from the Abyss
+
+Path from the Weft
+
+Path from Srai-Val-Nul
+
+I.E. Manufactor
+rules_text: When this creature enters, create two Gear tokens. [i](They're artifacts with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+{T}: Until end of turn, target artifact you control becomes a 0/0 artifact creature with “This creature gets +1/+1 for each artifact you control.” Activate only as a sorcery. => When this creature enters, create two tapped Gear tokens. [i](They're artifacts with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+{T}: Until end of turn, target noncreature artifact you control becomes a 0/0 artifact creature with “This creature gets +1/+1 for each artifact you control.” Activate only as a sorcery.
+pt: 1/1 => 2/2
+
+Those from Beyond
+
+The Great Exodus
+type: Instant => Sorcery
+cost: {4}{U}{U} => {2}{U}{U}
+rules_text: Return all creatures to their owner's hands.
+You may cast a spell with mana value X or less from your hand without paying its mana cost, where X is the number of Paths you control plus the number of Paths cards in your graveyard. => As an additional cost to cast this spell, return a creature you control to its owner's hand.
+Return each creature you don't control to its owner's hand.
+
+Sting
+
+Gallas, Temporal Pioneer
+
+The Judgment Clock
+rules_text: {T}: Each player exiles a nonland permanent they control. Put a charge counter on The Judgment Clock.
+{T}, Remove twelve charge counters from The Judgment Clock: Restart the game, leaving in exile all permanent cards exiled with The Judgment Clock. Then put those cards onto the battlefield under your control. => {T}: Each player exiles a nonland permanent they control. Put a charge counter on The Judgment Clock. Activate only as a sorcery.
+{T}, Remove twelve charge counters from The Judgment Clock: Restart the game, leaving in exile all permanent cards exiled with The Judgment Clock. Then put those cards onto the battlefield under your control.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Dormant Empiricist added.
