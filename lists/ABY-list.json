@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Scour the SynthScape",
-        "number": 110,
+        "number": 109,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -33,7 +33,7 @@
     },
     {
         "card_name": "Interplanar Wayfinder",
-        "number": 180,
+        "number": 179,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Sentience Swapper",
-        "number": 113,
+        "number": 112,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -73,14 +73,14 @@
     },
     {
         "card_name": "The Omenweb Engine",
-        "number": 185,
+        "number": 184,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Containment Priest",
+        "card_name": "Dawn, Blinding Hope",
         "number": 8,
         "shape": "normal",
         "set": "ABY",
@@ -120,7 +120,7 @@
         "position": ""
     },
     {
-        "card_name": "Dawn, Blinding Hope",
+        "card_name": "Distill Virtuality",
         "number": 9,
         "shape": "normal",
         "set": "ABY",
@@ -153,7 +153,7 @@
     },
     {
         "card_name": "Eldstone of Bloom",
-        "number": 172,
+        "number": 171,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -193,7 +193,7 @@
     },
     {
         "card_name": "Eldworld Propagator",
-        "number": 174,
+        "number": 173,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -233,7 +233,7 @@
     },
     {
         "card_name": "I.E. Residual Error",
-        "number": 177,
+        "number": 176,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -257,7 +257,7 @@
     },
     {
         "card_name": "Inciting Incident",
-        "number": 104,
+        "number": 103,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -273,7 +273,7 @@
     },
     {
         "card_name": "Millenniapede",
-        "number": 183,
+        "number": 182,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -281,7 +281,7 @@
     },
     {
         "card_name": "Insurgent Protocol",
-        "number": 21,
+        "number": 22,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -297,7 +297,7 @@
     },
     {
         "card_name": "Moonfall, Coilcursed",
-        "number": 107,
+        "number": 106,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -313,7 +313,7 @@
     },
     {
         "card_name": "Portalhopping",
-        "number": 189,
+        "number": 188,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -337,7 +337,7 @@
     },
     {
         "card_name": "Soulshredder Mecha",
-        "number": 114,
+        "number": 113,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -353,7 +353,7 @@
     },
     {
         "card_name": "Spark, the Catalyst",
-        "number": 192,
+        "number": 191,
         "shape": "planeswalker",
         "set": "ABY",
         "rotated": false,
@@ -377,7 +377,7 @@
     },
     {
         "card_name": "Sting",
-        "number": 115,
+        "number": 114,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -393,7 +393,7 @@
     },
     {
         "card_name": "Stutterhide Stomper",
-        "number": 194,
+        "number": 193,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -433,7 +433,7 @@
     },
     {
         "card_name": "SynthScape Connections",
-        "number": 195,
+        "number": 194,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -553,7 +553,7 @@
     },
     {
         "card_name": "Chronicle of the Free",
-        "number": 167,
+        "number": 166,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -593,7 +593,7 @@
     },
     {
         "card_name": "Chronometric Driller",
-        "number": 168,
+        "number": 167,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -633,7 +633,7 @@
     },
     {
         "card_name": "Echoes of the Eldworld",
-        "number": 170,
+        "number": 169,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -673,7 +673,7 @@
     },
     {
         "card_name": "Eldworld Invasion",
-        "number": 173,
+        "number": 172,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -713,7 +713,7 @@
     },
     {
         "card_name": "Innovative Ecologist",
-        "number": 178,
+        "number": 177,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -721,7 +721,7 @@
     },
     {
         "card_name": "Leonin Wanderer",
-        "number": 22,
+        "number": 23,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -753,7 +753,7 @@
     },
     {
         "card_name": "Interplanar Tunneler",
-        "number": 179,
+        "number": 178,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -761,7 +761,7 @@
     },
     {
         "card_name": "Lightsail Skyship",
-        "number": 23,
+        "number": 24,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -793,7 +793,7 @@
     },
     {
         "card_name": "March Ever-Forward",
-        "number": 182,
+        "number": 181,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -833,7 +833,7 @@
     },
     {
         "card_name": "Outlands Pioneer",
-        "number": 186,
+        "number": 185,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -873,7 +873,7 @@
     },
     {
         "card_name": "Retrofit Goliath",
-        "number": 190,
+        "number": 189,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -896,7 +896,7 @@
         "position": ""
     },
     {
-        "card_name": "Flickering Finisher",
+        "card_name": "From the Abyss",
         "number": 100,
         "shape": "normal",
         "set": "ABY",
@@ -913,7 +913,7 @@
     },
     {
         "card_name": "S\u00e9ance With Those To Be",
-        "number": 191,
+        "number": 190,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -936,8 +936,8 @@
         "position": ""
     },
     {
-        "card_name": "From the Abyss",
-        "number": 101,
+        "card_name": "Nimble Redeye",
+        "number": 107,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -953,7 +953,7 @@
     },
     {
         "card_name": "Standard-Issue Shields",
-        "number": 193,
+        "number": 192,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -976,8 +976,8 @@
         "position": ""
     },
     {
-        "card_name": "Nimble Redeye",
-        "number": 108,
+        "card_name": "SynthScape Terminator",
+        "number": 115,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -993,7 +993,7 @@
     },
     {
         "card_name": "SynthScape Painter",
-        "number": 197,
+        "number": 196,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1033,7 +1033,7 @@
     },
     {
         "card_name": "Vitality Reweavers",
-        "number": 200,
+        "number": 199,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1192,8 +1192,8 @@
         "position": ""
     },
     {
-        "card_name": "Chitinous Artisan",
-        "number": 166,
+        "card_name": "Clockwork Consciousness",
+        "number": 168,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1232,8 +1232,8 @@
         "position": ""
     },
     {
-        "card_name": "Clockwork Consciousness",
-        "number": 169,
+        "card_name": "Eldmagic Invocation",
+        "number": 170,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1257,7 +1257,7 @@
     },
     {
         "card_name": "I.E. Scrutinizer",
-        "number": 102,
+        "number": 101,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1272,8 +1272,8 @@
         "position": ""
     },
     {
-        "card_name": "Eldmagic Invocation",
-        "number": 171,
+        "card_name": "Eldworld Tandem",
+        "number": 174,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1297,7 +1297,7 @@
     },
     {
         "card_name": "Identical Backup",
-        "number": 103,
+        "number": 102,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1312,7 +1312,7 @@
         "position": ""
     },
     {
-        "card_name": "Eldworld Tandem",
+        "card_name": "Gibbous Moon's Devout",
         "number": 175,
         "shape": "normal",
         "set": "ABY",
@@ -1337,7 +1337,7 @@
     },
     {
         "card_name": "Live on in Memory",
-        "number": 105,
+        "number": 104,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1352,15 +1352,15 @@
         "position": ""
     },
     {
-        "card_name": "Gibbous Moon's Devout",
-        "number": 176,
+        "card_name": "Leap Forward",
+        "number": 180,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Ingenious Joyrider",
+        "card_name": "Induced Obsolescence",
         "number": 20,
         "shape": "normal",
         "set": "ABY",
@@ -1377,7 +1377,7 @@
     },
     {
         "card_name": "Minister of Penance",
-        "number": 106,
+        "number": 105,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1392,16 +1392,16 @@
         "position": ""
     },
     {
-        "card_name": "Leap Forward",
-        "number": 181,
+        "card_name": "No Room for Us Both",
+        "number": 183,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Locked On",
-        "number": 24,
+        "card_name": "Ingenious Joyrider",
+        "number": 21,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1417,7 +1417,7 @@
     },
     {
         "card_name": "Sanctify the Coil",
-        "number": 109,
+        "number": 108,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1432,8 +1432,8 @@
         "position": ""
     },
     {
-        "card_name": "No Room for Us Both",
-        "number": 184,
+        "card_name": "Outlands Specimen",
+        "number": 186,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1457,7 +1457,7 @@
     },
     {
         "card_name": "Scrapyard Tyrant",
-        "number": 111,
+        "number": 110,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1472,7 +1472,7 @@
         "position": ""
     },
     {
-        "card_name": "Outlands Specimen",
+        "card_name": "People of the Sun",
         "number": 187,
         "shape": "normal",
         "set": "ABY",
@@ -1497,7 +1497,7 @@
     },
     {
         "card_name": "Scriptoral Operation",
-        "number": 112,
+        "number": 111,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1512,8 +1512,8 @@
         "position": ""
     },
     {
-        "card_name": "People of the Sun",
-        "number": 188,
+        "card_name": "SynthScape Mining",
+        "number": 195,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1552,8 +1552,8 @@
         "position": ""
     },
     {
-        "card_name": "SynthScape Mining",
-        "number": 196,
+        "card_name": "Unlikely Symbiotes",
+        "number": 197,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1592,7 +1592,7 @@
         "position": ""
     },
     {
-        "card_name": "Unlikely Symbiotes",
+        "card_name": "Urban Flytrap",
         "number": 198,
         "shape": "normal",
         "set": "ABY",
@@ -1632,8 +1632,8 @@
         "position": ""
     },
     {
-        "card_name": "Urban Flytrap",
-        "number": 199,
+        "card_name": "Welfare Maximizer",
+        "number": 200,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1669,8 +1669,8 @@
         "position": ""
     },
     {
-        "card_name": "Brink Wageling",
-        "number": 206,
+        "card_name": "Junksite Compactor",
+        "number": 219,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1726,7 +1726,7 @@
     },
     {
         "card_name": "Eris, Ardent Thaumaturge",
-        "number": 215,
+        "number": 214,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1742,7 +1742,7 @@
     },
     {
         "card_name": "Glitch in the Fabric",
-        "number": 218,
+        "number": 217,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1758,7 +1758,7 @@
     },
     {
         "card_name": "Chart Past and Future",
-        "number": 207,
+        "number": 206,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1814,7 +1814,7 @@
     },
     {
         "card_name": "Chronicle of the Oppressed",
-        "number": 208,
+        "number": 207,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1869,7 +1869,7 @@
     },
     {
         "card_name": "Harbingers of the Old World",
-        "number": 219,
+        "number": 218,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1877,7 +1877,7 @@
     },
     {
         "card_name": "Distort the Continuum",
-        "number": 211,
+        "number": 210,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1893,7 +1893,7 @@
     },
     {
         "card_name": "Cyclical Martyrdom",
-        "number": 210,
+        "number": 209,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1909,7 +1909,7 @@
     },
     {
         "card_name": "The Coil's Burdens",
-        "number": 209,
+        "number": 208,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1925,7 +1925,7 @@
     },
     {
         "card_name": "Eldworld Recultivator",
-        "number": 213,
+        "number": 212,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1933,7 +1933,7 @@
     },
     {
         "card_name": "Eva, Luminite Skipper",
-        "number": 216,
+        "number": 215,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1941,7 +1941,7 @@
     },
     {
         "card_name": "Eonspeed Metamorphosis",
-        "number": 214,
+        "number": 213,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1949,7 +1949,7 @@
     },
     {
         "card_name": "Ebo, Fulcrum of the Coil",
-        "number": 212,
+        "number": 211,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1997,7 +1997,7 @@
     },
     {
         "card_name": "Farrah, Frenetic Archivist",
-        "number": 217,
+        "number": 216,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
