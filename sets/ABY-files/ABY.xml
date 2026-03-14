@@ -5,7 +5,7 @@
 			<name>ABY</name>
 			<longname>A Better Yesterday</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-01</releasedate>
+			<releasedate>2026-03-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -14,7 +14,7 @@
 			<text>Flying
 When this creature enters, create a Gear token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.&quot;)
 {1}, {T}: Target creature gets +1/+0 until end of turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/16_I.E. Monitor.png" num="16">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/15_I.E. Monitor.png" num="15">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -31,7 +31,7 @@ When this creature enters, create a Gear token. (It&apos;s an artifact with &quo
 		<card>
 			<name>Luminite Equalizer</name>
 			<text>Whenever you attack, create a Gear token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/27_Luminite Equalizer.png" num="27">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/26_Luminite Equalizer.png" num="26">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -48,7 +48,7 @@ When this creature enters, create a Gear token. (It&apos;s an artifact with &quo
 		<card>
 			<name>Fractured Feline</name>
 			<text>When this creature enters, you get {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}. (Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/13_Fractured Feline.png" num="13">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/12_Fractured Feline.png" num="12">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -66,7 +66,7 @@ When this creature enters, create a Gear token. (It&apos;s an artifact with &quo
 			<name>Passage Sanctifier</name>
 			<text>Whenever another creature you control enters, you gain 1 life.
 Splinter {1}{W} (Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains &quot;At the beginning of your end step, sacrifice this token.&quot;)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/30_Passage Sanctifier.png" num="30">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/29_Passage Sanctifier.png" num="29">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -100,7 +100,7 @@ Splinter {1}{W} (Whenever this attacks, pay the splinter cost to create a tapped
 		<card>
 			<name>I.E. Subsister</name>
 			<text>At the beginning of your upkeep, you get {ChronoCounterSymbolsChrono.png}. (Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/18_I.E. Subsister.png" num="18">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/17_I.E. Subsister.png" num="17">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -118,7 +118,7 @@ Splinter {1}{W} (Whenever this attacks, pay the splinter cost to create a tapped
 			<name>Ingenious Joyrider</name>
 			<text>Flying
 {T}: Target creature gains flying until end of turn.</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/21_Ingenious Joyrider.png" num="21">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/20_Ingenious Joyrider.png" num="20">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -136,7 +136,7 @@ Splinter {1}{W} (Whenever this attacks, pay the splinter cost to create a tapped
 			<name>Freelance Gearsmith</name>
 			<text>When this creature enters, target creature you control gets +2/+2 until end of turn.
 Splinter {2}{W} (Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains &quot;At the beginning of your end step, sacrifice this token.&quot;)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/14_Freelance Gearsmith.png" num="14">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/13_Freelance Gearsmith.png" num="13">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -171,7 +171,7 @@ Splinter {2}{W} (Whenever this attacks, pay the splinter cost to create a tapped
 			<name>I.E. Regulator</name>
 			<text>Vigilance
 At the beginning of combat on your turn, you may tap or untap target creature.</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/17_I.E. Regulator.png" num="17">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/16_I.E. Regulator.png" num="16">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -209,7 +209,7 @@ Cycling {W} ({W}, Discard this card: Draw a card.)</text>
 			<text>Equipped creature gets +2/+0.
 Whenever a creature you control attacks alone, you may pay {1}. If you do, attach this Equipment to that creature.
 Equip {3}</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/36_Thunderous Trailblaster.png" num="36">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/35_Thunderous Trailblaster.png" num="35">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -226,7 +226,7 @@ Equip {3}</text>
 			<name>Induced Obsolescence</name>
 			<text>Enchant nonland permanent
 At the beginning of your upkeep, destroy enchanted permanent.</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/20_Induced Obsolescence.png" num="20">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/19_Induced Obsolescence.png" num="19">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -260,7 +260,7 @@ Exile target artifact, enchantment, or creature.</text>
 			<name>In the Nick of Time</name>
 			<text>Target creature gets +1/+3 and gains lifelink until end of turn.
 You get {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}. (Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/19_In the Nick of Time.png" num="19">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/18_In the Nick of Time.png" num="18">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -596,7 +596,7 @@ Splinter {1}{B} (Whenever this attacks, pay the splinter cost to create a tapped
 			<name>Minister of Penance</name>
 			<text>Whenever another creature you control dies, put a +1/+1 counter on this creature.
 Splinter {1}{B} (Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains &quot;At the beginning of your end step, sacrifice this token.&quot;)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/105_Minister of Penance.png" num="105">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/104_Minister of Penance.png" num="104">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -614,7 +614,7 @@ Splinter {1}{B} (Whenever this attacks, pay the splinter cost to create a tapped
 			<name>False Mourning&apos;s Zealot</name>
 			<text>Flash
 When this creature enters, if a creature died this turn, you draw a card and you lose 1 life.</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/98_False Mourning&apos;s Zealot.png" num="98">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/97_False Mourning&apos;s Zealot.png" num="97">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -686,7 +686,7 @@ When this creature enters, create a 3/2 colorless Vehicle artifact token with cr
 			<text>Menace
 When this creature enters, target creature you control gets +2/+0 and gains menace until end of turn.
 Cycling {B} ({B}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/110_Scrapyard Tyrant.png" num="110">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/109_Scrapyard Tyrant.png" num="109">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -719,7 +719,7 @@ Cycling {B} ({B}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Identical Backup</name>
 			<text>Until end of turn, target creature gets +1/+0 and gains &quot;When this creature dies, create a tapped token that&apos;s a copy of it, except it&apos;s an artifact in addition to its other types.&quot;</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/102_Identical Backup.png" num="102">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/101_Identical Backup.png" num="101">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -736,7 +736,7 @@ Cycling {B} ({B}, Discard this card: Draw a card.)</text>
 			<name>Scriptoral Operation</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Draw two cards. You get an amount of {ChronoCounterSymbolsChrono.png} equal to the sacrificed creature&apos;s mana value. (Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/111_Scriptoral Operation.png" num="111">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/110_Scriptoral Operation.png" num="110">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -753,7 +753,7 @@ Draw two cards. You get an amount of {ChronoCounterSymbolsChrono.png} equal to t
 			<name>I.E. Scrutinizer</name>
 			<text>When this Vehicle enters, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/101_I.E. Scrutinizer.png" num="101">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/100_I.E. Scrutinizer.png" num="100">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -770,7 +770,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		<card>
 			<name>Sanctify the Coil</name>
 			<text>Exile target creature or planeswalker. If it entered this turn, you gain 3 life.</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/108_Sanctify the Coil.png" num="108">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/107_Sanctify the Coil.png" num="107">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -787,7 +787,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<name>Live on in Memory</name>
 			<text>Each player sacrifices a creature of their choice.
 {3}{B}, Exile this card from your graveyard: Return target creature card from your graveyard to your hand. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/104_Live on in Memory.png" num="104">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/103_Live on in Memory.png" num="103">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1343,7 +1343,7 @@ Target creature you control fights up to one target creature you don&apos;t cont
 			<name>Scrapwork Rig</name>
 			<text>When this Vehicle enters, create a Gear token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.&quot;)
 Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/254_Scrapwork Rig.png" num="254">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/255_Scrapwork Rig.png" num="255">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1358,7 +1358,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 		<card>
 			<name>Precog in the Machine</name>
 			<text>When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/252_Precog in the Machine.png" num="252">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/253_Precog in the Machine.png" num="253">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1389,7 +1389,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 			<name>Prismatic Lens</name>
 			<text>{T}: Add {C}.
 {1}, {T}: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/253_Prismatic Lens.png" num="253">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/254_Prismatic Lens.png" num="254">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1629,7 +1629,7 @@ At the beginning of your upkeep, you gain 1 life.
 			<name>Leonin Wanderer</name>
 			<text>Tap an untapped creature you control: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.
 Tap three untapped creatures you control: Put a +1/+1 counter on target creature. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/23_Leonin Wanderer.png" num="23">ABY</set>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/22_Leonin Wanderer.png" num="22">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1647,7 +1647,7 @@ Tap three untapped creatures you control: Put a +1/+1 counter on target creature
 			<name>Orrery Overseer</name>
 			<text>When this creature enters, create a Gear token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.&quot;)
 {T}: Add {C}{C}. Spend this mana only to activate abilities.</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/29_Orrery Overseer.png" num="29">ABY</set>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/28_Orrery Overseer.png" num="28">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1702,7 +1702,7 @@ Whenever another creature you control enters, create a tapped Gear token. (It&ap
 			<text>Lifelink
 When this creature enters, you get {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}. (Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)
 Whenever you spend one or more {ChronoCounterSymbolsChrono.png}, you gain that much life.</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/37_Timecoil Restorer.png" num="37">ABY</set>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/36_Timecoil Restorer.png" num="36">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1721,7 +1721,7 @@ Whenever you spend one or more {ChronoCounterSymbolsChrono.png}, you gain that m
 			<text>Reach
 When this creature enters, put a +1/+1 counter on each tapped creature you control.
 Splinter {5}{W} (Whenever this attacks, pay the splinter cost to create a tapped and attacking token copy of this without splinter. It gains &quot;At the beginning of your end step, sacrifice this token.&quot;)</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/25_Loxodon Tinkerer.png" num="25">ABY</set>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/24_Loxodon Tinkerer.png" num="24">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1739,7 +1739,7 @@ Splinter {5}{W} (Whenever this attacks, pay the splinter cost to create a tapped
 			<name>Omenweb Taskmaster</name>
 			<text>As long as this creature is untapped, no more than one creature can attack each combat. (This creature must attack alone.)
 As long as this creature is tapped, no more than one creature can block each combat.</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/28_Omenweb Taskmaster.png" num="28">ABY</set>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/27_Omenweb Taskmaster.png" num="27">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1758,7 +1758,7 @@ As long as this creature is tapped, no more than one creature can block each com
 			<text>Choose one —
 • Remove any number of counters from target permanent or player.
 • You get {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}. (Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/33_Serve Time.png" num="33">ABY</set>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/32_Serve Time.png" num="32">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1792,7 +1792,7 @@ As long as this creature is tapped, no more than one creature can block each com
 			<text>Equipped creature gets +2/+2 and can&apos;t be sacrificed. (This includes Splinter abilities.)
 Equip token {1}
 Equip {3}</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/34_Stabilizer Suit.png" num="34">ABY</set>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/33_Stabilizer Suit.png" num="33">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1810,7 +1810,7 @@ Equip {3}</text>
 			<text>Flying
 Tap an untapped Gear you control: This Vehicle becomes an artifact creature until end of turn.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/24_Lightsail Skyship.png" num="24">ABY</set>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/23_Lightsail Skyship.png" num="23">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2233,7 +2233,7 @@ Splinter {3}{B} (Whenever this attacks, pay the splinter cost to create a tapped
 			<text>Flash
 This spell costs {1} less to cast for each creature that died this turn.
 When this creature enters, destroy any number of target creatures that were dealt damage this turn.</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/107_Nimble Redeye.png" num="107">ABY</set>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/106_Nimble Redeye.png" num="106">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2269,7 +2269,7 @@ Crew 2</text>
 		<card>
 			<name>Eliminate the Predecessor</name>
 			<text>Exile target creature card from a graveyard. When you do, exile up to one target creature with mana value less than that card&apos;s mana value.</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/97_Eliminate the Predecessor.png" num="97">ABY</set>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/96_Eliminate the Predecessor.png" num="96">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2303,7 +2303,7 @@ Equip {4}</text>
 		<card>
 			<name>Final Word</name>
 			<text>Destroy target creature or planeswalker. If it&apos;s your turn, end the turn. (Exile all spells and abilities from the stack, including this card. Discard down to your maximum hand size. Damage wears off, and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/99_Final Word.png" num="99">ABY</set>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/98_Final Word.png" num="98">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2320,7 +2320,7 @@ Equip {4}</text>
 			<name>From the Abyss</name>
 			<text>This spell costs {4} less to cast if it targets a creature card that was put into your graveyard from the battlefield this turn.
 Return target creature card from your graveyard to the battlefield tapped.</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/100_From the Abyss.png" num="100">ABY</set>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/99_From the Abyss.png" num="99">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2512,7 +2512,7 @@ Splinter {2}{R} (Whenever this attacks, pay the splinter cost to create a tapped
 		</card>
 		<card>
 			<name>Glimpse the Possibilities</name>
-			<text>Exile the top three cards of your library. Choose one of them. You may play it this turn.</text>
+			<text>Exile the top two cards of your library and this spell. You may play one of them during your next turn.</text>
 			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/135_Glimpse the Possibilities.png" num="135">ABY</set>
 			<prop>
 				<layout>normal</layout>
@@ -2777,7 +2777,7 @@ Whenever a creature you control with a +1/+1 counter on it deals combat damage t
 		<card>
 			<name>Séance With Those To Be</name>
 			<text>When this enchantment enters, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
-Creature spells you cast with mana value 4 or greater have convoke. (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)</text>
+Tap two untapped creatures you control: Add one mana of any color.</text>
 			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/190_Séance With Those To Be.png" num="190">ABY</set>
 			<prop>
 				<layout>normal</layout>
@@ -3244,7 +3244,7 @@ If you would get one or more {ChronoCounterSymbolsChrono.png}, you get that many
 		<card>
 			<name>Sundial of the Infinite</name>
 			<text>{1}, {T}: End the turn. Activate only during your turn. (Exile all spells and abilities from the stack. Discard down to your maximum hand size. Damage wears off, and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/255_Sundial of the Infinite.png" num="255">ABY</set>
+			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/256_Sundial of the Infinite.png" num="256">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3362,7 +3362,7 @@ When this Path is traversed, distribute two +1/+1 counters among one or two targ
 		<card>
 			<name>SynthScape Familiar</name>
 			<text>{T}: The next time you would create one or more tokens this turn, you may create a tapped token that&apos;s a copy of this creature instead of one of those tokens.</text>
-			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/35_SynthScape Familiar.png" num="35">ABY</set>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/34_SynthScape Familiar.png" num="34">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3381,7 +3381,7 @@ When this Path is traversed, distribute two +1/+1 counters among one or two targ
 			<text>As this enchantment enters, choose a card name, then choose Preventive or Curative.
 • Preventive — Whenever a player casts a spell with the chosen name, exile it. Its controller draws a card.
 • Curative — Whenever a creature with the chosen name attacks or blocks, exile it. Its controller draws a card.</text>
-			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/22_Insurgent Protocol.png" num="22">ABY</set>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/21_Insurgent Protocol.png" num="21">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3399,7 +3399,7 @@ When this Path is traversed, distribute two +1/+1 counters among one or two targ
 			<text>Luminia has indestructible as long as it was crewed by a legendary creature this turn.
 Whenever Luminia enters or attacks, you may search your library for a legendary creature or planeswalker card, reveal it, put it into your hand, then shuffle.
 Crew 5</text>
-			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/26_Luminia, Herocaller.png" num="26">ABY</set>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/25_Luminia, Herocaller.png" num="25">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3417,7 +3417,7 @@ Crew 5</text>
 			<name>I.E. Manufactor</name>
 			<text>When this creature enters, create two tapped Gear tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.&quot;)
 {1}, {T}: Until end of turn, target noncreature artifact you control becomes a 0/0 artifact creature with &quot;This creature gets +1/+1 for each artifact you control.&quot; Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/15_I.E. Manufactor.png" num="15">ABY</set>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/14_I.E. Manufactor.png" num="14">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3483,21 +3483,22 @@ Splinter {1}{W}. The token isn&apos;t legendary. (Whenever this attacks, pay the
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Fracture the Path</name>
-			<text>Each opponent chooses two from among draw step, main phase, and combat phase. They skip each instance of the chosen steps or phases during their next turn.
-Exile Fracture the Path.</text>
-			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/12_Fracture the Path.png" num="12">ABY</set>
+			<name>True Sun Freerunner</name>
+			<text>During your turn, this creature has first strike.
+Flux 2 — This creature gains double strike until end of turn. (On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)</text>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/37_True Sun Freerunner.png" num="37">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
 				<manacost>1W</manacost>
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>I.E. Resonator</name>
@@ -3538,7 +3539,7 @@ Whenever a creature you control deals combat damage to a player, you may exile i
 		<card>
 			<name>Those from Beyond</name>
 			<text>Flash
-When this creature enters, if it was cast, exile target spell or nonland permanent you don&apos;t control with two time counters on it. If it doesn&apos;t have suspend, it gains suspend. (At the beginning of its owner&apos;s upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost. If it&apos;s a creature, it has haste.)</text>
+When this creature enters, if it was cast, exile up to one target spell or nonland permanent you don&apos;t control with two time counters on it. If it doesn&apos;t have suspend, it gains suspend. (At the beginning of its owner&apos;s upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost. If it&apos;s a creature, it has haste.)</text>
 			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/76_Those from Beyond.png" num="76">ABY</set>
 			<prop>
 				<layout>normal</layout>
@@ -3555,8 +3556,8 @@ When this creature enters, if it was cast, exile target spell or nonland permane
 		</card>
 		<card>
 			<name>SynthScape Manaform</name>
-			<text>Whenever you cast a noncreature spell, you may have this creature&apos;s power and toughness each become equal to that spell&apos;s mana value until end of turn.
-Whenever this creature deals combat damage to a player, draw a card.</text>
+			<text>Whenever you cast an instant or sorcery spell, you may have this creature&apos;s power and toughness each become equal to that spell&apos;s mana value until end of turn.
+Exile this creature: Return target instant or sorcery card from your graveyard to your hand. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/73_SynthScape Manaform.png" num="73">ABY</set>
 			<prop>
 				<layout>normal</layout>
@@ -3695,29 +3696,29 @@ Whenever you attack, choose an attacking creature. Whenever that creature deals 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Elegy in Three Parts</name>
-			<text>Whenever a creature you control dies, choose one —
-• Return target creature card with lesser mana value from your graveyard to the battlefield.
-• Each opponent sacrifices a creature of their choice.
-• You gain life equal to its mana value.</text>
-			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/96_Elegy in Three Parts.png" num="96">ABY</set>
+			<name>Serpent God&apos;s Audience</name>
+			<text>Ward—Discard your hand.
+Your maximum hand size is zero.
+If you would draw a card, you may instead search your library for a card, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/112_Serpent God&apos;s Audience.png" num="112">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment</type>
-				<maintype>Enchantment</maintype>
-				<manacost>2BBB</manacost>
-				<cmc>5</cmc>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Inciting Incident</name>
 			<text>You may cast this spell for {B} as long as it&apos;s the first spell you&apos;ve cast this game.
 Destroy target creature.</text>
-			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/103_Inciting Incident.png" num="103">ABY</set>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/102_Inciting Incident.png" num="102">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3741,11 +3742,11 @@ Crew 3</text>
 				<side>front</side>
 				<type>Artifact — Vehicle</type>
 				<maintype>Artifact</maintype>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>5/4</pt>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -3753,7 +3754,7 @@ Crew 3</text>
 			<name>Moonfall, Coilcursed</name>
 			<text>Lifelink
 When Moonfall enters, if it was cast, create a black enchantment token named Rebirth with &quot;Flux 3 — Return a card named Moonfall, Coilcursed from your graveyard to the battlefield.&quot; (On your upkeep, put a time counter on this. Whenever there are three or more, remove three and trigger the flux ability.)</text>
-			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/106_Moonfall, Coilcursed.png" num="106">ABY</set>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/105_Moonfall, Coilcursed.png" num="105">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4108,7 +4109,7 @@ Whenever you cast a spell, you may have Ouarra phase out. (Treat it and anything
 		</card>
 		<card>
 			<name>Sheiya, the Timescythe</name>
-			<text>Sheiya has first strike as long as it&apos;s your turn.
+			<text>During your turn, Sheiya has first strike.
 Whenever Sheiya deals combat damage to a player, end the turn. (Creatures without first strike won&apos;t deal damage. Exile all spells and abilities from the stack. Discard down to your maximum hand size. Damage wears off, and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)</text>
 			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/232_Sheiya, the Timescythe.png" num="232">ABY</set>
 			<prop>
@@ -4238,19 +4239,19 @@ You may have nontoken creatures you control enter as copies of enchanted creatur
 		</card>
 		<card>
 			<name>Eva, Luminite Skipper</name>
-			<text>When Eva enters, create a 3/2 colorless Vehicle artifact token with crew 1.
-At the beginning of combat on your turn, put a +1/+1 counter on up to one target tapped creature.</text>
+			<text>During your turn, Eva has first strike.
+When Eva enters, create Trailblazer, a legendary colorless Equipment artifact token with equip {2}, &quot;Whenever you attack, put a charge counter on Trailblazer,&quot; and &quot;Equipped creature gets +1/+1 for each charge counter on Trailblazer.&quot;</text>
 			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/215_Eva, Luminite Skipper.png" num="215">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Human Pilot</type>
 				<maintype>Creature</maintype>
-				<manacost>2RW</manacost>
-				<cmc>4</cmc>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
-				<pt>1/2</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4271,11 +4272,11 @@ At the beginning of combat on your turn, put a +1/+1 counter on up to one target
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Trailblazer Aurora</name>
+			<name>Pathfinder Aurora</name>
 			<text>Flying
-Whenever Trailblazer Aurora attacks, you may discard a card. If you do, choose land or nonland, then reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and the rest on the bottom of your library in a random order.
+Whenever Pathfinder Aurora attacks, you may discard a card. If you do, choose land or nonland, then reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and the rest on the bottom of your library in a random order.
 Crew 1</text>
-			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/256_Trailblazer Aurora.png" num="256">ABY</set>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/252_Pathfinder Aurora.png" num="252">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4337,9 +4338,9 @@ Landcycling {3} ({3}, Discard this card: Search your library for a land card, re
 		</card>
 		<card>
 			<name>Eldstone of Transience</name>
-			<text>{W}, {T}: Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped.
-Basic landcycling {1}{W} ({1}{W}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
-When you cycle this card, return up to one target creature card with mana value 1 or less from your graveyard to the battlefield tapped.</text>
+			<text>{W}, {T}: Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped with a finality counter on it.
+Basic landcycling {1}{W}
+When you cycle this card, return up to one target creature card with mana value 1 or less from your graveyard to the battlefield tapped with a finality counter on it.</text>
 			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/10_Eldstone of Transience.png" num="10">ABY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4355,9 +4356,9 @@ When you cycle this card, return up to one target creature card with mana value 
 		</card>
 		<card>
 			<name>Eldstone of Serenity</name>
-			<text>{U}, {T}: Tap target nonland permanent. Put a stun counter on it.
-Basic landcycling {1}{U} ({1}{U}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
-When you cycle this card, tap up to one target nonland permanent.</text>
+			<text>{U}, {T}: You may tap or untap target nonland permanent. You may put a stun counter on it.
+Basic landcycling {1}{U}
+When you cycle this card, you may tap or untap up to one target nonland permanent.</text>
 			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/48_Eldstone of Serenity.png" num="48">ABY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4373,9 +4374,9 @@ When you cycle this card, tap up to one target nonland permanent.</text>
 		</card>
 		<card>
 			<name>Eldstone of Oblivion</name>
-			<text>{B}, {T}: Target player mills six cards.
-Basic landcycling {1}{B} ({1}{B}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
-When you cycle this card, target player mills three cards.</text>
+			<text>{B}, {T}: Target player mills six cards. You gain life equal to the number of creature cards milled this way.
+Basic landcycling {1}{B}
+When you cycle this card, target player mills three cards. You gain life equal to the number of creature cards milled this way.</text>
 			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/95_Eldstone of Oblivion.png" num="95">ABY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4391,9 +4392,9 @@ When you cycle this card, target player mills three cards.</text>
 		</card>
 		<card>
 			<name>Eldstone of Fervor</name>
-			<text>{R}, {T}: This artifact deals 2 damage to any target.
-Basic landcycling {1}{R} ({1}{R}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
-When you cycle this card, it deals 1 damage to any target.</text>
+			<text>{R}, {T}: Exile the top two cards of your library. Choose one of them. You may play it until the end of your next turn.
+Basic landcycling {1}{R}
+When you cycle this card, exile the top card of your library. You may play it until the end of your next turn.</text>
 			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/130_Eldstone of Fervor.png" num="130">ABY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4409,9 +4410,9 @@ When you cycle this card, it deals 1 damage to any target.</text>
 		</card>
 		<card>
 			<name>Eldstone of Bloom</name>
-			<text>{G}, {T}: Put a +1/+1 counter on each creature you control.
-Basic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
-When you cycle this card, put a +1/+1 counter on target creature you control.</text>
+			<text>{G}, {T}: Put a +1/+1 counter on each creature you control and a loyalty counter on each planeswalker you control.
+Basic landcycling {1}{G}
+When you cycle this card, put your choice of a +1/+1 counter or a loyalty on up to one target creature or planeswalker you control.</text>
 			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/171_Eldstone of Bloom.png" num="171">ABY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4430,7 +4431,7 @@ When you cycle this card, put a +1/+1 counter on target creature you control.</t
 			<text>Flying
 As this creature enters, choose odd or even. (Zero is even.)
 You have protection from each mana value of the chosen quality. (You can&apos;t be targeted, dealt damage, or enchanted by anything with a mana value of that quality.)</text>
-			<set rarity="mythic" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/32_Savior of Schisms.png" num="32">ABY</set>
+			<set rarity="mythic" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/31_Savior of Schisms.png" num="31">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4448,7 +4449,7 @@ You have protection from each mana value of the chosen quality. (You can&apos;t 
 			<name>Prodigal Dimensiurge</name>
 			<text>When this creature enters, create The Planar Portal, a legendary colorless artifact token with &quot;{2}, {T}: Exile target creature you control, then return it to the battlefield under its owner&apos;s control. Activate only as a sorcery.&quot;
 Whenever another creature you control enters, put a +1/+1 counter on this creature.</text>
-			<set rarity="mythic" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/31_Prodigal Dimensiurge.png" num="31">ABY</set>
+			<set rarity="mythic" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/30_Prodigal Dimensiurge.png" num="30">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4501,7 +4502,7 @@ Exile Timetangle.</text>
 		<card>
 			<name>Scour the SynthScape</name>
 			<text>Exchange your hand and library, then shuffle.</text>
-			<set rarity="mythic" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/109_Scour the SynthScape.png" num="109">ABY</set>
+			<set rarity="mythic" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/108_Scour the SynthScape.png" num="108">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4518,7 +4519,7 @@ Exile Timetangle.</text>
 			<name>Sentience Swapper</name>
 			<text>Menace
 Whenever this creature deals combat damage to a player, you may exile it. If you do, gain control of that player during their next turn. After that turn, that player takes an extra turn.</text>
-			<set rarity="mythic" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/112_Sentience Swapper.png" num="112">ABY</set>
+			<set rarity="mythic" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/111_Sentience Swapper.png" num="111">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4901,7 +4902,7 @@ Creatures you control get -1/-1.</text>
 		<card>
 			<name>Chrono Counters ABY</name>
 			<text></text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/27t_Chrono Counters.png" num="27">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/28t_Chrono Counters.png" num="28">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4958,7 +4959,7 @@ Creatures you control get -1/-1.</text>
 			<reverse_related>Luminite Equalizer</reverse_related>
 			<reverse_related>Sifter of Futures Forgotten</reverse_related>
 			<reverse_related>Iterate</reverse_related>
-			<reverse_related>Chitinous Artisan</reverse_related>
+			<reverse_related>Welfare Maximizer</reverse_related>
 			<reverse_related>Leap Forward</reverse_related>
 			<reverse_related>Scrapwork Rig</reverse_related>
 			<reverse_related>Orrery Overseer</reverse_related>
@@ -4997,7 +4998,7 @@ Creatures you control get -1/-1.</text>
 		<card>
 			<name>Treasure ABY</name>
 			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/24t_Treasure.png" num="24">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/25t_Treasure.png" num="25">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5016,7 +5017,7 @@ Creatures you control get -1/-1.</text>
 		<card>
 			<name>Vehicle ABY</name>
 			<text>Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/25t_Vehicle.png" num="25">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/26t_Vehicle.png" num="26">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5031,12 +5032,11 @@ Creatures you control get -1/-1.</text>
 			<reverse_related>Vulture-for-Hire</reverse_related>
 			<reverse_related>Spot Weld</reverse_related>
 			<reverse_related>Darksteel Ace</reverse_related>
-			<reverse_related>Eva, Luminite Skipper</reverse_related>
 		</card>
 		<card>
 			<name>Everywhere ABY</name>
 			<text>This land is a Plains, Island, Swamp, Mountain, and Forest. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/26t_Everywhere.png" num="26">ABY</set>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/27t_Everywhere.png" num="27">ABY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5067,6 +5067,24 @@ Creatures you control get -1/-1.</text>
 			<tablerow>1</tablerow>
 			<token>1</token>
 			<reverse_related>Moonfall, Coilcursed</reverse_related>
+		</card>
+		<card>
+			<name>Trailblazer ABY</name>
+			<text>Whenever you attack, put a charge counter on Trailblazer.
+Equipped creature gets +1/+1 for each charge counter on Trailblazer.
+Equip {2}</text>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/24t_Trailblazer.png" num="24">ABY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse_related>Eva, Luminite Skipper</reverse_related>
 		</card>
 		<card>
 			<name>The Planar Portal ABY</name>

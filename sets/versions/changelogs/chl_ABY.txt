@@ -1,4 +1,120 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+True Sun Freerunner added.
+Serpent God's Audience added.
+Pathfinder Aurora added.
+Trailblazer added.
+
+Fracture the Path removed.
+Elegy in Three Parts removed.
+Trailblazer Aurora removed.
+
+Return to Sender
+
+Artisan-Craft Gargoyle
+
+SynthScape Terminator
+
+Overeager Courier
+
+Glimpse the Possibilities
+rules_text: Exile the top three cards of your library. Choose one of them. You may play it this turn. => Exile the top two cards of your library and this spell. You may play one of them during your next turn.
+
+Séance With Those To Be
+rules_text: When this enchantment enters, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
+Creature spells you cast with mana value 4 or greater have convoke. [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i] => When this enchantment enters, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
+Tap two untapped creatures you control: Add one mana of any color.
+
+Onslaught Engine
+
+Unending Procession
+
+Ray, the Second Light
+
+I.E. Manufactor
+
+Distill Virtuality
+
+Those from Beyond
+rules_text: Flash
+When this creature enters, if it was cast, exile target spell or nonland permanent you don't control with two time counters on it. If it doesn't have suspend, it gains suspend. [i](At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost. If it's a creature, it has haste.)[/i] => Flash
+When this creature enters, if it was cast, exile up to one target spell or nonland permanent you don't control with two time counters on it. If it doesn't have suspend, it gains suspend. [i](At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost. If it's a creature, it has haste.)[/i]
+
+SynthScape Manaform
+rules_text: Whenever you cast a noncreature spell, you may have this creature's power and toughness each become equal to that spell's mana value until end of turn.
+Whenever this creature deals combat damage to a player, draw a card. => Whenever you cast an instant or sorcery spell, you may have this creature's power and toughness each become equal to that spell's mana value until end of turn.
+Exile this creature: Return target instant or sorcery card from your graveyard to your hand. Activate only as a sorcery.
+
+Soulshredder Mecha
+cost: {2}{B} => {1}{B}
+pt: 5/4 => 4/3
+
+Eldworld Kindler
+
+Sky, Brink Freebooter
+
+Sheiya, the Timescythe
+rules_text: Sheiya has first strike as long as it's your turn.
+Whenever Sheiya deals combat damage to a player, end the turn. [i](Creatures without first strike won't deal damage. Exile all spells and abilities from the stack. Discard down to your maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)[/i] => During your turn, Sheiya has first strike.
+Whenever Sheiya deals combat damage to a player, end the turn. [i](Creatures without first strike won't deal damage. Exile all spells and abilities from the stack. Discard down to your maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)[/i]
+
+Muse, Metallurgic Prodigy
+
+Eva, Luminite Skipper
+cost: {2}{R}{W} => {1}{R}{W}
+rules_text: When Eva enters, create a 3/2 colorless Vehicle artifact token with crew 1.
+At the beginning of combat on your turn, put a +1/+1 counter on up to one target tapped creature. => During your turn, Eva has first strike.
+When Eva enters, create Trailblazer, a legendary colorless Equipment artifact token with equip {2}, “Whenever you attack, put a charge counter on Trailblazer,” and “Equipped creature gets +1/+1 for each charge counter on Trailblazer.”
+pt: 1/2 => 3/2
+
+Eldstone of Transience
+rules_text: {W}, {T}: Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped.
+Basic landcycling {1}{W} [i]({1}{W}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+When you cycle this card, return up to one target creature card with mana value 1 or less from your graveyard to the battlefield tapped. => {W}, {T}: Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped with a finality counter on it.
+Basic landcycling {1}{W}
+When you cycle this card, return up to one target creature card with mana value 1 or less from your graveyard to the battlefield tapped with a finality counter on it.
+
+Eldstone of Serenity
+rules_text: {U}, {T}: Tap target nonland permanent. Put a stun counter on it.
+Basic landcycling {1}{U} [i]({1}{U}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+When you cycle this card, tap up to one target nonland permanent. => {U}, {T}: You may tap or untap target nonland permanent. You may put a stun counter on it.
+Basic landcycling {1}{U}
+When you cycle this card, you may tap or untap up to one target nonland permanent.
+
+Eldstone of Oblivion
+rules_text: {B}, {T}: Target player mills six cards.
+Basic landcycling {1}{B} [i]({1}{B}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+When you cycle this card, target player mills three cards. => {B}, {T}: Target player mills six cards. You gain life equal to the number of creature cards milled this way.
+Basic landcycling {1}{B}
+When you cycle this card, target player mills three cards. You gain life equal to the number of creature cards milled this way.
+
+Eldstone of Fervor
+rules_text: {R}, {T}: This artifact deals 2 damage to any target.
+Basic landcycling {1}{R} [i]({1}{R}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+When you cycle this card, it deals 1 damage to any target. => {R}, {T}: Exile the top two cards of your library. Choose one of them. You may play it until the end of your next turn.
+Basic landcycling {1}{R}
+When you cycle this card, exile the top card of your library. You may play it until the end of your next turn.
+
+Eldstone of Bloom
+rules_text: {G}, {T}: Put a +1/+1 counter on each creature you control.
+Basic landcycling {1}{G} [i]({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+When you cycle this card, put a +1/+1 counter on target creature you control. => {G}, {T}: Put a +1/+1 counter on each creature you control and a loyalty counter on each planeswalker you control.
+Basic landcycling {1}{G}
+When you cycle this card, put your choice of a +1/+1 counter or a loyalty on up to one target creature or planeswalker you control.
+
+Gallas, Temporal Pioneer
+
+Junksite Compactor
+
+Gear
+
+Vehicle
+
+Ishanna, Phenomaniac
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Induced Obsolescence added.
