@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Scour the SynthScape",
-        "number": 108,
+        "number": 107,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -96,7 +96,7 @@
         "position": ""
     },
     {
-        "card_name": "Blessed of the Coil",
+        "card_name": "Brink Desecrator",
         "number": 82,
         "shape": "normal",
         "set": "ABY",
@@ -136,8 +136,8 @@
         "position": ""
     },
     {
-        "card_name": "Brink Desecrator",
-        "number": 83,
+        "card_name": "Eldstone of Oblivion",
+        "number": 94,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -176,8 +176,8 @@
         "position": ""
     },
     {
-        "card_name": "Eldstone of Oblivion",
-        "number": 95,
+        "card_name": "Inciting Incident",
+        "number": 101,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -216,8 +216,8 @@
         "position": ""
     },
     {
-        "card_name": "Inciting Incident",
-        "number": 102,
+        "card_name": "Moonfall, Coilcursed",
+        "number": 104,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -256,8 +256,8 @@
         "position": ""
     },
     {
-        "card_name": "Moonfall, Coilcursed",
-        "number": 105,
+        "card_name": "Scourge of the SynthScape",
+        "number": 108,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -472,7 +472,7 @@
         "position": ""
     },
     {
-        "card_name": "Tel, Supressed Spark",
+        "card_name": "Tel, Suppressed Spark",
         "number": 283,
         "shape": "normal",
         "set": "ABY",
@@ -537,7 +537,7 @@
     },
     {
         "card_name": "Chronicle of the Deceived",
-        "number": 85,
+        "number": 84,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -577,7 +577,7 @@
     },
     {
         "card_name": "Chronicler of the Passed",
-        "number": 86,
+        "number": 85,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -617,7 +617,7 @@
     },
     {
         "card_name": "Chronological Constant",
-        "number": 87,
+        "number": 86,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -657,14 +657,14 @@
     },
     {
         "card_name": "Circuit Skimmer",
-        "number": 88,
+        "number": 87,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Flowstone Engineer",
+        "card_name": "Flowstone Imbuer",
         "number": 132,
         "shape": "normal",
         "set": "ABY",
@@ -697,7 +697,7 @@
     },
     {
         "card_name": "Congregation at Last Light",
-        "number": 89,
+        "number": 88,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -737,7 +737,7 @@
     },
     {
         "card_name": "Darksteel Ace",
-        "number": 91,
+        "number": 90,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -777,7 +777,7 @@
     },
     {
         "card_name": "Dimension Cleaver",
-        "number": 92,
+        "number": 91,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -817,7 +817,7 @@
     },
     {
         "card_name": "Eliminate the Predecessor",
-        "number": 96,
+        "number": 95,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -857,14 +857,14 @@
     },
     {
         "card_name": "Final Word",
-        "number": 98,
+        "number": 97,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Overeager Courier",
+        "card_name": "Overeager Ocelot",
         "number": 145,
         "shape": "normal",
         "set": "ABY",
@@ -897,7 +897,7 @@
     },
     {
         "card_name": "From the Abyss",
-        "number": 99,
+        "number": 98,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -937,7 +937,7 @@
     },
     {
         "card_name": "Nimble Redeye",
-        "number": 106,
+        "number": 105,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1057,7 +1057,7 @@
     },
     {
         "card_name": "Brink Extortionists",
-        "number": 84,
+        "number": 83,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1097,7 +1097,7 @@
     },
     {
         "card_name": "Crackling Constrictor",
-        "number": 90,
+        "number": 89,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1137,7 +1137,7 @@
     },
     {
         "card_name": "Disciples' Onboarder",
-        "number": 93,
+        "number": 92,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1177,7 +1177,7 @@
     },
     {
         "card_name": "Disciples' Strongarm",
-        "number": 94,
+        "number": 93,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1217,7 +1217,7 @@
     },
     {
         "card_name": "False Mourning's Zealot",
-        "number": 97,
+        "number": 96,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1257,7 +1257,7 @@
     },
     {
         "card_name": "I.E. Scrutinizer",
-        "number": 100,
+        "number": 99,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1297,7 +1297,7 @@
     },
     {
         "card_name": "Identical Backup",
-        "number": 101,
+        "number": 100,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1337,7 +1337,7 @@
     },
     {
         "card_name": "Live on in Memory",
-        "number": 103,
+        "number": 102,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -1377,14 +1377,14 @@
     },
     {
         "card_name": "Minister of Penance",
-        "number": 104,
+        "number": 103,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Peoples' Champion",
+        "card_name": "Photonic Vulpine",
         "number": 146,
         "shape": "normal",
         "set": "ABY",
@@ -1417,7 +1417,7 @@
     },
     {
         "card_name": "Sanctify the Coil",
-        "number": 107,
+        "number": 106,
         "shape": "normal",
         "set": "ABY",
         "rotated": false,
@@ -2697,7 +2697,7 @@
         "position": ""
     },
     {
-        "card_name": "Overeager Courier Token",
+        "card_name": "Overeager Ocelot Token",
         "number": 17,
         "shape": "token",
         "set": "ABY",

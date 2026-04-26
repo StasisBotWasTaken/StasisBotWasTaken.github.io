@@ -1,4 +1,133 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Photonic Vulpine added.
+Overeager Ocelot added.
+Flowstone Imbuer added.
+Scourge of the SynthScape added.
+Overeager Ocelot Token added.
+Tel, Suppressed Spark added.
+
+Peoples' Champion removed.
+Overeager Courier removed.
+Flowstone Engineer removed.
+Blessed of the Coil removed.
+Overeager Courier Token removed.
+Tel, Supressed Spark removed.
+
+In the Nick of Time
+
+Dormant Empiricist
+type: Creature — Human Scientist => Creature — Human Artificer
+
+Spot Weld
+
+Beseech the Eldmother
+rules_text: Look at the top five cards of your library. You may reveal a card with an activated ability from among them and put it into your hand. Then put the rest on the bottom of your library in any order. => Look at the top four cards of your library. You may reveal a card with an activated ability from among them and put it into your hand. Then put the rest on the bottom of your library in any order.
+
+Orrery Overseer
+rules_text: When this creature enters, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+{T}: Add {C}{C}. Spend this mana only to activate abilities. => When this creature enters, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+{T}: Add {C}. Spend this mana only to activate abilities.
+pt: 1/3 => 1/4
+
+Gallas's Understudy
+type: Creature — Human Scientist => Creature — Human Artificer
+
+Examiner of Oddities
+type: Creature — Human Advisor => Creature — Merfolk Artificer
+rules_text: When this creature enters, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+{1}, {T}: Draw a card, then discard a card unless you've drawn three or more cards this turn. => When this creature enters, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+{5}, {T}: Draw a card. This ability costs {1} less to activate for each card you've drawn this turn.
+
+Modify the Canon
+rules_text: This spell costs {X} less to cast, where X is the number of different kinds of counters among permanents you control.
+Counter target spell unless its controller pays {X}. => This spell costs {1} less to cast for each kind of counter among you and permanents you control. [i](This now includes chrono counters.)[/i]
+Counter target spell unless its controller pays {X}.
+
+Chronicle of the Entranced
+rules_text: Flash
+When this enchantment enters, tap up to one target creature and put two stun counters on it.
+Flux 2 — Until the end of your next turn, you may cast spells as though they had flash. [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i] => When this enchantment enters, tap up to one target creature and put two stun counters on it.
+Flux 2 — Until the end of your next turn, you may cast spells as though they had flash. [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i]
+
+Madcap Prodigies
+type: Creature — Gremlin Scientist => Creature — Gremlin Artificer
+
+Glimpse the Possibilities
+
+Artisan Guild Uncoiler
+type: Creature — Human Scientist => Creature — Human Artificer
+rules_text: When this creature enters, put a +1/+1 counter on target creature.
+{3}{G}, {T}: Proliferate. This ability costs {1} less to activate for each +1/+1 counter on this creature. [i](To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => When this creature enters, put a +1/+1 counter on target creature.
+{4}, {T}: Proliferate. This ability costs {1} less to activate for each +1/+1 counter on this creature. [i](To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Innovative Ecologist
+type: Creature — Human Scientist => Creature — Human Artificer
+
+Séance With Those To Be
+
+Scriptoral Summons
+cost: {1}{W}{B} => {2}{W}{B}
+
+Polarized Dyad
+type: Artifact Creature — Robot Warrior => Artifact Creature — Robot
+
+Distill Virtuality
+cost: {X}{W} => {2}{W}{W}
+rules_text: Destroy all artifacts or enchantments with mana value X or less. Each player gains life equal to the number of permanents they controlled that were destroyed this way. => Exile all artifacts and enchantments. Each player gains life equal to the number of permanents they controlled that were exiled this way.
+
+True Sun Freerunner
+
+Those from Beyond
+
+SynthScape Manaform
+
+Serpent God's Audience
+
+Soulshredder Mecha
+
+Stutterhide Stomper
+rules_text: Trample
+Whenever an opponent casts a spell from their hand that targets this creature, exile that spell with two time counters on it. If it doesn't have suspend, it gains suspend. [i](At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost.)[/i] => This spell can't be countered.
+Whenever an opponent casts a spell from their hand that targets this creature, exile that spell with two time counters on it. If it doesn't have suspend, it gains suspend. [i](At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost.)[/i]
+
+Eldworld Propagator
+cost: {2}{G} => {1}{G}
+pt: 3/3 => 2/2
+
+Eva, Luminite Skipper
+
+I.E. Infantry
+type: Artifact Creature — Robot Warrior => Artifact Creature — Robot
+
+Eldstone of Transience
+
+Eldstone of Serenity
+
+Eldstone of Oblivion
+
+Eldstone of Fervor
+
+Eldstone of Bloom
+
+Gallas, Temporal Pioneer
+pt: 2/3 => 2/2
+
+Interplanar Wayfinder
+cost: {1}{G} => {2}{G}
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on this creature.
+{T}, Remove three +1/+1 counters from this creature: Create a colorless artifact token named Splintered Lotus with “{T}: Add three mana of any one color” and “At the beginning of your end step, sacrifice this artifact.” => [i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on this creature.
+{T}, Remove three +1/+1 counters from this creature: Create a colorless artifact token named Splintered Lotus with “{T}: Add three mana of any one color” and “At the beginning of your end step, sacrifice this token.” Activate only as a sorcery.
+pt: 2/2 => 3/3
+
+The Judgment Clock
+cost: {4} => {5}
+
+Clue
+
+
+VERSION 11 CHANGELOG
 ====================
 
 True Sun Freerunner added.
