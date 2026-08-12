@@ -1461,13 +1461,13 @@
 			}
 		},
 		{
-			"name": "Chronicle of the Zealous",
+			"name": "Chronicle of the Fervent",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Enchantment",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/128_Chronicle of the Zealous.png"
+				"en": "https://StasisBotWasTaken.github.io/sets/ABY-files/img/128_Chronicle of the Fervent.png"
 			}
 		},
 		{
@@ -3369,7 +3369,7 @@
 	4 Magmatic Auger
 	4 Collapse of the Web
 	4 Abandon the Timecoil
-	4 Chronicle of the Zealous
+	4 Chronicle of the Fervent
 	4 SynthScape Painter
 	4 Artisan Guild Uncoiler
 	4 Vitality Reweavers
@@ -3754,7 +3754,7 @@
 	6 Magmatic Auger
 	6 Collapse of the Web
 	6 Abandon the Timecoil
-	6 Chronicle of the Zealous
+	6 Chronicle of the Fervent
 	6 SynthScape Painter
 	6 Artisan Guild Uncoiler
 	6 Vitality Reweavers
@@ -4044,7 +4044,7 @@
 	15 Magmatic Auger
 	15 Collapse of the Web
 	15 Abandon the Timecoil
-	15 Chronicle of the Zealous
+	15 Chronicle of the Fervent
 	15 SynthScape Painter
 	15 Artisan Guild Uncoiler
 	15 Vitality Reweavers

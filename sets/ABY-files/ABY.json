@@ -1904,7 +1904,7 @@
             "loyalty": "",
             "artist": "agus sw",
             "alias": "",
-            "notes": "Changed: Reworked"
+            "notes": ""
         },
         {
             "card_name": "Charged Photon Blast",
@@ -2018,7 +2018,7 @@
             "loyalty": "",
             "artist": "Wilson Nugraha",
             "alias": "",
-            "notes": "Changed: 1/4"
+            "notes": ""
         },
         {
             "card_name": "I.E. Refabricator",
@@ -2037,7 +2037,7 @@
             "loyalty": "",
             "artist": "Leon Tukker",
             "alias": "",
-            "notes": "Changed: Reworked and renamed"
+            "notes": ""
         },
         {
             "card_name": "Future-Proofer",
@@ -2151,7 +2151,7 @@
             "loyalty": "",
             "artist": "Eric Guerrero",
             "alias": "",
-            "notes": "Changed: Typeline order switched"
+            "notes": ""
         },
         {
             "card_name": "Modify the Canon",
@@ -2246,7 +2246,7 @@
             "loyalty": "",
             "artist": "Hoang Lap",
             "alias": "",
-            "notes": "Changed: Reworked"
+            "notes": ""
         },
         {
             "card_name": "Chronicle of the Inspired",
@@ -2322,7 +2322,7 @@
             "loyalty": "",
             "artist": "Jessada Sutthi",
             "alias": "",
-            "notes": "Changed: New enters trigger"
+            "notes": ""
         },
         {
             "card_name": "Wasteland Inquisitor",
@@ -2569,7 +2569,7 @@
             "loyalty": "",
             "artist": "Tristan Bideau",
             "alias": "",
-            "notes": "Changed: 2 mana, AA costs R"
+            "notes": ""
         },
         {
             "card_name": "Madcap Prodigies",
@@ -2626,7 +2626,7 @@
             "loyalty": "",
             "artist": "Xistence Imaginations",
             "alias": "",
-            "notes": "Changed: 2R 5/3"
+            "notes": ""
         },
         {
             "card_name": "Timecoil Dismantler",
@@ -2781,7 +2781,7 @@
             "notes": ""
         },
         {
-            "card_name": "Chronicle of the Zealous",
+            "card_name": "Chronicle of the Fervent",
             "color": "R",
             "rarity": "uncommon",
             "type": "Enchantment",
@@ -2797,7 +2797,7 @@
             "loyalty": "",
             "artist": "Hoang Lap",
             "alias": "",
-            "notes": "Changed: Reworked and renamed"
+            "notes": ""
         },
         {
             "card_name": "SynthScape Painter",
@@ -2930,7 +2930,7 @@
             "loyalty": "",
             "artist": "Narendra B Adi",
             "alias": "",
-            "notes": "Changed: Gear to artifact"
+            "notes": ""
         },
         {
             "card_name": "Interplanar Tunneler",
@@ -3082,7 +3082,7 @@
             "loyalty": "",
             "artist": "Hoang Lap",
             "alias": "",
-            "notes": "Changed: Reworked"
+            "notes": ""
         },
         {
             "card_name": "Brain of the Equilibrium",
@@ -3310,7 +3310,7 @@
             "loyalty": "",
             "artist": "Antonis Papantoniou",
             "alias": "",
-            "notes": "Changed: Self-exiles"
+            "notes": ""
         },
         {
             "card_name": "Scrounge, Eldworld Burrower",
@@ -4089,7 +4089,7 @@
             "loyalty": "",
             "artist": "Martin de Diego",
             "alias": "",
-            "notes": "Changed: FT"
+            "notes": ""
         },
         {
             "card_name": "Recursive Fabricator",
@@ -4317,7 +4317,7 @@
             "loyalty": "",
             "artist": "Jue Li",
             "alias": "",
-            "notes": "Changed: Reworked"
+            "notes": ""
         },
         {
             "card_name": "I.E. Residual Error",
@@ -4526,7 +4526,7 @@
             "loyalty": "",
             "artist": "Joshua Cairos",
             "alias": "",
-            "notes": "Changed: Reworked"
+            "notes": ""
         },
         {
             "card_name": "Eonspeed Metamorphosis",
@@ -4583,7 +4583,7 @@
             "loyalty": "",
             "artist": "Benjamin Ee",
             "alias": "",
-            "notes": "Changed: Down the curve by 1"
+            "notes": ""
         },
         {
             "card_name": "Counter of Hours",
@@ -5058,7 +5058,7 @@
             "loyalty": "",
             "artist": "Bad Moon Art Studio",
             "alias": "",
-            "notes": "Changed: Reworked"
+            "notes": ""
         },
         {
             "card_name": "Harbingers of the Old World",
@@ -5153,7 +5153,7 @@
             "loyalty": "",
             "artist": "Alexandre Chaudret",
             "alias": "",
-            "notes": "Changed: Reworked"
+            "notes": ""
         },
         {
             "card_name": "The Immortal Moon",
@@ -6125,5 +6125,5 @@
             "notes": "!related Ishanna, Phenomaniac"
         }
     ],
-    "version": 13
+    "version": 14
 }

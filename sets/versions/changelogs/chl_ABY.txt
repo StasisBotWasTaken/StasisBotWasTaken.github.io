@@ -1,4 +1,46 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Chronicle of the Fervent added.
+
+Chronicle of the Zealous removed.
+
+Serve Time
+
+Gallas's Understudy
+
+I.E. Refabricator
+
+Spinner of the Omenweb
+
+Chronicle of the Entranced
+
+SynthScape Terminator
+
+Flowstone Imbuer
+
+Heel of the Outlands
+
+Retrofit Goliath
+
+Chronicle of the Oppressed
+
+Turning of the Coil
+
+Tortured Mind
+
+Portalhopping
+
+Eldworld Recultivator
+
+Eva, Luminite Skipper
+
+Synthesized Blossom
+
+Cyclical Martyrdom
+
+
+VERSION 13 CHANGELOG
 ====================
 
 I.E. Refabricator added.
