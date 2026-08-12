@@ -288,8 +288,8 @@
         "position": ""
     },
     {
-        "card_name": "Ballot Registrar",
-        "number": 35,
+        "card_name": "Bug the Line",
+        "number": 37,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -328,8 +328,8 @@
         "position": ""
     },
     {
-        "card_name": "Bug the Line",
-        "number": 37,
+        "card_name": "Bureau Mentor",
+        "number": 38,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -368,8 +368,8 @@
         "position": ""
     },
     {
-        "card_name": "Bureau Mentor",
-        "number": 38,
+        "card_name": "Dormant Monstrosity",
+        "number": 45,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -408,8 +408,8 @@
         "position": ""
     },
     {
-        "card_name": "Dormant Monstrosity",
-        "number": 45,
+        "card_name": "Enlightenment",
+        "number": 47,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -448,8 +448,8 @@
         "position": ""
     },
     {
-        "card_name": "Enlightenment",
-        "number": 47,
+        "card_name": "Sleeper Strix",
+        "number": 58,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -488,8 +488,8 @@
         "position": ""
     },
     {
-        "card_name": "Sleeper Strix",
-        "number": 58,
+        "card_name": "Trench Commander",
+        "number": 62,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -528,8 +528,8 @@
         "position": ""
     },
     {
-        "card_name": "Trench Commander",
-        "number": 62,
+        "card_name": "Verity Circle",
+        "number": 63,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -568,8 +568,8 @@
         "position": ""
     },
     {
-        "card_name": "Verity Circle",
-        "number": 63,
+        "card_name": "Veto",
+        "number": 64,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -608,8 +608,8 @@
         "position": ""
     },
     {
-        "card_name": "Veto",
-        "number": 64,
+        "card_name": "Abduct",
+        "number": 34,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -648,8 +648,8 @@
         "position": ""
     },
     {
-        "card_name": "Abduct",
-        "number": 34,
+        "card_name": "Bring to the Limelight",
+        "number": 36,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -672,8 +672,8 @@
         "position": ""
     },
     {
-        "card_name": "Anesthesiologist",
-        "number": 127,
+        "card_name": "Bouncers-for-Hire",
+        "number": 129,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -688,8 +688,8 @@
         "position": ""
     },
     {
-        "card_name": "Bring to the Limelight",
-        "number": 36,
+        "card_name": "Civic Copterist",
+        "number": 39,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -712,8 +712,8 @@
         "position": ""
     },
     {
-        "card_name": "Bouncers-for-Hire",
-        "number": 129,
+        "card_name": "Demolition Team",
+        "number": 133,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -728,8 +728,8 @@
         "position": ""
     },
     {
-        "card_name": "Civic Copterist",
-        "number": 39,
+        "card_name": "Codename Bumblebee",
+        "number": 40,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -752,8 +752,8 @@
         "position": ""
     },
     {
-        "card_name": "Demolition Team",
-        "number": 133,
+        "card_name": "Escalated Tensions",
+        "number": 135,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -768,8 +768,8 @@
         "position": ""
     },
     {
-        "card_name": "Codename Bumblebee",
-        "number": 40,
+        "card_name": "Combat Corporal",
+        "number": 41,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -792,8 +792,8 @@
         "position": ""
     },
     {
-        "card_name": "Escalated Tensions",
-        "number": 135,
+        "card_name": "Gerrymanderer",
+        "number": 137,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -808,8 +808,8 @@
         "position": ""
     },
     {
-        "card_name": "Combat Corporal",
-        "number": 41,
+        "card_name": "Dampening Reconciliator",
+        "number": 43,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -832,8 +832,8 @@
         "position": ""
     },
     {
-        "card_name": "Gerrymanderer",
-        "number": 137,
+        "card_name": "Idealistic Voter",
+        "number": 140,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -848,8 +848,8 @@
         "position": ""
     },
     {
-        "card_name": "Dampening Reconciliator",
-        "number": 43,
+        "card_name": "Election Fraud",
+        "number": 46,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -872,8 +872,8 @@
         "position": ""
     },
     {
-        "card_name": "Idealistic Voter",
-        "number": 140,
+        "card_name": "Inner City Scout",
+        "number": 141,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -888,8 +888,8 @@
         "position": ""
     },
     {
-        "card_name": "Election Fraud",
-        "number": 46,
+        "card_name": "Expendable Researcher",
+        "number": 49,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -912,8 +912,8 @@
         "position": ""
     },
     {
-        "card_name": "Inner City Scout",
-        "number": 141,
+        "card_name": "International Development",
+        "number": 144,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -928,8 +928,8 @@
         "position": ""
     },
     {
-        "card_name": "Evasive Tactics",
-        "number": 48,
+        "card_name": "Informed Voter",
+        "number": 51,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -952,8 +952,8 @@
         "position": ""
     },
     {
-        "card_name": "International Development",
-        "number": 144,
+        "card_name": "Invest",
+        "number": 145,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -968,8 +968,8 @@
         "position": ""
     },
     {
-        "card_name": "Expendable Researcher",
-        "number": 49,
+        "card_name": "Invader of Privacy",
+        "number": 52,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -992,24 +992,24 @@
         "position": ""
     },
     {
-        "card_name": "Invest",
-        "number": 145,
+        "card_name": "Mana Harvesters",
+        "number": 146,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Penrath Roperunner",
-        "number": 23,
+        "card_name": "Replicated Regiment",
+        "number": 28,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Informed Voter",
-        "number": 51,
+        "card_name": "Political Prisoner",
+        "number": 54,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -1032,24 +1032,24 @@
         "position": ""
     },
     {
-        "card_name": "Mana Harvesters",
-        "number": 146,
+        "card_name": "Ram Through",
+        "number": 148,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Replicated Regiment",
-        "number": 28,
+        "card_name": "Retaliatory Outburst",
+        "number": 29,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Invader of Privacy",
-        "number": 52,
+        "card_name": "Rush for Results",
+        "number": 57,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -1072,24 +1072,24 @@
         "position": ""
     },
     {
-        "card_name": "Ram Through",
-        "number": 148,
+        "card_name": "Ruinous Discovery",
+        "number": 149,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Retaliatory Outburst",
-        "number": 29,
+        "card_name": "Rogue Justiciar",
+        "number": 30,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Political Prisoner",
-        "number": 54,
+        "card_name": "Stasis Chamber",
+        "number": 59,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -1112,28 +1112,23 @@
         "position": ""
     },
     {
-        "card_name": "Ruinous Discovery",
-        "number": 149,
+        "card_name": "Test Subject Alpha",
+        "number": 155,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Rogue Justiciar",
-        "number": 30,
+        "card_name": "Seasoned Spymaster",
+        "number": 31,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Rush for Results",
-        "number": 57,
-        "shape": "normal",
-        "set": "CNY",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
         "card_name": "Rigged Trial",
@@ -1152,28 +1147,18 @@
         "position": ""
     },
     {
-        "card_name": "Test Subject Alpha",
-        "number": 155,
+        "card_name": "Triumphant Herd",
+        "number": 156,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Seasoned Spymaster",
-        "number": 31,
-        "shape": "normal",
-        "set": "CNY",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
-        "card_name": "Stasis Chamber",
-        "number": 59,
-        "shape": "normal",
-        "set": "CNY",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
         "card_name": "Senators' Chauffeur",
@@ -1192,12 +1177,7 @@
         "position": ""
     },
     {
-        "card_name": "Triumphant Herd",
-        "number": 156,
-        "shape": "normal",
-        "set": "CNY",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1269,8 +1249,8 @@
         "position": ""
     },
     {
-        "card_name": "Dhante's Inferno",
-        "number": 175,
+        "card_name": "Gatherer of Grievances",
+        "number": 187,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -1309,8 +1289,8 @@
         "position": ""
     },
     {
-        "card_name": "Gatherer of Grievances",
-        "number": 187,
+        "card_name": "Devoted Lackeys",
+        "number": 174,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -1349,8 +1329,8 @@
         "position": ""
     },
     {
-        "card_name": "Devoted Lackeys",
-        "number": 174,
+        "card_name": "Liquidate",
+        "number": 196,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -1389,9 +1369,9 @@
         "position": ""
     },
     {
-        "card_name": "Liquidate",
-        "number": 196,
-        "shape": "normal",
+        "card_name": "Meeting of the Elites",
+        "number": 197,
+        "shape": "transform double faced",
         "set": "CNY",
         "rotated": false,
         "position": ""
@@ -1429,9 +1409,9 @@
         "position": ""
     },
     {
-        "card_name": "Meeting of the Elites",
-        "number": 197,
-        "shape": "transform double faced",
+        "card_name": "Loophole Exploiter",
+        "number": 238,
+        "shape": "normal",
         "set": "CNY",
         "rotated": false,
         "position": ""
@@ -1469,8 +1449,8 @@
         "position": ""
     },
     {
-        "card_name": "Loophole Exploiter",
-        "number": 238,
+        "card_name": "Patron of Arms",
+        "number": 202,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -1509,8 +1489,8 @@
         "position": ""
     },
     {
-        "card_name": "Patron of Arms",
-        "number": 202,
+        "card_name": "Ignited Soul",
+        "number": 237,
         "shape": "normal",
         "set": "CNY",
         "rotated": false,
@@ -1549,12 +1529,7 @@
         "position": ""
     },
     {
-        "card_name": "Ignited Soul",
-        "number": 237,
-        "shape": "normal",
-        "set": "CNY",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
         "card_name": "Proletarian Rabble",

@@ -1,4 +1,48 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+Anesthesiologist removed.
+Ballot Registrar removed.
+Dhante's Inferno removed.
+Evasive Tactics removed.
+Penrath Roperunner removed.
+
+Redeveloped Cityscape
+rules_text: {T}, Sacrifice Redeveloped Cityscape: Search your library for a basic land card and put it onto the battlefield tapped. Then you may exile a land card from your hand. If you do, search your library for a basic land card, reveal it, and put it into your hand. Then shuffle. => {T}, Sacrifice Redeveloped Cityscape, Exile a card from your hand: Search your library for two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
+
+Research Grant
+cost: {1}{U} => {2}{U}
+rules_text: [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Research Grant enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+You've cast two or more spells this turn.
+You've drawn two or more cards this turn. => [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Research Grant enters, mill four cards. When you do, you may return a noncreature, nonland card from your graveyard to your hand.
+You've cast two or more spells this turn.
+You've drawn two or more cards this turn.
+special_text: [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Research Grant enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+You've cast two or more spells this turn.
+You've drawn two or more cards this turn. => [i](Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)[/i]
+When Research Grant enters, mill four cards. When you do, you may return a noncreature, nonland card from your graveyard to your hand.
+You've cast two or more spells this turn.
+You've drawn two or more cards this turn.
+
+Envoy of the Fallen
+cost: {1}{U}{B}{R} => {2}{U}{B}{R}
+rules_text: Lifelink
+When Envoy of the Fallen enters, if it was cast, return any number of target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+Sacrifice another creature: Envoy of the Fallen deals 1 damage to each opponent. => When Envoy of the Fallen enters, if it was cast, return any number of target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+{2}, Sacrifice another creature: Draw two cards, then discard a card.
+pt: 3/2 => 3/3
+
+Survivors of the New World
+rules_text: When Survivors of the New World enters, if it isn't a token, create two tokens that are copies of it.
+When Survivors of the New World dies, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order. => When Survivors of the New World enters, if it was cast, create two tokens that are copies of it.
+When Survivors of the New World dies, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Devoted Lackeys added.

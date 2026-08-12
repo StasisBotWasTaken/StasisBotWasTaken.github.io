@@ -1,4 +1,143 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+I.E. Refabricator added.
+Chronicle of the Zealous added.
+Audience of the Serpent added.
+
+Industrial Reclamation removed.
+Chronicle of the Faithless removed.
+Serpent God's Audience removed.
+
+Serve Time
+type: Instant => Enchantment
+cost: {1}{W} => {W}
+rules_text: Choose one —
+• Remove any number of counters from target permanent or player.
+• You get {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i] => When this enchantment enters, exile target creature an opponent controls until this enchantment leaves the battlefield. You get {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}. [i](Once each turn as a sorcery, you can spend chrono counters to take an extra step or phase this turn.)[/i]
+At the beginning of your end step, sacrifice this enchantment unless you pay {ChronoCounterSymbolsChrono.png}.
+
+Gallas's Understudy
+pt: 2/1 => 1/4
+
+Spinner of the Omenweb
+type: Artifact Creature — Spider Robot => Artifact Creature — Robot Spider
+
+Chronicle of the Entranced
+type: Enchantment => Enchantment — Aura
+cost: {1}{U} => {2}{U}{U}
+rules_text: When this enchantment enters, tap up to one target creature and put two stun counters on it.
+Flux 2 — Until the end of your next turn, you may cast spells as though they had flash. [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i] => Enchant creature
+When this Aura enters, tap enchanted creature.
+You control enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+Flux 2 — Untap enchanted creature. [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i]
+
+SynthScape Terminator
+rules_text: Flash
+When this creature enters, up to one target creature gains deathtouch and lifelink until end of turn. => Flash
+When this creature enters, remove any number of counters from target permanent or player.
+
+Chronicle of the Deceived
+rules_text: When this enchantment enters, draw three cards, then you lose 3 life unless you sacrifice a creature or discard a card.
+Flux 2 — You lose 3 life unless you sacrifice a creature or discard a card. [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i] => When this enchantment enters, if it was cast, draw three cards, then you lose 3 life unless you sacrifice a creature or discard a card.
+Flux 2 — You lose 3 life unless you sacrifice a creature or discard a card. [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i]
+
+Flowstone Imbuer
+cost: {2}{R} => {1}{R}
+rules_text: When this creature enters, you may search your library for a Vehicle card, reveal it, then shuffle and put that card on top.
+{1}: Target Vehicle creature you control gets +1/-1 until end of turn. => When this creature enters, you may search your library for a Vehicle card, reveal it, then shuffle and put that card on top.
+{R}: Target Vehicle creature you control gets +1/-1 until end of turn.
+
+Heel of the Outlands
+cost: {1}{R} => {2}{R}
+pt: 4/3 => 5/3
+
+Retrofit Goliath
+rules_text: Reach
+Whenever this creature attacks, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+Sacrifice two Gears: Return this card from your graveyard to your hand. => Reach
+Whenever this creature attacks, create a Gear token. [i](It's an artifact with “{T}, Sacrifice this token: Untap target nonland permanent. Activate only as a sorcery.”)[/i]
+Sacrifice two artifacts: Return this card from your graveyard to your hand.
+
+Chronicle of the Oppressed
+rules_text: Flux 2 — Creatures you control gain vigilance until end of turn. [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i]
+{2}, Tap an untapped creature you control: Tap target creature. => When this enchantment enters, up to one target creature phases out until your next turn. [i](Treat it and anything attached to it as though they don't exist until it phases back in.)[/i]
+Flux 2 — Up to one target creature phases out until your next turn. [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i]
+
+Turning of the Coil
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Search your library and/or graveyard for a creature with mana value less than or equal to the sacrificed creature's mana value plus X and put it onto the battlefield. If you searched your library this way, shuffle. => As an additional cost to cast this spell, sacrifice a creature.
+Search your library and/or graveyard for a creature with mana value less than or equal to the sacrificed creature's mana value plus X and put it onto the battlefield. If you searched your library this way, shuffle.
+Exile Turning of the Coil.
+
+Tortured Mind
+
+Portalhopping
+rules_text: Search your library for a land card, put it onto the battlefield, then shuffle.
+You may cast this card from your graveyard.
+At the beginning of your end step, exile this card from your graveyard. => Replicate—Tap any number of untapped creatures you control with total power 3 or greater. [i](When you cast this spell, copy it for each time you paid its replicate cost.)[/i]
+Search your library for a land card, put it onto the battlefield, then shuffle.
+
+Eldworld Recultivator
+rules_text: Sacrifice a creature: Add {G}.
+{2}{B}, {T}: Return target creature card from your graveyard to the battlefield tapped with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i] => Sacrifice another creature: Add one mana of any color.
+{1}, Exile a creature card from your graveyard: Put a +1/+1 counter on this creature.
+
+Eva, Luminite Skipper
+cost: {1}{R}{W} => {R}{W}
+pt: 3/2 => 2/1
+
+Eldstone of Serenity
+rules_text: {U}, {T}: You may tap or untap target nonland permanent. You may put a stun counter on it.
+Basic landcycling {1}{U}
+When you cycle this card, you may tap or untap up to one target nonland permanent. => {U}, {T}: You may tap or untap target nonland permanent. If it's your turn, you may put a stun counter on it.
+Basic landcycling {1}{U}
+When you cycle this card, you may tap or untap up to one target nonland permanent.
+
+Planar Incursion
+cost: {3}{U}{B}{B} => {X}{U}{B}
+rules_text: Choose six. You may choose the same mode more than once.
+• Choose a creature. It phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+• All creatures get -1/-1 until end of turn.
+• Each opponent loses 1 life and you gain 1 life. => Choose X. You may choose the same mode more than once.
+• Choose a creature. It phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+• All creatures get -1/-1 until end of turn.
+• Each opponent loses 1 life and you gain 1 life.
+
+Synthesized Blossom
+rules_text: Defender
+You may play an additional land on each of your turns.
+{T}: Return another target permanent you control to its owner's hand. Activate only during your turn. => Defender
+You may play an additional land on each of your turns.
+As long as you control eight or more lands, you can't lose the game and your opponents can't win the game.
+pt: 0/3 => 0/4
+
+Harbingers of the Old World
+rules_text: When this creature enters, if it isn't a token, create two tokens that are copies of it.
+When this creature dies, choose one —
+• Each opponent loses 3 life.
+• Each opponent sacrifices a creature of their choice.
+• Each opponent discards a card. => When this creature enters, if it was cast, create two tokens that are copies of it.
+When this creature dies, choose one —
+• Each opponent loses 3 life.
+• Each opponent sacrifices a creature of their choice.
+• Each opponent discards a card.
+
+Cyclical Martyrdom
+cost: {1}{R}{W} => {2}{R}{W}
+rules_text: Whenever a creature you control enters, this enchantment deals 1 damage to each opponent and you gain 1 life.
+Whenever a creature you control dies while attacking, you may exile it. If you do, you may cast it this turn, except it enters with a finality counter on it. => Creatures you control get +1/+1.
+Whenever a creature you control dies, if it attacked this turn, exile it and the top card of your library. You may play one of those cards until the end of your next turn.
+
+Ebo, Eternal Martyr
+pt: 2/2 => 3/3
+
+She Who Never Was
+pt: 3/3 => 2/2
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Photonic Vulpine added.

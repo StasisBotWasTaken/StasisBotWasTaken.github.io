@@ -5,7 +5,7 @@
 			<name>CNY</name>
 			<longname>CNY</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-26</releasedate>
+			<releasedate>2026-08-11</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1711,7 +1711,7 @@ Basic landcycling {1}{W} ({1}{W}, Discard this card: Search your library for a b
 		</card>
 		<card>
 			<name>Redeveloped Cityscape</name>
-			<text>{T}, Sacrifice Redeveloped Cityscape: Search your library for a basic land card and put it onto the battlefield tapped. Then you may exile a land card from your hand. If you do, search your library for a basic land card, reveal it, and put it into your hand. Then shuffle.</text>
+			<text>{T}, Sacrifice Redeveloped Cityscape, Exile a card from your hand: Search your library for two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
 			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/262_Redeveloped Cityscape.png" num="262">CNY</set>
 			<prop>
 				<layout>normal</layout>
@@ -3440,7 +3440,7 @@ You control two or more creatures with the same toughness.
 		<card>
 			<name>Research Grant</name>
 			<text>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)
-When Research Grant enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+When Research Grant enters, mill four cards. When you do, you may return a noncreature, nonland card from your graveyard to your hand.
 You&apos;ve cast two or more spells this turn.
 You&apos;ve drawn two or more cards this turn.
 ---
@@ -3451,8 +3451,8 @@ You&apos;ve drawn two or more cards this turn.
 				<side>front</side>
 				<type>Enchantment — Policy</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -4131,20 +4131,19 @@ When Whirring Inspector enters, look at target player&apos;s hand. You may exile
 		</card>
 		<card>
 			<name>Envoy of the Fallen</name>
-			<text>Lifelink
-When Envoy of the Fallen enters, if it was cast, return any number of target creature cards with total mana value 3 or less from your graveyard to the battlefield.
-Sacrifice another creature: Envoy of the Fallen deals 1 damage to each opponent.</text>
+			<text>When Envoy of the Fallen enters, if it was cast, return any number of target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+{2}, Sacrifice another creature: Draw two cards, then discard a card.</text>
 			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/179_Envoy of the Fallen.png" num="179">CNY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Soldier</type>
 				<maintype>Creature</maintype>
-				<manacost>1UBR</manacost>
-				<cmc>4</cmc>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
 				<colors>UBR</colors>
 				<coloridentity>UBR</coloridentity>
-				<pt>3/2</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4657,7 +4656,7 @@ Crew 2</text>
 		</card>
 		<card>
 			<name>Survivors of the New World</name>
-			<text>When Survivors of the New World enters, if it isn&apos;t a token, create two tokens that are copies of it.
+			<text>When Survivors of the New World enters, if it was cast, create two tokens that are copies of it.
 When Survivors of the New World dies, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.</text>
 			<set rarity="mythic" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/221_Survivors of the New World.png" num="221">CNY</set>
 			<prop>
@@ -5179,92 +5178,6 @@ Equip {2}</text>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Anesthesiologist</name>
-			<text>Whenever Anesthesiologist attacks, teach Anesthesiologist lifelink if you control a white permanent. Otherwise, you gain 2 life. (To teach lifelink, put a lifelink counter on it. If it already has lifelink, put a +1/+1 counter on it instead.)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/127_Anesthesiologist.png" num="127">CNY</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Human Artificer</type>
-				<maintype>Creature</maintype>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Ballot Registrar</name>
-			<text>When Ballot Registrar enters, make a pledge. (Create any blue Clique enchantment token. If you already control a Clique, instead activate its Pledge without paying its cost.)
-Activated abilities of nonland permanents you control cost {1} less to activate. This effect can&apos;t reduce the mana in that cost to less than one mana.</text>
-			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/35_Ballot Registrar.png" num="35">CNY</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Human Advisor</type>
-				<maintype>Creature</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-				<pt>1/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Dhante&apos;s Inferno</name>
-			<text>Dhante&apos;s Inferno deals 4 damage to any target. Create a number of tapped Treasure tokens equal to the amount of excess damage dealt this way.
-{X}, Exile Dhante&apos;s Inferno from your graveyard: Each opponent loses X life and you gain X life. Spend only mana from artifact sources to activate this ability. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/175_Dhante&apos;s Inferno.png" num="175">CNY</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>2BR</manacost>
-				<cmc>4</cmc>
-				<colors>BR</colors>
-				<coloridentity>BR</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Evasive Tactics</name>
-			<text>Target creature gains hexproof until end of turn. Teach it vigilance. (Put a vigilance counter on it. If it already has vigilance, put a +1/+1 counter on it instead.)</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/48_Evasive Tactics.png" num="48">CNY</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>U</manacost>
-				<cmc>1</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Penrath Roperunner</name>
-			<text>Flying
-Whenever you attack, target attacking creature gets +1/+1 until end of turn. If you control a green permanent, instead put a +1/+1 counter on that creature.</text>
-			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/CNY-files/img/23_Penrath Roperunner.png" num="23">CNY</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Human Rebel</type>
-				<maintype>Creature</maintype>
-				<manacost>5W</manacost>
-				<cmc>6</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>The Codex CNY</name>

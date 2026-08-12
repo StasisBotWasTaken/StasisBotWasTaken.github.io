@@ -1925,7 +1925,7 @@
 		{
 			"name": "Research Grant",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Policy",
 			"collector_number": "56",
 			"back": {
@@ -2293,7 +2293,7 @@
 		{
 			"name": "Envoy of the Fallen",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{B}{R}",
+			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "179",
 			"image_uris": {
@@ -2811,56 +2811,6 @@
 			}
 		},
 		{
-			"name": "Anesthesiologist",
-			"rarity": "common",
-			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Artificer",
-			"collector_number": "127",
-			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/127_Anesthesiologist.png"
-			}
-		},
-		{
-			"name": "Ballot Registrar",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Advisor",
-			"collector_number": "35",
-			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/35_Ballot Registrar.png"
-			}
-		},
-		{
-			"name": "Dhante's Inferno",
-			"rarity": "rare",
-			"mana_cost": "{2}{B}{R}",
-			"type": "Instant",
-			"collector_number": "175",
-			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/175_Dhante's Inferno.png"
-			}
-		},
-		{
-			"name": "Evasive Tactics",
-			"rarity": "common",
-			"mana_cost": "{U}",
-			"type": "Instant",
-			"collector_number": "48",
-			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/48_Evasive Tactics.png"
-			}
-		},
-		{
-			"name": "Penrath Roperunner",
-			"rarity": "common",
-			"mana_cost": "{5}{W}",
-			"type": "Creature — Human Rebel",
-			"collector_number": "23",
-			"image_uris": {
-				"en": "https://StasisBotWasTaken.github.io/sets/CNY-files/img/23_Penrath Roperunner.png"
-			}
-		},
-		{
 			"name": "The Codex",
 			"rarity": "common",
 			"mana_cost": "",
@@ -2946,7 +2896,6 @@
 	1 Estrathian Gentrifiers
 	1 Tomer, Figurehead President
 	1 The Majority Whip
-	2 Dhante's Inferno
 [uncommon(3)]
 	4 Redeveloped Cityscape
 	4 Minister of Utility
@@ -3033,7 +2982,6 @@
 	4 Vishanki District
 	4 Penrath District
 	4 Sillaman District
-	4 Ballot Registrar
 [common(6)]
 	8 Eager Voter
 	8 Magnetic Rhetorician
@@ -3133,9 +3081,6 @@
 	8 Urban Sunscape
 	8 Controlled Ecosystem
 	8 CNY CLIQUE TOKEN REMINDER
-	8 Anesthesiologist
-	8 Evasive Tactics
-	8 Penrath Roperunner
 [common | masterpiece(1)]
 	8 Eager Voter
 	8 Magnetic Rhetorician
@@ -3235,9 +3180,6 @@
 	8 Urban Sunscape
 	8 Controlled Ecosystem
 	8 CNY CLIQUE TOKEN REMINDER
-	8 Anesthesiologist
-	8 Evasive Tactics
-	8 Penrath Roperunner
 [foil(1)]
 	12 Eager Voter
 	12 Magnetic Rhetorician
@@ -3495,11 +3437,6 @@
 	1 Tomer, Figurehead President
 	1 The Majority Whip
 	12 CNY CLIQUE TOKEN REMINDER
-	12 Anesthesiologist
-	6 Ballot Registrar
-	2 Dhante's Inferno
-	12 Evasive Tactics
-	12 Penrath Roperunner
 [wildcard(1)]
 	6 Eager Voter
 	6 Magnetic Rhetorician
@@ -3757,8 +3694,3 @@
 	4 Tomer, Figurehead President
 	4 The Majority Whip
 	6 CNY CLIQUE TOKEN REMINDER
-	6 Anesthesiologist
-	15 Ballot Registrar
-	7 Dhante's Inferno
-	6 Evasive Tactics
-	6 Penrath Roperunner
