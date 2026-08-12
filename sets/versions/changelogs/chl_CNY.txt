@@ -1,4 +1,27 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Penrath Roperunner added.
+Evasive Tactics added.
+Anesthesiologist added.
+Ballot Registrar added.
+Dhante's Inferno added.
+Chromatic Rift Promo added.
+Incumbency Promo !promo!design Stasis added.
+Severin's Masterwork Promo added.
+Gaze Upon Civilization Promo added.
+Sparks of a Revolution Promo added.
+Coup D'Etat Promo added.
+Defect Promo added.
+Search and Seizure Promo added.
+Vishanki Hellkite Promo added.
+Whirring Inspector Promo added.
+Work Safety Violation Promo added.
+Estrathe, Center of Civilization Promo added.
+
+
+
+VERSION 7 CHANGELOG
 ====================
 
 
