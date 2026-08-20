@@ -2428,7 +2428,7 @@
             "number": 115,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Flash\nWhen this creature enters, remove any number of counters from target permanent or player.",
+            "rules_text": "Flash\nWhen this creature enters, remove any number of counters from target permanent or opponent.",
             "flavor_text": "[i]Much like Oscalia itself, the SynthScape could not keep all of its programs chained to their charted paths.[/i]",
             "pt": "2/2",
             "special_text": "",

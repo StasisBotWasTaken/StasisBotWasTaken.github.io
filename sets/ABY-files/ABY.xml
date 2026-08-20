@@ -5,7 +5,7 @@
 			<name>ABY</name>
 			<longname>A Better Yesterday</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-12</releasedate>
+			<releasedate>2026-08-19</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2145,7 +2145,7 @@ Pay {ChronoCounterSymbolsChrono.png}{ChronoCounterSymbolsChrono.png}: Return thi
 		<card>
 			<name>SynthScape Terminator</name>
 			<text>Flash
-When this creature enters, remove any number of counters from target permanent or player.</text>
+When this creature enters, remove any number of counters from target permanent or opponent.</text>
 			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/115_SynthScape Terminator.png" num="115">ABY</set>
 			<prop>
 				<layout>normal</layout>

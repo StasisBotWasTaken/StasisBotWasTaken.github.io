@@ -1,4 +1,15 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+
+
+SynthScape Terminator
+rules_text: Flash
+When this creature enters, remove any number of counters from target permanent or player. => Flash
+When this creature enters, remove any number of counters from target permanent or opponent.
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Chronicle of the Fervent added.
