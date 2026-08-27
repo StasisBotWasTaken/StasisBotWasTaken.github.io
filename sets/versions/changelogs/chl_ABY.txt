@@ -1,4 +1,24 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+
+
+I.E. Scrutinizer
+rules_text: When this Vehicle enters, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => When this Vehicle enters, target opponent reveals their hand. You may exile a nonland card from it until this Vehicle leaves the battlefield.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+pt: 3/2 => 4/3
+
+Chronicle of the Fervent
+rules_text: Creatures you control have haste.
+Flux 2 — When you next cast a spell this turn, copy that spell. If it's a permanent spell, it gains “At the beginning of your end step, sacrifice this permanent.” [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i] => At the beginning of combat on your turn, up to one target creature gains haste until end of turn.
+Flux 2 — When you next cast a spell this turn, copy that spell. If it's a permanent spell, it gains “At the beginning of your end step, sacrifice this permanent.” [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i]
+
+Ebo, Eternal Martyr
+pt: 3/3 => 2/2
+
+
+VERSION 15 CHANGELOG
 ====================
 
 

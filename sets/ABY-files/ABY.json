@@ -812,9 +812,9 @@
             "number": 100,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When this Vehicle enters, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.\nCrew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
+            "rules_text": "When this Vehicle enters, target opponent reveals their hand. You may exile a nonland card from it until this Vehicle leaves the battlefield.\nCrew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "3/2",
+            "pt": "4/3",
             "special_text": "",
             "shape": "normal",
             "set": "ABY",
@@ -2788,7 +2788,7 @@
             "number": 128,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
-            "rules_text": "Creatures you control have haste.\nFlux 2 \u2014 When you next cast a spell this turn, copy that spell. If it's a permanent spell, it gains \u201cAt the beginning of your end step, sacrifice this permanent.\u201d [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i]",
+            "rules_text": "At the beginning of combat on your turn, up to one target creature gains haste until end of turn.\nFlux 2 \u2014 When you next cast a spell this turn, copy that spell. If it's a permanent spell, it gains \u201cAt the beginning of your end step, sacrifice this permanent.\u201d [i](On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5849,7 +5849,7 @@
             "cost": "{W}{B}",
             "rules_text": "Creature tokens you control get +1/+1.\nEmbalm {1}{W}{B} [i]({1}{W}{B}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Cleric with no mana cost. Embalm only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "ABY",
@@ -6125,5 +6125,5 @@
             "notes": "!related Ishanna, Phenomaniac"
         }
     ],
-    "version": 15
+    "version": 16
 }

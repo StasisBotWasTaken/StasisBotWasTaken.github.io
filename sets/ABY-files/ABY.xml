@@ -5,7 +5,7 @@
 			<name>ABY</name>
 			<longname>A Better Yesterday</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-19</releasedate>
+			<releasedate>2026-08-27</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -751,8 +751,8 @@ Draw two cards. You get an amount of {ChronoCounterSymbolsChrono.png} equal to t
 		</card>
 		<card>
 			<name>I.E. Scrutinizer</name>
-			<text>When this Vehicle enters, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
-Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<text>When this Vehicle enters, target opponent reveals their hand. You may exile a nonland card from it until this Vehicle leaves the battlefield.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/100_I.E. Scrutinizer.png" num="100">ABY</set>
 			<prop>
 				<layout>normal</layout>
@@ -763,7 +763,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>3/2</pt>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -2581,7 +2581,7 @@ Collapse of the Web deals 2 damage to each untapped creature.</text>
 		</card>
 		<card>
 			<name>Chronicle of the Fervent</name>
-			<text>Creatures you control have haste.
+			<text>At the beginning of combat on your turn, up to one target creature gains haste until end of turn.
 Flux 2 — When you next cast a spell this turn, copy that spell. If it&apos;s a permanent spell, it gains &quot;At the beginning of your end step, sacrifice this permanent.&quot; (On your upkeep, put a time counter on this. Whenever there are two or more, remove two and trigger the flux ability.)</text>
 			<set rarity="uncommon" picurl="https://StasisBotWasTaken.github.io/sets/ABY-files/img/128_Chronicle of the Fervent.png" num="128">ABY</set>
 			<prop>
@@ -5516,7 +5516,7 @@ Embalm {1}{W}{B} ({1}{W}{B}, Exile this card from your graveyard: Create a token
 				<cmc>2</cmc>
 				<colors>WB</colors>
 				<coloridentity>WB</coloridentity>
-				<pt>3/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
