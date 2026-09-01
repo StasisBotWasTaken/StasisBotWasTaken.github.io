@@ -1,0 +1,243 @@
+﻿[
+    {
+        "card_name": "Wildcount Heir",
+        "number": 1,
+        "shape": "normal",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sage of the Stingfields",
+        "number": 2,
+        "shape": "class",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Peasant's Bane",
+        "number": 3,
+        "shape": "transform double faced",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Jack In",
+        "number": 4,
+        "shape": "normal",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Teeming Anurboroid",
+        "number": 5,
+        "shape": "normal",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "On Sabbatical",
+        "number": 11,
+        "shape": "normal",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Starspawn Nucleus",
+        "number": 13,
+        "shape": "normal",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Whispering Warmonger",
+        "number": 15,
+        "shape": "normal",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Muscleground Tunneler",
+        "number": 10,
+        "shape": "normal",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spirit of Solidarity",
+        "number": 12,
+        "shape": "normal",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Balancer of Lives",
+        "number": 6,
+        "shape": "normal",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Keeper of the Forgotten",
+        "number": 9,
+        "shape": "normal",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bifurcating Mycomass",
+        "number": 7,
+        "shape": "normal",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Golden Avenger",
+        "number": 8,
+        "shape": "normal",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tooth of the Rising Star",
+        "number": 14,
+        "shape": "normal",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "City's Blessing",
+        "number": 1,
+        "shape": "token",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Conflict",
+        "number": 2,
+        "shape": "token split",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Demon Noble",
+        "number": 3,
+        "shape": "token",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nightmare",
+        "number": 4,
+        "shape": "token",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skeleton",
+        "number": 5,
+        "shape": "token",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Keeper of the Forgotten",
+        "number": 6,
+        "shape": "token",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Musclegrounds Tunneler",
+        "number": 7,
+        "shape": "token",
+        "set": "BTO",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

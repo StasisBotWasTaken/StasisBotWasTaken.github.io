@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>BTO</name>
+			<longname>Beyond the Omenweb</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-08-31</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Wildcount Heir</name>
+			<text>Masque — Flying or double strike. (This enters with your choice of a flying counter or double strike counter.)
+At the beginning of combat on your turn, creatures you control with counters on them gain first strike until end of turn if a creature you control has first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.</text>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/1_Wildcount Heir.png" num="1">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sage of the Stingfields</name>
+			<text>(As this enters and at the beginning of your upkeep, add a tide counter. If there are more than three, remove all but one.)
+Vigilance
+1-2 Low Tide
+{T}: Surveil 1.
+3-4 High Tide
+{U}, {T}: Draw a card.</text>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/2_Sage of the Stingfields.png" num="2">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Tide Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Peasant&apos;s Bane</name>
+			<text>When this creature enters, create a 1/1 black Human Serf creature token.
+Fivefold Damnation (When this dies, put it into your library transformed fifth from the top.)
+---
+(Back): Demon&apos;s Boon</text>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/3_Peasant&apos;s Bane_front.png" num="3a">BTO</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Demon&apos;s Boon</related>
+		</card>
+		<card>
+			<name>Demon&apos;s Boon</name>
+			<text>When this creature enters, create a 5/5 black Demon Noble creature token with flying.
+---
+(Front): Peasant&apos;s Bane</text>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/3_Peasant&apos;s Bane_back.png" num="3b">BTO</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Spirit Serf</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Peasant&apos;s Bane</related>
+		</card>
+		<card>
+			<name>Jack In</name>
+			<text>Corrupt — Exile the top three cards of your library. Choose one of them. If you control a permanent with greater mana value than this spell, choose two of them instead. You may play cards chosen this way until the end of your next turn.</text>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/4_Jack In.png" num="4">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Teeming Anurboroid</name>
+			<text>Ecosystem — {4}, {T}: Put a +1/+1 counter on target creature. This ability costs {1} less to activate for each different power among creatures you control. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/5_Teeming Anurboroid.png" num="5">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Plant Frog</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>On Sabbatical</name>
+			<text>Exile target creature you control. Return it to the battlefield under its owner&apos;s control at the beginning of the next end step.
+Magecraft — Whenever you cast or copy an instant or sorcery spell, you may pay {1}. If you do, return this card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/11_On Sabbatical.png" num="11">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Starspawn Nucleus</name>
+			<text>Flying
+Whenever the void calls you for the first time each turn, create two 1/1 black Nightmare creature tokens. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)
+Whenever this creature or another Nightmare you control deals combat damage to a player, draw a card.</text>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/13_Starspawn Nucleus.png" num="13">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whispering Warmonger</name>
+			<text>Flying
+When this creature enters, you may contest each card in your hand. If you do, search your library for a card, put it into your hand, then shuffle. (To contest a card, exile it, then create a D{2} Conflict battle token an opponent protects with &quot;When this is defeated, put the contested card into your hand.&quot;)</text>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/15_Whispering Warmonger.png" num="15">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Muscleground Tunneler</name>
+			<text>Oscillate {1}{R}{G} (You may exile this card from your hand for {1}{R}{G} at sorcery speed to create a 1/1 token copy. You may cast it on a later turn from exile.)
+Haste
+Whenever this creature becomes tapped, put a +1/+1 counter on it.</text>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/10_Muscleground Tunneler.png" num="10">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>4RG</manacost>
+				<cmc>6</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spirit of Solidarity</name>
+			<text>When this creature enters, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in any order.
+Menagerie — Sacrifice this creature: Creatures you control gain indestructible until end of turn. Activate only if there are five or more creature types among creatures you control.</text>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/12_Spirit of Solidarity.png" num="12">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Chimera Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Balancer of Lives</name>
+			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
+Whenever this creature attacks, create a 2/2 black Skeleton creature token that&apos;s tapped and attacking. Sacrifice that token at end of combat unless you have the city&apos;s blessing.</text>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/6_Balancer of Lives.png" num="6">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bifurcating Mycomass</name>
+			<text>When this creature enters, destroy target nonland permanent with mana value 2 or less.
+Creature cards in your hand have evoke. The evoke cost is equal to the mana cost reduced by {2}.
+Evoke {B}{G} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/7_Bifurcating Mycomass.png" num="7">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tooth of the Rising Star</name>
+			<text>Equipped creature gets +2/+2.
+Whenever equipped creature deals combat damage to a player, draw a card.
+Equip {3}
+Equip modified creature {1} (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/14_Tooth of the Rising Star.png" num="14">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Keeper of the Forgotten</name>
+			<text>Flash
+When this creature enters, you may exile target instant or sorcery card with mana value less than or equal to its power from your graveyard, then copy it. You may cast the copy without paying its mana cost.
+Imaginary (When this dies, create a 1/1 Human token copy of it, except it has no mana cost and doesn&apos;t have imaginary.)</text>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/9_Keeper of the Forgotten.png" num="9">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Golden Avenger</name>
+			<text>Vigilance
+Whenever an opponent commits a crime, this creature deals 2 damage to them. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+			<set rarity="rare" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/8_Golden Avenger.png" num="8">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Demon Noble BTO</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/3t_Demon Noble.png" num="3">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Demon Noble</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Skeleton BTO</name>
+			<text></text>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/5t_Skeleton.png" num="5">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>City&apos;s Blessing BTO</name>
+			<text>&quot;Not even death can wrest from your claws the freedom you win in life.&quot;
+—Price Deus, Sunson</text>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/1t_City&apos;s Blessing.png" num="1">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Keeper of the Forgotten BTO</name>
+			<text>Flash
+When this creature enters, you may exile target instant or sorcery card with mana value less than or equal to its power from your graveyard, then copy it. You may cast the copy without paying its mana cost.</text>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/6t_Keeper of the Forgotten.png" num="6">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Conflict BTO</name>
+			<text>(As this token enters, choose an opponent to protect it. You can attack it. When it&apos;s defeated, return the exiled card to its owner&apos;s hand.)</text>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/2t_Conflict.png" num="2">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Battle — Conflict</type>
+				<maintype>Battle</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Nightmare BTO</name>
+			<text></text>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/4t_Nightmare.png" num="4">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Musclegrounds Tunneler BTO</name>
+			<text>Haste
+Whenever this creature becomes tapped, put a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://StasisBotWasTaken.github.io/sets/BTO-files/img/7t_Musclegrounds Tunneler.png" num="7">BTO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Wurm Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>4RG</manacost>
+				<cmc>6</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
